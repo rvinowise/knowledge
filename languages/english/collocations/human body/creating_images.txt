@@ -1,0 +1,22 @@
+#using paints: vb
+paint
+
+#using lines: vb
+draw
+write
+
+#carelessly:
+
+scribble vb =give
+scribbly jj
+
+scrawl vb 
+~ graffiti
+~nnS
+uneven ~ of...
+dechipher ~
+
+#quickly:
+
+jot ($t down) vb
+~ [$t short] [for remembering] a name

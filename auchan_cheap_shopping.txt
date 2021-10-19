@@ -1,0 +1,41 @@
+default = @AC @OPEN
+@GH = greenhouse_only
+@AC = auchan cheap
+@OPEN = no greenhouse
+
+#sweet_pepper
+Калифорнийское чудо
+Богатырь
+
+
+#aubergines/egg-plants
+Черный красавец
+
+#cucumbers
+Нежинский
+Конкурент
+Парижский корнишон
+
+#basil
+Тонус зеленый
+
+#carrots
+Лосиноостровская 13
+Нантская 4
+
+#cabbage
+Слава
+Июньская
+
+#lettuce
+Кучерявец одесский
+
+##not_so_cheap_but_cheaper
+
+#brussel sprout
+Геркулес
+
+#cauliflower
+Экспресс МС
+
+
