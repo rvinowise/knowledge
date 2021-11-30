@@ -362,7 +362,7 @@
 <icon BUILTIN="question@b"/>
 <font ITALIC="true"/>
 <node TEXT="or bad intervals" ID="ID_1360260859" CREATED="1633221609731" MODIFIED="1633221620657">
-<icon BUILTIN="three_dots@b"/>
+<icon BUILTIN="punctuation/three_dots@b"/>
 </node>
 </node>
 </node>
@@ -562,7 +562,7 @@
 </html>
 </richcontent>
 <node ID="ID_134684709" CREATED="1633056010673" MODIFIED="1633103248348">
-<icon BUILTIN="three_dots@b"/>
+<icon BUILTIN="punctuation/three_dots@b"/>
 <richcontent TYPE="NODE">
 
 <html>
