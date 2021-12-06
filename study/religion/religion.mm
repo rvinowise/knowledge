@@ -168,6 +168,7 @@
 <font NAME="Tahoma"/>
 </node>
 </node>
+<node TEXT="islamic family" ID="ID_226197633" CREATED="1638746705801" MODIFIED="1638746711663" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/islamic%20family.mm"/>
 <node TEXT="quran" ID="ID_985903310" CREATED="1633564793856" MODIFIED="1635791415609" COLOR="#000000">
 <font NAME="Tahoma"/>
 <node TEXT="different qurans" ID="ID_646333169" CREATED="1633468841195" MODIFIED="1635831224849" LINK="islam/different%20qurans.mm" COLOR="#000000">
@@ -179,6 +180,7 @@
 <node TEXT="history of quranic text" ID="ID_1389013164" CREATED="1633564658225" MODIFIED="1635882569164" LINK="islam/history%20of%20quranic%20text.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
+<node TEXT="quranic challenge" ID="ID_653709748" CREATED="1638382777349" MODIFIED="1638382787632" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/quranic%20challenge.mm"/>
 </node>
 <node TEXT="satan" ID="ID_1911431146" CREATED="1633686322952" MODIFIED="1635882571903" LINK="islam/satan.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
@@ -205,16 +207,19 @@
 <icon BUILTIN="book_open@b"/>
 </node>
 <node TEXT="humiliating jizyah" ID="ID_1164451940" CREATED="1637890291821" MODIFIED="1637890333638" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/humiliating%20jizyah.mm"/>
+<node TEXT="test" ID="ID_362498648" CREATED="1638679118086" MODIFIED="1638679119643" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/test.mm"/>
 </node>
 <node TEXT="christianity" ID="ID_840596349" CREATED="1634263757943" MODIFIED="1636643399547" LINK="file:/D:/archive/cloud_storages/google/study/religion/christianity/christianity.mm" COLOR="#000000">
 <icon BUILTIN="present@b"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
-<node TEXT="judaism" ID="ID_677523575" CREATED="1635360269109" MODIFIED="1635791415614" LINK="religion/judaism/" COLOR="#000000">
+<node TEXT="judaism" ID="ID_677523575" CREATED="1635360269109" MODIFIED="1638679179021" LINK="./judaism" COLOR="#000000">
 <font NAME="Tahoma"/>
 <node TEXT="noah ark" ID="ID_118871549" CREATED="1635360281252" MODIFIED="1635882583915" LINK="judaism/noah%20ark.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
+<node TEXT="sexualty" ID="ID_1187401060" CREATED="1638678761938" MODIFIED="1638679194960" LINK="file:/D:/archive/cloud_storages/google/study/religion/./judaism/sexualty.mm"/>
+<node TEXT="anthropomorphic god" ID="ID_1200892192" CREATED="1638689063311" MODIFIED="1638689075331" LINK="file:/D:/archive/cloud_storages/google/study/religion/./judaism/anthropomorphic%20god.mm"/>
 </node>
 </node>
 <node TEXT="dharmic religions" ID="ID_326905649" CREATED="1634263846881" MODIFIED="1635791415615" COLOR="#000000">
@@ -225,7 +230,7 @@
 <node TEXT="jainism" ID="ID_773476172" CREATED="1635284306071" MODIFIED="1635882595401" LINK="jainism/jainism.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="hinduism" ID="ID_375826909" CREATED="1634896332243" MODIFIED="1635791415616" LINK="religion/hinduism/" COLOR="#000000">
+<node TEXT="hinduism" ID="ID_375826909" CREATED="1634896332243" MODIFIED="1638679187361" LINK="hinduism" COLOR="#000000">
 <font NAME="Tahoma"/>
 <node TEXT="hierarchy of gods" ID="ID_1756108495" CREATED="1634896335277" MODIFIED="1635882602107" LINK="hinduism/hierarchy%20of%20gods.mm" COLOR="#000000">
 <font NAME="Tahoma"/>

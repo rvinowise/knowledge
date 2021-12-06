@@ -8,7 +8,9 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="islamic violence" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633568948349"><hook NAME="MapStyle" zoom="1.242">
+<node TEXT="quranic challenge" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1638382788261" COLOR="#ffffff">
+<font NAME="Tahoma" BOLD="false"/>
+<hook NAME="MapStyle" zoom="1.242">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -17,15 +19,16 @@
 <edge COLOR="#000000"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
-<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" COLOR="#000000" STYLE="fork" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000">
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" MAX_WIDTH="10 cm" MIN_WIDTH="0 cm" VGAP_QUANTITY="2 pt">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="DEFAULT" ENDARROW="NONE"/>
-<font NAME="Verdana" SIZE="10" BOLD="false" ITALIC="false"/>
+<font NAME="Tahoma" SIZE="10" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
-<edge COLOR="#000000"/>
+<edge STYLE="bezier" COLOR="#000000" WIDTH="1" DASH="SOLID"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details">
 <edge COLOR="#000000"/>
+<font NAME="Tahoma"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.attributes" STYLE="fork">
 <font NAME="Consolas" SIZE="10" BOLD="false" STRIKETHROUGH="false"/>
@@ -122,14 +125,90 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="type: study" POSITION="left" ID="ID_1109213357" CREATED="1633568948353" MODIFIED="1633568948354"/>
-<node TEXT="kill young muslims with weak faith" POSITION="right" ID="ID_896115280" CREATED="1633568950556" MODIFIED="1633568990953" LINK="https://sunnah.com/bukhari:5057"/>
-<node TEXT="kill people reviling muhammad" POSITION="right" ID="ID_105283715" CREATED="1638746525606" MODIFIED="1638746539917">
-<node TEXT="a pregnant woman was killed" ID="ID_510698484" CREATED="1638746543979" MODIFIED="1638746648639" LINK="https://sunnah.com/abudawud:4361">
-<node TEXT="by her husband" ID="ID_1864064431" CREATED="1638746551288" MODIFIED="1638746557999">
-<node TEXT="islamic family `cross_ref" LOCALIZED_STYLE_REF="default" ID="ID_207633303" CREATED="1638746663279" MODIFIED="1638748876069" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+<node TEXT="type: " POSITION="left" ID="ID_206041536" CREATED="1638382788324" MODIFIED="1638382788329"/>
+<node TEXT="" POSITION="left" ID="ID_205331815" CREATED="1635513370800" MODIFIED="1635791415593" COLOR="#000000">
+<icon BUILTIN="emoji-26F2"/>
+<font NAME="Tahoma"/>
+<node TEXT="https://en.wikipedia.org/wiki/Challenge_of_the_Quran" ID="ID_973903725" CREATED="1638382839194" MODIFIED="1638382847775" LINK="https://en.wikipedia.org/wiki/Challenge_of_the_Quran"/>
 </node>
-<node TEXT="murderer wasn&apos;t punished" ID="ID_910709153" CREATED="1638746560287" MODIFIED="1638746575810"/>
+<node TEXT="contradictory requirements" POSITION="right" ID="ID_1404577569" CREATED="1638382788333" MODIFIED="1638382806878">
+<node ID="ID_1909806331" CREATED="1638382947600" MODIFIED="1638383977017"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      produce <b>one&nbsp;surah</b>&nbsp;like it
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="يَأْتُوا" ID="ID_1927358596" CREATED="1638383751902" MODIFIED="1638383786206">
+<icon BUILTIN="chain@b"/>
+</node>
+<node TEXT="quran 2:23" ID="ID_515588104" CREATED="1638382964765" MODIFIED="1638382979625" LINK="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D2%3Averse%3D23"/>
+<node TEXT="quran 10:38" ID="ID_90787731" CREATED="1638382993195" MODIFIED="1638383000123" LINK="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0004%3Asura%3D10%3Averse%3D38"/>
+</node>
+<node ID="ID_1574267244" CREATED="1638383103694" MODIFIED="1638383984728"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      produce <b>ten surahs</b>&nbsp;like it
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="quran 11:13" ID="ID_237754411" CREATED="1638383419790" MODIFIED="1638383891557" LINK="https://quran.com/11:13">
+<node TEXT="neutral source" ID="ID_1159830907" CREATED="1638383122044" MODIFIED="1638383898328" LINK="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0004%3Asura%3D11%3Averse%3D13"/>
+</node>
+</node>
+<node ID="ID_785687248" CREATED="1638383216014" MODIFIED="1638383957469"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      a <b>book </b>like it is impossible
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="quran 17:88" ID="ID_1436030608" CREATED="1638383231697" MODIFIED="1638383252181" LINK="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0004%3Asura%3D17%3Averse%3D88"/>
+</node>
+</node>
+<node TEXT="accepted by" POSITION="right" ID="ID_1090660629" CREATED="1638415977290" MODIFIED="1638415996182">
+<node TEXT="the true furqan" ID="ID_696607299" CREATED="1638415997804" MODIFIED="1638420630799" LINK="https://archive.org/details/the-true-furqan"/>
+<node TEXT="surah corona" ID="ID_386424523" CREATED="1638416002442" MODIFIED="1638416006084"/>
+<node TEXT="several surahs on akh rashid&apos;s channel" ID="ID_1186766326" CREATED="1638416009576" MODIFIED="1638416024373"/>
+<node TEXT="there are many written surahs" ID="ID_1091142895" CREATED="1638416051359" MODIFIED="1638416227795">
+<node ID="ID_327703288" CREATED="1638416229267" MODIFIED="1638416231461">
+<icon BUILTIN="bad@bleak"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      but they are not sung
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 </node>

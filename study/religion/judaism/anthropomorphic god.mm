@@ -8,7 +8,9 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="islamic violence" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633568948349"><hook NAME="MapStyle" zoom="1.242">
+<node TEXT="anthropomorphic god" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1638689075695" COLOR="#ffffff">
+<font NAME="Tahoma" BOLD="false"/>
+<hook NAME="MapStyle" zoom="1.242">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -17,12 +19,12 @@
 <edge COLOR="#000000"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
-<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" COLOR="#000000" STYLE="fork" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000">
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" MAX_WIDTH="10 cm" MIN_WIDTH="0 cm" VGAP_QUANTITY="2 pt">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="DEFAULT" ENDARROW="NONE"/>
-<font NAME="Verdana" SIZE="10" BOLD="false" ITALIC="false"/>
+<font NAME="Lucida Sans Unicode" SIZE="10" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
-<edge COLOR="#000000"/>
+<edge STYLE="bezier" COLOR="#000000" WIDTH="1" DASH="SOLID"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details">
 <edge COLOR="#000000"/>
@@ -122,14 +124,27 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="type: study" POSITION="left" ID="ID_1109213357" CREATED="1633568948353" MODIFIED="1633568948354"/>
-<node TEXT="kill young muslims with weak faith" POSITION="right" ID="ID_896115280" CREATED="1633568950556" MODIFIED="1633568990953" LINK="https://sunnah.com/bukhari:5057"/>
-<node TEXT="kill people reviling muhammad" POSITION="right" ID="ID_105283715" CREATED="1638746525606" MODIFIED="1638746539917">
-<node TEXT="a pregnant woman was killed" ID="ID_510698484" CREATED="1638746543979" MODIFIED="1638746648639" LINK="https://sunnah.com/abudawud:4361">
-<node TEXT="by her husband" ID="ID_1864064431" CREATED="1638746551288" MODIFIED="1638746557999">
-<node TEXT="islamic family `cross_ref" LOCALIZED_STYLE_REF="default" ID="ID_207633303" CREATED="1638746663279" MODIFIED="1638748876069" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+<node TEXT="type: " POSITION="left" ID="ID_357878416" CREATED="1638689075713" MODIFIED="1638689075714"/>
+<node TEXT="" POSITION="left" ID="ID_205331815" CREATED="1635513370800" MODIFIED="1635791415593" COLOR="#000000">
+<icon BUILTIN="emoji-26F2"/>
+<font NAME="Tahoma"/>
 </node>
-<node TEXT="murderer wasn&apos;t punished" ID="ID_910709153" CREATED="1638746560287" MODIFIED="1638746575810"/>
+<node TEXT="present in one place" POSITION="right" ID="ID_82124599" CREATED="1638689075715" MODIFIED="1638689091868">
+<node TEXT="There is a place near me where you may stand on a rock." ID="ID_1650658347" CREATED="1638689093397" MODIFIED="1638689124749">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node TEXT="Exodus 33:21" ID="ID_874024113" CREATED="1638689136935" MODIFIED="1638689243929" LINK="https://www.biblegateway.com/passage/?search=Exodus%2033&amp;version=NIV">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+</node>
+<node TEXT="has body parts" POSITION="right" ID="ID_1299373617" CREATED="1638689209359" MODIFIED="1638689214806">
+<node TEXT="Then I will remove my hand and you will see my back; but my face must not be seen." ID="ID_785868165" CREATED="1638689215586" MODIFIED="1638689251144">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node TEXT="Exodus 33:23" ID="ID_425745522" CREATED="1638689232608" MODIFIED="1638689242476" LINK="https://www.biblegateway.com/passage/?search=Exodus%2033&amp;version=NIV">
+<icon BUILTIN="emoji-26F2"/>
+</node>
 </node>
 </node>
 </node>

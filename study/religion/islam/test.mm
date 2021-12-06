@@ -8,7 +8,9 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="islamic violence" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633568948349"><hook NAME="MapStyle" zoom="1.242">
+<node TEXT="test" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1638679120072" COLOR="#ffffff">
+<font NAME="Tahoma" BOLD="false"/>
+<hook NAME="MapStyle" zoom="1.242">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -17,12 +19,12 @@
 <edge COLOR="#000000"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
-<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" COLOR="#000000" STYLE="fork" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000">
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" MAX_WIDTH="10 cm" MIN_WIDTH="0 cm" VGAP_QUANTITY="2 pt">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="DEFAULT" ENDARROW="NONE"/>
-<font NAME="Verdana" SIZE="10" BOLD="false" ITALIC="false"/>
+<font NAME="Lucida Sans Unicode" SIZE="10" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
-<edge COLOR="#000000"/>
+<edge STYLE="bezier" COLOR="#000000" WIDTH="1" DASH="SOLID"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details">
 <edge COLOR="#000000"/>
@@ -122,15 +124,11 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="type: study" POSITION="left" ID="ID_1109213357" CREATED="1633568948353" MODIFIED="1633568948354"/>
-<node TEXT="kill young muslims with weak faith" POSITION="right" ID="ID_896115280" CREATED="1633568950556" MODIFIED="1633568990953" LINK="https://sunnah.com/bukhari:5057"/>
-<node TEXT="kill people reviling muhammad" POSITION="right" ID="ID_105283715" CREATED="1638746525606" MODIFIED="1638746539917">
-<node TEXT="a pregnant woman was killed" ID="ID_510698484" CREATED="1638746543979" MODIFIED="1638746648639" LINK="https://sunnah.com/abudawud:4361">
-<node TEXT="by her husband" ID="ID_1864064431" CREATED="1638746551288" MODIFIED="1638746557999">
-<node TEXT="islamic family `cross_ref" LOCALIZED_STYLE_REF="default" ID="ID_207633303" CREATED="1638746663279" MODIFIED="1638748876069" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+<node TEXT="type: " POSITION="left" ID="ID_1042482914" CREATED="1638679120138" MODIFIED="1638679120143"/>
+<node TEXT="" POSITION="left" ID="ID_205331815" CREATED="1635513370800" MODIFIED="1635791415593" COLOR="#000000">
+<icon BUILTIN="emoji-26F2"/>
+<font NAME="Tahoma"/>
 </node>
-<node TEXT="murderer wasn&apos;t punished" ID="ID_910709153" CREATED="1638746560287" MODIFIED="1638746575810"/>
-</node>
-</node>
+<node TEXT="" POSITION="right" ID="ID_401789960" CREATED="1638679120146" MODIFIED="1638679120146"/>
 </node>
 </map>

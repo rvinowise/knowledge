@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -140,7 +140,7 @@
 <node TEXT="addressed idea" POSITION="right" ID="ID_448977283" CREATED="1635695605161" MODIFIED="1635695616686" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="religions wait for somebody to come" STYLE_REF="list item" ID="ID_1263156343" CREATED="1635624527445" MODIFIED="1635624642063">
-<node TEXT="protection from impostors" ID="ID_1012982686" CREATED="1635629267184" MODIFIED="1635695641308"/>
+<node TEXT="with protection from impostors" ID="ID_1012982686" CREATED="1635629267184" MODIFIED="1638763683736"/>
 </node>
 <node TEXT="when somebody claims to be the promised one" STYLE_REF="list item" ID="ID_945657752" CREATED="1635619791862" MODIFIED="1635629555191">
 <node TEXT="hijacking the protection from impostors" ID="ID_71984614" CREATED="1635629371749" MODIFIED="1635629382640"/>
@@ -331,7 +331,7 @@
 <node TEXT="bAb" ID="ID_599251377" CREATED="1635634312641" MODIFIED="1635634323898">
 <icon BUILTIN="puzzle_pieces@b"/>
 </node>
-<node TEXT="a messenger" ID="ID_1537406330" CREATED="1635704344641" MODIFIED="1635830794543" LINK="#ID_1771347627">
+<node TEXT="a messenger (not a prophet)" ID="ID_1537406330" CREATED="1635704344641" MODIFIED="1638764233971" LINK="#ID_1771347627">
 <icon BUILTIN="key@b"/>
 </node>
 </node>
@@ -341,7 +341,7 @@
 <node TEXT="most important in shi&apos;ism" ID="ID_632642746" CREATED="1635708692510" MODIFIED="1635708766565"/>
 </node>
 </node>
-<node TEXT="quran is too beautiful for humans" ID="ID_1442139101" CREATED="1635705443382" MODIFIED="1635705486098">
+<node TEXT="quran is too beautiful &amp; pure arabic for humans to make" ID="ID_1442139101" CREATED="1635705443382" MODIFIED="1638764099876">
 <icon BUILTIN="key@b"/>
 </node>
 <node TEXT="last prophet" LOCALIZED_STYLE_REF="default" ID="ID_846706892" CREATED="1635701777501" MODIFIED="1635704046400" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -427,8 +427,8 @@
 <icon BUILTIN="output@b"/>
 <node TEXT="maitreya" ID="ID_1380648643" CREATED="1635626650642" MODIFIED="1635710406435">
 <icon BUILTIN="man_bust@b"/>
-<node TEXT="next buddha" ID="ID_1408384951" CREATED="1635626656383" MODIFIED="1635626661658">
-<icon BUILTIN="chain@b"/>
+<node TEXT="next buddha" LOCALIZED_STYLE_REF="default" ID="ID_1408384951" CREATED="1635626656383" MODIFIED="1638763761979" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="box_inscribed@b"/>
 </node>
 <node TEXT="many rulers of china and japan" ID="ID_1075667304" CREATED="1635627517887" MODIFIED="1635731650672" LINK="https://en.wikipedia.org/wiki/Maitreya#Maitreya_claimants">
 <icon BUILTIN="raised_hand@w"/>

@@ -193,12 +193,18 @@
 <node TEXT="psychology" ID="ID_1670482440" CREATED="1636701716052" MODIFIED="1636701733554" LINK="study/psychology/">
 <node TEXT="false beliefs" ID="ID_656203581" CREATED="1636701737235" MODIFIED="1636701750184" LINK="file:/D:/archive/cloud_storages/google/study/psychology/false%20beliefs.mm"/>
 </node>
+<node TEXT="health" ID="ID_1563290764" CREATED="1638643041408" MODIFIED="1638643058757" LINK="study/health/">
+<node TEXT="glycation end products" ID="ID_226375567" CREATED="1638643060165" MODIFIED="1638643090310" LINK="file:/D:/archive/cloud_storages/google/study/health/glycation%20end%20products.mm"/>
+</node>
 </node>
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">
 <icon BUILTIN="info_circle@b"/>
 <font NAME="Tahoma" BOLD="true"/>
 <node TEXT="ai.mm" ID="ID_1296205905" CREATED="1633368609449" MODIFIED="1635773283860" LINK="prj/ai.mm">
 <font NAME="Tahoma"/>
+</node>
+<node TEXT="programming" ID="ID_64242684" CREATED="1638461481894" MODIFIED="1638461492219" LINK="programming/">
+<node TEXT="abyss_defence" ID="ID_1914315453" CREATED="1638461487299" MODIFIED="1638461509161" LINK="file:/D:/archive/cloud_storages/google/programming/abyss_defence.mm"/>
 </node>
 <node TEXT="poetry.mm" ID="ID_1888622546" CREATED="1633368807278" MODIFIED="1635773283871" LINK="poetry.mm">
 <font NAME="Tahoma"/>

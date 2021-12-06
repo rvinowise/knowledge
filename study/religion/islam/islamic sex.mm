@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -251,18 +251,6 @@
 <node TEXT="the dowry was the knowledge of quran" ID="ID_1481476694" CREATED="1633688815478" MODIFIED="1633689118197" LINK="https://sunnah.com/bukhari:5029">
 <node TEXT="" ID="ID_368857800" CREATED="1633689126171" MODIFIED="1633689141158" LINK="https://sunnah.com/bukhari:5030"/>
 </node>
-</node>
-</node>
-<node TEXT="family is inferior to islam" ID="ID_542390437" CREATED="1635035155204" MODIFIED="1635035180728" BACKGROUND_COLOR="#ffcccc">
-<node TEXT="marriage must be nullified" ID="ID_833565818" CREATED="1635034992931" MODIFIED="1635035312234">
-<icon BUILTIN="question@b"/>
-<node TEXT="if a spouse disbelieves in islam" ID="ID_116507256" CREATED="1635034954465" MODIFIED="1635035017239"/>
-</node>
-<node TEXT="children are often banished" ID="ID_977559560" CREATED="1635035183359" MODIFIED="1635035304416">
-<node TEXT="if they apostatise" ID="ID_823244062" CREATED="1635035212211" MODIFIED="1635035231557"/>
-</node>
-<node TEXT="daughters hate their mothers" ID="ID_1721475798" CREATED="1635035416648" MODIFIED="1635035439716">
-<icon BUILTIN="question@b"/>
 </node>
 </node>
 </node>

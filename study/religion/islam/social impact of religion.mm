@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -222,8 +222,16 @@
 </node>
 </node>
 </node>
-<node TEXT="critics of islam receive the most death threats" LOCALIZED_STYLE_REF="default" ID="ID_488677628" CREATED="1631776598437" MODIFIED="1633370579607" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="critics of islam receive many death threats" LOCALIZED_STYLE_REF="default" ID="ID_488677628" CREATED="1631776598437" MODIFIED="1638759587636" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="bad@bleak"/>
+</node>
+</node>
+<node TEXT="hinduism" ID="ID_1278494406" CREATED="1638759590173" MODIFIED="1638759594836" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="hindutva" ID="ID_1546642329" CREATED="1638759595179" MODIFIED="1638759598549">
+<node TEXT="the biggest amount of death threats" ID="ID_755900874" CREATED="1638759598915" MODIFIED="1638759610706">
+<icon BUILTIN="bad@bleak"/>
+</node>
 </node>
 </node>
 <node TEXT="secularism" STYLE_REF="topic" ID="ID_589155641" CREATED="1631791222445" MODIFIED="1631978234161">
