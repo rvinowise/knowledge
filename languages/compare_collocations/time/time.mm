@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="time" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637491531175"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="time" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637491531175"><hook NAME="MapStyle" zoom="0.992">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -168,7 +168,7 @@
 <node TEXT="greek" ID="ID_1698930108" CREATED="1637117158741" MODIFIED="1637128583329"/>
 </node>
 <node TEXT="5" ID="ID_632092175" CREATED="1637126465234" MODIFIED="1637131458352">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="latin" ID="ID_1156533169" CREATED="1637117168846" MODIFIED="1637128583330"/>
 </node>
 <node TEXT="6" ID="ID_93050694" CREATED="1637126468425" MODIFIED="1637131459075">
@@ -199,30 +199,6 @@
     </p>
   </body>
 </html></richcontent>
-</node>
-</node>
-</node>
-<node TEXT="legend" POSITION="left" ID="ID_1999075329" CREATED="1637387218036" MODIFIED="1637387224907" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="" LOCALIZED_STYLE_REF="default" ID="ID_1683308299" CREATED="1637387228638" MODIFIED="1637387233174" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<node TEXT="سالم" ID="ID_243670673" CREATED="1637387243415" MODIFIED="1637387249696">
-<node TEXT="regular (sound)" ID="ID_584312652" CREATED="1637387255583" MODIFIED="1637387326545">
-<node TEXT="NN/JJ (ism)" ID="ID_1544313871" CREATED="1637387274265" MODIFIED="1637387319509">
-<node TEXT=" -ون -ات" ID="ID_697180651" CREATED="1637387236361" MODIFIED="1637387241183"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
-<node TEXT="feminine" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1637388934991">
-<icon BUILTIN="gender/feminine@b"/>
-</node>
-<node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1637390900561" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="gender/masculine@b"/>
-</node>
-<node TEXT="common" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1637390920750">
-<icon BUILTIN="gender/both_genders@b"/>
 </node>
 </node>
 </node>
@@ -273,14 +249,14 @@
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 </node>
 <node TEXT="hodie" ID="ID_1592094265" CREATED="1637493517118" MODIFIED="1637493522253" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="اليَوم" ID="ID_953178300" CREATED="1637493525097" MODIFIED="1637493546339" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 </node>
 </node>
 <node TEXT="long part of the day" LOCALIZED_STYLE_REF="default" ID="ID_703200889" CREATED="1637499644373" MODIFIED="1637678056818" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <node TEXT="in the" ID="ID_1247740927" CREATED="1637496723472" MODIFIED="1637496926501" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="morning" ID="ID_906474275" CREATED="1637496793639" MODIFIED="1637496796603" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -325,32 +301,32 @@
 </node>
 </node>
 <node TEXT="abl." ID="ID_1051663276" CREATED="1637669104995" MODIFIED="1637736531800" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="grammar/case"/>
 <node TEXT="pars diei" ID="ID_1313037966" CREATED="1637736982722" MODIFIED="1637737007971" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="punctuation/colon@b"/>
 </node>
 <node TEXT="mane indec. f" ID="ID_1181500248" CREATED="1637668670660" MODIFIED="1637668688833" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="vespĕre m" ID="ID_600747362" CREATED="1637672788305" MODIFIED="1637672804127" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="vesperâ f" ID="ID_241125054" CREATED="1637677252086" MODIFIED="1637677296042" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="punctuation/equal@b"/>
 </node>
 <node TEXT="vesperî adv." ID="ID_276465619" CREATED="1637677326846" MODIFIED="1637677340354" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="punctuation/equal@b"/>
 </node>
 </node>
 <node TEXT="nocte f" ID="ID_796952208" CREATED="1637677351256" MODIFIED="1637677361478" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
 <node TEXT="timekeeping" ID="ID_1522810584" CREATED="1637673134405" MODIFIED="1637673145244" COLOR="#7f7f7f">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <font BOLD="true"/>
 <node TEXT="" ID="ID_727448793" CREATED="1637673150867" MODIFIED="1637673154379" LINK="https://latin.stackexchange.com/questions/8912/telling-time-in-latin">
 <icon BUILTIN="emoji-26F2"/>
@@ -384,7 +360,7 @@
 </node>
 <node TEXT="RB adverb" ID="ID_707805352" CREATED="1637651729880" MODIFIED="1637651811886" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <node TEXT="لَيلًا" ID="ID_74793508" CREATED="1637651773382" MODIFIED="1637651802789" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 </node>
@@ -392,7 +368,7 @@
 </node>
 <node TEXT="a precise moment" ID="ID_54195711" CREATED="1637677500084" MODIFIED="1637677510663">
 <node TEXT="named moment" LOCALIZED_STYLE_REF="default" ID="ID_477227706" CREATED="1637677513625" MODIFIED="1637678070630" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <node TEXT="at" ID="ID_1406534556" CREATED="1637677529881" MODIFIED="1637677536178" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="the sunrise" ID="ID_117083098" CREATED="1637677618076" MODIFIED="1637677625046" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -415,29 +391,29 @@
 </node>
 </node>
 <node TEXT="abl." ID="ID_602744588" CREATED="1637677584153" MODIFIED="1637736783624" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="grammar/case"/>
 <node TEXT="ortû solis" ID="ID_997819105" CREATED="1637677643244" MODIFIED="1637677669443" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="grammar/gender/masculine@b"/>
 <node TEXT="sole" ID="ID_1106718592" CREATED="1637677674802" MODIFIED="1637677698561" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="punctuation/equal@b"/>
 <node TEXT="exortô" ID="ID_660156158" CREATED="1637677699731" MODIFIED="1637677718263" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="ortô" ID="ID_414222888" CREATED="1637677705193" MODIFIED="1637677721335" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
 </node>
 <node TEXT="meridio n" ID="ID_1823656598" CREATED="1637677589032" MODIFIED="1637677605958" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
 </node>
 <node TEXT="clock time" ID="ID_1687929738" CREATED="1637499680146" MODIFIED="1637650187436">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <node TEXT="a precise moment" LOCALIZED_STYLE_REF="default" ID="ID_112979150" CREATED="1637500914723" MODIFIED="1637652285712" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="info_circle@b"/>
 </node>
@@ -445,7 +421,7 @@
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="seven" ID="ID_520859935" CREATED="1637496941728" MODIFIED="1637655565601" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <icon BUILTIN="quote@b"/>
 <font ITALIC="true"/>
 <node TEXT="p.m" ID="ID_886970002" CREATED="1637496994492" MODIFIED="1637497010496" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -463,7 +439,7 @@
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="numero cardinal" LOCALIZED_STYLE_REF="default" ID="ID_1827217154" CREATED="1637651228841" MODIFIED="1637651241003" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 <node TEXT="siete" ID="ID_1892826492" CREATED="1637501106426" MODIFIED="1637651049867" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
@@ -471,7 +447,7 @@
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="parte del día" ID="ID_1594831401" CREATED="1637501793119" MODIFIED="1637678124511" LINK="#ID_1717871957" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 <node TEXT="mañana" ID="ID_1047131687" CREATED="1637496797530" MODIFIED="1637496801017" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
@@ -482,7 +458,7 @@
 </node>
 </node>
 <node TEXT="day of the week" ID="ID_1481425332" CREATED="1637499692540" MODIFIED="1637650188767">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <node TEXT="on" LOCALIZED_STYLE_REF="default" ID="ID_1292439790" CREATED="1637497079706" MODIFIED="1637497090315" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="monday" ID="ID_1410217528" CREATED="1637497091362" MODIFIED="1637497096249" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -514,7 +490,7 @@
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 </node>
 <node TEXT="dies m,f" ID="ID_1005777896" CREATED="1637660658519" MODIFIED="1637660768583" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="يَوم" ID="ID_1923053659" CREATED="1637660643264" MODIFIED="1637660657855" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
@@ -538,16 +514,16 @@
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 </node>
 <node TEXT="hebdomăda" LOCALIZED_STYLE_REF="default" ID="ID_1518987626" CREATED="1637661184340" MODIFIED="1637661298125" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="أُسبُوع" ID="ID_1528815216" CREATED="1637660993762" MODIFIED="1637661090573" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 </node>
 </node>
-<node TEXT="month" FOLDED="true" ID="ID_439880986" CREATED="1637659837857" MODIFIED="1637659844371" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="month" ID="ID_439880986" CREATED="1637659837857" MODIFIED="1637659844371" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="mens -sis f" LOCALIZED_STYLE_REF="default" ID="ID_968092590" CREATED="1637662940533" MODIFIED="1637662952140" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="شَهْر" ID="ID_1808067742" CREATED="1637662954271" MODIFIED="1637736134599" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
@@ -562,7 +538,7 @@
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
 <node TEXT="annus -i m" ID="ID_196997467" CREATED="1637664283874" MODIFIED="1637664419233" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="سَنة" ID="ID_136586472" CREATED="1637664422063" MODIFIED="1637665007957" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
@@ -604,18 +580,21 @@
 <node TEXT="por la tarde" ID="ID_38259297" CREATED="1637491410487" MODIFIED="1637491414600" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 </node>
+<node TEXT="por la noche" ID="ID_272867866" CREATED="1639452144198" MODIFIED="1639452161559" LINK="https://www.interglot.com/dictionary/en/es/search?q=ma%C3%B1ana+por+la+noche&amp;m=" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+</node>
 </node>
 <node TEXT="cras" ID="ID_1240663373" CREATED="1637491052329" MODIFIED="1637491054488" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="abl" ID="ID_1348595025" CREATED="1637736905941" MODIFIED="1637736918800" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="grammar/case"/>
 <node TEXT="pars diei" ID="ID_282662670" CREATED="1637736982722" MODIFIED="1637737061748" LINK="#ID_1313037966" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="heraldics/roman_empire"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 <node TEXT="mane" ID="ID_1284368461" CREATED="1637737073015" MODIFIED="1637737080287" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
 </node>
@@ -659,7 +638,7 @@
 </node>
 <node TEXT="في" ID="ID_723600275" CREATED="1637758893842" MODIFIED="1637759655012" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="punctuation/parentheses@b"/>
+<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
 <node TEXT="القادِم" ID="ID_1392741992" CREATED="1637657483824" MODIFIED="1637657586467" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="الأُصبُع" ID="ID_1311440650" CREATED="1637657587924" MODIFIED="1637758689768" COLOR="#000000">
@@ -680,12 +659,12 @@
 <node TEXT="in" ID="ID_646687182" CREATED="1637654074155" MODIFIED="1637654076114" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="cardinal number" LOCALIZED_STYLE_REF="default" ID="ID_1461979483" CREATED="1637654086979" MODIFIED="1637654106203" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 <node TEXT="two" ID="ID_1562582698" CREATED="1637654077717" MODIFIED="1637654084956" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="plural period" ID="ID_1988663350" CREATED="1637654126680" MODIFIED="1637654137132">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 <node TEXT="days" ID="ID_1598506200" CREATED="1637654108281" MODIFIED="1637654113414" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
@@ -704,7 +683,7 @@
 <node TEXT="next" ID="ID_1322899922" CREATED="1637653558509" MODIFIED="1637653564394" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="period &gt;= week" ID="ID_580328875" CREATED="1637653619003" MODIFIED="1637653671237" LINK="#ID_1726692963">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <node TEXT="ambiguous" LOCALIZED_STYLE_REF="default" ID="ID_1749421624" CREATED="1637653568726" MODIFIED="1637654036301" LINK="https://forum.wordreference.com/threads/when-is-by-next-week.3643344/" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="question@b"/>
 <node ID="ID_273648178" CREATED="1637653949376" MODIFIED="1637654047275" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -762,7 +741,7 @@
 <node TEXT="next" ID="ID_1977034967" CREATED="1637653612483" MODIFIED="1637653618558" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="period &gt;= week" ID="ID_1643860557" CREATED="1637653619003" MODIFIED="1637653671237" LINK="#ID_1726692963">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 </node>
 </node>
@@ -771,7 +750,7 @@
 <node TEXT="next" ID="ID_1054571727" CREATED="1637654384941" MODIFIED="1637654387243" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="period &gt;= week" ID="ID_1538245315" CREATED="1637653619003" MODIFIED="1637653671237" LINK="#ID_1726692963">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 </node>
 </node>
@@ -790,7 +769,7 @@
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
 <node TEXT="heri" ID="ID_1057667178" CREATED="1637490835321" MODIFIED="1637490837932" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
 <node TEXT="one period" ID="ID_366925326" CREATED="1637762073612" MODIFIED="1637762100727">
@@ -825,7 +804,7 @@
 </node>
 <node TEXT="في" ID="ID_1384250511" CREATED="1637759476435" MODIFIED="1637759582058" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="punctuation/parentheses@b"/>
+<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
 <node TEXT="الماضي" ID="ID_730762754" CREATED="1637490580935" MODIFIED="1637490592612" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="العام" ID="ID_1036222448" CREATED="1637490596318" MODIFIED="1637678328658" COLOR="#000000">
@@ -840,7 +819,7 @@
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="any period" ID="ID_434987163" CREATED="1637762181935" MODIFIED="1637762238918" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 </node>
 </node>
@@ -877,14 +856,17 @@
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
 <node TEXT="semper" ID="ID_1951998426" CREATED="1637654795661" MODIFIED="1637654799247" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
-<node TEXT="" ID="ID_1119798635" CREATED="1637668411550" MODIFIED="1637668414693">
+<node TEXT="every" ID="ID_1119798635" CREATED="1637668411550" MODIFIED="1639451467384">
 <icon BUILTIN="punctuation/colon@b"/>
+<node TEXT="period of time" ID="ID_1410280181" CREATED="1637654814549" MODIFIED="1639451234410">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
 <node TEXT="every" ID="ID_410486555" CREATED="1637654810335" MODIFIED="1637654813299" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="period of time, NN, sg." ID="ID_1410280181" CREATED="1637654814549" MODIFIED="1637667710164">
-<icon BUILTIN="punctuation/square_brackets@b"/>
+<node TEXT="NN" ID="ID_1430979384" CREATED="1639451240135" MODIFIED="1639451243167">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 <node TEXT="day" ID="ID_227199166" CREATED="1637654822855" MODIFIED="1637654824142" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
@@ -892,12 +874,18 @@
 </node>
 <node TEXT="cado -a" LOCALIZED_STYLE_REF="default" ID="ID_527507521" CREATED="1637655079228" MODIFIED="1637655108543" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="NN" ID="ID_1634603251" CREATED="1639450666868" MODIFIED="1639450675142">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
 <node TEXT="día" ID="ID_744380781" CREATED="1637655088376" MODIFIED="1637655098574" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 </node>
 </node>
 <node TEXT="tous -tes" LOCALIZED_STYLE_REF="default" ID="ID_1566949841" CREATED="1637655118752" MODIFIED="1637655146408" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="NNS" ID="ID_1498609220" CREATED="1639450678479" MODIFIED="1639450681543">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
 <node TEXT="les jours" LOCALIZED_STYLE_REF="default" ID="ID_1729786444" CREATED="1637655138059" MODIFIED="1637655205731" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 <icon BUILTIN="grammar/gender/masculine@b"/>
@@ -909,12 +897,18 @@
 </node>
 <node TEXT="κάθε" ID="ID_746251840" CREATED="1637654843139" MODIFIED="1637654854398" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<node TEXT="NN" ID="ID_243186277" CREATED="1639450702714" MODIFIED="1639450706417">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
 <node TEXT="μέρα" ID="ID_210037231" CREATED="1637654854896" MODIFIED="1637654862453" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 </node>
 </node>
 <node TEXT="كُل" LOCALIZED_STYLE_REF="default" ID="ID_622268101" CREATED="1637654877206" MODIFIED="1637654912131" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="NN" ID="ID_1936184011" CREATED="1639450725505" MODIFIED="1639450748887">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
 <node TEXT="يَوم" ID="ID_1383420747" CREATED="1637654913677" MODIFIED="1637678375664" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 </node>

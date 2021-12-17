@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637160483756"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637160483756"><hook NAME="MapStyle" zoom="1.597">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -166,6 +166,9 @@
 <node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/time/past.mm"/>
 <node TEXT="future" ID="ID_1925617490" CREATED="1637491010019" MODIFIED="1637491014317" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/time/future.mm"/>
 </node>
+<node TEXT="space" ID="ID_856787488" CREATED="1639465841713" MODIFIED="1639465854781" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/space/space.mm">
+<node TEXT="moving in space" ID="ID_1224497661" CREATED="1639470632706" MODIFIED="1639470657343" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/space/moving%20in%20space.mm"/>
+</node>
 </node>
 <node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
@@ -196,8 +199,8 @@
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 <node TEXT="greek" ID="ID_1698930108" CREATED="1637117158741" MODIFIED="1637128583329"/>
 </node>
-<node TEXT="5" ID="ID_632092175" CREATED="1637126465234" MODIFIED="1637131458352">
-<icon BUILTIN="emoji-1F7E1"/>
+<node TEXT="5" LOCALIZED_STYLE_REF="default" ID="ID_632092175" CREATED="1637126465234" MODIFIED="1639548721459" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="latin" ID="ID_1156533169" CREATED="1637117168846" MODIFIED="1637128583330"/>
 </node>
 <node TEXT="6" ID="ID_93050694" CREATED="1637126468425" MODIFIED="1637131459075">
@@ -230,6 +233,10 @@
 </html></richcontent>
 </node>
 </node>
+<node TEXT="0" ID="ID_560374693" CREATED="1639547677101" MODIFIED="1639547717957">
+<icon BUILTIN="heraldics/earth_flag"/>
+<node TEXT="earth" ID="ID_1500230438" CREATED="1639548954842" MODIFIED="1639548957384"/>
+</node>
 </node>
 <node TEXT="legend" POSITION="left" ID="ID_1999075329" CREATED="1637387218036" MODIFIED="1637387224907" COLOR="#7f7f7f">
 <font BOLD="true"/>
@@ -261,6 +268,37 @@
 <icon BUILTIN="smile@w"/>
 </node>
 </node>
+<node TEXT="control" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1639451537112">
+<node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
+<node TEXT="unnecessary" ID="ID_728579299" CREATED="1639451543852" MODIFIED="1639451557845">
+<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+</node>
+<node TEXT="declaration of variable" ID="ID_1822291525" CREATED="1639451560357" MODIFIED="1639452478702">
+<icon BUILTIN="punctuation/colon@b"/>
+</node>
+<node ID="ID_716132178" CREATED="1639464033853" MODIFIED="1639464121745">
+<icon BUILTIN="punctuation/colon@b"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      all following siblings are <b>this </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="same as parent (can substitute it)" ID="ID_1249817900" CREATED="1639453816860" MODIFIED="1639453847531">
+<icon BUILTIN="punctuation/equal@b"/>
+</node>
+</node>
+<node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
 </node>
 </node>
 </map>

@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -179,6 +179,26 @@
 </node>
 </node>
 <node TEXT="you could ask about islam while quran is being revealed" ID="ID_1667488263" CREATED="1637188154138" MODIFIED="1637188255598" LINK="https://quran.com/5:101"/>
+<node ID="ID_51177621" CREATED="1638843495743" MODIFIED="1638844128018" LINK="https://www.youtube.com/watch?v=_vZMOpzTyA8"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      muhammad agreed on changes in quran, proposed by his <b>scribe </b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="because of that the scribe left islam" ID="ID_547002374" CREATED="1638843412911" MODIFIED="1638843540316"/>
+<node TEXT="quran scolds him for that" ID="ID_683069857" CREATED="1638844131565" MODIFIED="1638844147076" LINK="https://quran.com/6/93?translations=83,84,17,20,85,18,44,42,95,38,19,22,31,32,28,25"/>
+<node TEXT="detailed analysis" ID="ID_1488535080" CREATED="1638844168904" MODIFIED="1638844189444" LINK="https://www.answering-islam.org/Quran/Sources/sarh.html">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="quranic recitation" POSITION="right" ID="ID_403487302" CREATED="1633568029400" MODIFIED="1633568042724">

@@ -138,7 +138,8 @@
 </hook>
 <font NAME="Tahoma"/>
 <node TEXT="type: project" POSITION="left" ID="ID_734482275" CREATED="1638461509594" MODIFIED="1638461509599"/>
-<node TEXT="changing actions" POSITION="right" ID="ID_1525740148" CREATED="1638461509601" MODIFIED="1638461551300">
+<node TEXT="action framework" POSITION="right" ID="ID_786281389" CREATED="1639119288644" MODIFIED="1639119295607">
+<node TEXT="changing actions" ID="ID_1525740148" CREATED="1638461509601" MODIFIED="1638461551300">
 <node TEXT="steps" ID="ID_1810899424" CREATED="1638461551473" MODIFIED="1638461559971">
 <node TEXT="create action" STYLE_REF="list item" ID="ID_799361451" CREATED="1638461561664" MODIFIED="1638461575676">
 <node TEXT="creation of all children (but maybe later)" ID="ID_145404652" CREATED="1638461575805" MODIFIED="1638461594445"/>
@@ -240,6 +241,50 @@
 </node>
 </node>
 </node>
+<node ID="ID_1992983324" CREATED="1639119296663" MODIFIED="1639119364568"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Intelligence</b>&nbsp;is notified
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_442130535" CREATED="1639119342061" MODIFIED="1639119355920"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      only by the <b>Root</b>&nbsp;action
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_258494014" CREATED="1639119373925" MODIFIED="1639119395667"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      only if Root action finishes <b>on its own </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="not aborted by intelligence" ID="ID_1013206891" CREATED="1639119390996" MODIFIED="1639119409543"/>
+</node>
+</node>
+</node>
 <node TEXT="profiling" POSITION="right" ID="ID_446184092" CREATED="1638769330013" MODIFIED="1638769333511">
 <node TEXT="fast" ID="ID_1390204675" CREATED="1638769469469" MODIFIED="1638769473126">
 <icon BUILTIN="good@bleak"/>
@@ -247,18 +292,96 @@
 </node>
 <node TEXT="slow" ID="ID_535471663" CREATED="1638769466981" MODIFIED="1638769473706">
 <icon BUILTIN="bad@bleak"/>
-<node TEXT="equating enumerations (Side.LEFT == ...)" LOCALIZED_STYLE_REF="default" ID="ID_284211408" CREATED="1638769333791" MODIFIED="1638772030675" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="good@bleak"/>
+<node TEXT="operations on enumeration" ID="ID_212346225" CREATED="1638814821955" MODIFIED="1638814834891">
+<node TEXT="equating enumerations (Side.LEFT == ...)" LOCALIZED_STYLE_REF="default" ID="ID_284211408" CREATED="1638769333791" MODIFIED="1638814933714" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="present@b"/>
 </node>
-<node TEXT="determine anglge reaching point" LOCALIZED_STYLE_REF="default" ID="ID_1674834967" CREATED="1638769393635" MODIFIED="1638769503517" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="Side.multiply" ID="ID_425552905" CREATED="1638814837123" MODIFIED="1638814847992">
+<icon BUILTIN="present@b"/>
+</node>
+<node TEXT="Enumeration.get_value" ID="ID_846042813" CREATED="1638814977125" MODIFIED="1638814986915">
+<icon BUILTIN="present@b"/>
+</node>
+</node>
+<node TEXT="determine anglge reaching point" LOCALIZED_STYLE_REF="default" ID="ID_1674834967" CREATED="1638769393635" MODIFIED="1638814309621" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="present@b"/>
 <node TEXT="Limb2" ID="ID_948940843" CREATED="1638769509135" MODIFIED="1638769515698">
 <icon BUILTIN="place@b"/>
 </node>
 </node>
-<node TEXT="activate gameObject" ID="ID_1809309538" CREATED="1638772039713" MODIFIED="1638772047604">
-<node TEXT="when grabbing tool" ID="ID_863918568" CREATED="1638772048002" MODIFIED="1638772056889"/>
+<node TEXT="activate gameObject" ID="ID_1809309538" CREATED="1638772039713" MODIFIED="1638814307027">
+<icon BUILTIN="present@b"/>
+<node TEXT="when grabbing tool" ID="ID_863918568" CREATED="1638772048002" MODIFIED="1638814326052">
+<icon BUILTIN="info_circle@b"/>
+</node>
+<node TEXT="Awake()" ID="ID_1663191599" CREATED="1638814291651" MODIFIED="1638814303536">
+<icon BUILTIN="present@b"/>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="similar games" POSITION="right" ID="ID_1405539819" CREATED="1639385202339" MODIFIED="1639385209460">
+<node TEXT="Rush Rover is okay enough. Do you need this in your library next to games like Monolith, Isaac, Gungeon, Starward Rogue, Neon Chrome, Nuclear Throne, NeuroVoider, Runers, and so on? No, you don&apos;t. All of those games are much better and much more original." ID="ID_750666071" CREATED="1639385209759" MODIFIED="1639385213371"/>
+</node>
+<node TEXT="bug quick changing Equip_toolset" POSITION="right" ID="ID_1305632761" CREATED="1639397152950" MODIFIED="1639397173868">
+<node TEXT="Equip_toolset children" ID="ID_74531766" CREATED="1639397174133" MODIFIED="1639397186029">
+<node TEXT="synchronous" ID="ID_702503326" CREATED="1639397186963" MODIFIED="1639397237932" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="seq." ID="ID_1787540524" CREATED="1639397224455" MODIFIED="1639397230630">
+<node TEXT="par." ID="ID_1621869216" CREATED="1639397231523" MODIFIED="1639397233642">
+<node TEXT="put Tool into bag L" ID="ID_1633816860" CREATED="1639397262669" MODIFIED="1639397422825">
+<node TEXT="put hand before bag" ID="ID_1509905904" CREATED="1639397402207" MODIFIED="1639397435581"/>
+<node TEXT="move hand into bag" ID="ID_1948969861" CREATED="1639397435800" MODIFIED="1639397441241"/>
+<node TEXT="drop tool" ID="ID_355596410" CREATED="1639397441698" MODIFIED="1639397446993"/>
+</node>
+<node TEXT="put Tool into bag R" ID="ID_1101355506" CREATED="1639397269051" MODIFIED="1639397428854">
+<node TEXT="put hand before bag" ID="ID_430854691" CREATED="1639397402207" MODIFIED="1639397435581"/>
+<node TEXT="move hand into bag" ID="ID_1955251782" CREATED="1639397435800" MODIFIED="1639397441241"/>
+<node TEXT="drop tool" ID="ID_1526490809" CREATED="1639397441698" MODIFIED="1639397446993"/>
+</node>
+</node>
+<node TEXT="par." ID="ID_544498777" CREATED="1639397234090" MODIFIED="1639397234891">
+<node TEXT="pull Tool outa bag L" ID="ID_1913752982" CREATED="1639397291532" MODIFIED="1639397416515">
+<node TEXT="grab Tool" ID="ID_1684311136" CREATED="1639397479494" MODIFIED="1639397483668"/>
+<node TEXT="put hand before bag" ID="ID_1748931058" CREATED="1639397402207" MODIFIED="1639397435581"/>
+</node>
+<node TEXT="pull Tool outa bag R" ID="ID_860560563" CREATED="1639397291532" MODIFIED="1639397419939">
+<node TEXT="grab Tool" ID="ID_231964761" CREATED="1639397479494" MODIFIED="1639397483668"/>
+<node TEXT="put hand before bag" ID="ID_1929120895" CREATED="1639397402207" MODIFIED="1639397435581"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="asynchronous" ID="ID_505952650" CREATED="1639397522943" MODIFIED="1639397528279" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="changing arm(s)" LOCALIZED_STYLE_REF="default" ID="ID_1235777912" CREATED="1639397529152" MODIFIED="1639398177639" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="Take_tool_from_bag" ID="ID_615263306" CREATED="1639398105699" MODIFIED="1639398105699">
+<node TEXT="put Tool into bag" ID="ID_1794870150" CREATED="1639397262669" MODIFIED="1639544406321" COLOR="#000000">
+<icon BUILTIN="good@bleak"/>
+<node TEXT="put hand before bag" ID="ID_1764687138" CREATED="1639397402207" MODIFIED="1639544603907">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="the actor (hand_r) still has this action, instead of the substituting one" ID="ID_349984767" CREATED="1639546047354" MODIFIED="1639546068049"/>
+</node>
+<node TEXT="move hand into bag" ID="ID_1564101245" CREATED="1639397435800" MODIFIED="1639544605820">
+<icon BUILTIN="good@bleak"/>
+</node>
+<node TEXT="drop tool" ID="ID_612140483" CREATED="1639397441698" MODIFIED="1639397446993"/>
+</node>
+<node TEXT="pull Tool outa bag" ID="ID_1109543802" CREATED="1639397291532" MODIFIED="1639398344055">
+<node TEXT="grab Tool" ID="ID_733180522" CREATED="1639397479494" MODIFIED="1639397483668"/>
+<node TEXT="put hand before bag" ID="ID_1376824245" CREATED="1639397402207" MODIFIED="1639397435581"/>
+</node>
+</node>
+</node>
+<node TEXT="correct arm" LOCALIZED_STYLE_REF="default" ID="ID_513434034" CREATED="1639398074830" MODIFIED="1639398145458" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="idle vigilant (by notifying)" ID="ID_1947348456" CREATED="1639398146733" MODIFIED="1639398158265"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="styles" POSITION="right" ID="ID_724634909" CREATED="1639544392113" MODIFIED="1639544392120">
+<node TEXT="1" ID="ID_416530968" CREATED="1639544392120" MODIFIED="1639544392122"/>
+<node TEXT="2" ID="ID_362122822" CREATED="1639544394594" MODIFIED="1639544394597"/>
 </node>
 </node>
 </map>

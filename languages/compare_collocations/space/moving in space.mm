@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="eating" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637166190929"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="moving in space" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1639470657681"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: compare_colocations" POSITION="left" ID="ID_1299220531" CREATED="1637166190937" MODIFIED="1637166190939"/>
+<node TEXT="type: compare_colocations" POSITION="left" ID="ID_92666089" CREATED="1639470657693" MODIFIED="1639470657697"/>
 <node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -202,72 +202,128 @@
 </node>
 </node>
 </node>
-<node TEXT="want to eat" POSITION="right" ID="ID_1645568361" CREATED="1637166190940" MODIFIED="1637166267289">
-<node TEXT="hungry" ID="ID_766585861" CREATED="1637166267482" MODIFIED="1637166276546" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="to be JJ" ID="ID_1000415789" CREATED="1637166277479" MODIFIED="1637166287493" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="i&apos;m hugry" ID="ID_1742247839" CREATED="1637166303957" MODIFIED="1637166322737" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="legend" POSITION="left" ID="ID_1999075329" CREATED="1637387218036" MODIFIED="1637387224907" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
+<node TEXT="feminine" LOCALIZED_STYLE_REF="default" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1638005675413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/gender/feminine@b"/>
+</node>
+<node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/gender/masculine@b"/>
+</node>
+<node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/gender/both_genders@b"/>
+</node>
+</node>
+<node TEXT="number" ID="ID_1197699449" CREATED="1638005695736" MODIFIED="1638005698501">
+<node TEXT="plural" ID="ID_911905125" CREATED="1638005699949" MODIFIED="1638005706091">
+<icon BUILTIN="grammar/plural"/>
+</node>
+</node>
+<node TEXT="syntax" ID="ID_1205169936" CREATED="1638005727863" MODIFIED="1638005731513">
+<node TEXT="sequence" ID="ID_1970909851" CREATED="1638005722645" MODIFIED="1638005725496">
+<node TEXT="word before its parent" ID="ID_704088312" CREATED="1638005732749" MODIFIED="1638005754493">
+<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+</node>
+</node>
+</node>
+<node TEXT="declension&amp;conjugation" ID="ID_1063401470" CREATED="1638005780101" MODIFIED="1638005802100">
+<node TEXT="can be used as regular" ID="ID_371950240" CREATED="1638005802910" MODIFIED="1638005829357">
+<icon BUILTIN="smile@w"/>
+</node>
+</node>
+<node TEXT="control" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1639451537112">
+<node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
+<node TEXT="unnecessary" ID="ID_728579299" CREATED="1639451543852" MODIFIED="1639451557845">
+<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+</node>
+<node TEXT="declaration of variable" ID="ID_1822291525" CREATED="1639451560357" MODIFIED="1639452478702">
+<icon BUILTIN="punctuation/colon@b"/>
+</node>
+<node ID="ID_716132178" CREATED="1639464033853" MODIFIED="1639464121745">
+<icon BUILTIN="punctuation/colon@b"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      all following siblings are <b>this </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="same as parent (can substitute it)" ID="ID_1249817900" CREATED="1639453816860" MODIFIED="1639453847531">
+<icon BUILTIN="punctuation/equal@b"/>
+</node>
+</node>
+<node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
+</node>
+<node TEXT="placing somewhere" POSITION="right" ID="ID_1169329615" CREATED="1639477521418" MODIFIED="1639477536757">
+<node TEXT="put it *" ID="ID_250774186" CREATED="1639477228542" MODIFIED="1639477495093">
 <icon BUILTIN="quote@b"/>
+<icon BUILTIN="punctuation/colon@b"/>
 <font ITALIC="true"/>
+<node TEXT="on" ID="ID_750963937" CREATED="1639477247018" MODIFIED="1639479445988" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="PRP" ID="ID_201692977" CREATED="1639477258620" MODIFIED="1639477272079">
+<icon BUILTIN="punctuation/colon@b"/>
 </node>
+<node TEXT="his" ID="ID_1788521691" CREATED="1639477254822" MODIFIED="1639477257651" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="side" ID="ID_1884717131" CREATED="1639477292441" MODIFIED="1639477295107">
+<icon BUILTIN="punctuation/colon@b"/>
 </node>
-</node>
-<node TEXT="hambre" ID="ID_1274368906" CREATED="1637166291088" MODIFIED="1637166296426" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<node TEXT="tener NN" ID="ID_1447972157" CREATED="1637166297664" MODIFIED="1637166372074" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<node TEXT="tengo hambre" ID="ID_1681513143" CREATED="1637166315218" MODIFIED="1637166333969" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="not want" POSITION="right" ID="ID_1676725021" CREATED="1637166418087" MODIFIED="1637166421425">
-<node TEXT="satiated" ID="ID_1128520115" CREATED="1637166421778" MODIFIED="1637166425823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="right" ID="ID_1687852247" CREATED="1639477284445" MODIFIED="1639477291150" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 </node>
-<node TEXT="full" ID="ID_300609175" CREATED="1637166430152" MODIFIED="1637166433671" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="left" ID="ID_470467197" CREATED="1639477287882" MODIFIED="1639477291157" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 </node>
 </node>
-<node TEXT="_hunger" POSITION="right" ID="ID_1949608981" CREATED="1637166349449" MODIFIED="1637166629206" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="hambriento" ID="ID_384337610" CREATED="1637166359347" MODIFIED="1637166364371" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+</node>
+<node TEXT="ad" ID="ID_1809741003" CREATED="1639477303929" MODIFIED="1639477305383" COLOR="#000000">
+<icon BUILTIN="heraldics/roman_empire"/>
+<node TEXT="side" ID="ID_110708015" CREATED="1639477608980" MODIFIED="1639477612455">
+<icon BUILTIN="punctuation/colon@b"/>
+<node TEXT="acc." ID="ID_1254291429" CREATED="1639477761377" MODIFIED="1639477769118">
+<icon BUILTIN="grammar/case"/>
 </node>
 </node>
-<node TEXT="eat" POSITION="right" ID="ID_1682406337" CREATED="1637166503920" MODIFIED="1637166511613" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="manger" ID="ID_1798934549" CREATED="1637166511802" MODIFIED="1637166515355" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<node TEXT="manducare" ID="ID_1096207261" CREATED="1637166973818" MODIFIED="1637166983874" COLOR="#000000">
+<node TEXT="dexteram" ID="ID_1690679468" CREATED="1639477306166" MODIFIED="1639477312404" COLOR="#000000">
+<icon BUILTIN="heraldics/roman_empire"/>
+<node TEXT="JJ, PRP$" ID="ID_919270462" CREATED="1639477394757" MODIFIED="1639477445785">
+<icon BUILTIN="punctuation/colon@b"/>
+</node>
+<node TEXT="suam" ID="ID_867463559" CREATED="1639477316501" MODIFIED="1639477323380" COLOR="#000000">
+<icon BUILTIN="heraldics/roman_empire"/>
+</node>
+<node TEXT="israel" ID="ID_1676022970" CREATED="1639477386713" MODIFIED="1639477391174" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
-<node TEXT="comer" LOCALIZED_STYLE_REF="default" ID="ID_1468701462" CREATED="1637166515829" MODIFIED="1637166526194" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="laevam" ID="ID_1582266664" CREATED="1639477313090" MODIFIED="1639477315607" COLOR="#000000">
+<icon BUILTIN="heraldics/roman_empire"/>
+<node TEXT="sinistram" ID="ID_166443984" CREATED="1639479101542" MODIFIED="1639479218541" COLOR="#000000">
+<icon BUILTIN="heraldics/roman_empire"/>
+<icon BUILTIN="punctuation/equal@b"/>
 </node>
-<node TEXT="edĕre edî" ID="ID_690345667" CREATED="1637166932101" MODIFIED="1637166961275" COLOR="#000000">
+</node>
+</node>
+</node>
+<node TEXT="posuit eum" ID="ID_486548510" CREATED="1639477496598" MODIFIED="1639477515017" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
-<node TEXT="_food" POSITION="right" ID="ID_936802361" CREATED="1637166530287" MODIFIED="1637166534300" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="comida" ID="ID_1232755944" CREATED="1637166562823" MODIFIED="1637166645664" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EA-1F1F8"/>
-</node>
-<node TEXT="cibus -i m" ID="ID_1618590484" CREATED="1637166920090" MODIFIED="1637166928261" COLOR="#000000">
+<node TEXT="example with all directions" POSITION="right" ID="ID_76811444" CREATED="1639470657699" MODIFIED="1639470687412" LINK="https://latin.packhum.org/loc/474/72/8/921-931@1#8" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
-</node>
-<node TEXT="a meal" ID="ID_1184371187" CREATED="1637166605441" MODIFIED="1637166614537" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="un répas" ID="ID_603849105" CREATED="1637166609425" MODIFIED="1637166613602" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EB-1F1F7"/>
-</node>
+<node TEXT="timaeus by cicero" ID="ID_1152951052" CREATED="1639470692930" MODIFIED="1639470811084" LINK="https://la.wikisource.org/wiki/Timaeus_(Cicero)">
+<icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 </node>

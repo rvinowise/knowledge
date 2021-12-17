@@ -290,7 +290,7 @@
 </node>
 </node>
 <node TEXT="(is) mihi dixit" ID="ID_121872238" CREATED="1637131598600" MODIFIED="1637318983504" LINK="https://en.wikipedia.org/wiki/Sequence_of_tenses#Latin" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="accusativus cum infinitivo" ID="ID_866702822" CREATED="1637299459730" MODIFIED="1637300677613">
 <icon BUILTIN="chain@b"/>
 <node TEXT="praesens" ID="ID_348168143" CREATED="1637301387039" MODIFIED="1637301396674">
@@ -298,7 +298,7 @@
 <icon BUILTIN="box_inscribed@b"/>
 </node>
 <node ID="ID_1586718265" CREATED="1637299521853" MODIFIED="1637301214059" LINK="https://danielmccarthyosb.com/research/" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -314,7 +314,7 @@
 </richcontent>
 </node>
 <node ID="ID_1632291357" CREATED="1637301242688" MODIFIED="1637301449443" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -331,7 +331,7 @@
 <font BOLD="false"/>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1308235134" CREATED="1637299428287" MODIFIED="1637301369232" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -352,7 +352,7 @@
 <icon BUILTIN="box_inscribed@b"/>
 </node>
 <node ID="ID_1511900380" CREATED="1637301410525" MODIFIED="1637301469716" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -373,7 +373,7 @@
 <icon BUILTIN="box_inscribed@b"/>
 </node>
 <node ID="ID_1875409174" CREATED="1637301424172" MODIFIED="1637301454202" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -394,7 +394,7 @@
 </node>
 </node>
 <node TEXT="ut" ID="ID_1959563415" CREATED="1637295973809" MODIFIED="1637295977365" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="ut clause" ID="ID_858232908" CREATED="1637299730876" MODIFIED="1637300832397">
 <icon BUILTIN="chain@b"/>
 </node>
@@ -403,7 +403,7 @@
 <node TEXT="advice" ID="ID_977565576" CREATED="1637301635513" MODIFIED="1637301846984">
 <icon BUILTIN="box_inscribed@b"/>
 <node ID="ID_438668017" CREATED="1637299148275" MODIFIED="1637301715060" LINK="https://danielmccarthyosb.com/research/" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -419,7 +419,7 @@
 </richcontent>
 </node>
 <node ID="ID_920065369" CREATED="1637319052134" MODIFIED="1637319612467" LINK="https://pdfslide.tips/documents/web-view-laudo-1st-conjugation-active-laud-e-m-passivelaud-e-r-moneo-2nd.html" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -439,10 +439,10 @@
 </node>
 </node>
 <node TEXT="aliquid" ID="ID_1544269105" CREATED="1637295986743" MODIFIED="1637295994070" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="punctuation/three_dots@b"/>
 <node TEXT="nomen suum" ID="ID_1118192922" CREATED="1637295992679" MODIFIED="1637318712629" COLOR="#666666">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="question@b"/>
 <font ITALIC="true"/>
 </node>
@@ -456,9 +456,9 @@
 </node>
 </node>
 <node TEXT="(is) dixit" ID="ID_1620232210" CREATED="1637319813734" MODIFIED="1637319821582" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="ut" ID="ID_638713888" CREATED="1637295973809" MODIFIED="1637295977365" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="ut clause" ID="ID_964632720" CREATED="1637299730876" MODIFIED="1637300832397">
 <icon BUILTIN="chain@b"/>
 </node>
@@ -468,7 +468,7 @@
 <icon BUILTIN="question@b"/>
 <icon BUILTIN="box_inscribed@b"/>
 <node ID="ID_1548446110" CREATED="1637298294360" MODIFIED="1637301795955" LINK="https://latin.packhum.org/loc/474/57/447/1380-1388@1#447" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -484,7 +484,7 @@
 </richcontent>
 </node>
 <node ID="ID_1780818978" CREATED="1637298065804" MODIFIED="1637298096339" LINK="https://latin.packhum.org/loc/474/35/1/53645-53653@1#1" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -500,7 +500,7 @@
 </richcontent>
 </node>
 <node ID="ID_1431505834" CREATED="1637296073399" MODIFIED="1637296363234" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -524,7 +524,7 @@
 <icon BUILTIN="info_circle@b"/>
 </node>
 <node ID="ID_1585702798" CREATED="1637296890003" MODIFIED="1637296900475" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -550,7 +550,7 @@
 <node TEXT="he told me" ID="ID_1286778141" CREATED="1637296420134" MODIFIED="1637296425197" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="dicebat mihi" ID="ID_1925982460" CREATED="1637296426498" MODIFIED="1637296437281" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
 </node>
@@ -563,7 +563,7 @@
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
 <node TEXT="dic mihi" ID="ID_1432314585" CREATED="1637131502873" MODIFIED="1637131509544" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="قُل لِي" ID="ID_1943820803" CREATED="1637365988684" MODIFIED="1637384045090" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
@@ -594,7 +594,7 @@
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
 <node TEXT="secretum" LOCALIZED_STYLE_REF="default" ID="ID_772459140" CREATED="1637137138003" MODIFIED="1637137148607" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT=" το μυστικό" ID="ID_1810612790" CREATED="1637137004397" MODIFIED="1637137084552" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
@@ -632,7 +632,7 @@
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
 <node TEXT="vox -cis f" LOCALIZED_STYLE_REF="default" ID="ID_1459073604" CREATED="1637137965507" MODIFIED="1637137978207" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="η φωνή" ID="ID_335980469" CREATED="1637137978924" MODIFIED="1637138026499" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
@@ -663,19 +663,19 @@
 </node>
 </node>
 <node TEXT="rogatio -nis f" ID="ID_88796125" CREATED="1637338309072" MODIFIED="1637338340025" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="ferre NN-acc" ID="ID_1105650929" CREATED="1637338789176" MODIFIED="1637339657206" COLOR="#666666">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="question@b"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="interrogâtio" ID="ID_830581110" CREATED="1637339628022" MODIFIED="1637339647033" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="respondĕre ad NN-acc" ID="ID_1063497433" CREATED="1637340239903" MODIFIED="1637340315950" LINK="https://core.ac.uk/download/pdf/155236616.pdf"/>
 </node>
 <node TEXT="quaesîtum -i n" ID="ID_404120363" CREATED="1637339528255" MODIFIED="1637339565449" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 <node TEXT="μια ερότιση" LOCALIZED_STYLE_REF="default" ID="ID_1255113769" CREATED="1637142809219" MODIFIED="1637142831602" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
@@ -691,7 +691,7 @@
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 </node>
 <node TEXT="quaerĕre" LOCALIZED_STYLE_REF="default" ID="ID_1113314520" CREATED="1637142666420" MODIFIED="1637338534394" COLOR="#666666">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="question@b"/>
 <font ITALIC="true"/>
 </node>
@@ -699,7 +699,7 @@
 <node TEXT="interrogation" ID="ID_1230645314" CREATED="1637338501227" MODIFIED="1637338508512" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="quaestio -nis f" ID="ID_1831551723" CREATED="1637338509313" MODIFIED="1637338517792" COLOR="#000000">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
 </node>
@@ -749,7 +749,7 @@
 <node TEXT="greek" ID="ID_1698930108" CREATED="1637117158741" MODIFIED="1637128583329"/>
 </node>
 <node TEXT="5" ID="ID_632092175" CREATED="1637126465234" MODIFIED="1637131458352">
-<icon BUILTIN="emoji-1F7E1"/>
+<icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="latin" ID="ID_1156533169" CREATED="1637117168846" MODIFIED="1637128583330"/>
 </node>
 <node TEXT="6" ID="ID_93050694" CREATED="1637126468425" MODIFIED="1637131459075">

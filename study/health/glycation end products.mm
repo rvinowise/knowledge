@@ -151,5 +151,11 @@
 <node TEXT="metformin" ID="ID_1978025652" CREATED="1638643216873" MODIFIED="1638643256800"/>
 </node>
 </node>
+<node TEXT="glycation" POSITION="right" ID="ID_1133690969" CREATED="1638852763245" MODIFIED="1638852771759" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="is inhibited by" ID="ID_405900403" CREATED="1638852772233" MODIFIED="1638852777387">
+<node TEXT="vitamin B3" ID="ID_1356560396" CREATED="1638852782056" MODIFIED="1638852805456" LINK="https://pubmed.ncbi.nlm.nih.gov/28624351/"/>
+</node>
+</node>
 </node>
 </map>
