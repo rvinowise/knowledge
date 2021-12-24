@@ -160,7 +160,9 @@
   </body>
 </html>
 </richcontent>
-<node ID="ID_1442195815" CREATED="1638461631936" MODIFIED="1638461829627"><richcontent TYPE="NODE">
+<node TEXT="remembering their previous, substituted actions" ID="ID_580719245" CREATED="1639807133109" MODIFIED="1639807161167"/>
+</node>
+<node STYLE_REF="list item" ID="ID_1442195815" CREATED="1638461631936" MODIFIED="1639807127584"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -168,10 +170,11 @@
   </head>
   <body>
     <p>
-      <b>deletion</b>&nbsp;of root actions of all actors
+      <b>deletion</b>&nbsp;of all substituted root actions
     </p>
   </body>
 </html>
+
 </richcontent>
 <node ID="ID_744911697" CREATED="1638461848361" MODIFIED="1638463092756">
 <icon BUILTIN="need@b"/>
@@ -238,6 +241,17 @@
 </node>
 </node>
 </node>
+</node>
+<node TEXT="different reasons" ID="ID_292195601" CREATED="1639807290439" MODIFIED="1639807301711">
+<node TEXT="within a sequential parent" STYLE_REF="list item" ID="ID_1697878862" CREATED="1639807301893" MODIFIED="1639807346661">
+<node TEXT="sequential parent controls the change" ID="ID_145940390" CREATED="1639807932089" MODIFIED="1639807940453"/>
+</node>
+<node TEXT="root action finishes on its own" STYLE_REF="list item" ID="ID_1546431776" CREATED="1639807344432" MODIFIED="1639807376371">
+<node TEXT="restore state rec." ID="ID_1204899270" CREATED="1639807993453" MODIFIED="1639807999449"/>
+</node>
+<node TEXT="3 root action is substituted by another action" ID="ID_1659792330" CREATED="1639807377286" MODIFIED="1639807393697">
+<node TEXT="next action invokes Discard function" ID="ID_1199432972" CREATED="1639807962215" MODIFIED="1639807978119"/>
+<node TEXT="restore state rec." ID="ID_1522240733" CREATED="1639807993453" MODIFIED="1639807999449"/>
 </node>
 </node>
 </node>

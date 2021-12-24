@@ -127,7 +127,9 @@
 <node TEXT="kill people reviling muhammad" POSITION="right" ID="ID_105283715" CREATED="1638746525606" MODIFIED="1638746539917">
 <node TEXT="a pregnant woman was killed" ID="ID_510698484" CREATED="1638746543979" MODIFIED="1638746648639" LINK="https://sunnah.com/abudawud:4361">
 <node TEXT="by her master" ID="ID_1864064431" CREATED="1638746551288" MODIFIED="1638849830085">
-<node TEXT="islamic family `cross_ref" LOCALIZED_STYLE_REF="default" ID="ID_207633303" CREATED="1638746663279" MODIFIED="1638748876069" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+<node TEXT="islamic family" LOCALIZED_STYLE_REF="default" ID="ID_207633303" CREATED="1638746663279" MODIFIED="1640294964724" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="connection/cross_reference@b"/>
+</node>
 </node>
 <node TEXT="murderer wasn&apos;t punished" ID="ID_910709153" CREATED="1638746560287" MODIFIED="1638746575810">
 <node TEXT="because the victim reviled muhammad" ID="ID_1654731876" CREATED="1638850164313" MODIFIED="1638850171624">
@@ -143,7 +145,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1626824934" CREATED="1638850118457" MODIFIED="1638850142307"><richcontent TYPE="NODE">
 
@@ -157,7 +158,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>

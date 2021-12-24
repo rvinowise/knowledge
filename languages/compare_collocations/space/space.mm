@@ -425,12 +425,48 @@
 <node TEXT="اليُسْرَى" ID="ID_1236108221" CREATED="1639639354968" MODIFIED="1639639592840" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
-<node TEXT="من" LOCALIZED_STYLE_REF="default" ID="ID_1633999631" CREATED="1639639391219" MODIFIED="1639639401827" COLOR="#000000">
+<node TEXT="مِن" LOCALIZED_STYLE_REF="default" ID="ID_1633999631" CREATED="1639639391219" MODIFIED="1639719946363" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="" ID="ID_1540672213" CREATED="1639630774015" MODIFIED="1639630793274" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="object@w"/>
+</node>
 </node>
 </node>
 <node TEXT="اليُمْنَى" ID="ID_1751231594" CREATED="1639639459956" MODIFIED="1639639978353" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
+</node>
+<node TEXT="عَلَى" ID="ID_255572228" CREATED="1639498959031" MODIFIED="1639498988562" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="جِهة" ID="ID_236778357" CREATED="1639639330902" MODIFIED="1639720147167" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="ال" ID="ID_761147087" CREATED="1639720155947" MODIFIED="1639720194442" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+<node TEXT="اليُسْرَى" ID="ID_1027913207" CREATED="1639639354968" MODIFIED="1639639592840" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<node TEXT="مِن" LOCALIZED_STYLE_REF="default" ID="ID_1219596856" CREATED="1639639391219" MODIFIED="1639719946363" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="" ID="ID_1751467061" CREATED="1639630774015" MODIFIED="1639630793274" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="object@w"/>
+</node>
+</node>
+</node>
+<node TEXT="اليُمْنَى" ID="ID_1975274747" CREATED="1639639459956" MODIFIED="1639639978353" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
+<node TEXT="ي" ID="ID_498880284" CREATED="1639720393117" MODIFIED="1639720404779" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<node TEXT="اليُسْرَى" ID="ID_1405428901" CREATED="1639639354968" MODIFIED="1639720531133" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
 </node>
 </node>
 </node>
@@ -439,10 +475,9 @@
 <node TEXT="يَسَار" ID="ID_801074504" CREATED="1639630652408" MODIFIED="1639630766528" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
-<node TEXT="ال" ID="ID_731266384" CREATED="1639630634653" MODIFIED="1639650975830" COLOR="#000000">
+<node TEXT="ال" ID="ID_731266384" CREATED="1639630634653" MODIFIED="1639720344639" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <icon BUILTIN="grammar/syntax/precedes_previous@b"/>
-<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
 <node TEXT="مِن" ID="ID_669823865" CREATED="1639630668391" MODIFIED="1639630763793" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="" ID="ID_496755864" CREATED="1639630774015" MODIFIED="1639630793274" COLOR="#000000">
@@ -451,19 +486,18 @@
 </node>
 </node>
 </node>
-<node TEXT="ي" ID="ID_1669474896" CREATED="1639542266061" MODIFIED="1639637384076" COLOR="#000000">
+<node TEXT="ي" ID="ID_1669474896" CREATED="1639542266061" MODIFIED="1639720294447" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
 <icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 </node>
 </node>
 <node TEXT="à" ID="ID_1309496143" CREATED="1639539901694" MODIFIED="1639539919471" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<node TEXT="ma" ID="ID_977982062" CREATED="1639539954524" MODIFIED="1639540092715" COLOR="#000000">
+<node TEXT="ma" ID="ID_977982062" CREATED="1639539954524" MODIFIED="1639749115338" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <node TEXT="gauche" LOCALIZED_STYLE_REF="default" ID="ID_723487031" CREATED="1639539920442" MODIFIED="1639539938627" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 <icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
@@ -509,25 +543,32 @@
 <node TEXT="noun of relative_object" ID="ID_789385940" CREATED="1639554780842" MODIFIED="1639554812459" COLOR="#000000">
 <icon BUILTIN="heraldics/earth_flag"/>
 </node>
-<node TEXT="can be substituted by a case" ID="ID_854882352" CREATED="1639557432486" MODIFIED="1639557815389" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="is substituted by a case" ID="ID_854882352" CREATED="1639557432486" MODIFIED="1639748549770" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="genitive" ID="ID_159807390" CREATED="1639557819042" MODIFIED="1639557821045"/>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="can go after noun_of_side" ID="ID_1936714167" CREATED="1639556477161" MODIFIED="1639556492465">
-<node TEXT="for pronouns" ID="ID_19501793" CREATED="1639556537520" MODIFIED="1639557792516" COLOR="#000000">
+<node TEXT="displaced for pronouns" LOCALIZED_STYLE_REF="default" ID="ID_19501793" CREATED="1639556537520" MODIFIED="1639749062621" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="goes after noun_of_side" LOCALIZED_STYLE_REF="default" ID="ID_1936714167" CREATED="1639556477161" MODIFIED="1639748930994" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 </node>
-<node TEXT="preferably" LOCALIZED_STYLE_REF="default" ID="ID_265438424" CREATED="1639556560652" MODIFIED="1639557799783" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="surrounds noun_of_side" ID="ID_188461936" CREATED="1639557159817" MODIFIED="1639748935014" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+</node>
+</node>
+<node TEXT="may not exist" LOCALIZED_STYLE_REF="default" ID="ID_180856856" CREATED="1639748589920" MODIFIED="1639748811037" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="without pronouns" ID="ID_1799749756" CREATED="1639748605198" MODIFIED="1639748998422" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+</node>
+<node TEXT="at all" ID="ID_1348740180" CREATED="1639748812593" MODIFIED="1639749084214" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="heraldics/roman_empire"/>
 </node>
 </node>
-<node TEXT="can surround noun_of_side" ID="ID_188461936" CREATED="1639557159817" MODIFIED="1639557840204" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<node TEXT="for pronouns" LOCALIZED_STYLE_REF="default" ID="ID_263138961" CREATED="1639557168284" MODIFIED="1639557844434" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
+<node TEXT="can be omitted" ID="ID_921590175" CREATED="1639748736752" MODIFIED="1639748750670" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
 </node>
 </node>
 </node>
@@ -642,18 +683,29 @@
 </node>
 <node TEXT="أمَامَ" ID="ID_655463388" CREATED="1639571305483" MODIFIED="1639571325567" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="gen." ID="ID_647629389" CREATED="1639746543205" MODIFIED="1639746555009">
+<icon BUILTIN="grammar/case"/>
+</node>
 <node TEXT="البَيتِ" ID="ID_1315938155" CREATED="1639571362851" MODIFIED="1639571401021" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <icon BUILTIN="object@w"/>
 </node>
-<node TEXT="ي" LOCALIZED_STYLE_REF="default" ID="ID_918929992" CREATED="1639571330709" MODIFIED="1639571360778" COLOR="#000000">
+<node TEXT="ي" LOCALIZED_STYLE_REF="default" ID="ID_918929992" CREATED="1639571330709" MODIFIED="1639748095471" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<node TEXT="changes last A into I" LOCALIZED_STYLE_REF="default" ID="ID_1809628571" CREATED="1639747254297" MODIFIED="1639810949059" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="cog@b"/>
+</node>
+</node>
+<node TEXT="هُ" ID="ID_600923317" CREATED="1639747324173" MODIFIED="1639748110981" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
 <icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 </node>
 <node TEXT="في" ID="ID_1652608250" CREATED="1639574197466" MODIFIED="1639574206932" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<node TEXT="الجَبْهة" LOCALIZED_STYLE_REF="default" ID="ID_89101255" CREATED="1639574207287" MODIFIED="1639624620995" COLOR="#000000">
+<node TEXT="الجَبْهةِ" LOCALIZED_STYLE_REF="default" ID="ID_89101255" CREATED="1639574207287" MODIFIED="1639746614183" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 </node>
 </node>
@@ -674,6 +726,42 @@
 <icon BUILTIN="size_optimisation/unnecessary_node@b"/>
 </node>
 </node>
+<node TEXT="خَلْفَ" ID="ID_784428766" CREATED="1639746345007" MODIFIED="1639746800582" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="gen." ID="ID_383171152" CREATED="1639746761544" MODIFIED="1639746781391">
+<icon BUILTIN="grammar/case"/>
+</node>
+<node TEXT="ي" ID="ID_553275921" CREATED="1639746743147" MODIFIED="1639748100515" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<node TEXT="changes last A into I" LOCALIZED_STYLE_REF="default" ID="ID_1983195496" CREATED="1639747254297" MODIFIED="1639810945189" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="cog@b"/>
+</node>
+</node>
+<node TEXT="هُ" ID="ID_1603225624" CREATED="1639747324173" MODIFIED="1639748110981" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
+<node TEXT="وَرَاءَ" ID="ID_456515061" CREATED="1639747215949" MODIFIED="1639747454706" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="punctuation/equal@b"/>
+</node>
+</node>
+<node TEXT="post" ID="ID_1100818533" CREATED="1639747852927" MODIFIED="1639747855792" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
+<node TEXT="acc." ID="ID_301475965" CREATED="1639747857267" MODIFIED="1639747871376" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/case"/>
+</node>
+<node TEXT="" ID="ID_1070609439" CREATED="1639747886667" MODIFIED="1639747892161" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
+<icon BUILTIN="object@w"/>
+</node>
+<node TEXT="me" LOCALIZED_STYLE_REF="default" ID="ID_422093942" CREATED="1639747899083" MODIFIED="1639747905612" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
+</node>
 </node>
 <node TEXT="top" ID="ID_334328024" CREATED="1639468888485" MODIFIED="1639468889630">
 <node TEXT="above" ID="ID_775420758" CREATED="1639468901846" MODIFIED="1639468908965" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -689,11 +777,35 @@
 <icon BUILTIN="object@w"/>
 </node>
 </node>
+<node TEXT="suprâ" ID="ID_472330201" CREATED="1639747805360" MODIFIED="1639747963336" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
+<node TEXT="acc." ID="ID_348701966" CREATED="1639747813565" MODIFIED="1639747818994">
+<icon BUILTIN="grammar/case"/>
+</node>
+<node TEXT="caput" ID="ID_1018791421" CREATED="1639747821734" MODIFIED="1639747831291" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
+<icon BUILTIN="object@w"/>
+</node>
+<node TEXT="me" LOCALIZED_STYLE_REF="default" ID="ID_1124857961" CREATED="1639747899083" MODIFIED="1639747905612" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
+</node>
 </node>
 <node TEXT="bottom" ID="ID_271116401" CREATED="1639469062431" MODIFIED="1639469064758">
 <node TEXT="under" LOCALIZED_STYLE_REF="default" ID="ID_342728831" CREATED="1639469065091" MODIFIED="1639469069997" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="" ID="ID_1055491573" CREATED="1639468912122" MODIFIED="1639468950058">
+<icon BUILTIN="object@w"/>
+</node>
+</node>
+<node TEXT="înfrâ" ID="ID_1998328873" CREATED="1639748029917" MODIFIED="1639748037705" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
+<node TEXT="acc." ID="ID_604505385" CREATED="1639748039176" MODIFIED="1639748043761">
+<icon BUILTIN="grammar/case"/>
+</node>
+<node TEXT="caelum" LOCALIZED_STYLE_REF="default" ID="ID_204840618" CREATED="1639748044671" MODIFIED="1639748056192" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
 <icon BUILTIN="object@w"/>
 </node>
 </node>

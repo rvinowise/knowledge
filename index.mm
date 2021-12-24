@@ -192,6 +192,7 @@
 </node>
 <node TEXT="psychology" ID="ID_1670482440" CREATED="1636701716052" MODIFIED="1636701733554" LINK="study/psychology/">
 <node TEXT="false beliefs" ID="ID_656203581" CREATED="1636701737235" MODIFIED="1636701750184" LINK="file:/D:/archive/cloud_storages/google/study/psychology/false%20beliefs.mm"/>
+<node TEXT="hypnosis" ID="ID_1124660689" CREATED="1640153283825" MODIFIED="1640153297254" LINK="file:/D:/archive/cloud_storages/google/study/psychology/hypnosis.mm"/>
 </node>
 <node TEXT="health" ID="ID_1563290764" CREATED="1638643041408" MODIFIED="1638643058757" LINK="study/health/">
 <node TEXT="glycation end products" ID="ID_226375567" CREATED="1638643060165" MODIFIED="1638643090310" LINK="file:/D:/archive/cloud_storages/google/study/health/glycation%20end%20products.mm"/>

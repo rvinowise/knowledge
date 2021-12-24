@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637160483756"><hook NAME="MapStyle" zoom="1.32">
+<node TEXT="grammar" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1640279511657"><hook NAME="MapStyle" zoom="1.32">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -137,44 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_1845730270" CREATED="1637160483930" MODIFIED="1637160483957"/>
-<node TEXT="learning arabic.mm" POSITION="right" ID="ID_659148485" CREATED="1633368713087" MODIFIED="1635882107112" LINK="study/learning%20arabic.mm">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="compare_colocations" POSITION="right" ID="ID_1720804096" CREATED="1637117029240" MODIFIED="1637161318968" LINK="compare_collocations/">
-<icon BUILTIN="info_circle@b"/>
-<node TEXT="foolishness.mm" ID="ID_1325955562" CREATED="1637181382311" MODIFIED="1637181382315" LINK="compare_collocations/information/foolishness.mm"/>
-<node TEXT="exchanging information" ID="ID_454811070" CREATED="1637130958457" MODIFIED="1637130982915" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/exchanging%20information.mm"/>
-<node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/using.mm"/>
-<node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/possibility.mm"/>
-<node TEXT="human body" ID="ID_735615301" CREATED="1637166164110" MODIFIED="1637166186899" LINK="compare_collocations/human%20body/">
-<node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/human%20body/eating.mm"/>
-</node>
-<node TEXT="feelings" ID="ID_1080055901" CREATED="1637167076054" MODIFIED="1637167086394" LINK="compare_collocations/feelings/">
-<node TEXT="sadness" ID="ID_811330063" CREATED="1637167087534" MODIFIED="1637167104062" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/feelings/sadness.mm"/>
-<node TEXT="happiness" ID="ID_390070462" CREATED="1637408430479" MODIFIED="1637408439935" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/feelings/happiness.mm"/>
-<node TEXT="sorry" ID="ID_1666152936" CREATED="1640154321783" MODIFIED="1640154327921" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/feelings/sorry.mm"/>
-</node>
-<node TEXT="mind" ID="ID_189384173" CREATED="1637212827393" MODIFIED="1637212929844" LINK="compare_collocations/mind/">
-<node TEXT="imagination" ID="ID_788257158" CREATED="1637212932002" MODIFIED="1637212941502" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/mind/imagination.mm"/>
-<node TEXT="humor" ID="ID_1091407720" CREATED="1637215639908" MODIFIED="1637216180040" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/mind/humor.mm"/>
-<node TEXT="thinking" ID="ID_219942153" CREATED="1637425246287" MODIFIED="1637425256325" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/mind/thinking.mm"/>
-<node TEXT="preferences" ID="ID_1120180814" CREATED="1639809351536" MODIFIED="1639809357802" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/mind/preferences.mm"/>
-</node>
-<node TEXT="talking" ID="ID_49288193" CREATED="1637216129933" MODIFIED="1637216139511" LINK="compare_collocations/talking/">
-<node TEXT="blaming" ID="ID_1296721790" CREATED="1637324827784" MODIFIED="1637324841522" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/talking/blaming.mm"/>
-</node>
-<node TEXT="time" ID="ID_749047726" CREATED="1637326274490" MODIFIED="1637491530964" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/time/time.mm">
-<node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/time/past.mm"/>
-<node TEXT="future" ID="ID_1925617490" CREATED="1637491010019" MODIFIED="1637491014317" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/time/future.mm"/>
-</node>
-<node TEXT="space" ID="ID_856787488" CREATED="1639465841713" MODIFIED="1639465854781" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/space/space.mm">
-<node TEXT="moving in space" ID="ID_1224497661" CREATED="1639470632706" MODIFIED="1639470657343" LINK="file:/D:/archive/cloud_storages/google/languages/compare_collocations/space/moving%20in%20space.mm"/>
-</node>
-</node>
-<node TEXT="english" POSITION="right" ID="ID_1140432565" CREATED="1640279493235" MODIFIED="1640279500409" LINK="english/">
-<node TEXT="grammar" ID="ID_1461919541" CREATED="1640279501472" MODIFIED="1640279511203" LINK="file:/D:/archive/cloud_storages/google/languages/english/grammar.mm"/>
-</node>
+<node TEXT="type: " POSITION="left" ID="ID_419434046" CREATED="1640279511667" MODIFIED="1640279511669"/>
 <node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -309,6 +272,24 @@
 </node>
 </node>
 <node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
+</node>
+<node TEXT="relative clauses" POSITION="right" ID="ID_1863272915" CREATED="1640279511670" MODIFIED="1640279518241">
+<node TEXT="defining vs non-defining" ID="ID_1722054524" CREATED="1640279518483" MODIFIED="1640279523289">
+<node TEXT="" ID="ID_687275166" CREATED="1640279524341" MODIFIED="1640279634478">
+<icon BUILTIN="emoji-26F2"/>
+<node TEXT="" ID="ID_1682071634" CREATED="1640279619659" MODIFIED="1640279626443" LINK="https://dictionary.cambridge.org/grammar/british-grammar/relative-clauses-defining-and-non-defining"/>
+<node TEXT="" ID="ID_1807887691" CREATED="1640279643017" MODIFIED="1640279646219" LINK="https://www.twinkl.co.uk/teaching-wiki/non-defining-relative-clause"/>
+</node>
+</node>
+<node TEXT="defining" ID="ID_1390254397" CREATED="1640279529350" MODIFIED="1640279546765">
+<icon BUILTIN="bird2@b"/>
+<node TEXT="can omit the pronoun" ID="ID_1519038179" CREATED="1640279793346" MODIFIED="1640279809866"/>
+</node>
+<node TEXT="non-defining" ID="ID_1276157389" CREATED="1640279530882" MODIFIED="1640279546577">
+<icon BUILTIN="bird2@b"/>
+<node TEXT="no &quot;that&quot;" ID="ID_674779795" CREATED="1640279758106" MODIFIED="1640279763879"/>
+<node TEXT="only &quot;which&quot; and &quot;who&quot; (and their forms)" ID="ID_1864452877" CREATED="1640279766507" MODIFIED="1640279780852"/>
+</node>
 </node>
 </node>
 </map>

@@ -191,7 +191,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="because of that the scribe left islam" ID="ID_547002374" CREATED="1638843412911" MODIFIED="1638843540316"/>
 <node TEXT="quran scolds him for that" ID="ID_683069857" CREATED="1638844131565" MODIFIED="1638844147076" LINK="https://quran.com/6/93?translations=83,84,17,20,85,18,44,42,95,38,19,22,31,32,28,25"/>
@@ -234,6 +233,11 @@
 <node TEXT=" https://sunnah.com/bukhari:4987" ID="ID_1593854012" CREATED="1633675831990" MODIFIED="1633675870039" LINK="https://sunnah.com/bukhari:4987">
 <icon BUILTIN="emoji-26F2"/>
 </node>
+</node>
+</node>
+<node TEXT="revelation order" POSITION="right" ID="ID_84947403" CREATED="1639987931851" MODIFIED="1639987935197">
+<node TEXT="" ID="ID_1945484227" CREATED="1639987938426" MODIFIED="1639987942871" LINK="https://www.missionislam.com/quran/revealationorder.htm">
+<icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 </node>
