@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637160483756"><hook NAME="MapStyle" zoom="1.32">
+<node TEXT="weather" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1640971065865"><hook NAME="MapStyle" zoom="1.32">
     <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
@@ -137,47 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_1845730270" CREATED="1637160483930" MODIFIED="1637160483957"/>
-<node TEXT="learning arabic.mm" POSITION="right" ID="ID_659148485" CREATED="1633368713087" MODIFIED="1635882107112" LINK="study/learning%20arabic.mm">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="compare_colocations" POSITION="right" ID="ID_1720804096" CREATED="1637117029240" MODIFIED="1637161318968" LINK="compare_collocations/">
-<icon BUILTIN="info_circle@b"/>
-<node TEXT="foolishness.mm" ID="ID_1325955562" CREATED="1637181382311" MODIFIED="1637181382315" LINK="compare_collocations/information/foolishness.mm"/>
-<node TEXT="exchanging information" ID="ID_454811070" CREATED="1637130958457" MODIFIED="1640899053478" LINK="compare_collocations/exchanging%20information.mm"/>
-<node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="compare_collocations/using.mm"/>
-<node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="compare_collocations/possibility.mm"/>
-<node TEXT="human body" ID="ID_735615301" CREATED="1637166164110" MODIFIED="1637166186899" LINK="compare_collocations/human%20body/">
-<node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="compare_collocations/human%20body/eating.mm"/>
-</node>
-<node TEXT="feelings" ID="ID_1080055901" CREATED="1637167076054" MODIFIED="1637167086394" LINK="compare_collocations/feelings/">
-<node TEXT="sadness" ID="ID_811330063" CREATED="1637167087534" MODIFIED="1637167104062" LINK="compare_collocations/feelings/sadness.mm"/>
-<node TEXT="happiness" ID="ID_390070462" CREATED="1637408430479" MODIFIED="1637408439935" LINK="compare_collocations/feelings/happiness.mm"/>
-<node TEXT="sorry" ID="ID_1666152936" CREATED="1640154321783" MODIFIED="1640154327921" LINK="compare_collocations/feelings/sorry.mm"/>
-</node>
-<node TEXT="mind" ID="ID_189384173" CREATED="1637212827393" MODIFIED="1637212929844" LINK="compare_collocations/mind/">
-<node TEXT="imagination" ID="ID_788257158" CREATED="1637212932002" MODIFIED="1637212941502" LINK="compare_collocations/mind/imagination.mm"/>
-<node TEXT="humor" ID="ID_1091407720" CREATED="1637215639908" MODIFIED="1637216180040" LINK="compare_collocations/mind/humor.mm"/>
-<node TEXT="thinking" ID="ID_219942153" CREATED="1637425246287" MODIFIED="1637425256325" LINK="compare_collocations/mind/thinking.mm"/>
-<node TEXT="preferences" ID="ID_1120180814" CREATED="1639809351536" MODIFIED="1639809357802" LINK="compare_collocations/mind/preferences.mm"/>
-</node>
-<node TEXT="talking" ID="ID_49288193" CREATED="1637216129933" MODIFIED="1637216139511" LINK="compare_collocations/talking/">
-<node TEXT="blaming" ID="ID_1296721790" CREATED="1637324827784" MODIFIED="1637324841522" LINK="compare_collocations/talking/blaming.mm"/>
-</node>
-<node TEXT="time" ID="ID_749047726" CREATED="1637326274490" MODIFIED="1637491530964" LINK="compare_collocations/time/time.mm">
-<node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="compare_collocations/time/past.mm"/>
-<node TEXT="future" ID="ID_1925617490" CREATED="1637491010019" MODIFIED="1637491014317" LINK="compare_collocations/time/future.mm"/>
-</node>
-<node TEXT="space" ID="ID_856787488" CREATED="1639465841713" MODIFIED="1639465854781" LINK="compare_collocations/space/space.mm">
-<node TEXT="moving in space" ID="ID_1224497661" CREATED="1639470632706" MODIFIED="1639470657343" LINK="compare_collocations/space/moving%20in%20space.mm"/>
-</node>
-<node TEXT="being influenced by" ID="ID_1077031731" CREATED="1640970991928" MODIFIED="1640971042588" LINK="compare_collocations/being%20influenced%20by/">
-<node TEXT="weather" ID="ID_1345469567" CREATED="1640971046151" MODIFIED="1640971065632" LINK="file:/C:/google/knowledge/languages/compare_collocations/being%20influenced%20by/weather.mm"/>
-</node>
-</node>
-<node TEXT="english" POSITION="right" ID="ID_1140432565" CREATED="1640279493235" MODIFIED="1640279500409" LINK="english/">
-<node TEXT="grammar" ID="ID_1461919541" CREATED="1640279501472" MODIFIED="1640279511203" LINK="english/grammar.mm"/>
-</node>
+<node TEXT="type: compare_colocations" POSITION="left" ID="ID_1290904032" CREATED="1640971065905" MODIFIED="1640971065933"/>
 <node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -276,7 +236,7 @@
 <icon BUILTIN="smile@w"/>
 </node>
 </node>
-<node TEXT="control" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1639451537112">
+<node TEXT="control" LOCALIZED_STYLE_REF="default" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1640972178897" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
 <icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
@@ -312,6 +272,206 @@
 </node>
 </node>
 <node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
+</node>
+<node TEXT="precipitation" POSITION="right" ID="ID_1768085031" CREATED="1640971065934" MODIFIED="1640971086769">
+<node TEXT="being outside" ID="ID_1997283108" CREATED="1640972882394" MODIFIED="1640972891092">
+<node TEXT="in" ID="ID_897420606" CREATED="1640971087665" MODIFIED="1640971102894" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="the" ID="ID_1078841480" CREATED="1640971090437" MODIFIED="1640971102934" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="rain" ID="ID_377769398" CREATED="1640971096360" MODIFIED="1640971114754" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+</node>
+<node TEXT="snow" ID="ID_929270541" CREATED="1640971124428" MODIFIED="1640971682619" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="fall" ID="ID_694790177" CREATED="1640971653990" MODIFIED="1640983115674" COLOR="#666666">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<icon BUILTIN="question@b"/>
+<font STRIKETHROUGH="false"/>
+<node TEXT="ambiguity? how to distingwuish between snow from the sky and on the ground?" ID="ID_1287134355" CREATED="1640983348516" MODIFIED="1640983418338">
+<icon BUILTIN="question@b"/>
+<node TEXT="if &quot;in the snowfall&quot; isn&apos;t used" ID="ID_1152445421" CREATED="1640983439795" MODIFIED="1640983447821"/>
+</node>
+</node>
+</node>
+<node TEXT="hail" ID="ID_1878071754" CREATED="1640971134971" MODIFIED="1640983132441" COLOR="#666666" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="question@b"/>
+</node>
+<node TEXT="rain" LOCALIZED_STYLE_REF="default" ID="ID_1965002805" CREATED="1640971762023" MODIFIED="1640971769668" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<node TEXT="storm" ID="ID_143681512" CREATED="1640971715693" MODIFIED="1640971785730" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+</node>
+</node>
+<node TEXT="downpour" ID="ID_1216864038" CREATED="1640978394871" MODIFIED="1640978398878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+</node>
+</node>
+<node TEXT="في" LOCALIZED_STYLE_REF="default" ID="ID_582306273" CREATED="1640971861717" MODIFIED="1640972417013" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<node TEXT="ال" ID="ID_860192896" CREATED="1640971961134" MODIFIED="1640971966543" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="مَطَار" ID="ID_226174249" CREATED="1640971925147" MODIFIED="1640971952880" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
+</node>
+<node TEXT="تَحْت" LOCALIZED_STYLE_REF="default" ID="ID_1556518122" CREATED="1640971884461" MODIFIED="1640972408091" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+<node TEXT="bajo" ID="ID_1078763502" CREATED="1640973211771" MODIFIED="1640973263759" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<node TEXT="la" ID="ID_1544556557" CREATED="1640973224258" MODIFIED="1640978525990" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<node TEXT="lluvia" ID="ID_1453443107" CREATED="1640973227965" MODIFIED="1640973236175" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+</node>
+<node TEXT="nieve" ID="ID_516149881" CREATED="1640976306355" MODIFIED="1640976318185" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+</node>
+<node TEXT="el granizo" ID="ID_1047331266" CREATED="1640977969067" MODIFIED="1640983115677" COLOR="#666666">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="question@b"/>
+<icon BUILTIN="grammar/gender/masculine@b"/>
+<font STRIKETHROUGH="false" ITALIC="false"/>
+</node>
+<node TEXT="el aguacero" ID="ID_1455625078" CREATED="1640978453493" MODIFIED="1640980552849" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="grammar/gender/masculine@b"/>
+</node>
+</node>
+</node>
+<node TEXT="en" LOCALIZED_STYLE_REF="default" ID="ID_456919936" CREATED="1640973200170" MODIFIED="1640973266877" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+</node>
+<node TEXT="con" ID="ID_646120759" CREATED="1640973219812" MODIFIED="1640973221616" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="lluvia" LOCALIZED_STYLE_REF="default" ID="ID_1390835119" CREATED="1640973227965" MODIFIED="1640976301914" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="control/comment"/>
+</node>
+</node>
+<node TEXT="sous" ID="ID_1426105811" CREATED="1640973336388" MODIFIED="1640973352346" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<node TEXT="la" ID="ID_1002550075" CREATED="1640973340449" MODIFIED="1640973348289" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="pluie" ID="ID_1475861843" CREATED="1640973341733" MODIFIED="1640976184256" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+</node>
+<node TEXT="neige" ID="ID_341240940" CREATED="1640975600218" MODIFIED="1640975604593" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+</node>
+<node TEXT="grêle" ID="ID_1174857660" CREATED="1640976166770" MODIFIED="1640983115677" COLOR="#666666">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<icon BUILTIN="question@b"/>
+</node>
+</node>
+</node>
+<node TEXT="dans" ID="ID_1917497422" CREATED="1640973352966" MODIFIED="1640973356578" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="pluie" LOCALIZED_STYLE_REF="default" ID="ID_137288397" CREATED="1640973341733" MODIFIED="1640976287447" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<icon BUILTIN="control/comment"/>
+</node>
+</node>
+<node TEXT="σ" ID="ID_1757460042" CREATED="1640975056128" MODIFIED="1640985031900" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<node TEXT="τη" ID="ID_1864378155" CREATED="1640985024547" MODIFIED="1640985125783" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<node TEXT="βροχί" LOCALIZED_STYLE_REF="default" ID="ID_1212276650" CREATED="1640975074695" MODIFIED="1640985195079" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="grammar/gender/feminine@b"/>
+</node>
+<node TEXT="χιόνι" ID="ID_40811046" CREATED="1640984147972" MODIFIED="1640986595496" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<icon BUILTIN="grammar/gender/neuter@b"/>
+</node>
+<node TEXT="χαλάζι" ID="ID_1606456238" CREATED="1640986670060" MODIFIED="1640986688017" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<icon BUILTIN="grammar/gender/neuter@b"/>
+</node>
+<node TEXT="την" ID="ID_1107541195" CREATED="1640975093876" MODIFIED="1640985061020" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<icon BUILTIN="punctuation/equal@b"/>
+</node>
+</node>
+<node TEXT="το" LOCALIZED_STYLE_REF="default" ID="ID_1176769954" CREATED="1640985072963" MODIFIED="1640985089894" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+</node>
+</node>
+<node ID="ID_468204767" CREATED="1640980599962" MODIFIED="1640980825245" COLOR="#000000">
+<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="heraldics/earth_flag"/>
+<icon BUILTIN="bad@bleak"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      in the <b>hail</b>&nbsp;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="seldom used (all languages)" ID="ID_283492128" CREATED="1640980827141" MODIFIED="1640980850821"/>
+</node>
+</node>
+<node TEXT="damaged by" ID="ID_1276691690" CREATED="1640972891665" MODIFIED="1640972902670">
+<node TEXT="the carpet" ID="ID_412689614" CREATED="1640972903547" MODIFIED="1640973059520" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="box_inscribed@b"/>
+<node TEXT="got soaked" ID="ID_1745722792" CREATED="1640972915197" MODIFIED="1640972929558" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="from" ID="ID_269877628" CREATED="1640972918638" MODIFIED="1640972978582" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="the" ID="ID_1989854810" CREATED="1640972935402" MODIFIED="1640972938079" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="rain" ID="ID_1446870039" CREATED="1640972921351" MODIFIED="1640972943027" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="la alfombra" ID="ID_1393740814" CREATED="1640972996830" MODIFIED="1640973172794" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="box_inscribed@b"/>
+<node TEXT="se mojó" ID="ID_1143514719" CREATED="1640973004660" MODIFIED="1640973026757" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="por" ID="ID_480986482" CREATED="1640973028912" MODIFIED="1640973139439" LINK="https://www.realfastspanish.com/grammar/verbs-prepositions" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="la" ID="ID_713189032" CREATED="1640973033457" MODIFIED="1640973041240" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="lluvia" ID="ID_1218707416" CREATED="1640973035532" MODIFIED="1640973044383" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 </map>

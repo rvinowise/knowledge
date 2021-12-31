@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -164,7 +164,7 @@
 </node>
 <node TEXT="nature" ID="ID_1476016535" CREATED="1633368533504" MODIFIED="1635773283867">
 <font NAME="Tahoma"/>
-<node TEXT="languages" ID="ID_240520434" CREATED="1635246372876" MODIFIED="1637160483237" LINK="file:/D:/archive/cloud_storages/google/languages/languages.mm">
+<node TEXT="languages" ID="ID_240520434" CREATED="1635246372876" MODIFIED="1640897915980" LINK="languages/languages.mm">
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="attention schema theory.mm" ID="ID_1274837309" CREATED="1633368586381" MODIFIED="1635882118961" LINK="study/attention%20schema%20theory.mm">
@@ -215,7 +215,7 @@
 </node>
 <node TEXT="videos" ID="ID_1543987241" CREATED="1634111893558" MODIFIED="1635773283872" LINK="videos/">
 <font NAME="Tahoma"/>
-<node TEXT="violin" ID="ID_1848283519" CREATED="1634123313790" MODIFIED="1635773283872" LINK="file:/D:/archive/cloud_storages/google/videos/violin.mm">
+<node TEXT="violin" ID="ID_1848283519" CREATED="1634123313790" MODIFIED="1640828028748" LINK="videos/violin.mm">
 <font NAME="Tahoma"/>
 </node>
 </node>
