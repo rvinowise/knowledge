@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637160483756"><hook NAME="MapStyle" zoom="1.32">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -144,37 +144,39 @@
 <node TEXT="compare_colocations" POSITION="right" ID="ID_1720804096" CREATED="1637117029240" MODIFIED="1637161318968" LINK="compare_collocations/">
 <icon BUILTIN="info_circle@b"/>
 <node TEXT="foolishness.mm" ID="ID_1325955562" CREATED="1637181382311" MODIFIED="1637181382315" LINK="compare_collocations/information/foolishness.mm"/>
-<node TEXT="exchanging information" ID="ID_454811070" CREATED="1637130958457" MODIFIED="1637130982915" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/exchanging%20information.mm"/>
-<node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/using.mm"/>
-<node TEXT="having" ID="ID_970334069" CREATED="1640747045650" MODIFIED="1640747055218" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/having.mm"/>
-<node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/possibility.mm"/>
+<node TEXT="exchanging information" ID="ID_454811070" CREATED="1637130958457" MODIFIED="1640899053478" LINK="compare_collocations/exchanging%20information.mm"/>
+<node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="compare_collocations/using.mm"/>
+<node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="compare_collocations/possibility.mm"/>
 <node TEXT="human body" ID="ID_735615301" CREATED="1637166164110" MODIFIED="1637166186899" LINK="compare_collocations/human%20body/">
-<node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/human%20body/eating.mm"/>
+<node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="compare_collocations/human%20body/eating.mm"/>
 </node>
 <node TEXT="feelings" ID="ID_1080055901" CREATED="1637167076054" MODIFIED="1637167086394" LINK="compare_collocations/feelings/">
-<node TEXT="sadness" ID="ID_811330063" CREATED="1637167087534" MODIFIED="1637167104062" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/feelings/sadness.mm"/>
-<node TEXT="happiness" ID="ID_390070462" CREATED="1637408430479" MODIFIED="1637408439935" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/feelings/happiness.mm"/>
-<node TEXT="sorry" ID="ID_1666152936" CREATED="1640154321783" MODIFIED="1640154327921" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/feelings/sorry.mm"/>
+<node TEXT="sadness" ID="ID_811330063" CREATED="1637167087534" MODIFIED="1637167104062" LINK="compare_collocations/feelings/sadness.mm"/>
+<node TEXT="happiness" ID="ID_390070462" CREATED="1637408430479" MODIFIED="1637408439935" LINK="compare_collocations/feelings/happiness.mm"/>
+<node TEXT="sorry" ID="ID_1666152936" CREATED="1640154321783" MODIFIED="1640154327921" LINK="compare_collocations/feelings/sorry.mm"/>
 </node>
 <node TEXT="mind" ID="ID_189384173" CREATED="1637212827393" MODIFIED="1637212929844" LINK="compare_collocations/mind/">
-<node TEXT="imagination" ID="ID_788257158" CREATED="1637212932002" MODIFIED="1637212941502" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/mind/imagination.mm"/>
-<node TEXT="humor" ID="ID_1091407720" CREATED="1637215639908" MODIFIED="1637216180040" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/mind/humor.mm"/>
-<node TEXT="thinking" ID="ID_219942153" CREATED="1637425246287" MODIFIED="1637425256325" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/mind/thinking.mm"/>
-<node TEXT="preferences" ID="ID_1120180814" CREATED="1639809351536" MODIFIED="1639809357802" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/mind/preferences.mm"/>
+<node TEXT="imagination" ID="ID_788257158" CREATED="1637212932002" MODIFIED="1637212941502" LINK="compare_collocations/mind/imagination.mm"/>
+<node TEXT="humor" ID="ID_1091407720" CREATED="1637215639908" MODIFIED="1637216180040" LINK="compare_collocations/mind/humor.mm"/>
+<node TEXT="thinking" ID="ID_219942153" CREATED="1637425246287" MODIFIED="1637425256325" LINK="compare_collocations/mind/thinking.mm"/>
+<node TEXT="preferences" ID="ID_1120180814" CREATED="1639809351536" MODIFIED="1639809357802" LINK="compare_collocations/mind/preferences.mm"/>
 </node>
 <node TEXT="talking" ID="ID_49288193" CREATED="1637216129933" MODIFIED="1637216139511" LINK="compare_collocations/talking/">
-<node TEXT="blaming" ID="ID_1296721790" CREATED="1637324827784" MODIFIED="1637324841522" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/blaming.mm"/>
+<node TEXT="blaming" ID="ID_1296721790" CREATED="1637324827784" MODIFIED="1637324841522" LINK="compare_collocations/talking/blaming.mm"/>
 </node>
-<node TEXT="time" ID="ID_749047726" CREATED="1637326274490" MODIFIED="1637491530964" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/time/time.mm">
-<node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/time/past.mm"/>
-<node TEXT="future" ID="ID_1925617490" CREATED="1637491010019" MODIFIED="1637491014317" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/time/future.mm"/>
+<node TEXT="time" ID="ID_749047726" CREATED="1637326274490" MODIFIED="1637491530964" LINK="compare_collocations/time/time.mm">
+<node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="compare_collocations/time/past.mm"/>
+<node TEXT="future" ID="ID_1925617490" CREATED="1637491010019" MODIFIED="1637491014317" LINK="compare_collocations/time/future.mm"/>
 </node>
-<node TEXT="space" ID="ID_856787488" CREATED="1639465841713" MODIFIED="1639465854781" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/space/space.mm">
-<node TEXT="moving in space" ID="ID_1224497661" CREATED="1639470632706" MODIFIED="1639470657343" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/space/moving%20in%20space.mm"/>
+<node TEXT="space" ID="ID_856787488" CREATED="1639465841713" MODIFIED="1639465854781" LINK="compare_collocations/space/space.mm">
+<node TEXT="moving in space" ID="ID_1224497661" CREATED="1639470632706" MODIFIED="1639470657343" LINK="compare_collocations/space/moving%20in%20space.mm"/>
+</node>
+<node TEXT="being influenced by" ID="ID_1077031731" CREATED="1640970991928" MODIFIED="1640971042588" LINK="compare_collocations/being%20influenced%20by/">
+<node TEXT="weather" ID="ID_1345469567" CREATED="1640971046151" MODIFIED="1640971065632" LINK="file:/C:/google/knowledge/languages/compare_collocations/being%20influenced%20by/weather.mm"/>
 </node>
 </node>
 <node TEXT="english" POSITION="right" ID="ID_1140432565" CREATED="1640279493235" MODIFIED="1640279500409" LINK="english/">
-<node TEXT="grammar" ID="ID_1461919541" CREATED="1640279501472" MODIFIED="1640279511203" LINK="file:/D:/archive/cloud_storages/knowledge/languages/english/grammar.mm"/>
+<node TEXT="grammar" ID="ID_1461919541" CREATED="1640279501472" MODIFIED="1640279511203" LINK="english/grammar.mm"/>
 </node>
 <node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
