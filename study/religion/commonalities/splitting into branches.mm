@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="splitting into branches" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635619791742"><hook NAME="MapStyle" zoom="1.026">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/google/index.mm" fit_to_viewport="false"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">

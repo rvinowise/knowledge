@@ -358,8 +358,9 @@
 </node>
 </node>
 </node>
-<node TEXT="أنا" ID="ID_133942362" CREATED="1639818746949" MODIFIED="1639818759331" COLOR="#000000">
+<node TEXT="أنا" ID="ID_133942362" CREATED="1639818746949" MODIFIED="1640447838584" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 <node TEXT="أُحِبُّ" ID="ID_1439289035" CREATED="1639818762906" MODIFIED="1639818789072" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="الآيْس كْرِيم" ID="ID_1640965769" CREATED="1639818794585" MODIFIED="1639882666484" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
@@ -376,6 +377,22 @@
 </node>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="يُعجِبُنِي" ID="ID_1560251962" CREATED="1640447764979" MODIFIED="1640447817321" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+<node TEXT="يُعجِبُ" ID="ID_370161624" CREATED="1640447858452" MODIFIED="1640447888833" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="نِي" ID="ID_1668348844" CREATED="1640447892547" MODIFIED="1640448572481" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+</node>
+<node TEXT="تُعجِبُ `inanimate" ID="ID_90327864" CREATED="1640447915198" MODIFIED="1640448609841" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="grammar/plural"/>
+<icon BUILTIN="punctuation/equal@b"/>
 </node>
 </node>
 <node TEXT="me" ID="ID_1671089939" CREATED="1639812893919" MODIFIED="1639812914641" COLOR="#000000">

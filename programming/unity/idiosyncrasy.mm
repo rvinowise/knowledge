@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="sadness" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637167104213"><hook NAME="MapStyle" zoom="1.452">
+<node TEXT="idiosyncrasy" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1640791267265"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -137,138 +137,100 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: compare_colocations" POSITION="left" ID="ID_1529510207" CREATED="1637167104219" MODIFIED="1637167104221"/>
-<node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="amerian english" ID="ID_682913888" CREATED="1637117102145" MODIFIED="1637128718255"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="type: project" POSITION="left" ID="ID_1043601773" CREATED="1640791267280" MODIFIED="1640791267283"/>
+<node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
+<font NAME="Tahoma"/>
+<node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
+<font NAME="Tahoma" BOLD="true"/>
+<node TEXT="topic" ID="ID_1565487616" CREATED="1633811189288" MODIFIED="1635773283874" COLOR="#7f7f7f">
+<font NAME="Tahoma" BOLD="true"/>
+</node>
+<node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
+<icon BUILTIN="question@b"/>
+<font NAME="Tahoma" ITALIC="true"/>
+</node>
+<node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
+<icon BUILTIN="emoji-26F2"/>
+<richcontent TYPE="NODE">
+
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      AME
+      name of a source <i>a phrase in a source to find it</i>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<font NAME="Tahoma" ITALIC="false"/>
 </node>
 </node>
-<node TEXT="2" ID="ID_1773790543" CREATED="1637117154806" MODIFIED="1637131455805">
-<icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<node TEXT="spanish" ID="ID_1958522291" CREATED="1637117154806" MODIFIED="1637128709006"/>
+<node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
+<font NAME="Tahoma"/>
+<node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
+<icon BUILTIN="present@b"/>
+<font NAME="Tahoma"/>
 </node>
-<node TEXT="3" ID="ID_1473592466" CREATED="1637125216163" MODIFIED="1637131457083">
-<icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<node TEXT="french" ID="ID_434342138" CREATED="1637117151189" MODIFIED="1637128583329" BACKGROUND_COLOR="#ffffff"/>
+<node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
+<icon BUILTIN="bird2@b"/>
+<font NAME="Tahoma"/>
 </node>
-<node TEXT="4" ID="ID_403235329" CREATED="1637126462159" MODIFIED="1637131457796">
-<icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<node TEXT="greek" ID="ID_1698930108" CREATED="1637117158741" MODIFIED="1637128583329"/>
+<node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="question@b"/>
+<icon BUILTIN="question@b"/>
+<font NAME="Tahoma"/>
 </node>
-<node TEXT="5" ID="ID_632092175" CREATED="1637126465234" MODIFIED="1637131458352">
-<icon BUILTIN="heraldics/roman_empire"/>
-<node TEXT="latin" ID="ID_1156533169" CREATED="1637117168846" MODIFIED="1637128583330"/>
+<node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
+<icon BUILTIN="box_inscribed@b"/>
+<font NAME="Tahoma"/>
 </node>
-<node TEXT="6" ID="ID_93050694" CREATED="1637126468425" MODIFIED="1637131459075">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<node TEXT="standard arabic" ID="ID_749941288" CREATED="1637117160288" MODIFIED="1637128673461"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="" ID="ID_85762982" CREATED="1633811933391" MODIFIED="1635773283879" BACKGROUND_COLOR="#e5e5e5">
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
+<font NAME="Tahoma"/>
+<node TEXT="100 bc - 50bc" ID="ID_1628273348" CREATED="1633812654399" MODIFIED="1635773283879">
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="100 CE" ID="ID_1944988493" CREATED="1633812721835" MODIFIED="1635773283880">
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="100AD" ID="ID_1020979489" CREATED="1633812760263" MODIFIED="1635773283881">
+<font NAME="Tahoma"/>
+</node>
+</node>
+<node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
+<icon BUILTIN="question@b"/>
+<font NAME="Tahoma"/>
+<node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
+
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      MSA
+      questionable node
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<font NAME="Tahoma"/>
 </node>
-</node>
-<node TEXT="7" ID="ID_49222917" CREATED="1637128504162" MODIFIED="1637131459846">
-<icon BUILTIN="emoji-1F1EC-1F1E7"/>
-<node TEXT="british english" ID="ID_1532772911" CREATED="1637128525577" MODIFIED="1637128747347"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      BRE
-    </p>
-  </body>
-</html></richcontent>
+<node TEXT="question for sb" ID="ID_1568891880" CREATED="1633811581054" MODIFIED="1635773283883">
+<font NAME="Tahoma"/>
 </node>
 </node>
 </node>
-<node TEXT="sad" POSITION="right" ID="ID_62295374" CREATED="1637167104223" MODIFIED="1637167108105" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="triste" ID="ID_1649133292" CREATED="1637167108680" MODIFIED="1637167112332" COLOR="#000000">
-<icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
-<node TEXT="trîstîs -e" ID="ID_1109013950" CREATED="1637167136386" MODIFIED="1637337053413" COLOR="#000000">
-<icon BUILTIN="heraldics/roman_empire"/>
-</node>
-<node TEXT="حَزِين" ID="ID_1229635112" CREATED="1637167143239" MODIFIED="1637407883391" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="smile@w"/>
-<node TEXT="حُزَناء" ID="ID_411578917" CREATED="1637407960344" MODIFIED="1637408026618">
-<icon BUILTIN="grammar/plural"/>
-<icon BUILTIN="grammar/gender/masculine@b"/>
-</node>
-</node>
-<node TEXT="حَزِن" LOCALIZED_STYLE_REF="default" ID="ID_1581575301" CREATED="1637408158664" MODIFIED="1637408183557" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<node TEXT="حِزان" ID="ID_1122483054" CREATED="1637408188645" MODIFIED="1637408234727">
-<icon BUILTIN="grammar/plural"/>
-<icon BUILTIN="grammar/gender/both_genders@b"/>
-</node>
-</node>
-</node>
-<node TEXT="sadness" POSITION="right" ID="ID_1874671901" CREATED="1637408323930" MODIFIED="1637408327122" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="حُزن" ID="ID_1199005483" CREATED="1637408327505" MODIFIED="1637408340478" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-</node>
-<node TEXT="tristitia" ID="ID_86009355" CREATED="1640802288181" MODIFIED="1640802295470" COLOR="#000000">
-<icon BUILTIN="heraldics/roman_empire"/>
-</node>
-</node>
-<node TEXT="unhappy" POSITION="right" ID="ID_1177811954" CREATED="1637211997231" MODIFIED="1637212002224" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-</node>
-<node TEXT="miserable" POSITION="right" ID="ID_1156811625" CREATED="1637365791213" MODIFIED="1637365801924" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="بَائِس" ID="ID_989076234" CREATED="1637365803371" MODIFIED="1637408016682" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="smile@w"/>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      سالم
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node TEXT="regret" POSITION="right" ID="ID_398197048" CREATED="1640802332345" MODIFIED="1640802334595">
-<node TEXT="regret" ID="ID_211041237" CREATED="1637366287358" MODIFIED="1637366291621" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="feel NN" ID="ID_1513926314" CREATED="1637366294100" MODIFIED="1637366298934" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-</node>
-</node>
-<node TEXT="نَدَم" ID="ID_1072300997" CREATED="1637366299835" MODIFIED="1637366319789" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<node TEXT="بِ *" ID="ID_463347267" CREATED="1637366320783" MODIFIED="1637366431433" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<node TEXT="يَشعَر *" ID="ID_513110039" CREATED="1637366341833" MODIFIED="1637366438092" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="design problems" POSITION="right" ID="ID_80631445" CREATED="1640791267286" MODIFIED="1640791281612">
+<node TEXT="for backward compatibility" ID="ID_1323697307" CREATED="1640791281912" MODIFIED="1640791294504">
+<node TEXT="Vector2 vs Vector3 inconsistencies" ID="ID_1754845662" CREATED="1640791294681" MODIFIED="1640791320625" LINK="https://forum.unity.com/threads/implicit-conversion-between-vector2-and-vector3.621676/">
+<node TEXT="impact of changing these APIs now is considered high risk and could affect a lot of active projects." ID="ID_1495012206" CREATED="1640791321589" MODIFIED="1640791356353">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
 </node>
 </node>
 </node>

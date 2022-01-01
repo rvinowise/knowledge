@@ -139,7 +139,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="mormonism.mm" ID="ID_1231613580" CREATED="1635790858579" MODIFIED="1635882552977" LINK="mormonism/mormonism.mm" COLOR="#000000"/>
-<node TEXT="druze" ID="ID_106240633" CREATED="1636179020269" MODIFIED="1636179037048" LINK="file:/D:/archive/cloud_storages/google/study/religion/druze/druze.mm"/>
+<node TEXT="druze" ID="ID_106240633" CREATED="1636179020269" MODIFIED="1636179037048" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/druze/druze.mm"/>
 <node TEXT="islam" ID="ID_232435923" CREATED="1634263754471" MODIFIED="1635831178852" LINK="islam/" COLOR="#000000">
 <icon BUILTIN="present@b"/>
 <font NAME="Tahoma" BOLD="false"/>
@@ -168,7 +168,7 @@
 <font NAME="Tahoma"/>
 </node>
 </node>
-<node TEXT="islamic family" ID="ID_226197633" CREATED="1638746705801" MODIFIED="1638746711663" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/islamic%20family.mm"/>
+<node TEXT="islamic family" ID="ID_226197633" CREATED="1638746705801" MODIFIED="1638746711663" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/islamic%20family.mm"/>
 <node TEXT="quran" ID="ID_985903310" CREATED="1633564793856" MODIFIED="1635791415609" COLOR="#000000">
 <font NAME="Tahoma"/>
 <node TEXT="different qurans" ID="ID_646333169" CREATED="1633468841195" MODIFIED="1635831224849" LINK="islam/different%20qurans.mm" COLOR="#000000">
@@ -180,7 +180,7 @@
 <node TEXT="history of quranic text" ID="ID_1389013164" CREATED="1633564658225" MODIFIED="1635882569164" LINK="islam/history%20of%20quranic%20text.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="quranic challenge" ID="ID_653709748" CREATED="1638382777349" MODIFIED="1638382787632" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/quranic%20challenge.mm"/>
+<node TEXT="quranic challenge" ID="ID_653709748" CREATED="1638382777349" MODIFIED="1638382787632" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/quranic%20challenge.mm"/>
 </node>
 <node TEXT="satan" ID="ID_1911431146" CREATED="1633686322952" MODIFIED="1635882571903" LINK="islam/satan.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
@@ -200,16 +200,16 @@
 <node TEXT="free will" ID="ID_1473337528" CREATED="1635275854774" MODIFIED="1635882577828" LINK="islam/free%20will.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="anthropomorphic god" ID="ID_319822104" CREATED="1635986781641" MODIFIED="1635986793592" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/anthropomorphic%20god.mm"/>
-<node TEXT="scientific miracles" ID="ID_1986926372" CREATED="1636419391064" MODIFIED="1636419410298" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/scientific%20miracles.mm"/>
-<node TEXT="preservation of faith" ID="ID_1284423865" CREATED="1636442137528" MODIFIED="1636442159163" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/preservation%20of%20faith.mm"/>
+<node TEXT="anthropomorphic god" ID="ID_319822104" CREATED="1635986781641" MODIFIED="1635986793592" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/anthropomorphic%20god.mm"/>
+<node TEXT="scientific miracles" ID="ID_1986926372" CREATED="1636419391064" MODIFIED="1636419410298" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/scientific%20miracles.mm"/>
+<node TEXT="preservation of faith" ID="ID_1284423865" CREATED="1636442137528" MODIFIED="1636442159163" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/preservation%20of%20faith.mm"/>
 <node TEXT="akh rashid refuting miracles" ID="ID_1630753467" CREATED="1637143615723" MODIFIED="1637143699068" LINK="https://www.youtube.com/playlist?list=PLeALEPpd_E-kJna1EbQNT05eIiyRzSUvW">
 <icon BUILTIN="book_open@b"/>
 </node>
-<node TEXT="humiliating jizyah" ID="ID_1164451940" CREATED="1637890291821" MODIFIED="1637890333638" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/humiliating%20jizyah.mm"/>
-<node TEXT="test" ID="ID_362498648" CREATED="1638679118086" MODIFIED="1638679119643" LINK="file:/D:/archive/cloud_storages/google/study/religion/islam/test.mm"/>
+<node TEXT="humiliating jizyah" ID="ID_1164451940" CREATED="1637890291821" MODIFIED="1637890333638" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/humiliating%20jizyah.mm"/>
+<node TEXT="test" ID="ID_362498648" CREATED="1638679118086" MODIFIED="1638679119643" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/test.mm"/>
 </node>
-<node TEXT="christianity" ID="ID_840596349" CREATED="1634263757943" MODIFIED="1636643399547" LINK="file:/D:/archive/cloud_storages/google/study/religion/christianity/christianity.mm" COLOR="#000000">
+<node TEXT="christianity" ID="ID_840596349" CREATED="1634263757943" MODIFIED="1636643399547" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/christianity/christianity.mm" COLOR="#000000">
 <icon BUILTIN="present@b"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
@@ -218,8 +218,8 @@
 <node TEXT="noah ark" ID="ID_118871549" CREATED="1635360281252" MODIFIED="1635882583915" LINK="judaism/noah%20ark.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="sexualty" ID="ID_1187401060" CREATED="1638678761938" MODIFIED="1638679194960" LINK="file:/D:/archive/cloud_storages/google/study/religion/./judaism/sexualty.mm"/>
-<node TEXT="anthropomorphic god" ID="ID_1200892192" CREATED="1638689063311" MODIFIED="1638689075331" LINK="file:/D:/archive/cloud_storages/google/study/religion/./judaism/anthropomorphic%20god.mm"/>
+<node TEXT="sexualty" ID="ID_1187401060" CREATED="1638678761938" MODIFIED="1638679194960" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/./judaism/sexualty.mm"/>
+<node TEXT="anthropomorphic god" ID="ID_1200892192" CREATED="1638689063311" MODIFIED="1638689075331" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/./judaism/anthropomorphic%20god.mm"/>
 </node>
 </node>
 <node TEXT="dharmic religions" ID="ID_326905649" CREATED="1634263846881" MODIFIED="1635791415615" COLOR="#000000">
@@ -258,7 +258,7 @@
 <font NAME="Tahoma"/>
 </node>
 </node>
-<node TEXT="paganism" ID="ID_1490583204" CREATED="1635981146827" MODIFIED="1635981230303" LINK="file:/D:/archive/cloud_storages/google/study/religion/paganism/paganism.mm"/>
+<node TEXT="paganism" ID="ID_1490583204" CREATED="1635981146827" MODIFIED="1635981230303" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/paganism/paganism.mm"/>
 </node>
 <node TEXT="by god" FOLDED="true" POSITION="right" ID="ID_636406165" CREATED="1634263957454" MODIFIED="1635791415619" COLOR="#000000">
 <font NAME="Tahoma" BOLD="false"/>
@@ -330,15 +330,16 @@
 <font NAME="Tahoma"/>
 </node>
 </node>
-<node TEXT="death of leaders" ID="ID_1428454932" CREATED="1636178502224" MODIFIED="1636178526295" LINK="file:/D:/archive/cloud_storages/google/study/religion/commonalities/death%20of%20leaders.mm"/>
-<node TEXT="reincarnation" ID="ID_1849700458" CREATED="1636179418194" MODIFIED="1636179428945" LINK="file:/D:/archive/cloud_storages/google/study/religion/commonalities/reincarnation.mm"/>
+<node TEXT="death of leaders" ID="ID_1428454932" CREATED="1636178502224" MODIFIED="1636178526295" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/commonalities/death%20of%20leaders.mm"/>
+<node TEXT="reincarnation" ID="ID_1849700458" CREATED="1636179418194" MODIFIED="1636179428945" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/commonalities/reincarnation.mm"/>
 <node TEXT="elements" ID="ID_1680510133" CREATED="1634530644312" MODIFIED="1635961671992" COLOR="#000000">
 <font NAME="Tahoma"/>
 <node TEXT="immaterial spirit `name" ID="ID_1308075928" CREATED="1634530657360" MODIFIED="1636424361826" LINK="immaterial%20spirit.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
 </node>
-<node TEXT="apologetics" ID="ID_600100721" CREATED="1636768376763" MODIFIED="1636768421550" LINK="file:/D:/archive/cloud_storages/google/study/religion/commonalities/apologetics.mm"/>
+<node TEXT="apologetics" ID="ID_600100721" CREATED="1636768376763" MODIFIED="1636768421550" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/commonalities/apologetics.mm"/>
+<node TEXT="bubble preservation" ID="ID_1600360894" CREATED="1640520665224" MODIFIED="1640520736748" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/commonalities/bubble%20preservation.mm"/>
 </node>
 <node TEXT="comparative religion" POSITION="right" ID="ID_1569280921" CREATED="1634642289333" MODIFIED="1635791415628" COLOR="#000000">
 <font NAME="Tahoma"/>

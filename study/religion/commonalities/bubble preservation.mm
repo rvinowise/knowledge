@@ -8,7 +8,9 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="free will" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1636335438336"><hook NAME="MapStyle" zoom="1.242">
+<node TEXT="bubble preservation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1640520737070" COLOR="#ffffff">
+<font NAME="Tahoma" BOLD="false"/>
+<hook NAME="MapStyle" zoom="1.242">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -17,9 +19,9 @@
 <edge COLOR="#000000"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
-<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" VGAP_QUANTITY="2 pt" MAX_WIDTH="10 cm" MIN_WIDTH="0 cm">
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" MAX_WIDTH="10 cm" MIN_WIDTH="0 cm" VGAP_QUANTITY="2 pt">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="DEFAULT" ENDARROW="NONE"/>
-<font NAME="Verdana" SIZE="10" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
+<font NAME="Lucida Sans Unicode" SIZE="10" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 <edge STYLE="bezier" COLOR="#000000" WIDTH="1" DASH="SOLID"/>
@@ -122,76 +124,21 @@
 </stylenode>
 </map_styles>
 </hook>
-<font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_946906643" CREATED="1635275866501" MODIFIED="1636335438337">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="no free will in scriptures" POSITION="right" ID="ID_1403582153" CREATED="1635276627313" MODIFIED="1636335438337">
-<font NAME="Tahoma"/>
-<node TEXT="god decides what we believe" ID="ID_508715729" CREATED="1635275866504" MODIFIED="1636335438337">
-<font NAME="Tahoma"/>
-<node TEXT="god Seals hearts of disbelievers" ID="ID_1341651589" CREATED="1635277613292" MODIFIED="1636335438338" LINK="https://quran.com/2/6-7">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="god Made some people for hell" ID="ID_1530377358" CREATED="1635277844343" MODIFIED="1636335438339" LINK="https://quranx.com/7.178-179">
-<font NAME="Tahoma"/>
-<node TEXT="" ID="ID_456003454" CREATED="1636335371732" MODIFIED="1636335438339" LINK="https://quran.com/7:179">
+<node TEXT="type: " POSITION="left" ID="ID_1389675568" CREATED="1640520737090" MODIFIED="1640520737097"/>
+<node TEXT="" POSITION="left" ID="ID_205331815" CREATED="1635513370800" MODIFIED="1635791415593" COLOR="#000000">
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="ذرأ = create" ID="ID_469095723" CREATED="1636335400815" MODIFIED="1636335460013" LINK="https://en.wiktionary.org/wiki/%D8%B0%D8%B1%D8%A3">
-<font NAME="Tahoma"/>
-</node>
-</node>
-<node TEXT="No soul can believe, except by the Will of Allah" ID="ID_386426581" CREATED="1635277850639" MODIFIED="1636335438341" LINK="https://quranx.com/10.99-100">
+<node TEXT="in totalitarian mind-controlling cults" POSITION="right" ID="ID_1938561887" CREATED="1640520747440" MODIFIED="1640520807564">
+<node TEXT="islam" LOCALIZED_STYLE_REF="default" ID="ID_1471832716" CREATED="1640520737099" MODIFIED="1640520816110" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="don&apos;t befriend non-muslims" ID="ID_1896585819" CREATED="1640520765686" MODIFIED="1640520825256">
 <icon BUILTIN="quote@b"/>
-<font NAME="Tahoma" ITALIC="true"/>
-</node>
-<node TEXT="But you cannot will it unless God wills" ID="ID_631714215" CREATED="1635280699521" MODIFIED="1636335438342" LINK="https://quranx.com/76.29-30">
-<icon BUILTIN="quote@b"/>
-<font NAME="Tahoma" ITALIC="true"/>
-</node>
-<node TEXT="while you&apos;re in the womb" ID="ID_1040208532" CREATED="1640539533676" MODIFIED="1640539545877" LINK="https://sunnah.com/bukhari:318"/>
-</node>
-<node TEXT=" angel writes down beliefs of a person in advance" ID="ID_1865216299" CREATED="1635277261647" MODIFIED="1636335438343" LINK="https://sunnah.com/bukhari:3208">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="" ID="ID_724563036" CREATED="1640539528026" MODIFIED="1640539528026"/>
-<node TEXT="wikiislam" ID="ID_697811072" CREATED="1635281835728" MODIFIED="1636335438344" LINK="https://wikiislam.net/wiki/Free_Will_and_Predestination_in_Islam">
+<font ITALIC="true"/>
+<node TEXT="overview of prohibitions from scriptires" ID="ID_1384280069" CREATED="1640520776698" MODIFIED="1640526171966" LINK="https://www.islamweb.net/en/fatwa/87176/having-non-muslim-friends">
 <icon BUILTIN="emoji-26F2"/>
-<font NAME="Tahoma"/>
 </node>
-<node TEXT="god&apos;s predestination" ID="ID_1157166782" CREATED="1636176583331" MODIFIED="1636335438344">
-<font NAME="Tahoma"/>
-<node TEXT="qadar" ID="ID_287194334" CREATED="1636176760899" MODIFIED="1636335438344">
-<icon BUILTIN="chain@b"/>
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="sixth article of faith" ID="ID_850852209" CREATED="1636176568379" MODIFIED="1636335438345">
-<icon BUILTIN="box_inscribed@b"/>
-<font NAME="Tahoma"/>
-</node>
-</node>
-<node TEXT="heroes argued about predestination" ID="ID_171011497" CREATED="1638066637788" MODIFIED="1638066674260">
-<node TEXT="adam told moses god made him sin" ID="ID_337186202" CREATED="1638066676842" MODIFIED="1638066697626" LINK="https://sunnah.com/bukhari:6614"/>
-</node>
-</node>
-<node TEXT="modern muslims believe in free will" POSITION="right" ID="ID_490658774" CREATED="1635276570137" MODIFIED="1636335438345">
-<font NAME="Tahoma"/>
-<node TEXT="it&apos;s needed for the test" ID="ID_363388289" CREATED="1635276582532" MODIFIED="1636335438346">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="scriptures are reinterpreted" ID="ID_633602929" CREATED="1635277486528" MODIFIED="1636335438346">
-<font NAME="Tahoma"/>
-<node TEXT="&quot;written&quot; doesn&apos;t mean &quot;predestined&quot;" ID="ID_251197874" CREATED="1635276659000" MODIFIED="1636335438333">
-<icon BUILTIN="quote@b"/>
-<font NAME="Tahoma" ITALIC="true"/>
-<node TEXT="like a movie that you know, but can&apos;t control" ID="ID_544033302" CREATED="1635276679410" MODIFIED="1636335438346">
-<icon BUILTIN="quote@b"/>
-<font NAME="Tahoma" ITALIC="true"/>
-<node ID="ID_27006087" CREATED="1635277525828" MODIFIED="1636335438347">
-<icon BUILTIN="bad@bleak"/>
-<richcontent TYPE="NODE">
+<node TEXT="don&apos;t enjoy talking to christians" ID="ID_208040051" CREATED="1640526106133" MODIFIED="1640526129202" LINK="https://www.islamweb.net/en/fatwa/7885/?Option=FatwaId"/>
+<node ID="ID_693753696" CREATED="1640527923512" MODIFIED="1640528143732" LINK="https://www.islamweb.net/en/fatwa/384016/limits-of-befriending-non-muslims"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -199,15 +146,67 @@
   </head>
   <body>
     <p>
-      but i'm not a <b>Spectator</b>, i'm an Actor of this movie
+      don't be <b>sincere</b>&nbsp;with kuffar
     </p>
   </body>
 </html>
+
 </richcontent>
-<font NAME="Tahoma"/>
-<node TEXT="without free will" ID="ID_1614837636" CREATED="1635277544441" MODIFIED="1636335438349">
-<font NAME="Tahoma"/>
+<node ID="ID_1245601343" CREATED="1640528145284" MODIFIED="1640528159395"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      don't support kuffar <b>against muslims</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="supported them against the Muslims" ID="ID_1369413080" CREATED="1640527961116" MODIFIED="1640527968888">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
 </node>
+</node>
+<node ID="ID_1570052946" CREATED="1640528261042" MODIFIED="1640528282903"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      oppose even your <b>family </b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="even if they were their fathers or their sons or their brothers" ID="ID_709243149" CREATED="1640528275450" MODIFIED="1640528278492">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+</node>
+</node>
+<node TEXT="it&apos;s permissible for worthly benefit" ID="ID_1032144225" CREATED="1640524825489" MODIFIED="1640524881430" LINK="https://www.islamweb.net/en/fatwa/405748/befriending-a-non-muslim-for-worldly-benefit-is-not-disbelief">
+<icon BUILTIN="bad@bleak"/>
+<node LOCALIZED_STYLE_REF="default" ID="ID_666714211" CREATED="1640524905356" MODIFIED="1640527979964" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      it's only haram <b>for the sake of friend's disbelief </b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 </node>
 </node>
