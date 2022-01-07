@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -196,6 +196,10 @@
 </node>
 <node TEXT="health" ID="ID_1563290764" CREATED="1638643041408" MODIFIED="1638643058757" LINK="study/health/">
 <node TEXT="glycation end products" ID="ID_226375567" CREATED="1638643060165" MODIFIED="1638643090310" LINK="study/health/glycation%20end%20products.mm"/>
+<node TEXT="sweetness" ID="ID_884629282" CREATED="1641051410174" MODIFIED="1641051419057" LINK="file:/D:/archive/cloud_storages/knowledge/study/health/sweetness.mm"/>
+<node TEXT="brain" ID="ID_1608986483" CREATED="1641224767200" MODIFIED="1641224785348" LINK="study/health/brain/">
+<node TEXT="lithium" ID="ID_158704309" CREATED="1641224790044" MODIFIED="1641224795859" LINK="file:/D:/archive/cloud_storages/knowledge/study/health/brain/lithium.mm"/>
+</node>
 </node>
 </node>
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">
