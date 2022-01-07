@@ -164,16 +164,16 @@
 </node>
 <node TEXT="logical fallacies" ID="ID_294029477" CREATED="1636768466719" MODIFIED="1636768479154">
 <node TEXT="assuming the conclusion" ID="ID_788443853" CREATED="1636768479324" MODIFIED="1636768595498">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="begging the question" ID="ID_587968010" CREATED="1636768501703" MODIFIED="1636768517727">
 <icon BUILTIN="chain@b"/>
 </node>
 <node TEXT="circular reasoning" ID="ID_422677558" CREATED="1636768494163" MODIFIED="1636768595034">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 </node>
 <node TEXT="appeal to consequences" ID="ID_1656193803" CREATED="1636769425610" MODIFIED="1636769439706">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="if there&apos;s no god..." ID="ID_1549259300" CREATED="1636769440272" MODIFIED="1636769459045">
 <icon BUILTIN="quote@b"/>
 <font ITALIC="true"/>

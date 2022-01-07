@@ -180,7 +180,7 @@
 <icon BUILTIN="info_circle@b"/>
 </node>
 <node TEXT="loose cultures" ID="ID_335662732" CREATED="1634202075180" MODIFIED="1634202619116" COLOR="#7f7f7f">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font BOLD="true"/>
 <node TEXT="if existential_security is high" ID="ID_1363809416" CREATED="1634202169918" MODIFIED="1634202572800">
 <node TEXT="e.g. scandinavia" ID="ID_1330074958" CREATED="1634202172364" MODIFIED="1634202183859"/>
@@ -188,7 +188,7 @@
 <node TEXT="tolerant, inclusive" ID="ID_1188572680" CREATED="1634202520813" MODIFIED="1634202553438"/>
 </node>
 <node TEXT="tight cultures" ID="ID_1046207803" CREATED="1634202078482" MODIFIED="1634202619224" COLOR="#7f7f7f">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font BOLD="true"/>
 <node TEXT="if existential_security is low" ID="ID_1664561261" CREATED="1634202102565" MODIFIED="1634202579040">
 <node TEXT="e.g. middle east" ID="ID_634717079" CREATED="1634202176886" MODIFIED="1634202193054"/>
@@ -199,11 +199,11 @@
 <node TEXT="all possible interactions" POSITION="right" ID="ID_520592243" CREATED="1634202651556" MODIFIED="1634202807931">
 <node TEXT="like between biological species" ID="ID_1887519305" CREATED="1634202820288" MODIFIED="1634202827641"/>
 <node TEXT="competition" ID="ID_1757499030" CREATED="1634202682331" MODIFIED="1634202838651">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="most common, one-sided view" ID="ID_1739736099" CREATED="1634202711011" MODIFIED="1634202731396"/>
 </node>
 <node TEXT="symbyosis" ID="ID_799638542" CREATED="1634202685932" MODIFIED="1634202838697">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 </node>
 </node>

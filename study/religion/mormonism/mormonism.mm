@@ -166,15 +166,15 @@
 <node TEXT="branches" POSITION="right" ID="ID_678670659" CREATED="1635785211751" MODIFIED="1635785279965" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="church of JC of later day saints (LDS)" ID="ID_327481824" CREATED="1635785215175" MODIFIED="1635785364351">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="by brigham_young" ID="ID_1035799182" CREATED="1635785230166" MODIFIED="1635785262165"/>
 </node>
 <node TEXT="community of christ" ID="ID_849776526" CREATED="1635785241033" MODIFIED="1635785364478">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="by joseph_smith_III" ID="ID_1969082554" CREATED="1635785245392" MODIFIED="1635785268054"/>
 </node>
 <node TEXT="mormon fundamentalism" ID="ID_151440589" CREATED="1635785286484" MODIFIED="1635785364567">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="didn&apos;t accept 1980_manifesto" ID="ID_528048676" CREATED="1635785309580" MODIFIED="1635785385159">
 <node TEXT="still accept polygamy" ID="ID_1292927161" CREATED="1635785299260" MODIFIED="1635785308245"/>
 <node ID="ID_1365800819" CREATED="1635785382014" MODIFIED="1635785382014"><richcontent TYPE="NODE">

@@ -131,7 +131,7 @@
 </node>
 <node TEXT="two types" POSITION="right" ID="ID_12274285" CREATED="1635006261554" MODIFIED="1635006272282">
 <node TEXT="waswas" LOCALIZED_STYLE_REF="default" ID="ID_322350937" CREATED="1634204351202" MODIFIED="1635006452833" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node ID="ID_1984140173" CREATED="1634208563775" MODIFIED="1635248698735">
 <icon BUILTIN="punctuation/three_dots@b"/>
 <richcontent TYPE="NODE">
@@ -226,7 +226,7 @@
 </node>
 <node TEXT="need to get rid of the doubts" ID="ID_1540029512" CREATED="1634204493274" MODIFIED="1635005851678">
 <node TEXT="momentary and incidental" ID="ID_1996511377" CREATED="1635030698286" MODIFIED="1635030747426">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="NOT by intellectually resolving them" ID="ID_1574207830" CREATED="1634976829498" MODIFIED="1635005848203">
 <icon BUILTIN="key"/>
 </node>
@@ -306,7 +306,7 @@
 </node>
 </node>
 <node TEXT="lasting, due to misconception" ID="ID_1075858018" CREATED="1635030730578" MODIFIED="1635030747539">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node ID="ID_132049509" CREATED="1635097348304" MODIFIED="1635097362082"><richcontent TYPE="NODE">
 
 <html>
@@ -405,7 +405,7 @@
 </node>
 </node>
 <node TEXT="real_doubts" ID="ID_840631438" CREATED="1635006274346" MODIFIED="1635006513126">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="if you don&apos;t hate them" ID="ID_818088755" CREATED="1635030651538" MODIFIED="1635248702914">
 <icon BUILTIN="punctuation/three_dots@b"/>
 </node>
@@ -433,13 +433,13 @@
 <node TEXT="cause suffering" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_975870080" CREATED="1634204511074" MODIFIED="1634930976834" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="bad@bleak"/>
 <node TEXT="guilt" ID="ID_915738163" CREATED="1634204838593" MODIFIED="1634930754616">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="about not being a good muslim" ID="ID_315955742" CREATED="1634205629334" MODIFIED="1634205646058">
 <node TEXT="strong belief is a virtue" ID="ID_1068421580" CREATED="1634205648232" MODIFIED="1634205659000"/>
 </node>
 </node>
 <node TEXT="fear" ID="ID_984165468" CREATED="1634208035912" MODIFIED="1634930754698">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="anxiety" ID="ID_694159162" CREATED="1634204928221" MODIFIED="1634204931096">
 <node TEXT="at the possibility of becoming an Apostate" LOCALIZED_STYLE_REF="default" ID="ID_1851286979" CREATED="1634204936831" MODIFIED="1634208217971" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="murtad" ID="ID_265080757" CREATED="1634205200827" MODIFIED="1634206276981">

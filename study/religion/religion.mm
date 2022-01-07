@@ -11,7 +11,7 @@
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -180,7 +180,7 @@
 <node TEXT="history of quranic text" ID="ID_1389013164" CREATED="1633564658225" MODIFIED="1635882569164" LINK="islam/history%20of%20quranic%20text.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="quranic challenge" ID="ID_653709748" CREATED="1638382777349" MODIFIED="1638382787632" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/quranic%20challenge.mm"/>
+<node TEXT="quranic challenge" ID="ID_653709748" CREATED="1638382777349" MODIFIED="1641523501717" LINK="islam/quranic%20challenge.mm"/>
 </node>
 <node TEXT="satan" ID="ID_1911431146" CREATED="1633686322952" MODIFIED="1635882571903" LINK="islam/satan.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
@@ -334,12 +334,13 @@
 <node TEXT="reincarnation" ID="ID_1849700458" CREATED="1636179418194" MODIFIED="1636179428945" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/commonalities/reincarnation.mm"/>
 <node TEXT="elements" ID="ID_1680510133" CREATED="1634530644312" MODIFIED="1635961671992" COLOR="#000000">
 <font NAME="Tahoma"/>
-<node TEXT="immaterial spirit `name" ID="ID_1308075928" CREATED="1634530657360" MODIFIED="1636424361826" LINK="immaterial%20spirit.mm" COLOR="#000000">
+<node TEXT="immaterial spirit" ID="ID_1308075928" CREATED="1634530657360" MODIFIED="1641415482050" LINK="immaterial%20spirit.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
 </node>
 <node TEXT="apologetics" ID="ID_600100721" CREATED="1636768376763" MODIFIED="1636768421550" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/commonalities/apologetics.mm"/>
 <node TEXT="bubble preservation" ID="ID_1600360894" CREATED="1640520665224" MODIFIED="1640520736748" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/commonalities/bubble%20preservation.mm"/>
+<node TEXT="afterlife" ID="ID_580481483" CREATED="1641415487529" MODIFIED="1641415505876" LINK="file:/C:/knowledge/study/religion/commonalities/afterlife.mm"/>
 </node>
 <node TEXT="comparative religion" POSITION="right" ID="ID_1569280921" CREATED="1634642289333" MODIFIED="1635791415628" COLOR="#000000">
 <font NAME="Tahoma"/>

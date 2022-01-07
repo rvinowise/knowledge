@@ -288,7 +288,7 @@
 <font ITALIC="true"/>
 </node>
 <node TEXT="اِحْتَاجَ" ID="ID_740678382" CREATED="1637365161924" MODIFIED="1637365199678" COLOR="#000000">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 </node>
 </node>

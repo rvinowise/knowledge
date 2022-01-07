@@ -166,12 +166,12 @@
 <font BOLD="true"/>
 <node TEXT="meditation" ID="ID_1208055183" CREATED="1635284838545" MODIFIED="1635284842619">
 <node TEXT="useless meditation" ID="ID_1906389523" CREATED="1635284842747" MODIFIED="1635284978567">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <icon BUILTIN="bad@bleak"/>
 <node TEXT="if you feel bliss during it" ID="ID_1182034678" CREATED="1635284852887" MODIFIED="1635284867367"/>
 </node>
 <node TEXT="correct meditation" ID="ID_1922216033" CREATED="1635284868511" MODIFIED="1635284982110">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <icon BUILTIN="good@bleak"/>
 <node TEXT="if you don&apos;t feel anything" ID="ID_1794371982" CREATED="1635284874784" MODIFIED="1635284897770">
 <icon BUILTIN="question@b"/>
@@ -219,12 +219,12 @@
 <node TEXT="branches" POSITION="right" ID="ID_1125307796" CREATED="1635542950719" MODIFIED="1635542961063" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="theravAda" ID="ID_798487262" CREATED="1635695313883" MODIFIED="1635695331935">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="original buddha&apos;s teaching" ID="ID_1125603924" CREATED="1635695341546" MODIFIED="1635695354268"/>
 <node TEXT="nirvana is oblivion" ID="ID_787171328" CREATED="1635695357267" MODIFIED="1635695363598"/>
 </node>
 <node TEXT="mahayAna" ID="ID_1718333088" CREATED="1635542962222" MODIFIED="1635543153000">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="buddha&apos;s secret teaching" ID="ID_1390863969" CREATED="1635542975488" MODIFIED="1635542997106">
 <icon BUILTIN="quote@b"/>
 <icon BUILTIN="box_inscribed@b"/>
@@ -245,29 +245,29 @@
 </node>
 </node>
 <node TEXT="vajrayAna" ID="ID_816826709" CREATED="1635542966528" MODIFIED="1635543152891">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="tibetan buddhism" ID="ID_1050455241" CREATED="1635543074161" MODIFIED="1635543152773">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="has dalay lama" ID="ID_250173244" CREATED="1635543084332" MODIFIED="1635543105343"/>
 </node>
 </node>
 <node TEXT="zen buddhism" ID="ID_860599581" CREATED="1635543313735" MODIFIED="1635614698043">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="japan" ID="ID_318388684" CREATED="1635543318476" MODIFIED="1635543328618">
 <icon BUILTIN="place@b"/>
 </node>
 </node>
 <node TEXT="chan buddhism" ID="ID_1145474602" CREATED="1635629963797" MODIFIED="1635629973756">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="china" ID="ID_1418152476" CREATED="1635629974129" MODIFIED="1635629983313">
 <icon BUILTIN="place@b"/>
 </node>
 <node TEXT="pure land buddhism" ID="ID_1289565361" CREATED="1635629987869" MODIFIED="1635630012125">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 </node>
 <node TEXT="western buddhism" ID="ID_242987271" CREATED="1635543116306" MODIFIED="1635543152673">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="caffeteria buddhism" ID="ID_1207487283" CREATED="1635543123708" MODIFIED="1635543135992">
 <icon BUILTIN="chain@b"/>
 </node>

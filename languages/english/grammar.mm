@@ -282,11 +282,11 @@
 </node>
 </node>
 <node TEXT="defining" ID="ID_1390254397" CREATED="1640279529350" MODIFIED="1640279546765">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="can omit the pronoun" ID="ID_1519038179" CREATED="1640279793346" MODIFIED="1640279809866"/>
 </node>
 <node TEXT="non-defining" ID="ID_1276157389" CREATED="1640279530882" MODIFIED="1640279546577">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="no &quot;that&quot;" ID="ID_674779795" CREATED="1640279758106" MODIFIED="1640279763879"/>
 <node TEXT="only &quot;which&quot; and &quot;who&quot; (and their forms)" ID="ID_1864452877" CREATED="1640279766507" MODIFIED="1640279780852"/>
 </node>

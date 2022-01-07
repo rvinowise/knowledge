@@ -604,7 +604,7 @@
 <node TEXT="عَرَفَ" ID="ID_631149013" CREATED="1637136456603" MODIFIED="1637136472812" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="يَرِفُ" LOCALIZED_STYLE_REF="default" ID="ID_415946593" CREATED="1637136837531" MODIFIED="1637138191827" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 </node>
 </node>

@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="immaterial spirit" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1634890371085"><hook NAME="MapStyle" zoom="1.5">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -159,9 +159,20 @@
 <node TEXT="latin" ID="ID_601394565" CREATED="1634890717846" MODIFIED="1634890719746">
 <node TEXT="spiritus" ID="ID_1197911218" CREATED="1634890720020" MODIFIED="1634890722194">
 <node TEXT="soul" ID="ID_553584821" CREATED="1634890730336" MODIFIED="1634890732244"/>
+<node TEXT="breath" ID="ID_1496364536" CREATED="1641237475374" MODIFIED="1641237479884"/>
+<node TEXT="e.g.:" ID="ID_1015112430" CREATED="1641237500469" MODIFIED="1641237508185">
+<node TEXT="dum spiro spero" ID="ID_1147244909" CREATED="1634890727302" MODIFIED="1641237518409">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node TEXT="while i breath i hope" ID="ID_1118538492" CREATED="1634890733196" MODIFIED="1641237530607"/>
 </node>
-<node TEXT="spiro" ID="ID_1147244909" CREATED="1634890727302" MODIFIED="1634890729228">
-<node TEXT="i breath" ID="ID_1118538492" CREATED="1634890733196" MODIFIED="1634890738354"/>
+<node TEXT="respirator" ID="ID_1385309596" CREATED="1641237536459" MODIFIED="1641237540075"/>
+</node>
+</node>
+<node TEXT="anima" ID="ID_1420543257" CREATED="1641237552267" MODIFIED="1641237554809">
+<node TEXT="soul" ID="ID_141504188" CREATED="1641237555075" MODIFIED="1641237556636"/>
+<node TEXT="air, breeze" ID="ID_1203447180" CREATED="1641237556880" MODIFIED="1641237562269"/>
+<node TEXT="breath" ID="ID_1066053999" CREATED="1641237562494" MODIFIED="1641237567154"/>
 </node>
 </node>
 <node TEXT="russian" ID="ID_657872581" CREATED="1634890761749" MODIFIED="1634890764892">
