@@ -215,7 +215,7 @@
 <icon BUILTIN="man_bust@b"/>
 </node>
 <node TEXT="shia" ID="ID_1708989370" CREATED="1635634883745" MODIFIED="1635635112682">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="next imam" ID="ID_171530125" CREATED="1635729263709" MODIFIED="1635729270178">
 <icon BUILTIN="man_bust@b"/>
 <node TEXT="musa bin jafar" ID="ID_11765574" CREATED="1635729284890" MODIFIED="1635729298586">
@@ -262,7 +262,7 @@
 </node>
 </node>
 <node TEXT="sunni" ID="ID_1883922766" CREATED="1635635071030" MODIFIED="1635635112530">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 <node TEXT="imam mahdi" LOCALIZED_STYLE_REF="default" ID="ID_151797709" CREATED="1635627792505" MODIFIED="1635710406056">
 <icon BUILTIN="man_bust@b"/>
@@ -281,7 +281,7 @@
 <icon BUILTIN="chain@b"/>
 </node>
 <node TEXT="lahore ahmadiyya" ID="ID_101125776" CREATED="1635722677013" MODIFIED="1635722705967">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 </node>
 </node>
@@ -290,7 +290,7 @@
 <node TEXT="mahadavi" ID="ID_298843852" CREATED="1635639374655" MODIFIED="1635639383134">
 <icon BUILTIN="output@b"/>
 <node TEXT="zikris" ID="ID_1157831575" CREATED="1635639386863" MODIFIED="1635722706064">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 <node TEXT="1496CE" ID="ID_255974833" CREATED="1635711554155" MODIFIED="1635711709813">
 <icon BUILTIN="calendar@b"/>

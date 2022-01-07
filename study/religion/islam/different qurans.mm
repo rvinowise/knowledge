@@ -269,7 +269,7 @@
 </node>
 <node TEXT="many exist today" ID="ID_1056544835" CREATED="1633664049473" MODIFIED="1633664342593">
 <node TEXT="10 popular qira&apos;at" ID="ID_1991427806" CREATED="1633488768487" MODIFIED="1633845053220">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="canonised by Ibn Mujahid" ID="ID_685130736" CREATED="1633495692748" MODIFIED="1633495703188"/>
 <node TEXT="controversy" ID="ID_148399954" CREATED="1633496209900" MODIFIED="1633496238474">
 <icon BUILTIN="question@b"/>
@@ -289,15 +289,15 @@
 </node>
 <node TEXT="of different quality" ID="ID_1110762207" CREATED="1633654519770" MODIFIED="1633654544241">
 <node TEXT="7 mutawAtir (without errors)" ID="ID_16859515" CREATED="1633651848889" MODIFIED="1633664882407">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 <node TEXT="3 mashhUr (probably without errors)" ID="ID_589638622" CREATED="1633651814758" MODIFIED="1633664882466">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 </node>
 </node>
 <node TEXT="25 legit qira&apos;at" ID="ID_1229043344" CREATED="1633845060982" MODIFIED="1636343785339">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="The Second Canonization of the Qurʾān (324/936): Ibn Mujāhid and the Founding of the Seven Readings @by Shady Hekmat Nasser" ID="ID_1459634198" CREATED="1633940969328" MODIFIED="1633941284027" TEXT_SHORTENED="true">
 <icon BUILTIN="emoji-26F2"/>
 <icon BUILTIN="question@b"/>
@@ -314,10 +314,10 @@
 </node>
 </node>
 <node TEXT="unaccepted qira&apos;at exist" ID="ID_568124499" CREATED="1633651091138" MODIFIED="1633664867004">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="aka shaadhdh, anomalous, irregular, odd" LOCALIZED_STYLE_REF="default" ID="ID_965097" CREATED="1633651112030" MODIFIED="1633651478555" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 <node TEXT="abrogated 7arf" ID="ID_322797245" CREATED="1633651320248" MODIFIED="1633664480027">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 <node TEXT="can be studied academically" ID="ID_1587409990" CREATED="1633651143584" MODIFIED="1633651270598"/>
 <node TEXT="can&apos;t be used for prayer" ID="ID_849453752" CREATED="1633651154142" MODIFIED="1633651159235"/>
@@ -592,8 +592,8 @@
 </node>
 </node>
 <node TEXT="arabic symbols" POSITION="right" ID="ID_16853980" CREATED="1633487586037" MODIFIED="1633564318469" COLOR="#7f7f7f">
-<icon BUILTIN="bird2@b"/>
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font BOLD="true"/>
 <node TEXT="rasm" ID="ID_848657509" CREATED="1633487612161" MODIFIED="1633487632927">
 <node TEXT="base line of consonants" ID="ID_1851114459" CREATED="1633487661555" MODIFIED="1633488004098">

@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="debt" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1638113813294"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
+<node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -137,7 +137,6 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: notes" POSITION="left" ID="ID_1976041857" CREATED="1638113813326" MODIFIED="1638113813334"/>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
@@ -225,13 +224,34 @@
 </node>
 </node>
 </node>
-<node TEXT="father" POSITION="right" ID="ID_1231269732" CREATED="1638113813337" MODIFIED="1638113816378">
-<node TEXT="at the cottage" ID="ID_107977657" CREATED="1638113816628" MODIFIED="1638113821037">
-<node TEXT="random asking &quot;i&apos;m left with no money&quot;" ID="ID_1323996448" CREATED="1638113821283" MODIFIED="1638113842143">
-<node TEXT="1000rub" ID="ID_1277470705" CREATED="1638113842376" MODIFIED="1638113845048"/>
+<node TEXT="comprehensive US chart" POSITION="right" ID="ID_568040649" CREATED="1641512637803" MODIFIED="1641512678893" LINK="https://www.dsm.com/content/dam/dsm/nip/en_US/documents/stability.pdf">
+<icon BUILTIN="emoji-26F2"/>
 </node>
-<node TEXT="for the new car tyres" ID="ID_1757632527" CREATED="1638113846219" MODIFIED="1638113860513">
-<node TEXT="5000rub" ID="ID_1424314754" CREATED="1638113861164" MODIFIED="1638113863675"/>
+<node TEXT="b12" POSITION="right" ID="ID_190691352" CREATED="1641512680868" MODIFIED="1641512687252">
+<node TEXT="heat" ID="ID_1382244266" CREATED="1641512687890" MODIFIED="1641512691310">
+<icon BUILTIN="good@bleak"/>
+</node>
+<node TEXT="acidity" ID="ID_153214123" CREATED="1641512691707" MODIFIED="1641512704212">
+<icon BUILTIN="bad@bleak"/>
+</node>
+<node TEXT="alcalinity" ID="ID_127854812" CREATED="1641512699425" MODIFIED="1641512704209">
+<icon BUILTIN="bad@bleak"/>
+</node>
+<node TEXT="reduction" ID="ID_409033954" CREATED="1641513251027" MODIFIED="1641513355424" LINK="https://en.wikipedia.org/wiki/Reducing_agent">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="some acids" LOCALIZED_STYLE_REF="default" ID="ID_1659145834" CREATED="1641513256130" MODIFIED="1641513458116" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="formic" ID="ID_419032903" CREATED="1641513267536" MODIFIED="1641513269793"/>
+<node TEXT="oxalic" ID="ID_462402983" CREATED="1641513270239" MODIFIED="1641513272824"/>
+<node TEXT="ascorbic" ID="ID_1204041220" CREATED="1641513273038" MODIFIED="1641513279292"/>
+</node>
+<node TEXT="monosaccharides" LOCALIZED_STYLE_REF="default" ID="ID_329442267" CREATED="1641513427061" MODIFIED="1641513457858" LINK="https://en.wikipedia.org/wiki/Reducing_sugar" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="glucose" ID="ID_35623265" CREATED="1641513435766" MODIFIED="1641513438636"/>
+<node TEXT="fructose" ID="ID_1649599040" CREATED="1641513438874" MODIFIED="1641513441737"/>
+</node>
+<node TEXT="some disaccharides" ID="ID_812727844" CREATED="1641513510321" MODIFIED="1641513515595">
+<node TEXT="lactose" ID="ID_1827980952" CREATED="1641513518117" MODIFIED="1641513520841"/>
 </node>
 </node>
 </node>

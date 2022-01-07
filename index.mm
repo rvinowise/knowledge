@@ -184,6 +184,9 @@
 <node TEXT="deseases" ID="ID_1379709528" CREATED="1636262860866" MODIFIED="1636262890840" LINK="study/deseases.mm"/>
 <node TEXT="psychology" ID="ID_1262274766" CREATED="1636844338128" MODIFIED="1636844350566" LINK="study/biology/psychology/psychology.mm"/>
 </node>
+<node TEXT="chemistry" ID="ID_1170336021" CREATED="1641514141193" MODIFIED="1641514147519" LINK="study/chemistry/">
+<node TEXT="types of agents" ID="ID_573074678" CREATED="1641514148754" MODIFIED="1641514301660" LINK="file:/C:/knowledge/study/chemistry/types%20of%20agents.mm"/>
+</node>
 </node>
 <node TEXT="religion" ID="ID_1519172584" CREATED="1635882388290" MODIFIED="1635882395282" LINK="study/religion/">
 <node TEXT="religion" ID="ID_780886805" CREATED="1633368851477" MODIFIED="1635882395641" LINK="study/religion/religion.mm">
@@ -205,9 +208,7 @@
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">
 <icon BUILTIN="info_circle@b"/>
 <font NAME="Tahoma" BOLD="true"/>
-<node TEXT="ai.mm" ID="ID_1296205905" CREATED="1633368609449" MODIFIED="1635773283860" LINK="prj/ai.mm">
-<font NAME="Tahoma"/>
-</node>
+<node TEXT="ai_index.mm" ID="ID_1174436778" CREATED="1641516806386" MODIFIED="1641516806388" LINK="../prj/unity_ai/docs/ai_index.mm"/>
 <node TEXT="programming" ID="ID_64242684" CREATED="1638461481894" MODIFIED="1638461492219" LINK="programming/">
 <node TEXT="abyss_defence" ID="ID_1914315453" CREATED="1638461487299" MODIFIED="1638461509161" LINK="programming/abyss_defence.mm"/>
 <node TEXT="unity" ID="ID_781744890" CREATED="1640791023000" MODIFIED="1640791035419" LINK="programming/unity/">
@@ -293,7 +294,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -347,10 +348,10 @@
 <node TEXT="map types" POSITION="right" ID="ID_961663923" CREATED="1633370815014" MODIFIED="1635773283884">
 <font NAME="Tahoma"/>
 <node TEXT="study" ID="ID_764758463" CREATED="1633370818304" MODIFIED="1635773283884">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font NAME="Tahoma"/>
 <node TEXT="history" ID="ID_1171829677" CREATED="1633374757757" MODIFIED="1635773283884">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1407088559" CREATED="1633726783049" MODIFIED="1635773283885" COLOR="#7f7f7f">
 <font NAME="Tahoma" BOLD="true"/>
@@ -372,29 +373,29 @@
 <node TEXT="use scripts to change representation" ID="ID_1779686063" CREATED="1633384273043" MODIFIED="1635773283886">
 <font NAME="Tahoma"/>
 <node TEXT="timeless view" ID="ID_198825566" CREATED="1633384298801" MODIFIED="1635773283887">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="view of the timeline" ID="ID_649868891" CREATED="1633384320700" MODIFIED="1635773283887">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font NAME="Tahoma"/>
 </node>
 </node>
 </node>
 <node TEXT="existing thing" ID="ID_379492813" CREATED="1633374832084" MODIFIED="1635773283888">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font NAME="Tahoma"/>
 </node>
 </node>
 <node TEXT="project" ID="ID_1715083996" CREATED="1633370820928" MODIFIED="1635773283888">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="talk" ID="ID_1907582305" CREATED="1633370828184" MODIFIED="1635773283888">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font NAME="Tahoma"/>
 <node TEXT="debate" ID="ID_1854301218" CREATED="1633370833209" MODIFIED="1635773283889">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="control/type_of_parent"/>
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1904269215" CREATED="1633371133330" MODIFIED="1635773283890" COLOR="#7f7f7f">
 <font NAME="Tahoma" BOLD="true"/>

@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="blaming" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637324841874"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
+<node TEXT="changing religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1641181035159"><hook NAME="MapStyle" zoom="1.32">
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: compare_colocations" POSITION="left" ID="ID_1654498517" CREATED="1637324841881" MODIFIED="1637324841962"/>
+<node TEXT="type: compare_colocations" POSITION="left" ID="ID_114068151" CREATED="1641181035249" MODIFIED="1641181035283"/>
 <node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -167,7 +167,7 @@
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 <node TEXT="greek" ID="ID_1698930108" CREATED="1637117158741" MODIFIED="1637128583329"/>
 </node>
-<node TEXT="5" ID="ID_632092175" CREATED="1637126465234" MODIFIED="1637131458352">
+<node TEXT="5" LOCALIZED_STYLE_REF="default" ID="ID_632092175" CREATED="1637126465234" MODIFIED="1639548721459" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="latin" ID="ID_1156533169" CREATED="1637117168846" MODIFIED="1637128583330"/>
 </node>
@@ -201,59 +201,131 @@
 </html></richcontent>
 </node>
 </node>
-</node>
-<node TEXT="stop blaming me for" POSITION="right" ID="ID_1280667099" CREATED="1637324841965" MODIFIED="1637327016105" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-</node>
-<node TEXT="blame him for" POSITION="right" ID="ID_1159589635" CREATED="1637324900973" MODIFIED="1637327013610" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="لَامَه في" ID="ID_1732834767" CREATED="1637324922784" MODIFIED="1637336943074" COLOR="#666666">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="question@b"/>
-<font ITALIC="true"/>
+<node TEXT="0" ID="ID_560374693" CREATED="1639547677101" MODIFIED="1639547717957">
+<icon BUILTIN="heraldics/earth_flag"/>
+<node TEXT="earth" ID="ID_1500230438" CREATED="1639548954842" MODIFIED="1639548957384"/>
 </node>
 </node>
-<node TEXT="" POSITION="right" ID="ID_443317921" CREATED="1637325046067" MODIFIED="1637325046067">
-<node TEXT="blame $b" ID="ID_257123245" CREATED="1637325007997" MODIFIED="1637325028410" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="for [problem]" ID="ID_656792357" CREATED="1637326756355" MODIFIED="1637336845370" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-</node>
-</node>
-<node TEXT="لَامَ (ش)" ID="ID_1496951092" CREATED="1637325047147" MODIFIED="1637325956587" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<node TEXT="لوم(ي)" ID="ID_862436836" CREATED="1637325754294" MODIFIED="1637325966933" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="control/type_of_parent"/>
-<node TEXT="في" ID="ID_164568358" CREATED="1637325784390" MODIFIED="1637325858335" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<node TEXT="كُل شَيء" ID="ID_1855309747" CREATED="1637325817194" MODIFIED="1637325851209" COLOR="#000000">
-<icon BUILTIN="emoji-1F1F8-1F1E6"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="[problem] gets laid at [my] feet" POSITION="right" ID="ID_1228569591" CREATED="1637326578853" MODIFIED="1637336845371" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-</node>
-<node TEXT="responsible" POSITION="right" ID="ID_1751096844" CREATED="1637326618109" MODIFIED="1637326756138" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="for [problem]" ID="ID_1956161934" CREATED="1637326756355" MODIFIED="1637336845371" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-</node>
-<node TEXT="hold $b JJ" ID="ID_736182443" CREATED="1637326788484" MODIFIED="1637326820186" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-</node>
-<node TEXT="make $b JJ" ID="ID_1283994743" CREATED="1637326809775" MODIFIED="1637326820181" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="emoji-1F1FA-1F1F8"/>
-</node>
-</node>
-<node TEXT="var" POSITION="right" ID="ID_129320196" CREATED="1637326634220" MODIFIED="1637326637687" COLOR="#7f7f7f">
+<node TEXT="legend" POSITION="left" ID="ID_1999075329" CREATED="1637387218036" MODIFIED="1637387224907" COLOR="#7f7f7f">
 <font BOLD="true"/>
-<node TEXT="[problem]" ID="ID_1774971138" CREATED="1637326638060" MODIFIED="1637336845372">
-<node TEXT="reason to blame" ID="ID_1671738837" CREATED="1637326663598" MODIFIED="1637336870817">
-<icon BUILTIN="box_inscribed@b"/>
+<node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
+<node TEXT="feminine" LOCALIZED_STYLE_REF="default" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1638005675413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/gender/feminine@b"/>
+</node>
+<node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/gender/masculine@b"/>
+</node>
+<node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/gender/both_genders@b"/>
+</node>
+</node>
+<node TEXT="number" ID="ID_1197699449" CREATED="1638005695736" MODIFIED="1638005698501">
+<node TEXT="plural" ID="ID_911905125" CREATED="1638005699949" MODIFIED="1638005706091">
+<icon BUILTIN="grammar/plural"/>
+</node>
+</node>
+<node TEXT="syntax" ID="ID_1205169936" CREATED="1638005727863" MODIFIED="1638005731513">
+<node TEXT="sequence" ID="ID_1970909851" CREATED="1638005722645" MODIFIED="1638005725496">
+<node TEXT="word before its parent" ID="ID_704088312" CREATED="1638005732749" MODIFIED="1638005754493">
+<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+</node>
+</node>
+</node>
+<node TEXT="declension&amp;conjugation" ID="ID_1063401470" CREATED="1638005780101" MODIFIED="1638005802100">
+<node TEXT="can be used as regular" ID="ID_371950240" CREATED="1638005802910" MODIFIED="1638005829357">
+<icon BUILTIN="smile@w"/>
+</node>
+</node>
+<node TEXT="control" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1639451537112">
+<node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+</node>
+<node TEXT="unnecessary" ID="ID_728579299" CREATED="1639451543852" MODIFIED="1639451557845">
+<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+</node>
+<node TEXT="declaration of variable" LOCALIZED_STYLE_REF="default" ID="ID_1822291525" CREATED="1639451560357" MODIFIED="1639809400026" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<node TEXT="all siblings are possible values of it (can substitute it)" ID="ID_1974389339" CREATED="1639809410262" MODIFIED="1639809455559"/>
+</node>
+<node ID="ID_716132178" CREATED="1639464033853" MODIFIED="1639464121745">
+<icon BUILTIN="punctuation/colon@b"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      all following siblings are <b>this </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="same as parent (can substitute it)" ID="ID_1249817900" CREATED="1639453816860" MODIFIED="1639453847531">
+<icon BUILTIN="punctuation/equal@b"/>
+</node>
+<node TEXT="peculiar changes that are described in the comment" LOCALIZED_STYLE_REF="default" ID="ID_664356964" CREATED="1639809482935" MODIFIED="1639810963320" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="cog@b"/>
+<node TEXT="these changes apply to every occurance of the parent" ID="ID_1458823456" CREATED="1639809563939" MODIFIED="1639809585044"/>
+</node>
+</node>
+<node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
+</node>
+<node TEXT="leaving" POSITION="right" ID="ID_824405542" CREATED="1641181035286" MODIFIED="1641181058457">
+<node TEXT="i" LOCALIZED_STYLE_REF="default" ID="ID_1881470005" CREATED="1641181059435" MODIFIED="1641181069260" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<node TEXT="&apos;&apos;ve" ID="ID_63410062" CREATED="1641181116298" MODIFIED="1641181234472" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<font NAME="Tahoma" SIZE="10" BOLD="false" ITALIC="false"/>
+<node TEXT="left" ID="ID_272774468" CREATED="1641181070705" MODIFIED="1641181076950" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="islam" ID="ID_1008700466" CREATED="1641181073007" MODIFIED="1641181076979" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="j&apos;" LOCALIZED_STYLE_REF="default" ID="ID_746496611" CREATED="1641181082206" MODIFIED="1641181096443" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<node TEXT="ai" LOCALIZED_STYLE_REF="default" ID="ID_1504772259" CREATED="1641181098163" MODIFIED="1641181104931" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="quitté" ID="ID_53267174" CREATED="1641181276996" MODIFIED="1641181331339" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="l&apos;" ID="ID_1704339147" CREATED="1641181331734" MODIFIED="1641181339587" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="islam" ID="ID_1269835061" CREATED="1641181340536" MODIFIED="1641181342916" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="dejó" ID="ID_963247762" CREATED="1641186367253" MODIFIED="1641186425595" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<node TEXT="el" ID="ID_725114362" CREATED="1641186399926" MODIFIED="1641186406010" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="islam" ID="ID_1811222240" CREATED="1641186407032" MODIFIED="1641186410331" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+</node>
+</node>
+</node>
+<node TEXT="تَرَكْ" LOCALIZED_STYLE_REF="default" ID="ID_1804263803" CREATED="1641186487513" MODIFIED="1641186538344" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="تُ" LOCALIZED_STYLE_REF="default" ID="ID_1061334173" CREATED="1641186540899" MODIFIED="1641186592041" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<node TEXT="ال" ID="ID_1643244544" CREATED="1641186628718" MODIFIED="1641186672286" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="إسْلَام" LOCALIZED_STYLE_REF="default" ID="ID_902091862" CREATED="1641186642242" MODIFIED="1641186671348" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
 </node>
 </node>
 </node>
