@@ -200,6 +200,7 @@
 <node TEXT="health" ID="ID_1563290764" CREATED="1638643041408" MODIFIED="1638643058757" LINK="study/health/">
 <node TEXT="glycation end products" ID="ID_226375567" CREATED="1638643060165" MODIFIED="1638643090310" LINK="study/health/glycation%20end%20products.mm"/>
 <node TEXT="vitamin stability.mm" ID="ID_1822825582" CREATED="1641512616557" MODIFIED="1641512616567" LINK="study/health/vitamin%20stability.mm"/>
+<node TEXT="vitamin intake" ID="ID_321799862" CREATED="1641582427380" MODIFIED="1641582444231" LINK="file:/C:/knowledge/study/health/vitamin%20intake.mm"/>
 </node>
 </node>
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">

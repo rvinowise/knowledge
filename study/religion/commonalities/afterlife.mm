@@ -11,7 +11,7 @@
 <node TEXT="afterlife" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1641415506468" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -138,7 +138,8 @@
 </node>
 </node>
 </node>
-<node TEXT="cold and dark place `bird" ID="ID_1697780862" CREATED="1641415785511" MODIFIED="1641415796366">
+<node TEXT="cold and dark place" ID="ID_1697780862" CREATED="1641415785511" MODIFIED="1641754565174">
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="in cold climates" ID="ID_1139856052" CREATED="1641415797389" MODIFIED="1641415800914">
 <node TEXT="e.g. scandinavian paganism" ID="ID_148571176" CREATED="1641415801147" MODIFIED="1641415809592">
 <node TEXT="niflheim" ID="ID_1793167902" CREATED="1641415821301" MODIFIED="1641415854035">

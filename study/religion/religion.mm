@@ -200,7 +200,7 @@
 <node TEXT="free will" ID="ID_1473337528" CREATED="1635275854774" MODIFIED="1635882577828" LINK="islam/free%20will.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="anthropomorphic god" ID="ID_319822104" CREATED="1635986781641" MODIFIED="1635986793592" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/anthropomorphic%20god.mm"/>
+<node TEXT="anthropomorphic god" ID="ID_319822104" CREATED="1635986781641" MODIFIED="1641673428876" LINK="islam/anthropomorphic%20god.mm"/>
 <node TEXT="scientific miracles" ID="ID_1986926372" CREATED="1636419391064" MODIFIED="1636419410298" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/scientific%20miracles.mm"/>
 <node TEXT="preservation of faith" ID="ID_1284423865" CREATED="1636442137528" MODIFIED="1636442159163" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/preservation%20of%20faith.mm"/>
 <node TEXT="akh rashid refuting miracles" ID="ID_1630753467" CREATED="1637143615723" MODIFIED="1637143699068" LINK="https://www.youtube.com/playlist?list=PLeALEPpd_E-kJna1EbQNT05eIiyRzSUvW">
