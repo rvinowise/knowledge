@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="splitting into branches" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635619791742"><hook NAME="MapStyle" zoom="1.026">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
+<node TEXT="splitting into branches" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635619791742"><hook NAME="MapStyle" zoom="1.242">
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -153,13 +153,13 @@
 <node TEXT="legend" POSITION="right" ID="ID_439107294" CREATED="1635731612609" MODIFIED="1635731616354" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="initial religion" ID="ID_494509381" CREATED="1635626305292" MODIFIED="1635627320946" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="awaited person" ID="ID_604970351" CREATED="1635626312870" MODIFIED="1635710404943" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="man_bust@b"/>
 <node TEXT="claimer" ID="ID_317856260" CREATED="1635626320219" MODIFIED="1635710629994" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="created sub-religions" ID="ID_1117923049" CREATED="1635626340770" MODIFIED="1635627321019" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 </node>
 <node TEXT="helped by" ID="ID_251538004" CREATED="1635633722407" MODIFIED="1635636515305" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="puzzle_pieces@b"/>
@@ -175,7 +175,7 @@
 </node>
 </node>
 <node TEXT="judaism" POSITION="right" ID="ID_1526197524" CREATED="1635624725437" MODIFIED="1635627127973">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="mashiah" ID="ID_1232978262" CREATED="1635624741176" MODIFIED="1635710405105">
 <icon BUILTIN="man_bust@b"/>
 <node TEXT="messÎah" ID="ID_281456483" CREATED="1635624902536" MODIFIED="1635625808464">
@@ -198,11 +198,11 @@
 <icon BUILTIN="puzzle_pieces@b"/>
 </node>
 <node TEXT="christianity" ID="ID_1743871124" CREATED="1635624764704" MODIFIED="1635627273488">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="jesus&apos;s second coming" ID="ID_910611675" CREATED="1635626793049" MODIFIED="1635710405291">
 <icon BUILTIN="man_bust@b"/>
 <node TEXT="many small sects" ID="ID_1019552817" CREATED="1635626866844" MODIFIED="1635627273629">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 </node>
 </node>
 <node TEXT="next prophets" ID="ID_105488016" CREATED="1635632356871" MODIFIED="1635710405466">
@@ -210,7 +210,7 @@
 <node TEXT="muhammad" ID="ID_1876965907" CREATED="1635632365773" MODIFIED="1635710629212">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="islam" ID="ID_1875818374" CREATED="1635627783422" MODIFIED="1635627792179">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="jesus&apos;s second coming" LOCALIZED_STYLE_REF="default" ID="ID_18784805" CREATED="1635632729726" MODIFIED="1635710405687">
 <icon BUILTIN="man_bust@b"/>
 </node>
@@ -221,7 +221,7 @@
 <node TEXT="musa bin jafar" ID="ID_11765574" CREATED="1635729284890" MODIFIED="1635729298586">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="twelvers shia" LOCALIZED_STYLE_REF="default" ID="ID_1876241845" CREATED="1635634883745" MODIFIED="1635729163710" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="third imam" ID="ID_277323629" CREATED="1635629763605" MODIFIED="1635729180435" COLOR="#666666">
 <icon BUILTIN="man_bust@b"/>
 <icon BUILTIN="question@b"/>
@@ -247,9 +247,9 @@
 <node TEXT="isma&apos;il bin jafar" ID="ID_1713153979" CREATED="1635729244484" MODIFIED="1635729298765">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="seveners" ID="ID_1497013825" CREATED="1636177692285" MODIFIED="1636177698897">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="isma&apos;ilism" ID="ID_525634656" CREATED="1635729126259" MODIFIED="1635729163839">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 </node>
 </node>
 <node TEXT="appointed by &quot;infallible&quot; father" ID="ID_1830949947" CREATED="1635729399195" MODIFIED="1635729411885">
@@ -273,7 +273,7 @@
 <node TEXT="mizra ghulam ahmad" ID="ID_1577358509" CREATED="1635638885928" MODIFIED="1635710629519">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="ahmadiyya" ID="ID_792966799" CREATED="1635638894966" MODIFIED="1635640775837">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="qadiAni (slur)" ID="ID_1489370740" CREATED="1635638910817" MODIFIED="1635638941985">
 <icon BUILTIN="chain@b"/>
 </node>
@@ -288,7 +288,7 @@
 <node TEXT="syed muhammad jaunpuri" ID="ID_936771004" CREATED="1635639359867" MODIFIED="1635710629619">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="mahadavi" ID="ID_298843852" CREATED="1635639374655" MODIFIED="1635639383134">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="zikris" ID="ID_1157831575" CREATED="1635639386863" MODIFIED="1635722706064">
 <icon BUILTIN="control/type_of_parent"/>
 </node>
@@ -303,7 +303,7 @@
 <node TEXT="wallace fard muhammad" ID="ID_838945834" CREATED="1635722991678" MODIFIED="1635723010676">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="nation of islam" ID="ID_1638123476" CREATED="1635723011364" MODIFIED="1635723020210">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="detroit, usa" ID="ID_1564032863" CREATED="1635723021856" MODIFIED="1635723038836">
 <icon BUILTIN="place@b"/>
 </node>
@@ -313,13 +313,13 @@
 <node TEXT="bAb" ID="ID_1771756617" CREATED="1635633155283" MODIFIED="1635710629353">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="babism" ID="ID_1738762350" CREATED="1635633176832" MODIFIED="1635633186518">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="he whom god shall make manifest" ID="ID_866138925" CREATED="1635633216653" MODIFIED="1635710406269">
 <icon BUILTIN="man_bust@b"/>
 <node TEXT="baha&apos;u&apos;llah" ID="ID_1363630174" CREATED="1635626663249" MODIFIED="1635710630092">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="baha&apos;i faith" ID="ID_1213499683" CREATED="1635626680865" MODIFIED="1635627273410">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="next &quot;person from god&quot; will come after 2800CE" ID="ID_1097417986" CREATED="1635704535119" MODIFIED="1635704570907">
 <icon BUILTIN="padlock_closed@w"/>
 </node>
@@ -365,16 +365,16 @@
 <node TEXT="joseph smith" ID="ID_1482850187" CREATED="1635724252446" MODIFIED="1635724266017">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="mormonism" ID="ID_560843873" CREATED="1635724266952" MODIFIED="1635724273128">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="brĬgham yoŭng" ID="ID_1832316262" CREATED="1635731154797" MODIFIED="1635785046021">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="church of JC of later day saints (LDS)" ID="ID_560958218" CREATED="1635725106657" MODIFIED="1635725139239">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="wilford woodruff" ID="ID_323770809" CREATED="1635725054987" MODIFIED="1635725090854">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="1980 manifesto" ID="ID_1651826964" CREATED="1635725096901" MODIFIED="1635725102158">
 <node TEXT="mormon fundamentalism" LOCALIZED_STYLE_REF="default" ID="ID_1273640295" CREATED="1635727804791" MODIFIED="1635731249111" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <icon BUILTIN="bad@bleak"/>
 </node>
 </node>
@@ -386,7 +386,7 @@
 <node TEXT="joseph smith III" ID="ID_1094253177" CREATED="1635730802496" MODIFIED="1635730812735">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="community of christ" ID="ID_445564158" CREATED="1635730813855" MODIFIED="1635730821303">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 </node>
 </node>
 </node>
@@ -400,7 +400,7 @@
 </node>
 </node>
 <node TEXT="messianic judaism" ID="ID_1084965155" CREATED="1635624780336" MODIFIED="1635627273559">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="1960s" ID="ID_519808071" CREATED="1635696340911" MODIFIED="1635696362201">
 <icon BUILTIN="calendar@b"/>
 </node>
@@ -424,7 +424,7 @@
 </node>
 </node>
 <node TEXT="buddhism" POSITION="right" ID="ID_558247058" CREATED="1635626647027" MODIFIED="1635627273324">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="maitreya" ID="ID_1380648643" CREATED="1635626650642" MODIFIED="1635710406435">
 <icon BUILTIN="man_bust@b"/>
 <node TEXT="next buddha" LOCALIZED_STYLE_REF="default" ID="ID_1408384951" CREATED="1635626656383" MODIFIED="1638763761979" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -442,7 +442,7 @@
 </node>
 </node>
 <node TEXT="hinduism" POSITION="right" ID="ID_600477488" CREATED="1635630962358" MODIFIED="1635630973619">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="kalkin avatar" ID="ID_82911275" CREATED="1635630975115" MODIFIED="1635710406551">
 <icon BUILTIN="man_bust@b"/>
 </node>
@@ -454,19 +454,19 @@
 <node TEXT="guru nanak" ID="ID_127285794" CREATED="1635733484980" MODIFIED="1635733491237">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="sikhism" ID="ID_989266661" CREATED="1635733529643" MODIFIED="1635733547672">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="zoroastrianism" POSITION="right" ID="ID_633770624" CREATED="1635632158250" MODIFIED="1635632167508">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="saoshiyant" ID="ID_1661519228" CREATED="1635632192660" MODIFIED="1635710406805">
 <icon BUILTIN="man_bust@b"/>
 </node>
 </node>
 <node TEXT="taoism" POSITION="right" ID="ID_1611030465" CREATED="1635632201535" MODIFIED="1635632212370">
-<icon BUILTIN="output@b"/>
+<icon BUILTIN="outcome"/>
 <node TEXT="li long" ID="ID_1350124729" CREATED="1635632212430" MODIFIED="1635710406938">
 <icon BUILTIN="man_bust@b"/>
 </node>
