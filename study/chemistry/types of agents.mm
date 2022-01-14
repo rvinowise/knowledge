@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="types of agents" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1641514301967"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -227,6 +227,8 @@
 </node>
 <node TEXT="" POSITION="right" ID="ID_1008180279" CREATED="1641515198842" MODIFIED="1641515201110">
 <icon BUILTIN="control/type_of_parent"/>
+<node TEXT="acidity" ID="ID_507311373" CREATED="1641658544523" MODIFIED="1641658550815" COLOR="#7f7f7f">
+<font BOLD="true"/>
 <node TEXT="acid" LOCALIZED_STYLE_REF="default" ID="ID_1855956738" CREATED="1641514302014" MODIFIED="1641515289079" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT=" Brønsted acid" LOCALIZED_STYLE_REF="default" ID="ID_228220142" CREATED="1641515094158" MODIFIED="1641515178374" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="control/type_of_parent"/>
@@ -237,11 +239,25 @@
 </node>
 </node>
 <node TEXT="alkali (base)" LOCALIZED_STYLE_REF="default" ID="ID_855298868" CREATED="1641515052455" MODIFIED="1641515289083" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+<node TEXT="alcalinity" ID="ID_736723779" CREATED="1641658572481" MODIFIED="1641658584678">
+<node TEXT="not equal to being an alkali" ID="ID_897750683" CREATED="1641658586129" MODIFIED="1641658600416"/>
+<node TEXT="shows how much the chemical reduces acidity" ID="ID_314578992" CREATED="1641658602461" MODIFIED="1641658660862" COLOR="#666666">
+<icon BUILTIN="question@b"/>
+<font ITALIC="true"/>
+<node TEXT="may not be very alkaline itself" ID="ID_1298247186" CREATED="1641658621291" MODIFIED="1641658628634">
+<node TEXT="starch" ID="ID_1559456266" CREATED="1641658687643" MODIFIED="1641658710338">
+<icon BUILTIN="present@b"/>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="oxidising agent" LOCALIZED_STYLE_REF="default" ID="ID_1716063827" CREATED="1641515059414" MODIFIED="1641515289086" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="most acids" ID="ID_1035032542" CREATED="1641515244036" MODIFIED="1641515262475" COLOR="#666666">
 <icon BUILTIN="question@b"/>
 <font ITALIC="true"/>
-<node TEXT="H2SO4" ID="ID_1667185346" CREATED="1641515425368" MODIFIED="1641515432905"/>
+<node TEXT="H2SO4" ID="ID_1667185346" CREATED="1641515425368" MODIFIED="1641660281861">
+<icon BUILTIN="present@b"/>
+</node>
 <node TEXT="oxidising acid" ID="ID_1640988145" CREATED="1641515914174" MODIFIED="1641515925866" LINK="https://en.wikipedia.org/wiki/Oxidizing_acid">
 <icon BUILTIN="chain@b"/>
 </node>
@@ -259,6 +275,8 @@
 <node TEXT="HI" ID="ID_1177092783" CREATED="1641515316153" MODIFIED="1641515467076"/>
 </node>
 </node>
+</node>
+<node TEXT="" ID="ID_156731825" CREATED="1641658563853" MODIFIED="1641658563853"/>
 </node>
 </node>
 </node>
