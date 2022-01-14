@@ -11,7 +11,7 @@
 <node TEXT="slipping into natural paganism" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1641760864571" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -172,16 +172,43 @@
     </p>
   </body>
 </html>
+</richcontent>
+<font NAME="Tahoma"/>
+</node>
+<node ID="ID_185464042" CREATED="1641760647352" MODIFIED="1641894600925">
+<icon BUILTIN="bad@bleak"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      people want <b>many</b>&nbsp;gods
+    </p>
+  </body>
+</html>
 
 </richcontent>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="people want many gods" ID="ID_185464042" CREATED="1641760647352" MODIFIED="1641768672515">
-<icon BUILTIN="bad@bleak"/>
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="christians invented &quot;saints&quot; so that they can pray to/through a saint" ID="ID_899750296" CREATED="1641760647353" MODIFIED="1641768710413">
+<node ID="ID_899750296" CREATED="1641760647353" MODIFIED="1641894603070">
 <icon BUILTIN="good@bleak"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      christians invented &quot;<b>saints</b>&quot; so that they can pray to/through a saint
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <font NAME="Tahoma"/>
 </node>
 </node>
@@ -201,7 +228,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font NAME="Tahoma"/>
 </node>
@@ -209,8 +235,22 @@
 <icon BUILTIN="bad@bleak"/>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="the quran is not used as a book anymore, but as an artefact (idol) - they don&apos;t read it, but have it on a shelf, being afraid of touching it in a disrespectful way" ID="ID_943987066" CREATED="1641760647360" MODIFIED="1641768722689">
+<node ID="ID_943987066" CREATED="1641760647360" MODIFIED="1641894617282">
 <icon BUILTIN="good@bleak"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      the <b>quran</b>&nbsp;is not used as a book anymore, but as an artefact (idol) - they don't read it, but have it on a shelf, being afraid of touching it in a disrespectful way
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <font NAME="Tahoma"/>
 </node>
 </node>
@@ -230,7 +270,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="hindu gods don&apos;t help people" ID="ID_1099960224" CREATED="1641770106591" MODIFIED="1641770305156">
 <node TEXT="only perpsonal work helps to achieve liberation" ID="ID_1183841111" CREATED="1641770134566" MODIFIED="1641770152448"/>
@@ -244,8 +283,22 @@
 <icon BUILTIN="bad@bleak"/>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="they started praying to Bodhisattvas" ID="ID_23471182" CREATED="1641768795449" MODIFIED="1641771414660">
+<node ID="ID_23471182" CREATED="1641768795449" MODIFIED="1641894637574">
 <icon BUILTIN="good@bleak"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      they started praying to <b>Bodhisattvas</b>&nbsp;
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="in mahayama buddhism" ID="ID_884616061" CREATED="1641768833758" MODIFIED="1641768927399">
 <icon BUILTIN="place@b"/>
 </node>
@@ -266,7 +319,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font ITALIC="false"/>
 </node>
