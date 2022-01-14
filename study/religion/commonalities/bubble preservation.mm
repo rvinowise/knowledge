@@ -11,7 +11,7 @@
 <node TEXT="bubble preservation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1640520737070" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -150,7 +150,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1245601343" CREATED="1640528145284" MODIFIED="1640528159395"><richcontent TYPE="NODE">
 
@@ -164,7 +163,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="supported them against the Muslims" ID="ID_1369413080" CREATED="1640527961116" MODIFIED="1640527968888">
 <icon BUILTIN="quote@b"/>
@@ -183,7 +181,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="even if they were their fathers or their sons or their brothers" ID="ID_709243149" CREATED="1640528275450" MODIFIED="1640528278492">
 <icon BUILTIN="quote@b"/>
@@ -205,8 +202,52 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+</node>
+</node>
+</node>
+<node TEXT="no exposure to the opposing side" ID="ID_721068979" CREATED="1636442159529" MODIFIED="1636442308763">
+<node TEXT="muslims are afraid of talking to atheists, whose debating level is higher then theirs" ID="ID_313327886" CREATED="1636442235324" MODIFIED="1636442300358">
+<node TEXT="not my level" ID="ID_1567330734" CREATED="1636442225970" MODIFIED="1636442231272">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="why don&apos;t you go to &lt;a strong apologist&gt;?" ID="ID_1933256971" CREATED="1636442324695" MODIFIED="1636442355135">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="rvi" ID="ID_747053280" CREATED="1641758137098" MODIFIED="1641758172448">
+<icon BUILTIN="man_bust@b"/>
+<icon BUILTIN="punctuation/colon@b"/>
+<node TEXT="i&apos;m afraid of" LOCALIZED_STYLE_REF="default" ID="ID_1265172857" CREATED="1636442356221" MODIFIED="1636442567377" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="appearing a looser to the public" LOCALIZED_STYLE_REF="default" ID="ID_220456582" CREATED="1636442397955" MODIFIED="1636442541119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="not being a skilfull debater" ID="ID_176940428" CREATED="1636442377025" MODIFIED="1636442387828"/>
+<node TEXT="if it&apos;s a private talk - i&apos;m ok" ID="ID_1765087906" CREATED="1636442603532" MODIFIED="1636442634889">
+<icon BUILTIN="good@bleak"/>
+</node>
+</node>
+<node TEXT="bullying by the cult members" LOCALIZED_STYLE_REF="default" ID="ID_1059064421" CREATED="1636442402780" MODIFIED="1636442541675" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="if it&apos;s a civilised apologist - i&apos;m ok" ID="ID_1394342526" CREATED="1636442621369" MODIFIED="1636442634135">
+<icon BUILTIN="good@bleak"/>
+<node TEXT="hamza tzortzis" ID="ID_1301128729" CREATED="1636442649911" MODIFIED="1636442657221"/>
+<node TEXT="nadir ahmed" ID="ID_967951020" CREATED="1636442657592" MODIFIED="1636442674747"/>
+</node>
+<node TEXT="mo hijab" ID="ID_498844935" CREATED="1636442694264" MODIFIED="1636442698432"/>
+<node TEXT="haqiqatchu" ID="ID_1292266638" CREATED="1636442701486" MODIFIED="1636442707166"/>
+</node>
+</node>
+<node TEXT="i&apos;m NOT afraid of" ID="ID_1225773236" CREATED="1636442427745" MODIFIED="1636442568689">
+<icon BUILTIN="good@bleak"/>
+<node TEXT="loosing my &quot;faith&quot; in atheism" LOCALIZED_STYLE_REF="default" ID="ID_261594289" CREATED="1636442436100" MODIFIED="1636442579449" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="i&apos;m sure i&apos;ll stay an atheist" ID="ID_1158752583" CREATED="1636442456462" MODIFIED="1636442502274"/>
+<node TEXT="if i change my mind - it&apos;s Good for me" ID="ID_1162971417" CREATED="1636442480544" MODIFIED="1636442494621"/>
+<node TEXT="mulims are afraid of Loosing faith" ID="ID_1255916789" CREATED="1636442504845" MODIFIED="1636442530669">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="this is the key difference" ID="ID_583720432" CREATED="1636442590370" MODIFIED="1636442594980"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>

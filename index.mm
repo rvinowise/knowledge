@@ -199,9 +199,11 @@
 </node>
 <node TEXT="health" ID="ID_1563290764" CREATED="1638643041408" MODIFIED="1638643058757" LINK="study/health/">
 <node TEXT="glycation end products" ID="ID_226375567" CREATED="1638643060165" MODIFIED="1638643090310" LINK="study/health/glycation%20end%20products.mm"/>
+<node TEXT="vitamin stability.mm" ID="ID_1822825582" CREATED="1641512616557" MODIFIED="1641512616567" LINK="study/health/vitamin%20stability.mm"/>
 <node TEXT="sweetness" ID="ID_884629282" CREATED="1641051410174" MODIFIED="1641051419057" LINK="file:/D:/archive/cloud_storages/knowledge/study/health/sweetness.mm"/>
 <node TEXT="brain" ID="ID_1608986483" CREATED="1641224767200" MODIFIED="1641224785348" LINK="study/health/brain/">
 <node TEXT="lithium" ID="ID_158704309" CREATED="1641224790044" MODIFIED="1641224795859" LINK="file:/D:/archive/cloud_storages/knowledge/study/health/brain/lithium.mm"/>
+<node TEXT="vitamin intake" ID="ID_321799862" CREATED="1641582427380" MODIFIED="1641582444231" LINK="file:/C:/knowledge/study/health/vitamin%20intake.mm"/>
 </node>
 </node>
 </node>
