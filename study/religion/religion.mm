@@ -11,7 +11,7 @@
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -146,14 +146,9 @@
 <node TEXT="social impact of religion" ID="ID_877134100" CREATED="1634834704204" MODIFIED="1635831185783" LINK="islam/social%20impact%20of%20religion.mm#ID_111853252" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="apostacy in islam.mm" ID="ID_825805818" CREATED="1633368726275" MODIFIED="1635831191474" LINK="islam/apostacy%20in%20islam.mm" COLOR="#000000">
-<icon BUILTIN="present@b"/>
-<font NAME="Tahoma"/>
-<node TEXT="The Apostates When Muslims Leave Islam by Simon Cottee" ID="ID_733590497" CREATED="1633369199905" MODIFIED="1635791415599" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<node TEXT="apostacy in islam" LOCALIZED_STYLE_REF="default" ID="ID_825805818" CREATED="1633368726275" MODIFIED="1641968456099" LINK="islam/apostacy%20in%20islam.mm" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="The Apostates When Muslims Leave Islam by Simon Cottee" LOCALIZED_STYLE_REF="default" ID="ID_733590497" CREATED="1633369199905" MODIFIED="1641968451827" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-26F2"/>
-<icon BUILTIN="book_open@b"/>
-<font NAME="Tahoma"/>
 </node>
 </node>
 <node TEXT="islamic_history.mm" ID="ID_1656115996" CREATED="1633368741811" MODIFIED="1635831197512" LINK="islam/islamic_history.mm" COLOR="#000000">

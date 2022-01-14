@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -123,8 +123,7 @@
       sort. by time
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="causing events" STYLE_REF="list item" ID="ID_1264174804" CREATED="1633949066604" MODIFIED="1633949101640">
 <node TEXT="significant personal experiences" STYLE_REF="list item" ID="ID_1943233073" CREATED="1633949146789" MODIFIED="1633949245338">
 <node TEXT="death of a loved one" ID="ID_1558304941" CREATED="1633950153067" MODIFIED="1633950153067"/>
@@ -231,6 +230,12 @@
 <icon BUILTIN="bad@bleak"/>
 </node>
 </node>
+<node TEXT="fear of hell postpones apostasy" STYLE_REF="list item" ID="ID_150785069" CREATED="1641968529996" MODIFIED="1641968566631">
+<node TEXT="reddit exmuslim stories" ID="ID_1796463786" CREATED="1641968603388" MODIFIED="1641968607360">
+<icon BUILTIN="emoji-26F2"/>
+<node TEXT="" LOCALIZED_STYLE_REF="default" ID="ID_1367974788" CREATED="1641968572074" MODIFIED="1641968609289" LINK="https://www.reddit.com/r/exmuslim/comments/4lmqge/doubting_islam_paranoia_what_made_you_leave_islam/" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+</node>
+</node>
 <node TEXT="deciding that one is not a muslim" STYLE_REF="list item" ID="ID_173898060" CREATED="1630280796395" MODIFIED="1632139730309">
 <node TEXT="often when the religious experience should be the strongest" ID="ID_1792285876" CREATED="1630283554112" MODIFIED="1630283941230">
 <node TEXT="during hajj" ID="ID_404929542" CREATED="1630283575458" MODIFIED="1630283585094"/>
@@ -304,8 +309,7 @@
       sort. important-&gt;not important
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="morality" STYLE_REF="list item" ID="ID_817058562" CREATED="1630060795490" MODIFIED="1631708456265">
 <node TEXT="behaviour of other muslims" STYLE_REF="list item" ID="ID_968788649" CREATED="1630060826604" MODIFIED="1632139226199" HGAP_QUANTITY="17 pt" VSHIFT_QUANTITY="21.75 pt">
 <node TEXT="terrorism" ID="ID_989038031" CREATED="1630065388488" MODIFIED="1630084447733">

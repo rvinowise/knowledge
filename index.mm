@@ -185,7 +185,7 @@
 <node TEXT="psychology" ID="ID_1262274766" CREATED="1636844338128" MODIFIED="1636844350566" LINK="study/biology/psychology/psychology.mm"/>
 </node>
 <node TEXT="chemistry" ID="ID_1170336021" CREATED="1641514141193" MODIFIED="1641514147519" LINK="study/chemistry/">
-<node TEXT="types of agents" ID="ID_573074678" CREATED="1641514148754" MODIFIED="1641514301660" LINK="file:/C:/knowledge/study/chemistry/types%20of%20agents.mm"/>
+<node TEXT="types of agents" ID="ID_573074678" CREATED="1641514148754" MODIFIED="1641658032392" LINK="study/chemistry/types%20of%20agents.mm"/>
 </node>
 </node>
 <node TEXT="religion" ID="ID_1519172584" CREATED="1635882388290" MODIFIED="1635882395282" LINK="study/religion/">
