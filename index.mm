@@ -206,6 +206,9 @@
 <node TEXT="vitamin intake" ID="ID_321799862" CREATED="1641582427380" MODIFIED="1641582444231" LINK="file:/C:/knowledge/study/health/vitamin%20intake.mm"/>
 </node>
 </node>
+<node TEXT="programming" ID="ID_1478726703" CREATED="1642145814824" MODIFIED="1642145831998" LINK="study/programming/">
+<node TEXT="search" ID="ID_758762981" CREATED="1642145833400" MODIFIED="1642145961821" LINK="file:/D:/archive/cloud_storages/knowledge/study/programming/search.mm"/>
+</node>
 </node>
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">
 <icon BUILTIN="info_circle@b"/>
