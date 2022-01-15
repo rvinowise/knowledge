@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="mormonism" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635785066950"><hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -201,9 +201,11 @@
 <node TEXT="the book of mormon" ID="ID_349174220" CREATED="1636179286835" MODIFIED="1636179291971">
 <node TEXT="deep insight into ancient culture" ID="ID_792189288" CREATED="1636179311519" MODIFIED="1636179338622">
 <icon BUILTIN="good@bleak"/>
+<node TEXT="quranic literary miracle" LOCALIZED_STYLE_REF="default" ID="ID_1319821013" CREATED="1641895121854" MODIFIED="1641895355653" LINK="../islam/quranic%20challenge.mm#ID_696401721" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="connection/conferatur"/>
 </node>
 </node>
-<node TEXT="" ID="ID_234678631" CREATED="1636179295863" MODIFIED="1636179295863"/>
+</node>
 </node>
 </node>
 </node>

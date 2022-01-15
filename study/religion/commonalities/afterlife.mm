@@ -11,7 +11,7 @@
 <node TEXT="afterlife" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1641415506468" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -154,6 +154,30 @@
 </node>
 </node>
 </node>
+</node>
+<node TEXT="everybody go to hell" POSITION="right" ID="ID_367938873" CREATED="1642070759672" MODIFIED="1642070872726">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="greece" ID="ID_814716442" CREATED="1642070786967" MODIFIED="1642070796046">
+<icon BUILTIN="place@b"/>
+</node>
+<node TEXT="afterlife is not looked forward to" ID="ID_492773868" CREATED="1642070798596" MODIFIED="1642070832382"/>
+<node TEXT="tartarus" ID="ID_1161154922" CREATED="1642070688756" MODIFIED="1642071018377">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="for the wicked people" ID="ID_179330995" CREATED="1642070998337" MODIFIED="1642071005374"/>
+</node>
+</node>
+<node TEXT="heaven is unpleasant for us" POSITION="right" ID="ID_479188364" CREATED="1642070882037" MODIFIED="1642070974660">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="but was considered good by that culture" ID="ID_398118616" CREATED="1642070900010" MODIFIED="1642070910416"/>
+<node TEXT="valhalla" ID="ID_857747841" CREATED="1642070915981" MODIFIED="1642070919923">
+<node TEXT="scandinavia" ID="ID_1157023390" CREATED="1642070921028" MODIFIED="1642070929156">
+<icon BUILTIN="place@b"/>
+</node>
+<node TEXT="inhabitants fight to death constantly" ID="ID_1671202857" CREATED="1642070929896" MODIFIED="1642070960244"/>
+</node>
+</node>
+<node TEXT="often there are several levels of hell" POSITION="right" ID="ID_1401224734" CREATED="1642070671605" MODIFIED="1642071047846">
+<node TEXT="world of shadows" ID="ID_242679190" CREATED="1642070728884" MODIFIED="1642070739734"/>
 </node>
 </node>
 </map>

@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -309,9 +309,6 @@
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
 <icon BUILTIN="box_inscribed@b"/>
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="" ID="ID_85762982" CREATED="1633811933391" MODIFIED="1635773283879" BACKGROUND_COLOR="#e5e5e5">
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
