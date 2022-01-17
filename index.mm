@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -259,6 +259,7 @@
 <node TEXT="notes" POSITION="right" ID="ID_1038715512" CREATED="1638113784765" MODIFIED="1638113797000" LINK="notes/">
 <icon BUILTIN="info_circle@b"/>
 <node TEXT="debt" ID="ID_1242890115" CREATED="1638113809236" MODIFIED="1638113812799" LINK="notes/debt.mm"/>
+<node TEXT="drill noise" ID="ID_810419896" CREATED="1642250603994" MODIFIED="1642250625281" LINK="file:/C:/knowledge/notes/drill%20noise.mm"/>
 </node>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
