@@ -283,5 +283,16 @@
 </node>
 </node>
 </node>
+<node TEXT="where to complain" POSITION="right" ID="ID_816408643" CREATED="1642434206705" MODIFIED="1642434215950">
+<node TEXT="chelnok (our housing service)" ID="ID_1334008129" CREATED="1642434216980" MODIFIED="1642434294193">
+<node TEXT="contacts" ID="ID_1242046068" CREATED="1642434297504" MODIFIED="1642434374786">
+<node TEXT="https://www.dom-i-dvor.info/hcs/1500" ID="ID_318791654" CREATED="1642434377246" MODIFIED="1642434422825" LINK="https://www.dom-i-dvor.info/hcs/1500"/>
+<node TEXT="https://zhkh.su/upravljajushhie_kompanii_tszh_i_zhsk_rossii/zhsk_chelnok_8924608/" ID="ID_1832537854" CREATED="1642434409183" MODIFIED="1642434418271" LINK="https://zhkh.su/upravljajushhie_kompanii_tszh_i_zhsk_rossii/zhsk_chelnok_8924608/"/>
+</node>
+<node TEXT="" ID="ID_303459455" CREATED="1642434427882" MODIFIED="1642434427882"/>
+</node>
+<node TEXT="consumer supervision" ID="ID_1871068268" CREATED="1642434308375" MODIFIED="1642434513245"/>
+<node TEXT="police" ID="ID_1533885614" CREATED="1642434301220" MODIFIED="1642434303968"/>
+</node>
 </node>
 </map>

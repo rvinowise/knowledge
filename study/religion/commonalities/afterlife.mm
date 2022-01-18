@@ -11,7 +11,7 @@
 <node TEXT="afterlife" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1641415506468" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -129,7 +129,8 @@
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="badness of hell depends on the culture" POSITION="right" ID="ID_1523512459" CREATED="1641415506556" MODIFIED="1641415598785">
+<node TEXT="depends on the culture" POSITION="right" ID="ID_1523512459" CREATED="1641415506556" MODIFIED="1642426426895">
+<node TEXT="badness of hell" ID="ID_216966213" CREATED="1642426428050" MODIFIED="1642426430696">
 <node TEXT="hot place with fire" ID="ID_1613468700" CREATED="1641415600113" MODIFIED="1641415766744">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="in hot climates" ID="ID_823903079" CREATED="1641415702989" MODIFIED="1641415709166">
@@ -152,6 +153,12 @@
 <icon BUILTIN="chain@b"/>
 </node>
 </node>
+</node>
+</node>
+</node>
+<node TEXT="goodness of heaven" ID="ID_1741264830" CREATED="1642426431261" MODIFIED="1642426436876">
+<node TEXT="shadow means heaven" ID="ID_265201689" CREATED="1642426437187" MODIFIED="1642426460422" LINK="https://en.wiktionary.org/wiki/%D8%B8%D9%84">
+<icon BUILTIN="control/type_of_parent"/>
 </node>
 </node>
 </node>
