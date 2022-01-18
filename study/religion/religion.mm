@@ -382,6 +382,9 @@
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
 </node>
+<node TEXT="aspects of belief" ID="ID_125807405" CREATED="1642303573833" MODIFIED="1642303644241" LINK="aspects%20of%20belief/">
+<node TEXT="combinations of beliefs.mm" ID="ID_1485796504" CREATED="1642303707267" MODIFIED="1642303707267" LINK="aspects%20of%20belief/combinations%20of%20beliefs.mm"/>
+</node>
 </node>
 </node>
 </map>
