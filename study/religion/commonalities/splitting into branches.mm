@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="splitting into branches" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635619791742"><hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
+<node TEXT="splitting into branches" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635619791742"><hook NAME="MapStyle" zoom="1.026">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -269,7 +269,8 @@
 <node TEXT="twelfth imam" ID="ID_322117385" CREATED="1635627801867" MODIFIED="1635640678549">
 <icon BUILTIN="chain@b"/>
 </node>
-<node TEXT="mahdi&apos;ism" LOCALIZED_STYLE_REF="default" ID="ID_184539318" CREATED="1635639417198" MODIFIED="1635723090525" LINK="https://en.wikipedia.org/wiki/List_of_Mahdi_claimants" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="mahdi&apos;ism" LOCALIZED_STYLE_REF="default" ID="ID_184539318" CREATED="1635639417198" MODIFIED="1642494765099" LINK="https://en.wikipedia.org/wiki/List_of_Mahdi_claimants" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="raised_hand@w"/>
 <node TEXT="mizra ghulam ahmad" ID="ID_1577358509" CREATED="1635638885928" MODIFIED="1635710629519">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="ahmadiyya" ID="ID_792966799" CREATED="1635638894966" MODIFIED="1635640775837">
