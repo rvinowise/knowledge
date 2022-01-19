@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="different qurans" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633485734194"><hook NAME="MapStyle" zoom="1.21">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -608,6 +608,24 @@
 <node TEXT="7arakAt" ID="ID_1391312522" CREATED="1633487640081" MODIFIED="1633487645219">
 <node TEXT="vowels etc." ID="ID_1912856" CREATED="1633487690886" MODIFIED="1633488005138">
 <icon BUILTIN="box_inscribed@b"/>
+</node>
+</node>
+</node>
+<node TEXT="resources" POSITION="right" ID="ID_1725310796" CREATED="1642616043634" MODIFIED="1642616048664">
+<icon BUILTIN="emoji-26F2"/>
+<node TEXT="different recitations" ID="ID_1714464608" CREATED="1642616049658" MODIFIED="1642616061214">
+<node TEXT="different quotations" ID="ID_799761295" CREATED="1642616125984" MODIFIED="1642616308267">
+<node TEXT="surah Poets" ID="ID_1794106622" CREATED="1642616312948" MODIFIED="1642616316804">
+<node TEXT="ayat 12" ID="ID_1065511704" CREATED="1642616070348" MODIFIED="1642616124389">
+<node TEXT="Yaqoob, surah Poets" ID="ID_741794631" CREATED="1642616061544" MODIFIED="1642616115706" LINK="https://youtu.be/pOeIrXayrT8?t=154"/>
+<node TEXT="Hafs" ID="ID_1201637885" CREATED="1642616276203" MODIFIED="1642616289079" LINK="https://quran.com/26?font=v1&amp;reading=false"/>
+<node TEXT="consonant I is a baby" ID="ID_190097237" CREATED="1642616358786" MODIFIED="1642616477268">
+<node TEXT="Ruwais on Yaqub al-Hadrami" LOCALIZED_STYLE_REF="default" ID="ID_744679161" CREATED="1642616480445" MODIFIED="1642616524216" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="place@b"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
