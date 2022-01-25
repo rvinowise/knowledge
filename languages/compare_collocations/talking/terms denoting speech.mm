@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637160483756"><hook NAME="MapStyle" zoom="1.32">
+<node TEXT="terms denoting speech" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1642924500299"><hook NAME="MapStyle" zoom="1.32">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -137,53 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_1845730270" CREATED="1637160483930" MODIFIED="1637160483957"/>
-<node TEXT="learning arabic.mm" POSITION="right" ID="ID_659148485" CREATED="1633368713087" MODIFIED="1635882107112" LINK="study/learning%20arabic.mm">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="compare_colocations" POSITION="right" ID="ID_1720804096" CREATED="1637117029240" MODIFIED="1637161318968" LINK="compare_collocations/">
-<icon BUILTIN="info_circle@b"/>
-<node TEXT="foolishness.mm" ID="ID_1325955562" CREATED="1637181382311" MODIFIED="1637181382315" LINK="compare_collocations/information/foolishness.mm"/>
-<node TEXT="exchanging information" ID="ID_454811070" CREATED="1637130958457" MODIFIED="1640899053478" LINK="compare_collocations/exchanging%20information.mm"/>
-<node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="compare_collocations/using.mm"/>
-<node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="compare_collocations/possibility.mm"/>
-<node TEXT="human body" ID="ID_735615301" CREATED="1637166164110" MODIFIED="1637166186899" LINK="compare_collocations/human%20body/">
-<node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="compare_collocations/human%20body/eating.mm"/>
-</node>
-<node TEXT="feelings" ID="ID_1080055901" CREATED="1637167076054" MODIFIED="1637167086394" LINK="compare_collocations/feelings/">
-<node TEXT="sadness" ID="ID_811330063" CREATED="1637167087534" MODIFIED="1637167104062" LINK="compare_collocations/feelings/sadness.mm"/>
-<node TEXT="happiness" ID="ID_390070462" CREATED="1637408430479" MODIFIED="1637408439935" LINK="compare_collocations/feelings/happiness.mm"/>
-<node TEXT="sorry" ID="ID_1666152936" CREATED="1640154321783" MODIFIED="1640154327921" LINK="compare_collocations/feelings/sorry.mm"/>
-</node>
-<node TEXT="mind" ID="ID_189384173" CREATED="1637212827393" MODIFIED="1637212929844" LINK="compare_collocations/mind/">
-<node TEXT="imagination" ID="ID_788257158" CREATED="1637212932002" MODIFIED="1637212941502" LINK="compare_collocations/mind/imagination.mm"/>
-<node TEXT="humor" ID="ID_1091407720" CREATED="1637215639908" MODIFIED="1637216180040" LINK="compare_collocations/mind/humor.mm"/>
-<node TEXT="thinking" ID="ID_219942153" CREATED="1637425246287" MODIFIED="1637425256325" LINK="compare_collocations/mind/thinking.mm"/>
-<node TEXT="preferences" ID="ID_1120180814" CREATED="1639809351536" MODIFIED="1639809357802" LINK="compare_collocations/mind/preferences.mm"/>
-<node TEXT="changing religion" ID="ID_552941956" CREATED="1641181012714" MODIFIED="1641181034789" LINK="file:/C:/knowledge/languages/compare_collocations/mind/changing%20religion.mm"/>
-</node>
-<node TEXT="talking" ID="ID_49288193" CREATED="1637216129933" MODIFIED="1637216139511" LINK="compare_collocations/talking/">
-<node TEXT="blaming" ID="ID_1296721790" CREATED="1637324827784" MODIFIED="1637324841522" LINK="compare_collocations/talking/blaming.mm"/>
-<node TEXT="terms denoting speech" ID="ID_802619694" CREATED="1642924436293" MODIFIED="1642924499879" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/terms%20denoting%20speech.mm"/>
-<node TEXT="secret" ID="ID_845439539" CREATED="1643011561367" MODIFIED="1643011566296" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/secret.mm"/>
-</node>
-<node TEXT="time" ID="ID_749047726" CREATED="1637326274490" MODIFIED="1637491530964" LINK="compare_collocations/time/time.mm">
-<node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="compare_collocations/time/past.mm"/>
-<node TEXT="future" ID="ID_1925617490" CREATED="1637491010019" MODIFIED="1637491014317" LINK="compare_collocations/time/future.mm"/>
-</node>
-<node TEXT="space" ID="ID_856787488" CREATED="1639465841713" MODIFIED="1639465854781" LINK="compare_collocations/space/space.mm">
-<node TEXT="moving in space" ID="ID_1224497661" CREATED="1639470632706" MODIFIED="1639470657343" LINK="compare_collocations/space/moving%20in%20space.mm"/>
-</node>
-<node TEXT="being influenced by" ID="ID_1077031731" CREATED="1640970991928" MODIFIED="1640971042588" LINK="compare_collocations/being%20influenced%20by/">
-<node TEXT="weather" ID="ID_1345469567" CREATED="1640971046151" MODIFIED="1640971065632" LINK="file:/C:/google/knowledge/languages/compare_collocations/being%20influenced%20by/weather.mm"/>
-</node>
-</node>
-<node TEXT="english" POSITION="right" ID="ID_1140432565" CREATED="1640279493235" MODIFIED="1640279500409" LINK="english/">
-<node TEXT="grammar" ID="ID_1461919541" CREATED="1640279501472" MODIFIED="1640279511203" LINK="english/grammar.mm"/>
-<node TEXT="collocations" ID="ID_1765381720" CREATED="1642510288311" MODIFIED="1642510303439" LINK="english/collocations/">
-<node TEXT="places" ID="ID_520112052" CREATED="1642510303564" MODIFIED="1642510330182" LINK="file:/C:/knowledge/languages/english/collocations/places.mm"/>
-</node>
-</node>
+<node TEXT="type: compare_colocations" POSITION="left" ID="ID_645723973" CREATED="1642924500356" MODIFIED="1642924500362"/>
 <node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -318,6 +272,56 @@
 </node>
 </node>
 <node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
+</node>
+<node TEXT="long" POSITION="right" ID="ID_1505157857" CREATED="1642924918294" MODIFIED="1642924924627">
+<node TEXT="dialogue" ID="ID_638088158" CREATED="1642924746054" MODIFIED="1642924750369">
+<node TEXT="dialogue" ID="ID_1812454072" CREATED="1642924500364" MODIFIED="1642924512064" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="have a" LOCALIZED_STYLE_REF="default" ID="ID_1232004296" CREATED="1642924572644" MODIFIED="1642924677621" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+</node>
+</node>
+<node TEXT="حِوَار" ID="ID_1706649978" CREATED="1642924519527" MODIFIED="1642924555593" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
+<node TEXT="debate" ID="ID_32701162" CREATED="1642924752143" MODIFIED="1642924753320">
+<node TEXT="debate" ID="ID_1920896295" CREATED="1642924753518" MODIFIED="1642924756484" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+<node TEXT="مُنَاظَرة" ID="ID_445705594" CREATED="1642924756787" MODIFIED="1642924791847" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
+</node>
+<node TEXT="medium" POSITION="right" ID="ID_1182341484" CREATED="1642952771409" MODIFIED="1642952773973">
+<node TEXT="statement" ID="ID_789503582" CREATED="1642952774269" MODIFIED="1642952779479">
+<node TEXT="statement" ID="ID_142510258" CREATED="1642952779702" MODIFIED="1642952783946" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+<node TEXT="عِبَارة" ID="ID_1066399204" CREATED="1642952784159" MODIFIED="1642952803300" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
+</node>
+<node TEXT="short" POSITION="right" ID="ID_1384935869" CREATED="1642924925182" MODIFIED="1642924927762">
+<node TEXT="term" ID="ID_1857010337" CREATED="1642924927945" MODIFIED="1642924946001" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+<node TEXT="مُصْتَلَح" ID="ID_1424007745" CREATED="1642924946799" MODIFIED="1642924973544" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="مُصْطَلَحَات" ID="ID_995128024" CREATED="1642926143806" MODIFIED="1642926172178" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="grammar/plural"/>
+</node>
+</node>
+<node TEXT="word" ID="ID_1520427951" CREATED="1642925095155" MODIFIED="1642925099074" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+<node TEXT="كَلِمة" ID="ID_465307295" CREATED="1642925099286" MODIFIED="1642925121794" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
 </node>
 </node>
 </map>

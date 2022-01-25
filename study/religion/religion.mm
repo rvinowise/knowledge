@@ -11,7 +11,7 @@
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -220,6 +220,7 @@
 <node TEXT="test" ID="ID_362498648" CREATED="1638679118086" MODIFIED="1641760877570" LINK="islam/test.mm">
 <font NAME="Tahoma"/>
 </node>
+<node TEXT="prohibitions" ID="ID_346116388" CREATED="1642831713520" MODIFIED="1642831749917" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/prohibitions.mm"/>
 </node>
 <node TEXT="christianity" ID="ID_840596349" CREATED="1634263757943" MODIFIED="1636643399547" LINK="christianity/christianity.mm" COLOR="#000000">
 <icon BUILTIN="present@b"/>

@@ -11,7 +11,7 @@
 <node TEXT="bubble preservation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1640520737070" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -248,6 +248,15 @@
 </node>
 </node>
 </node>
+</node>
+</node>
+</node>
+<node TEXT="studying is prohibited" ID="ID_913876554" CREATED="1642684976665" MODIFIED="1642684985788">
+<node TEXT="philosophy is haram" ID="ID_728746136" CREATED="1642684999214" MODIFIED="1642685006856"/>
+<node TEXT="natural sciences are haram" ID="ID_15648185" CREATED="1642685008648" MODIFIED="1642685019519" LINK="https://islamqa.info/en/answers/88184/ruling-on-studying-philosophy">
+<node TEXT="As for learning philosophy, magic (sleight of hand), astrology, geomancy, natural science and witchcraft, it is haraam" ID="ID_389133238" CREATED="1642685025887" MODIFIED="1642685040365">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
 </node>
 </node>
 </node>
