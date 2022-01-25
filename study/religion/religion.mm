@@ -11,7 +11,7 @@
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -170,21 +170,14 @@
 <node TEXT="islamic family" ID="ID_226197633" CREATED="1638746705801" MODIFIED="1641760877566" LINK="islam/islamic%20family.mm">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="quran" ID="ID_985903310" CREATED="1633564793856" MODIFIED="1635791415609" COLOR="#000000">
-<font NAME="Tahoma"/>
-<node TEXT="different qurans" ID="ID_646333169" CREATED="1633468841195" MODIFIED="1635831224849" LINK="islam/different%20qurans.mm" COLOR="#000000">
-<font NAME="Tahoma"/>
-<node TEXT="qira&apos;at" ID="ID_1190871206" CREATED="1633564595152" MODIFIED="1635791415611" COLOR="#000000">
-<font NAME="Tahoma"/>
+<node TEXT="quran" ID="ID_1011707650" CREATED="1643134331153" MODIFIED="1643134331154" LINK="islam/quran/">
+<node TEXT="general data.mm" ID="ID_142591087" CREATED="1643134376339" MODIFIED="1643134376339" LINK="islam/quran/general%20data.mm"/>
+<node TEXT="history of quranic text.mm" ID="ID_1822565590" CREATED="1643134376343" MODIFIED="1643134376343" LINK="islam/quran/history%20of%20quranic%20text.mm"/>
+<node TEXT="quranic challenge.mm" ID="ID_1106883001" CREATED="1643134376347" MODIFIED="1643134376347" LINK="islam/quran/quranic%20challenge.mm"/>
+<node TEXT="different qurans.mm" ID="ID_1639150382" CREATED="1643134376351" MODIFIED="1643134376352" LINK="islam/quran/different%20qurans.mm"/>
+<node TEXT="content" ID="ID_27619976" CREATED="1643134444653" MODIFIED="1643134450296" LINK="islam/quran/content/">
+<node TEXT="rvi narration of quran" ID="ID_1635158467" CREATED="1643134574806" MODIFIED="1643134752139" LINK="file:/C:/knowledge/study/religion/islam/quran/content/rvi%20narration%20of%20quran.mm"/>
 </node>
-</node>
-<node TEXT="history of quranic text" ID="ID_1389013164" CREATED="1633564658225" MODIFIED="1635882569164" LINK="islam/history%20of%20quranic%20text.mm" COLOR="#000000">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="quranic challenge" ID="ID_653709748" CREATED="1638382777349" MODIFIED="1641760877567" LINK="islam/quranic%20challenge.mm">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="general data" ID="ID_228679454" CREATED="1642612858538" MODIFIED="1642612866640" LINK="file:/C:/knowledge/study/religion/islam/general%20data.mm"/>
 </node>
 <node TEXT="satan" ID="ID_1911431146" CREATED="1633686322952" MODIFIED="1635882571903" LINK="islam/satan.mm" COLOR="#000000">
 <font NAME="Tahoma"/>

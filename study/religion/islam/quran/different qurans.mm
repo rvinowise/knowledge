@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="different qurans" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633485734194"><hook NAME="MapStyle" zoom="1.21">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -611,8 +611,9 @@
 </node>
 </node>
 </node>
-<node TEXT="resources" POSITION="right" ID="ID_1725310796" CREATED="1642616043634" MODIFIED="1642616048664">
+<node TEXT="examples" POSITION="right" ID="ID_1725310796" CREATED="1642616043634" MODIFIED="1643135011553" COLOR="#7f7f7f">
 <icon BUILTIN="emoji-26F2"/>
+<font BOLD="true"/>
 <node TEXT="different recitations" ID="ID_1714464608" CREATED="1642616049658" MODIFIED="1642616061214">
 <node TEXT="different quotations" ID="ID_799761295" CREATED="1642616125984" MODIFIED="1642616308267">
 <node TEXT="surah Poets" ID="ID_1794106622" CREATED="1642616312948" MODIFIED="1642616316804">
@@ -624,6 +625,25 @@
 <icon BUILTIN="place@b"/>
 </node>
 </node>
+</node>
+</node>
+</node>
+<node TEXT="punctuation marks" ID="ID_1699437523" CREATED="1643135021108" MODIFIED="1643135124772">
+<node TEXT="bakhara 2:2" ID="ID_1773284832" CREATED="1643135239158" MODIFIED="1643135473302">
+<node TEXT="Fadel Soliman, Bridges’ translation" ID="ID_1107199914" CREATED="1643135146175" MODIFIED="1643135164780" LINK="https://quran.com/2">
+<icon BUILTIN="emoji-26F2"/>
+<node TEXT="This portion can be read differently in Arabic by pausing after ‘doubt’, and in this case it means: ‘That is the Scripture, no doubt. In it there is guidance for the mindful (of God)." LOCALIZED_STYLE_REF="default" ID="ID_463055360" CREATED="1643135171308" MODIFIED="1643135192938" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+</node>
+<node TEXT="it is the scripture, no doubt. there&apos;s guidance..." LOCALIZED_STYLE_REF="default" ID="ID_1765115850" CREATED="1643135214020" MODIFIED="1643135531078" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="it is the scripture. no doubt, there&apos;s guidance..." ID="ID_813768350" CREATED="1643135495013" MODIFIED="1643135534096">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
 </node>
 </node>
 </node>
