@@ -10,8 +10,8 @@
 </attribute_registry>
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
-<hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+<hook NAME="MapStyle" zoom="1.2">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -19,17 +19,17 @@
 <edge COLOR="#000000"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
-<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" MAX_WIDTH="10 cm" MIN_WIDTH="0 cm" VGAP_QUANTITY="2 pt">
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#808080" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" VGAP_QUANTITY="2 pt" MAX_WIDTH="10 cm" MIN_WIDTH="0 cm">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="DEFAULT" ENDARROW="NONE"/>
 <font NAME="Tahoma" SIZE="10" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
-<richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
-<richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 <edge STYLE="bezier" COLOR="#000000" WIDTH="1" DASH="SOLID"/>
+<richcontent TYPE="NOTE" CONTENT-TYPE="plain/html"/>
+<richcontent CONTENT-TYPE="plain/html" TYPE="DETAILS"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details">
 <edge COLOR="#000000"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.attributes" STYLE="fork">
+<stylenode LOCALIZED_TEXT="defaultstyle.attributes" STYLE="fork" BORDER_WIDTH="2 px">
 <font NAME="Consolas" SIZE="10" BOLD="false" STRIKETHROUGH="false"/>
 <edge COLOR="#000000"/>
 </stylenode>
@@ -40,68 +40,11 @@
 <edge STYLE="hide_edge" COLOR="#000000"/>
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffcccc" BORDER_COLOR_LIKE_EDGE="false">
-<edge COLOR="#000000"/>
-</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffffff" BACKGROUND_ALPHA="0" BORDER_WIDTH="3 px" BORDER_COLOR="#ff8080" BORDER_DASH="SOLID"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
-<stylenode LOCALIZED_TEXT="styles.important" ID="ID_67550811">
-<icon BUILTIN="yes"/>
-<arrowlink COLOR="#003399" TRANSPARENCY="255" DESTINATION="ID_67550811"/>
-<edge COLOR="#000000"/>
-<font NAME="Verdana"/>
-</stylenode>
-<stylenode TEXT="source" ID="ID_1537999715" COLOR="#7f7f7f" STYLE="bubble">
-<icon BUILTIN="emoji-26F2"/>
-<font BOLD="true"/>
-</stylenode>
-<stylenode TEXT="polemic" COLOR="#7f7f7f" STYLE="bubble">
-<icon BUILTIN="emoji-1F5E3"/>
-<font BOLD="true"/>
-</stylenode>
-<stylenode TEXT="structuring hub" COLOR="#7f7f7f" STYLE="bubble">
-<font BOLD="true" ITALIC="false"/>
-</stylenode>
-<stylenode TEXT="objection" COLOR="#7f7f7f" STYLE="bubble">
-<icon BUILTIN="closed"/>
-<font BOLD="true" ITALIC="false"/>
-</stylenode>
-<stylenode TEXT="against">
-<icon BUILTIN="button_cancel"/>
-</stylenode>
-<stylenode TEXT="in favour of">
-<icon BUILTIN="button_ok"/>
-</stylenode>
-<stylenode TEXT="info node">
-<icon BUILTIN="info"/>
-</stylenode>
-<stylenode TEXT="source node">
-<icon BUILTIN="emoji-26F2"/>
-</stylenode>
-<stylenode TEXT="lacking info" FORMAT_AS_HYPERLINK="false" COLOR="#666666">
-<icon BUILTIN="help"/>
-<font BOLD="false" ITALIC="true"/>
-</stylenode>
-<stylenode TEXT="speech">
-<icon BUILTIN="emoji-1F5E3"/>
-<font ITALIC="true"/>
-</stylenode>
-<stylenode TEXT="topic" COLOR="#7f7f7f" STYLE="fork">
-<font BOLD="true" ITALIC="false"/>
-</stylenode>
-<stylenode TEXT="history event" BACKGROUND_COLOR="#e5e5e5" STYLE="fork" SHAPE_HORIZONTAL_MARGIN="1 pt" SHAPE_VERTICAL_MARGIN="1 pt" NUMBERED="false" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#cccccc" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID">
-<font NAME="Noto Sans" BOLD="false"/>
-<edge STYLE="bezier" COLOR="#cccccc" WIDTH="1" DASH="SOLID"/>
-</stylenode>
-<stylenode TEXT="date" COLOR="#000000" BACKGROUND_COLOR="#ffffff" STYLE="fork" BORDER_COLOR="#cccccc">
-<icon BUILTIN="emoji-1F552"/>
-<font BOLD="false"/>
-<edge COLOR="#cccccc" WIDTH="1"/>
-</stylenode>
-<stylenode TEXT="wrong place" COLOR="#990000">
-<icon BUILTIN="help"/>
-</stylenode>
+<stylenode TEXT="list item" ID="ID_1531959439" NUMBERED="true"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
@@ -176,7 +119,7 @@
 <node TEXT="quranic challenge.mm" ID="ID_1106883001" CREATED="1643134376347" MODIFIED="1643134376347" LINK="islam/quran/quranic%20challenge.mm"/>
 <node TEXT="different qurans.mm" ID="ID_1639150382" CREATED="1643134376351" MODIFIED="1643134376352" LINK="islam/quran/different%20qurans.mm"/>
 <node TEXT="content" ID="ID_27619976" CREATED="1643134444653" MODIFIED="1643134450296" LINK="islam/quran/content/">
-<node TEXT="rvi narration of quran" ID="ID_1635158467" CREATED="1643134574806" MODIFIED="1643134752139" LINK="file:/C:/knowledge/study/religion/islam/quran/content/rvi%20narration%20of%20quran.mm"/>
+<node TEXT="rvi narration of quran" ID="ID_1635158467" CREATED="1643134574806" MODIFIED="1643191320818" LINK="islam/quran/content/rvi%20narration%20of%20quran.mm"/>
 </node>
 </node>
 <node TEXT="satan" ID="ID_1911431146" CREATED="1633686322952" MODIFIED="1635882571903" LINK="islam/satan.mm" COLOR="#000000">
@@ -194,9 +137,7 @@
 <node TEXT="doubts.mm" ID="ID_340156445" CREATED="1634891001179" MODIFIED="1635882576027" LINK="islam/doubts.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="free will" ID="ID_1473337528" CREATED="1635275854774" MODIFIED="1635882577828" LINK="islam/free%20will.mm" COLOR="#000000">
-<font NAME="Tahoma"/>
-</node>
+<node TEXT="free will" ID="ID_1473337528" CREATED="1635275854774" MODIFIED="1643194067801" LINK="islam/free%20will.mm"/>
 <node TEXT="anthropomorphic god" ID="ID_319822104" CREATED="1635986781641" MODIFIED="1641760877568" LINK="islam/anthropomorphic%20god.mm">
 <font NAME="Tahoma"/>
 </node>

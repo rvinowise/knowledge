@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637160483756"><hook NAME="MapStyle" zoom="1.32">
+<node TEXT="body positions" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643205253572"><hook NAME="MapStyle" zoom="1.32">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -137,54 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_1845730270" CREATED="1637160483930" MODIFIED="1637160483957"/>
-<node TEXT="learning arabic.mm" POSITION="right" ID="ID_659148485" CREATED="1633368713087" MODIFIED="1635882107112" LINK="study/learning%20arabic.mm">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="compare_colocations" POSITION="right" ID="ID_1720804096" CREATED="1637117029240" MODIFIED="1637161318968" LINK="compare_collocations/">
-<icon BUILTIN="info_circle@b"/>
-<node TEXT="foolishness.mm" ID="ID_1325955562" CREATED="1637181382311" MODIFIED="1637181382315" LINK="compare_collocations/information/foolishness.mm"/>
-<node TEXT="exchanging information" ID="ID_454811070" CREATED="1637130958457" MODIFIED="1640899053478" LINK="compare_collocations/exchanging%20information.mm"/>
-<node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="compare_collocations/using.mm"/>
-<node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="compare_collocations/possibility.mm"/>
-<node TEXT="human body" ID="ID_735615301" CREATED="1637166164110" MODIFIED="1637166186899" LINK="compare_collocations/human%20body/">
-<node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="compare_collocations/human%20body/eating.mm"/>
-<node TEXT="body positions" ID="ID_370119368" CREATED="1643205247255" MODIFIED="1643205253124" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/human%20body/body%20positions.mm"/>
-</node>
-<node TEXT="feelings" ID="ID_1080055901" CREATED="1637167076054" MODIFIED="1637167086394" LINK="compare_collocations/feelings/">
-<node TEXT="sadness" ID="ID_811330063" CREATED="1637167087534" MODIFIED="1637167104062" LINK="compare_collocations/feelings/sadness.mm"/>
-<node TEXT="happiness" ID="ID_390070462" CREATED="1637408430479" MODIFIED="1637408439935" LINK="compare_collocations/feelings/happiness.mm"/>
-<node TEXT="sorry" ID="ID_1666152936" CREATED="1640154321783" MODIFIED="1640154327921" LINK="compare_collocations/feelings/sorry.mm"/>
-</node>
-<node TEXT="mind" ID="ID_189384173" CREATED="1637212827393" MODIFIED="1637212929844" LINK="compare_collocations/mind/">
-<node TEXT="imagination" ID="ID_788257158" CREATED="1637212932002" MODIFIED="1637212941502" LINK="compare_collocations/mind/imagination.mm"/>
-<node TEXT="humor" ID="ID_1091407720" CREATED="1637215639908" MODIFIED="1637216180040" LINK="compare_collocations/mind/humor.mm"/>
-<node TEXT="thinking" ID="ID_219942153" CREATED="1637425246287" MODIFIED="1637425256325" LINK="compare_collocations/mind/thinking.mm"/>
-<node TEXT="preferences" ID="ID_1120180814" CREATED="1639809351536" MODIFIED="1639809357802" LINK="compare_collocations/mind/preferences.mm"/>
-<node TEXT="changing religion" ID="ID_552941956" CREATED="1641181012714" MODIFIED="1641181034789" LINK="file:/C:/knowledge/languages/compare_collocations/mind/changing%20religion.mm"/>
-</node>
-<node TEXT="talking" ID="ID_49288193" CREATED="1637216129933" MODIFIED="1637216139511" LINK="compare_collocations/talking/">
-<node TEXT="blaming" ID="ID_1296721790" CREATED="1637324827784" MODIFIED="1637324841522" LINK="compare_collocations/talking/blaming.mm"/>
-<node TEXT="terms denoting speech" ID="ID_802619694" CREATED="1642924436293" MODIFIED="1642924499879" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/terms%20denoting%20speech.mm"/>
-<node TEXT="secret" ID="ID_845439539" CREATED="1643011561367" MODIFIED="1643011566296" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/secret.mm"/>
-</node>
-<node TEXT="time" ID="ID_749047726" CREATED="1637326274490" MODIFIED="1637491530964" LINK="compare_collocations/time/time.mm">
-<node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="compare_collocations/time/past.mm"/>
-<node TEXT="future" ID="ID_1925617490" CREATED="1637491010019" MODIFIED="1637491014317" LINK="compare_collocations/time/future.mm"/>
-</node>
-<node TEXT="space" ID="ID_856787488" CREATED="1639465841713" MODIFIED="1639465854781" LINK="compare_collocations/space/space.mm">
-<node TEXT="moving in space" ID="ID_1224497661" CREATED="1639470632706" MODIFIED="1639470657343" LINK="compare_collocations/space/moving%20in%20space.mm"/>
-</node>
-<node TEXT="being influenced by" ID="ID_1077031731" CREATED="1640970991928" MODIFIED="1640971042588" LINK="compare_collocations/being%20influenced%20by/">
-<node TEXT="weather" ID="ID_1345469567" CREATED="1640971046151" MODIFIED="1640971065632" LINK="file:/C:/google/knowledge/languages/compare_collocations/being%20influenced%20by/weather.mm"/>
-</node>
-</node>
-<node TEXT="english" POSITION="right" ID="ID_1140432565" CREATED="1640279493235" MODIFIED="1640279500409" LINK="english/">
-<node TEXT="grammar" ID="ID_1461919541" CREATED="1640279501472" MODIFIED="1640279511203" LINK="english/grammar.mm"/>
-<node TEXT="collocations" ID="ID_1765381720" CREATED="1642510288311" MODIFIED="1642510303439" LINK="english/collocations/">
-<node TEXT="places" ID="ID_520112052" CREATED="1642510303564" MODIFIED="1642510330182" LINK="file:/C:/knowledge/languages/english/collocations/places.mm"/>
-</node>
-</node>
+<node TEXT="type: compare_colocations" POSITION="left" ID="ID_843255768" CREATED="1643205253592" MODIFIED="1643205253594"/>
 <node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -262,7 +215,7 @@
 <node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="grammar/gender/masculine@b"/>
 </node>
-<node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="common (both_genders)" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1643205977380" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="grammar/gender/both_genders@b"/>
 </node>
 </node>
@@ -319,6 +272,88 @@
 </node>
 </node>
 <node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
+</node>
+<node TEXT="he is in a position" POSITION="right" ID="ID_367809068" CREATED="1643205310592" MODIFIED="1643207006666">
+<node TEXT="student" ID="ID_1984919078" CREATED="1643205253596" MODIFIED="1643205417551" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="is" ID="ID_1438415091" CREATED="1643205294512" MODIFIED="1643205298396" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="sitting" ID="ID_783115549" CREATED="1643205298712" MODIFIED="1643205304274" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+<node TEXT="standing" ID="ID_1880553046" CREATED="1643205301446" MODIFIED="1643205304267" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+</node>
+</node>
+<node TEXT="l&apos;étudiant" ID="ID_752005692" CREATED="1643205427619" MODIFIED="1643207074151" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="est" ID="ID_1933247603" CREATED="1643205455495" MODIFIED="1643205461115" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="assis" ID="ID_1288272008" CREATED="1643205462343" MODIFIED="1643205971098" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<icon BUILTIN="grammar/gender/both_genders@b"/>
+</node>
+<node TEXT="debout" ID="ID_1520985856" CREATED="1643205474357" MODIFIED="1643207497057" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<icon BUILTIN="grammar/gender/both_genders@b"/>
+</node>
+</node>
+</node>
+<node TEXT="طَالِب" ID="ID_455196062" CREATED="1643205331539" MODIFIED="1643205417541" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="as adjective" LOCALIZED_STYLE_REF="default" ID="ID_1630684264" CREATED="1643207075522" MODIFIED="1643207430488" COLOR="#000000" BACKGROUND_COLOR="#ffcccc">
+<node TEXT="جَالِس" ID="ID_1682316297" CREATED="1643205353113" MODIFIED="1643205370861" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+<node TEXT="وَاقِف" ID="ID_461880049" CREATED="1643205373338" MODIFIED="1643205386722" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="he assumed a position" POSITION="right" ID="ID_1969276902" CREATED="1643205688516" MODIFIED="1643206991877">
+<node TEXT="il" ID="ID_35208389" CREATED="1643205758101" MODIFIED="1643207332229" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="s&apos;" ID="ID_1953047188" CREATED="1643205697386" MODIFIED="1643207391231" COLOR="#000000" BACKGROUND_COLOR="#ffcccc">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="asseyait `irregular" ID="ID_1283934013" CREATED="1643205707311" MODIFIED="1643207309890" LINK="https://www.collinsdictionary.com/conjugation/french/s-asseoir" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+</node>
+</node>
+</node>
+<node TEXT="he" ID="ID_1424635570" CREATED="1643206829095" MODIFIED="1643207332228" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="sat" ID="ID_717851460" CREATED="1643206841962" MODIFIED="1643206858356" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node ID="ID_69846496" CREATED="1643206849925" MODIFIED="1643206858361" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      down
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="from standing" LOCALIZED_STYLE_REF="default" ID="ID_1186721571" CREATED="1643206861185" MODIFIED="1643206890756" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="info_circle@b"/>
+</node>
+</node>
+<node TEXT="up" ID="ID_1608760722" CREATED="1643206852277" MODIFIED="1643206858366" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="from laying" LOCALIZED_STYLE_REF="default" ID="ID_1093620079" CREATED="1643206869963" MODIFIED="1643206891698" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="info_circle@b"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 </map>

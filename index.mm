@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -42,78 +42,7 @@
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
-<stylenode LOCALIZED_TEXT="styles.important" ID="ID_67550811">
-<icon BUILTIN="yes"/>
-<arrowlink COLOR="#003399" TRANSPARENCY="255" DESTINATION="ID_67550811"/>
-<edge COLOR="#000000"/>
-<font NAME="Verdana"/>
-</stylenode>
-<stylenode TEXT="source" ID="ID_1537999715" COLOR="#7f7f7f" STYLE="bubble">
-<icon BUILTIN="emoji-26F2"/>
-<font BOLD="true"/>
-</stylenode>
-<stylenode TEXT="polemic" ID="ID_1234796638" COLOR="#7f7f7f" STYLE="bubble">
-<icon BUILTIN="emoji-1F5E3"/>
-<font BOLD="true"/>
-</stylenode>
-<stylenode TEXT="structuring hub" ID="ID_1662213094" COLOR="#7f7f7f" STYLE="bubble">
-<font BOLD="true" ITALIC="false"/>
-</stylenode>
-<stylenode TEXT="objection" ID="ID_772028533" COLOR="#7f7f7f" STYLE="bubble">
-<icon BUILTIN="closed"/>
-<font BOLD="true" ITALIC="false"/>
-</stylenode>
-<stylenode TEXT="lacking info" ID="ID_1832303129" FORMAT_AS_HYPERLINK="false" COLOR="#666666">
-<icon BUILTIN="help"/>
-<font BOLD="false" ITALIC="true"/>
-</stylenode>
-<stylenode TEXT="against" ID="ID_1225383813">
-<icon BUILTIN="button_cancel"/>
-</stylenode>
-<stylenode TEXT="in favour of" ID="ID_112429140">
-<icon BUILTIN="button_ok"/>
-</stylenode>
-<stylenode TEXT="info node" ID="ID_154232785">
-<icon BUILTIN="info"/>
-</stylenode>
-<stylenode TEXT="source node" ID="ID_1296520994">
-<icon BUILTIN="emoji-26F2"/>
-</stylenode>
-<stylenode TEXT="speech" ID="ID_160530891">
-<icon BUILTIN="emoji-1F5E3"/>
-<font ITALIC="true"/>
-</stylenode>
-<stylenode TEXT="topic" ID="ID_756631423" COLOR="#7f7f7f" STYLE="fork">
-<font BOLD="true" ITALIC="false"/>
-</stylenode>
-<stylenode TEXT="history event" ID="ID_1131534156" BACKGROUND_COLOR="#e5e5e5" STYLE="fork" SHAPE_HORIZONTAL_MARGIN="1 pt" SHAPE_VERTICAL_MARGIN="1 pt" NUMBERED="false" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#cccccc" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID">
-<font NAME="Noto Sans" BOLD="false"/>
-<edge STYLE="bezier" COLOR="#cccccc" WIDTH="1" DASH="SOLID"/>
-</stylenode>
-<stylenode TEXT="date" ID="ID_612383430" COLOR="#000000" BACKGROUND_COLOR="#ffffff" STYLE="fork" BORDER_COLOR="#cccccc">
-<icon BUILTIN="emoji-1F552"/>
-<font BOLD="false"/>
-<edge COLOR="#cccccc" WIDTH="1"/>
-</stylenode>
-<stylenode TEXT="wrong place" ID="ID_1192160512" COLOR="#990000">
-<icon BUILTIN="help"/>
-</stylenode>
 <stylenode TEXT="list item" ID="ID_1531959439" NUMBERED="true"/>
-<stylenode TEXT="end of my speech" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="help"/>
-</stylenode>
-<stylenode TEXT="--------------------------------" BACKGROUND_COLOR="#ffffff">
-<font BOLD="true"/>
-</stylenode>
-<stylenode TEXT="alt E" ID="ID_205177288" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="help"/>
-</stylenode>
-<stylenode TEXT="done" COLOR="#666666" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="emoji-2B1B"/>
-</stylenode>
-<stylenode TEXT="action">
-<icon BUILTIN="launch"/>
-</stylenode>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
@@ -187,6 +116,9 @@
 <node TEXT="chemistry" ID="ID_1170336021" CREATED="1641514141193" MODIFIED="1641514147519" LINK="study/chemistry/">
 <node TEXT="types of agents" ID="ID_573074678" CREATED="1641514148754" MODIFIED="1641658032392" LINK="study/chemistry/types%20of%20agents.mm"/>
 </node>
+<node TEXT="philosophy" ID="ID_165361439" CREATED="1643190747718" MODIFIED="1643190754665" LINK="study/philosophy/">
+<node TEXT="infinity" ID="ID_1765554003" CREATED="1643190755797" MODIFIED="1643190761592" LINK="file:/D:/archive/cloud_storages/knowledge/study/philosophy/infinity.mm"/>
+</node>
 </node>
 <node TEXT="religion" ID="ID_1519172584" CREATED="1635882388290" MODIFIED="1635882395282" LINK="study/religion/">
 <node TEXT="religion" ID="ID_780886805" CREATED="1633368851477" MODIFIED="1635882395641" LINK="study/religion/religion.mm">
@@ -236,7 +168,7 @@
 <node TEXT="talk" POSITION="right" ID="ID_1523271788" CREATED="1633368448993" MODIFIED="1636490920215" LINK="talk/" COLOR="#7f7f7f">
 <icon BUILTIN="info_circle@b"/>
 <font NAME="Tahoma" BOLD="true"/>
-<node TEXT="talk_eman.mm" ID="ID_165480055" CREATED="1633368599745" MODIFIED="1636491040135" LINK="talk_eman.mm.mm">
+<node TEXT="talk_eman" ID="ID_165480055" CREATED="1633368599745" MODIFIED="1643193303097" LINK="talk_eman.mm">
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="talk_morality" ID="ID_1655141557" CREATED="1636491026136" MODIFIED="1636491058941" LINK="talk/talk_morality.mm"/>

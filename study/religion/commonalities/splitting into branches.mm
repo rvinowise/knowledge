@@ -310,6 +310,9 @@
 </node>
 </node>
 </node>
+<node TEXT="Ahmad al-Hassan" ID="ID_1771672071" CREATED="1643198393087" MODIFIED="1643198410570">
+<icon BUILTIN="raised_hand@w"/>
+</node>
 </node>
 <node TEXT="bAb" ID="ID_1771756617" CREATED="1635633155283" MODIFIED="1635710629353">
 <icon BUILTIN="raised_hand@w"/>
@@ -340,6 +343,18 @@
 </node>
 </node>
 <node TEXT="most important in shi&apos;ism" ID="ID_632642746" CREATED="1635708692510" MODIFIED="1635708766565"/>
+</node>
+<node TEXT="al-Yamani" ID="ID_1271900224" CREATED="1643198676742" MODIFIED="1643198693017">
+<icon BUILTIN="man_bust@b"/>
+<node TEXT="predecessor of mahdi" ID="ID_1624325281" CREATED="1643198694303" MODIFIED="1643198701769">
+<icon BUILTIN="box_inscribed@b"/>
+</node>
+<node TEXT="Ahmad al-Hassan" ID="ID_251608677" CREATED="1643198393087" MODIFIED="1643198724063" LINK="https://en.wikipedia.org/wiki/Ahmad_al-Hassan">
+<icon BUILTIN="raised_hand@w"/>
+<node TEXT="Ansar of Imam al-Mahdi" LOCALIZED_STYLE_REF="default" ID="ID_287823570" CREATED="1643198884744" MODIFIED="1643198938888" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="outcome"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="quran is too beautiful &amp; pure arabic for humans to make" ID="ID_1442139101" CREATED="1635705443382" MODIFIED="1638764099876">
