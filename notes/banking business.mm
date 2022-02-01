@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="banking business" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643303849730"><hook NAME="MapStyle" zoom="0.99">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -248,7 +248,6 @@
     </div>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="60" ID="ID_856036788" CREATED="1643657124479" MODIFIED="1643657125750"/>
 <node TEXT="1902" ID="ID_1912346697" CREATED="1643657195329" MODIFIED="1643657586562">
@@ -262,11 +261,13 @@
 <icon BUILTIN="padlock_closed@b"/>
 </node>
 </node>
+<node TEXT="map" FOLDED="true" ID="ID_585378066" CREATED="1643685347889" MODIFIED="1643685354153">
 <node TEXT="" ID="ID_591714527" CREATED="1643661483052" MODIFIED="1643661573493">
 <hook URI="banking%20business_files/png_4499177379709321500.png" SIZE="0.54016334" NAME="ExternalObject"/>
 </node>
 <node TEXT="" ID="ID_1189235608" CREATED="1643661565823" MODIFIED="1643661570580">
 <hook URI="banking%20business_files/png_199551016169454052.png" SIZE="0.9075501" NAME="ExternalObject"/>
+</node>
 </node>
 </node>
 <node TEXT="точка банк" POSITION="right" ID="ID_1153345186" CREATED="1643657005447" MODIFIED="1643657146226">
@@ -278,14 +279,16 @@
 <icon BUILTIN="padlock_closed@b"/>
 </node>
 </node>
-<node TEXT="открытие" ID="ID_171381922" CREATED="1643659470910" MODIFIED="1643659482335">
+<node TEXT="открытие" FOLDED="true" ID="ID_171381922" CREATED="1643659470910" MODIFIED="1643659482335">
 <icon BUILTIN="place@b"/>
 <node TEXT="" ID="ID_1510493837" CREATED="1643659493535" MODIFIED="1643659516836">
 <hook URI="banking%20business_files/png_8997090948026338741.png" SIZE="0.31715745" NAME="ExternalObject"/>
 </node>
 </node>
+<node TEXT="map" FOLDED="true" ID="ID_489819098" CREATED="1643685366077" MODIFIED="1643685367675">
 <node TEXT="may charge" ID="ID_572932352" CREATED="1643659737861" MODIFIED="1643659746683">
 <hook URI="banking%20business_files/png_9026560092691679304.png" SIZE="0.4878271" NAME="ExternalObject"/>
+</node>
 </node>
 </node>
 <node TEXT="модульбанк" POSITION="right" ID="ID_451407127" CREATED="1643656940005" MODIFIED="1643657146336">
@@ -304,8 +307,10 @@
 <icon BUILTIN="padlock_closed@b"/>
 </node>
 </node>
+<node TEXT="map" FOLDED="true" ID="ID_1341014500" CREATED="1643685374654" MODIFIED="1643685376126">
 <node TEXT="" ID="ID_850313804" CREATED="1643658341824" MODIFIED="1643659521319">
 <hook URI="banking%20business_files/png_5745792038375600778.png" SIZE="0.41829306" NAME="ExternalObject"/>
+</node>
 </node>
 </node>
 </node>
