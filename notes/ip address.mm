@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="banking business" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643303849730"><hook NAME="MapStyle" zoom="0.99">
+<node TEXT="ip address" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643462461354"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: notes" POSITION="left" ID="ID_1489289909" CREATED="1643303849820" MODIFIED="1643303849869"/>
+<node TEXT="type: notes" POSITION="left" ID="ID_1618742593" CREATED="1643462461373" MODIFIED="1643462461375"/>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
@@ -222,91 +222,8 @@
 </node>
 </node>
 </node>
-<node TEXT="legend" POSITION="right" ID="ID_693098453" CREATED="1643656098705" MODIFIED="1643656104966" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="bank" ID="ID_95445790" CREATED="1643656111382" MODIFIED="1643656303268" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="place@b"/>
-<node TEXT="company" ID="ID_1136007296" CREATED="1643656106302" MODIFIED="1643656303263" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="money to withdraw" ID="ID_239101429" CREATED="1643657149320" MODIFIED="1643657163864" BACKGROUND_COLOR="#cccccc"/>
-</node>
-</node>
-</node>
-<node TEXT="сбербанк" POSITION="right" ID="ID_993956904" CREATED="1643656970955" MODIFIED="1643657146150">
-<icon BUILTIN="place@b"/>
-<node ID="ID_583290111" CREATED="1643303931468" MODIFIED="1643656282615">
-<icon BUILTIN="box_inscribed@b"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <div class="contragent">
-      техмет
-    </div>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="60" ID="ID_856036788" CREATED="1643657124479" MODIFIED="1643657125750"/>
-<node TEXT="1902" ID="ID_1912346697" CREATED="1643657195329" MODIFIED="1643657586562">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-</node>
-<node TEXT="Промтех" ID="ID_1331281239" CREATED="1643303945930" MODIFIED="1643656282618">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="60" ID="ID_184422891" CREATED="1643657119595" MODIFIED="1643657121372"/>
-<node TEXT="1969" ID="ID_1897885364" CREATED="1643657263304" MODIFIED="1643657586568">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-</node>
-<node TEXT="" ID="ID_591714527" CREATED="1643661483052" MODIFIED="1643661573493">
-<hook URI="banking%20business_files/png_4499177379709321500.png" SIZE="0.54016334" NAME="ExternalObject"/>
-</node>
-<node TEXT="" ID="ID_1189235608" CREATED="1643661565823" MODIFIED="1643661570580">
-<hook URI="banking%20business_files/png_199551016169454052.png" SIZE="0.9075501" NAME="ExternalObject"/>
-</node>
-</node>
-<node TEXT="точка банк" POSITION="right" ID="ID_1153345186" CREATED="1643657005447" MODIFIED="1643657146226">
-<icon BUILTIN="place@b"/>
-<node TEXT="меттех" ID="ID_709951051" CREATED="1643303937086" MODIFIED="1643656282617">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="60" ID="ID_1101800910" CREATED="1643657122354" MODIFIED="1643657123308"/>
-<node TEXT="9391" ID="ID_616882074" CREATED="1643657441303" MODIFIED="1643657586571">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-</node>
-<node TEXT="открытие" ID="ID_171381922" CREATED="1643659470910" MODIFIED="1643659482335">
-<icon BUILTIN="place@b"/>
-<node TEXT="" ID="ID_1510493837" CREATED="1643659493535" MODIFIED="1643659516836">
-<hook URI="banking%20business_files/png_8997090948026338741.png" SIZE="0.31715745" NAME="ExternalObject"/>
-</node>
-</node>
-<node TEXT="may charge" ID="ID_572932352" CREATED="1643659737861" MODIFIED="1643659746683">
-<hook URI="banking%20business_files/png_9026560092691679304.png" SIZE="0.4878271" NAME="ExternalObject"/>
-</node>
-</node>
-<node TEXT="модульбанк" POSITION="right" ID="ID_451407127" CREATED="1643656940005" MODIFIED="1643657146336">
-<icon BUILTIN="place@b"/>
-<node TEXT="Экометстрой" ID="ID_1062325276" CREATED="1643304036008" MODIFIED="1643656282619">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="85" ID="ID_1766750109" CREATED="1643657111315" MODIFIED="1643657114051"/>
-<node TEXT="9141" ID="ID_470164298" CREATED="1643657312796" MODIFIED="1643657586575">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-</node>
-<node TEXT="Промтехмет" ID="ID_1500269537" CREATED="1643303859973" MODIFIED="1643656282609">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="60" ID="ID_1458071385" CREATED="1643657116338" MODIFIED="1643657118307"/>
-<node TEXT="4382" ID="ID_1000691965" CREATED="1643657227314" MODIFIED="1643657586577">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-</node>
-<node TEXT="" ID="ID_850313804" CREATED="1643658341824" MODIFIED="1643659521319">
-<hook URI="banking%20business_files/png_5745792038375600778.png" SIZE="0.41829306" NAME="ExternalObject"/>
-</node>
+<node TEXT="my ip" POSITION="right" ID="ID_1666259050" CREATED="1643462461376" MODIFIED="1643462467352">
+<node TEXT="RU 109.252.200.199" ID="ID_1085319620" CREATED="1643462471474" MODIFIED="1643462489201" LINK="https://www.ipaddress.com/"/>
 </node>
 </node>
 </map>

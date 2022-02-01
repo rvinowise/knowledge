@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="different qurans" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633485734194"><hook NAME="MapStyle" zoom="1.21">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -625,6 +625,16 @@
 <icon BUILTIN="place@b"/>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="long prayer of moses building kaaba" ID="ID_552592061" CREATED="1643406459721" MODIFIED="1643406478982" LINK="https://www.nquran.com/ar/ayacompare/%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9-%D8%A7%D9%84%D8%A2%D9%8A%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA?sora=2&amp;aya=129">
+<node TEXT="" ID="ID_1287213144" CREATED="1643406443053" MODIFIED="1643406450666" LINK="https://quran.com/2:129?font=v1&amp;translations=149%2C95%2C20">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+<node TEXT="sons of ibrahim and jacob call them different names (Abraham vs Ibrahim)" ID="ID_1676939684" CREATED="1643407127949" MODIFIED="1643407191547" LINK="https://www.nquran.com/ar/ayacompare/%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9-%D8%A7%D9%84%D8%A2%D9%8A%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA?sora=2&amp;aya=133">
+<node TEXT="" ID="ID_1484216353" CREATED="1643407181460" MODIFIED="1643407184324" LINK="https://quran.com/2:133?font=v1&amp;translations=149%2C95%2C20">
+<icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 </node>
