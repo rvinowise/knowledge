@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="history of quranic text" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633564820065"><hook NAME="MapStyle" zoom="1.026">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -126,7 +126,20 @@
 <node TEXT="preservation" POSITION="right" ID="ID_741153559" CREATED="1633674211156" MODIFIED="1633674217736">
 <node TEXT="by remembering at first" ID="ID_269547732" CREATED="1633565432216" MODIFIED="1633675261405">
 <node TEXT="angels magically made muhammad remember quran" ID="ID_1971887771" CREATED="1633566690145" MODIFIED="1633567241256" LINK="https://sunnah.com/bukhari:5044"/>
-<node TEXT="quran could be forgotten" ID="ID_514995360" CREATED="1633565438110" MODIFIED="1633565495664">
+<node ID="ID_514995360" CREATED="1633565438110" MODIFIED="1644024834969"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      quran could be <b>forgotten</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="muhammad used to forget quran" ID="ID_1631186134" CREATED="1633564874082" MODIFIED="1633675367443" LINK="https://sunnah.com/bukhari:5042">
 <node TEXT="" ID="ID_966177860" CREATED="1633689323244" MODIFIED="1633689325219" LINK="https://sunnah.com/bukhari:5037"/>
 </node>
@@ -151,6 +164,51 @@
 </node>
 </node>
 </node>
+</node>
+<node ID="ID_487982704" CREATED="1644024397621" MODIFIED="1644024804919" LINK="https://sunnah.com/bukhari:5005"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      the best reciter <b>clung</b>&nbsp;to parts of quran, which weren't included by uthman into canon
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_1455189322" CREATED="1644024437468" MODIFIED="1644024811114"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      uthman's argument for not including those parts was that god said it's ok to <b>abandon</b>&nbsp;parts of quran in 2:106
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node ID="ID_1730204423" CREATED="1644024761773" MODIFIED="1644024825604" LINK="https://sunnah.com/muslim:2464e"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      muhammad specified four people from whom we should <b>learn quran</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 </node>
 <node TEXT="origin" POSITION="right" ID="ID_1571003376" CREATED="1633668271586" MODIFIED="1633668284697">
