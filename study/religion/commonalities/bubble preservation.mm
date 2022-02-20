@@ -11,7 +11,7 @@
 <node TEXT="bubble preservation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1640520737070" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -250,20 +250,12 @@
 </node>
 </node>
 </node>
-<node TEXT="filted information" ID="ID_1513570197" CREATED="1645274995331" MODIFIED="1645275004206">
-<node TEXT="muslims whould be very selective of information" ID="ID_792487005" CREATED="1645275005144" MODIFIED="1645275042525" LINK="https://www.reddit.com/r/Hijabis/comments/n50vvm/arguments_against_islam_are_making_me_doubt_my/">
-<node TEXT="you just need to Investigate that information yourself (not taking it at face value)" ID="ID_990266334" CREATED="1645275187470" MODIFIED="1645275217996">
-<icon BUILTIN="bad@bleak"/>
+<node TEXT="filter sources of information" ID="ID_1774757013" CREATED="1644189915134" MODIFIED="1644189927966">
+<node TEXT="be selective of sources of opinions" ID="ID_1550754810" CREATED="1644189968187" MODIFIED="1644190014839" LINK="https://www.reddit.com/r/Hijabis/comments/n50vvm/arguments_against_islam_are_making_me_doubt_my/">
+<node TEXT="not all information is knowledge" ID="ID_1280048021" CREATED="1644189943096" MODIFIED="1644189949337">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
 </node>
-</node>
-</node>
-</node>
-<node TEXT="don&apos;t ask questions" ID="ID_845929890" CREATED="1645276902941" MODIFIED="1645276906287">
-<node TEXT="don&apos;t ask questions if the answers will disturb you" ID="ID_440137481" CREATED="1645276977211" MODIFIED="1645277050527" LINK="https://quran.com/5/101">
-<node TEXT="many asked questions and lost their faith" ID="ID_1699031241" CREATED="1645276906527" MODIFIED="1645277055875" LINK="https://quran.com/5:102?font=v1&amp;translations=149%2C167%2C131%2C85%2C19%2C206"/>
-<node TEXT="nonsense" ID="ID_1272976126" CREATED="1645277010942" MODIFIED="1645277017054" COLOR="#000000">
-<icon BUILTIN="control/hashtag"/>
-<node TEXT="how do i know if it will disturb me before receiving the answer?" ID="ID_1461788618" CREATED="1645277017561" MODIFIED="1645277034664"/>
 </node>
 </node>
 </node>
@@ -276,15 +268,7 @@
 </node>
 </node>
 </node>
-<node TEXT="don&apos;t go to moderated debates" ID="ID_1268051937" CREATED="1645088682800" MODIFIED="1645088692228">
-<node TEXT="Shaikh Uthman Ibn Farooq" ID="ID_1845837834" CREATED="1645088694464" MODIFIED="1645088738769" LINK="../islam/apologists/apologists.mm#ID_1353669697">
-<icon BUILTIN="emoji-26F2"/>
 </node>
-</node>
-</node>
-</node>
-<node TEXT="styles" POSITION="right" ID="ID_1696687824" CREATED="1645277014961" MODIFIED="1645277014967">
-<node TEXT="3" ID="ID_1962200349" CREATED="1645277014967" MODIFIED="1645277014969"/>
 </node>
 </node>
 </map>

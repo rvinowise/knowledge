@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -8,9 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="islamic family" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1638746711956" COLOR="#ffffff">
-<font NAME="Tahoma" BOLD="false"/>
-<hook NAME="MapStyle" zoom="1.242">
+<node TEXT="baha&apos;i" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635620415907"><hook NAME="MapStyle" zoom="1.242">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -19,12 +17,12 @@
 <edge COLOR="#000000"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
-<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#000000" STYLE="fork" NUMBERED="false" FORMAT="STANDARD_FORMAT" TEXT_ALIGN="DEFAULT" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID" MAX_WIDTH="10 cm" MIN_WIDTH="0 cm" VGAP_QUANTITY="2 pt">
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" COLOR="#000000" STYLE="fork" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="DEFAULT" ENDARROW="NONE"/>
-<font NAME="Lucida Sans Unicode" SIZE="10" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
+<font NAME="Verdana" SIZE="10" BOLD="false" ITALIC="false"/>
 <richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
-<edge STYLE="bezier" COLOR="#000000" WIDTH="1" DASH="SOLID"/>
+<edge COLOR="#000000"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details">
 <edge COLOR="#000000"/>
@@ -124,28 +122,78 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="type: " POSITION="left" ID="ID_375357694" CREATED="1638746711968" MODIFIED="1638746711970"/>
-<node TEXT="" POSITION="left" ID="ID_205331815" CREATED="1635513370800" MODIFIED="1635791415593" COLOR="#000000">
-<icon BUILTIN="emoji-26F2"/>
-<font NAME="Tahoma"/>
+<node TEXT="type: study" POSITION="left" ID="ID_1996850765" CREATED="1635620415970" MODIFIED="1635620415972"/>
+<node TEXT="persian origin" POSITION="right" ID="ID_1725519251" CREATED="1634263529521" MODIFIED="1634265425119">
+<icon BUILTIN="place@b"/>
+<font NAME="Tahoma" BOLD="false"/>
 </node>
-<node TEXT="women don&apos;t choose the partner" POSITION="right" ID="ID_722695662" CREATED="1638746711970" MODIFIED="1638746789357">
-<node TEXT="woman was &quot;married&quot; to a random man" ID="ID_1524559577" CREATED="1633688749300" MODIFIED="1638747748886" LINK="islamic%20sex.mm#ID_1524559577"/>
+<node TEXT="5mln ppl" POSITION="right" ID="ID_1618751430" CREATED="1634263555081" MODIFIED="1634265425122">
+<font NAME="Tahoma" BOLD="false"/>
+<node TEXT="baháʼís" ID="ID_1280125006" CREATED="1634264914474" MODIFIED="1634265425122">
+<font NAME="Tahoma" SIZE="10" BOLD="false"/>
 </node>
-<node TEXT="family is inferior to islam" POSITION="right" ID="ID_542390437" CREATED="1635035155204" MODIFIED="1638746724474">
-<node TEXT="marriage must be nullified" ID="ID_833565818" CREATED="1635034992931" MODIFIED="1635035312234">
-<icon BUILTIN="question@b"/>
-<node TEXT="if a spouse disbelieves in islam" ID="ID_116507256" CREATED="1635034954465" MODIFIED="1635035017239"/>
 </node>
-<node TEXT="children are often banished" ID="ID_977559560" CREATED="1635035183359" MODIFIED="1635035304416">
-<node TEXT="if they apostatise" ID="ID_823244062" CREATED="1635035212211" MODIFIED="1635035231557"/>
+<node TEXT="sacred" POSITION="right" ID="ID_1141114707" CREATED="1634274592518" MODIFIED="1635624493013" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="israel" ID="ID_1778775389" CREATED="1634263639932" MODIFIED="1634265425123">
+<icon BUILTIN="place@b"/>
+<font NAME="Tahoma" BOLD="false"/>
+<node TEXT="acre" ID="ID_579463165" CREATED="1634263623638" MODIFIED="1634265425123">
+<font NAME="Tahoma" BOLD="false"/>
 </node>
-<node TEXT="daughters hate their mothers" ID="ID_1721475798" CREATED="1635035416648" MODIFIED="1635035439716">
-<icon BUILTIN="question@b"/>
-<node TEXT="" ID="ID_1192734813" CREATED="1638747787062" MODIFIED="1638747787062"/>
+<node TEXT="haifa" ID="ID_480522554" CREATED="1634263629125" MODIFIED="1634265425123">
+<font NAME="Tahoma" BOLD="false"/>
 </node>
-<node TEXT="husbands kill their wives" ID="ID_369749115" CREATED="1638747791448" MODIFIED="1638747804944">
-<node TEXT="for disrespecting muhammad" ID="ID_1373321210" CREATED="1638747806110" MODIFIED="1638747849791" LINK="islamic%20violence.mm#ID_510698484"/>
+</node>
+<node TEXT="Kitāb-i-Aqdas" ID="ID_83896621" CREATED="1634274609482" MODIFIED="1634274665663">
+<icon BUILTIN="books@b"/>
+</node>
+</node>
+<node TEXT="target" POSITION="right" ID="ID_1584732993" CREATED="1634274510387" MODIFIED="1635624493015" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="whole world" ID="ID_66592838" CREATED="1634274516443" MODIFIED="1634274522348"/>
+</node>
+<node TEXT="prophet" POSITION="right" ID="ID_226725686" CREATED="1635624296631" MODIFIED="1635624493008" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="baha&apos;u&apos;llah" ID="ID_933884318" CREATED="1635624304997" MODIFIED="1635624465468">
+<node TEXT="claims to be" ID="ID_1118204031" CREATED="1635624333532" MODIFIED="1635624337157">
+<node ID="ID_952575436" CREATED="1635830711977" MODIFIED="1635830711977"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Promised One of all religions
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="next buddha" ID="ID_1055543722" CREATED="1635624346871" MODIFIED="1635624349936">
+<node TEXT="maitreya" LOCALIZED_STYLE_REF="default" ID="ID_149173753" CREATED="1635624337310" MODIFIED="1635624428704" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="chain@b"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="his images are prohibited" ID="ID_383841959" CREATED="1635628524589" MODIFIED="1635628531881">
+<node TEXT="like of islamic muhammad" ID="ID_225783680" CREATED="1635628534589" MODIFIED="1635628557376"/>
+</node>
+</node>
+<node TEXT="next prophet" ID="ID_1517015922" CREATED="1635630566871" MODIFIED="1635630576903">
+<node TEXT="will appear not earlier than after 1000 years" ID="ID_1488268531" CREATED="1635630577036" MODIFIED="1635630588802">
+<node TEXT="after 2800 CE" ID="ID_1919751830" CREATED="1635630589130" MODIFIED="1635630704228"/>
+<node TEXT="or else he&apos;s a lying impostor" ID="ID_371583910" CREATED="1635630631318" MODIFIED="1635630711524">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node TEXT="but baha&apos;u&apos;llah himself claims to be maitreya" ID="ID_146700155" CREATED="1635630643277" MODIFIED="1635630688587">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="who should appear when buddhism is forgotten" ID="ID_260030963" CREATED="1635630664421" MODIFIED="1635630676894"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
