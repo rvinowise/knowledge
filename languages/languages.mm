@@ -144,12 +144,12 @@
 <node TEXT="compare_colocations" POSITION="right" ID="ID_1720804096" CREATED="1637117029240" MODIFIED="1637161318968" LINK="compare_collocations/">
 <icon BUILTIN="info_circle@b"/>
 <node TEXT="foolishness.mm" ID="ID_1325955562" CREATED="1637181382311" MODIFIED="1637181382315" LINK="compare_collocations/information/foolishness.mm"/>
-<node TEXT="exchanging information" ID="ID_454811070" CREATED="1637130958457" MODIFIED="1640899053478" LINK="compare_collocations/exchanging%20information.mm"/>
 <node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="compare_collocations/using.mm"/>
 <node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="compare_collocations/possibility.mm"/>
 <node TEXT="human body" ID="ID_735615301" CREATED="1637166164110" MODIFIED="1637166186899" LINK="compare_collocations/human%20body/">
 <node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="compare_collocations/human%20body/eating.mm"/>
 <node TEXT="body positions" ID="ID_370119368" CREATED="1643205247255" MODIFIED="1643205253124" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/human%20body/body%20positions.mm"/>
+<node TEXT="using eyes" ID="ID_203877844" CREATED="1644507389139" MODIFIED="1644507413664" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/human%20body/using%20eyes.mm"/>
 </node>
 <node TEXT="feelings" ID="ID_1080055901" CREATED="1637167076054" MODIFIED="1637167086394" LINK="compare_collocations/feelings/">
 <node TEXT="sadness" ID="ID_811330063" CREATED="1637167087534" MODIFIED="1637167104062" LINK="compare_collocations/feelings/sadness.mm"/>
@@ -161,12 +161,15 @@
 <node TEXT="humor" ID="ID_1091407720" CREATED="1637215639908" MODIFIED="1637216180040" LINK="compare_collocations/mind/humor.mm"/>
 <node TEXT="thinking" ID="ID_219942153" CREATED="1637425246287" MODIFIED="1637425256325" LINK="compare_collocations/mind/thinking.mm"/>
 <node TEXT="preferences" ID="ID_1120180814" CREATED="1639809351536" MODIFIED="1639809357802" LINK="compare_collocations/mind/preferences.mm"/>
-<node TEXT="changing religion" ID="ID_552941956" CREATED="1641181012714" MODIFIED="1641181034789" LINK="file:/C:/knowledge/languages/compare_collocations/mind/changing%20religion.mm"/>
+<node TEXT="changing religion" ID="ID_552941956" CREATED="1641181012714" MODIFIED="1645175416133" LINK="compare_collocations/mind/changing%20religion.mm"/>
+<node TEXT="doubts" ID="ID_327129078" CREATED="1644457013599" MODIFIED="1645175426406" LINK="compare_collocations/mind/doubts.mm"/>
 </node>
 <node TEXT="talking" ID="ID_49288193" CREATED="1637216129933" MODIFIED="1637216139511" LINK="compare_collocations/talking/">
 <node TEXT="blaming" ID="ID_1296721790" CREATED="1637324827784" MODIFIED="1637324841522" LINK="compare_collocations/talking/blaming.mm"/>
 <node TEXT="terms denoting speech" ID="ID_802619694" CREATED="1642924436293" MODIFIED="1642924499879" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/terms%20denoting%20speech.mm"/>
 <node TEXT="secret" ID="ID_845439539" CREATED="1643011561367" MODIFIED="1643011566296" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/secret.mm"/>
+<node TEXT="telling" ID="ID_122730119" CREATED="1645175612017" MODIFIED="1645175623043" LINK="compare_collocations/talking/telling.mm"/>
+<node TEXT="argument" ID="ID_1540045943" CREATED="1645175627596" MODIFIED="1645175631091" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/argument.mm"/>
 </node>
 <node TEXT="time" ID="ID_749047726" CREATED="1637326274490" MODIFIED="1637491530964" LINK="compare_collocations/time/time.mm">
 <node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="compare_collocations/time/past.mm"/>
@@ -177,6 +180,9 @@
 </node>
 <node TEXT="being influenced by" ID="ID_1077031731" CREATED="1640970991928" MODIFIED="1640971042588" LINK="compare_collocations/being%20influenced%20by/">
 <node TEXT="weather" ID="ID_1345469567" CREATED="1640971046151" MODIFIED="1640971065632" LINK="file:/C:/google/knowledge/languages/compare_collocations/being%20influenced%20by/weather.mm"/>
+</node>
+<node TEXT="interaction" ID="ID_309833850" CREATED="1644471337998" MODIFIED="1644471379251" LINK="compare_collocations/interaction/">
+<node TEXT="each other" ID="ID_191830952" CREATED="1644471380137" MODIFIED="1644471383851" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/interaction/each%20other.mm"/>
 </node>
 </node>
 <node TEXT="english" POSITION="right" ID="ID_1140432565" CREATED="1640279493235" MODIFIED="1640279500409" LINK="english/">

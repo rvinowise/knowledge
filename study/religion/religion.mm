@@ -11,7 +11,7 @@
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.2">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -73,6 +73,7 @@
 <node TEXT="" POSITION="left" ID="ID_205331815" CREATED="1635513370800" MODIFIED="1635791415593" COLOR="#000000">
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
+<node TEXT="aaron ullrey" ID="ID_1565587068" CREATED="1644979176203" MODIFIED="1644979192673" LINK="https://www.youtube.com/channel/UC5Vago4tk56iyqRCFAC4DbA/videos"/>
 </node>
 <node TEXT="by culture" POSITION="right" ID="ID_1098917032" CREATED="1634264000549" MODIFIED="1635791415594" COLOR="#000000">
 <font NAME="Tahoma" BOLD="false"/>
@@ -152,6 +153,10 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="prohibitions" ID="ID_346116388" CREATED="1642831713520" MODIFIED="1642831749917" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/prohibitions.mm"/>
+<node TEXT="apologists" ID="ID_474163196" CREATED="1645084400724" MODIFIED="1645084412195" LINK="islam/apologists/">
+<node TEXT="apologists" ID="ID_1585867088" CREATED="1645084415134" MODIFIED="1645084429102" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/apologists/apologists.mm"/>
+</node>
+<node TEXT="contradictions" ID="ID_224757112" CREATED="1645268137448" MODIFIED="1645268161177" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/contradictions.mm"/>
 </node>
 <node TEXT="christianity" ID="ID_840596349" CREATED="1634263757943" MODIFIED="1636643399547" LINK="christianity/christianity.mm" COLOR="#000000">
 <icon BUILTIN="present@b"/>
@@ -208,6 +213,7 @@
 </node>
 <node TEXT="paganism" ID="ID_1490583204" CREATED="1635981146827" MODIFIED="1641760877571" LINK="paganism/paganism.mm">
 <font NAME="Tahoma"/>
+<node TEXT="nordic mythology" ID="ID_377189738" CREATED="1645025880676" MODIFIED="1645025903004" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/paganism/nordic%20mythology.mm"/>
 </node>
 </node>
 <node TEXT="by god" FOLDED="true" POSITION="right" ID="ID_636406165" CREATED="1634263957454" MODIFIED="1635791415619" COLOR="#000000">

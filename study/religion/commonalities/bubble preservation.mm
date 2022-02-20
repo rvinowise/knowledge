@@ -250,6 +250,22 @@
 </node>
 </node>
 </node>
+<node TEXT="filted information" ID="ID_1513570197" CREATED="1645274995331" MODIFIED="1645275004206">
+<node TEXT="muslims whould be very selective of information" ID="ID_792487005" CREATED="1645275005144" MODIFIED="1645275042525" LINK="https://www.reddit.com/r/Hijabis/comments/n50vvm/arguments_against_islam_are_making_me_doubt_my/">
+<node TEXT="you just need to Investigate that information yourself (not taking it at face value)" ID="ID_990266334" CREATED="1645275187470" MODIFIED="1645275217996">
+<icon BUILTIN="bad@bleak"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="don&apos;t ask questions" ID="ID_845929890" CREATED="1645276902941" MODIFIED="1645276906287">
+<node TEXT="don&apos;t ask questions if the answers will disturb you" ID="ID_440137481" CREATED="1645276977211" MODIFIED="1645277050527" LINK="https://quran.com/5/101">
+<node TEXT="many asked questions and lost their faith" ID="ID_1699031241" CREATED="1645276906527" MODIFIED="1645277055875" LINK="https://quran.com/5:102?font=v1&amp;translations=149%2C167%2C131%2C85%2C19%2C206"/>
+<node TEXT="nonsense" ID="ID_1272976126" CREATED="1645277010942" MODIFIED="1645277017054" COLOR="#000000">
+<icon BUILTIN="control/hashtag"/>
+<node TEXT="how do i know if it will disturb me before receiving the answer?" ID="ID_1461788618" CREATED="1645277017561" MODIFIED="1645277034664"/>
+</node>
+</node>
 </node>
 <node TEXT="studying is prohibited" ID="ID_913876554" CREATED="1642684976665" MODIFIED="1642684985788">
 <node TEXT="philosophy is haram" ID="ID_728746136" CREATED="1642684999214" MODIFIED="1642685006856"/>
@@ -260,7 +276,15 @@
 </node>
 </node>
 </node>
+<node TEXT="don&apos;t go to moderated debates" ID="ID_1268051937" CREATED="1645088682800" MODIFIED="1645088692228">
+<node TEXT="Shaikh Uthman Ibn Farooq" ID="ID_1845837834" CREATED="1645088694464" MODIFIED="1645088738769" LINK="../islam/apologists/apologists.mm#ID_1353669697">
+<icon BUILTIN="emoji-26F2"/>
 </node>
+</node>
+</node>
+</node>
+<node TEXT="styles" POSITION="right" ID="ID_1696687824" CREATED="1645277014961" MODIFIED="1645277014967">
+<node TEXT="3" ID="ID_1962200349" CREATED="1645277014967" MODIFIED="1645277014969"/>
 </node>
 </node>
 </map>
