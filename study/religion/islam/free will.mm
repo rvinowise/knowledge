@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="free will" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1636335438336"><hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -156,7 +156,6 @@
 <node TEXT=" angel writes down beliefs of a person in advance" ID="ID_1865216299" CREATED="1635277261647" MODIFIED="1636335438343" LINK="https://sunnah.com/bukhari:3208">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="" ID="ID_724563036" CREATED="1640539528026" MODIFIED="1640539528026"/>
 <node TEXT="wikiislam" ID="ID_697811072" CREATED="1635281835728" MODIFIED="1636335438344" LINK="https://wikiislam.net/wiki/Free_Will_and_Predestination_in_Islam">
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
@@ -174,6 +173,9 @@
 </node>
 <node TEXT="heroes argued about predestination" ID="ID_171011497" CREATED="1638066637788" MODIFIED="1638066674260">
 <node TEXT="adam told moses god made him sin" ID="ID_337186202" CREATED="1638066676842" MODIFIED="1638066697626" LINK="https://sunnah.com/bukhari:6614"/>
+</node>
+<node TEXT="predestination in adultery" ID="ID_1071669059" CREATED="1644107514776" MODIFIED="1644107536637">
+<node TEXT="it&apos;s impossible (for you) to escape the adultery that god has fixed for you" ID="ID_258324884" CREATED="1644107537684" MODIFIED="1644107588386" LINK="https://sunnah.com/muslim:2658a"/>
 </node>
 </node>
 <node TEXT="modern muslims believe in free will" POSITION="right" ID="ID_490658774" CREATED="1635276570137" MODIFIED="1636335438345">

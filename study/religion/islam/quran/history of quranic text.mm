@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="history of quranic text" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633564820065"><hook NAME="MapStyle" zoom="1.026">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -138,7 +138,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="muhammad used to forget quran" ID="ID_1631186134" CREATED="1633564874082" MODIFIED="1633675367443" LINK="https://sunnah.com/bukhari:5042">
 <node TEXT="" ID="ID_966177860" CREATED="1633689323244" MODIFIED="1633689325219" LINK="https://sunnah.com/bukhari:5037"/>
@@ -177,7 +176,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1455189322" CREATED="1644024437468" MODIFIED="1644024811114"><richcontent TYPE="NODE">
 
@@ -191,7 +189,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -207,7 +204,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -257,6 +253,21 @@
 </node>
 </node>
 </node>
+<node TEXT="compilation" ID="ID_56583371" CREATED="1644090283385" MODIFIED="1644090286308">
+<node TEXT="created by people after muhammad" ID="ID_1448929591" CREATED="1644090426608" MODIFIED="1644090443697">
+<node TEXT="chapters are arranged arbitrarily by uthman" ID="ID_1839376242" CREATED="1644090292195" MODIFIED="1644090328242"/>
+<node TEXT="verses are not in historical order" ID="ID_1691267726" CREATED="1644090329013" MODIFIED="1644090450672">
+<node TEXT="last reveald verse is in the middle of al-baqara" ID="ID_1179076800" CREATED="1644090345419" MODIFIED="1644090359121"/>
+<node TEXT="verses of al-baqara related to fasting are put together, even though there was one year gap between their creation" ID="ID_977403460" CREATED="1644090361460" MODIFIED="1644090400854"/>
+</node>
+</node>
+<node TEXT="can be called Al-Furqân (the standard)" ID="ID_770786971" CREATED="1644090668411" MODIFIED="1644090695568"/>
+<node TEXT="revelation order" ID="ID_84947403" CREATED="1639987931851" MODIFIED="1639987935197">
+<node TEXT="" ID="ID_1945484227" CREATED="1639987938426" MODIFIED="1639987942871" LINK="https://www.missionislam.com/quran/revealationorder.htm">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="quranic recitation" POSITION="right" ID="ID_403487302" CREATED="1633568029400" MODIFIED="1633568042724">
 <node TEXT="act of prayer" ID="ID_1093557186" CREATED="1633568036819" MODIFIED="1633568049889">
@@ -291,11 +302,6 @@
 <node TEXT=" https://sunnah.com/bukhari:4987" ID="ID_1593854012" CREATED="1633675831990" MODIFIED="1633675870039" LINK="https://sunnah.com/bukhari:4987">
 <icon BUILTIN="emoji-26F2"/>
 </node>
-</node>
-</node>
-<node TEXT="revelation order" POSITION="right" ID="ID_84947403" CREATED="1639987931851" MODIFIED="1639987935197">
-<node TEXT="" ID="ID_1945484227" CREATED="1639987938426" MODIFIED="1639987942871" LINK="https://www.missionislam.com/quran/revealationorder.htm">
-<icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 </node>

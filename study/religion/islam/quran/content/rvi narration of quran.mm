@@ -10,8 +10,8 @@
 </attribute_registry>
 <node TEXT="rvi narration of quran" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643134752336" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
-<hook NAME="MapStyle" zoom="0.979">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
+<hook NAME="MapStyle" zoom="1.089">
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -262,9 +262,6 @@
 <node TEXT="angels prostrated themselves to adam, but iblis(satan) refused to" ID="ID_843413008" CREATED="1644021338136" MODIFIED="1644021423466" LINK="https://quran.com/2:34?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="talks as if satan is an angel (not jinn)" ID="ID_1901778169" CREATED="1644021401487" MODIFIED="1644021444016">
 <icon BUILTIN="control/comment"/>
-<node TEXT="contradiction" ID="ID_952919562" CREATED="1644832568824" MODIFIED="1644832573403">
-<icon BUILTIN="control/hashtag"/>
-</node>
 </node>
 </node>
 <node TEXT="god ordered people and satan to be enemies of each other" ID="ID_878976255" CREATED="1644023409974" MODIFIED="1644023452783" LINK="https://quran.com/2:36?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
@@ -1005,7 +1002,7 @@
 </node>
 </node>
 </node>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1087302806" CREATED="1643402393718" MODIFIED="1643936462757" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="default" ID="ID_1087302806" CREATED="1643402393718" MODIFIED="1644096854376" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1017,6 +1014,7 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="withheld evidence" ID="ID_237685080" CREATED="1644016193338" MODIFIED="1644016232589">
 <node TEXT="muslims believe in the unseen" ID="ID_1875336630" CREATED="1643939164873" MODIFIED="1643939177802" LINK="https://quran.com/2:3?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
@@ -1370,9 +1368,6 @@
 <node TEXT="modern muslims" ID="ID_1376132632" CREATED="1643317641175" MODIFIED="1643317648837">
 <icon BUILTIN="connection/conferatur"/>
 </node>
-<node TEXT="wishful thinking, hope" ID="ID_1570405578" CREATED="1644832814940" MODIFIED="1644832851847">
-<icon BUILTIN="control/hashtag"/>
-</node>
 </node>
 <node ID="ID_1197299657" CREATED="1643317866647" MODIFIED="1643846793552" LINK="https://quran.com/2:79?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"><richcontent TYPE="NODE">
 
@@ -1469,7 +1464,7 @@
 </node>
 </node>
 <node TEXT="disbelieve is sickness, which allah makes worse" ID="ID_1014832291" CREATED="1643941987219" MODIFIED="1643942003910" LINK="https://quran.com/2:10?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
-<node ID="ID_1841113273" CREATED="1643471527536" MODIFIED="1644994216415"><richcontent TYPE="NODE">
+<node ID="ID_1841113273" CREATED="1643471527536" MODIFIED="1643471747907" LINK="https://quran.com/2:146?font=v1&amp;translations=149%2C95%2C20"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1588,8 +1583,6 @@
 <node TEXT="disbelievers have better earthly life vs earthly life attracts them" ID="ID_1511944658" CREATED="1643756842732" MODIFIED="1643756876401"/>
 </node>
 </node>
-</node>
-<node TEXT="bad believers" ID="ID_402700411" CREATED="1644833012292" MODIFIED="1644833016052">
 <node TEXT="hippocrites" ID="ID_1438868902" CREATED="1643939976989" MODIFIED="1643939980161">
 <node TEXT="they say they believe, but they don&apos;t" ID="ID_1354057031" CREATED="1643939927446" MODIFIED="1643940000597" LINK="https://quran.com/2:8?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="trying to deceive allah and muslims" ID="ID_1029224739" CREATED="1643940025641" MODIFIED="1643940034658" LINK="https://quran.com/2:9?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
@@ -1625,13 +1618,6 @@
 </richcontent>
 </node>
 <node TEXT="" ID="ID_571681604" CREATED="1644027485726" MODIFIED="1644027492491" COLOR="#000000"/>
-</node>
-<node TEXT="there are people distorting religious books, they are damned" ID="ID_1186688076" CREATED="1644833037597" MODIFIED="1644833076616" LINK="https://quran.com/2?startingVerse=79">
-<node TEXT="it&apos;s about jews, compiling religious texts out of many pieces" ID="ID_1229128518" CREATED="1644833416602" MODIFIED="1644833436903">
-<node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1974713424" CREATED="1644833455956" MODIFIED="1644833460314">
-<icon BUILTIN="emoji-26F2"/>
-</node>
-</node>
 </node>
 </node>
 <node TEXT="there are people who call god as the witness of their impressive wordly talks. they are worst enemies" ID="ID_795510600" CREATED="1643753886883" MODIFIED="1643938021298" LINK="https://quran.com/2:204?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
@@ -1758,9 +1744,10 @@
 </node>
 </node>
 <node TEXT="satan" ID="ID_1939476409" CREATED="1643922530341" MODIFIED="1643922531676">
-<node TEXT="satan promises you poverty" ID="ID_981964510" CREATED="1643922536414" MODIFIED="1643922571918" LINK="https://quran.com/2:268?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
-<node TEXT="funny" LOCALIZED_STYLE_REF="default" ID="ID_1552844915" CREATED="1643922589820" MODIFIED="1643922601678" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="satan says you will be poor by donating money" ID="ID_981964510" CREATED="1643922536414" MODIFIED="1644185108989" LINK="https://quran.com/2:268?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
+<node TEXT="funny" LOCALIZED_STYLE_REF="default" ID="ID_1552844915" CREATED="1643922589820" MODIFIED="1644185079125" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="control/hashtag"/>
+<icon BUILTIN="question@b"/>
 <node TEXT="satan never keeps his promises (most kafir countries are rich)" ID="ID_1385997883" CREATED="1643922601754" MODIFIED="1643922639247"/>
 </node>
 </node>
@@ -1770,6 +1757,15 @@
 <node TEXT="gardens beneath which rivers flow" ID="ID_381158432" CREATED="1644014619109" MODIFIED="1644014641683" LINK="https://quran.com/2:25?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
 <node TEXT="the fruits in paradise are the same as on earth" ID="ID_1050913841" CREATED="1644014651188" MODIFIED="1644014667050" LINK="https://quran.com/2:25?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
 <node TEXT="people stay forever in paradise" ID="ID_230869934" CREATED="1644014696334" MODIFIED="1644014713137" LINK="https://quran.com/2:25?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
+<node TEXT="pure spouces" ID="ID_1499215534" CREATED="1644101355369" MODIFIED="1644101366438" LINK="https://quran.com/2/25">
+<node TEXT="mind and body of everybody is modified" ID="ID_1790304553" CREATED="1644101426403" MODIFIED="1644101442168">
+<node TEXT="no illness, urination, defecation, menstruation" ID="ID_1604332702" CREATED="1644101366935" MODIFIED="1644101402598"/>
+<node TEXT="no jealousy, envy, hatred" ID="ID_1010760476" CREATED="1644101403223" MODIFIED="1644101415978"/>
+<node TEXT="Dr. Mustafa Khattab, the Clear Quran" ID="ID_565367557" CREATED="1644101444508" MODIFIED="1644101453474">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="angels" ID="ID_141901174" CREATED="1644021071867" MODIFIED="1644021073084">
 <node TEXT="" ID="ID_376185293" CREATED="1644021073605" MODIFIED="1644021073605"/>

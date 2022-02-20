@@ -131,11 +131,6 @@
 </node>
 <node TEXT="women don&apos;t choose the partner" POSITION="right" ID="ID_722695662" CREATED="1638746711970" MODIFIED="1638746789357">
 <node TEXT="woman was &quot;married&quot; to a random man" ID="ID_1524559577" CREATED="1633688749300" MODIFIED="1638747748886" LINK="islamic%20sex.mm#ID_1524559577"/>
-<node TEXT="advocates for forced marriage" ID="ID_1862385161" CREATED="1644882898199" MODIFIED="1644882907578">
-<node TEXT="haqiqatjou" ID="ID_681862770" CREATED="1644882908348" MODIFIED="1644882916484">
-<node TEXT="marriage it&apos;s like the forced school" ID="ID_324706357" CREATED="1644882920258" MODIFIED="1644939254497" LINK="https://gingerbeardmansite.wordpress.com/2018/03/10/daniel-haqiqatjou-marrying-early/"/>
-</node>
-</node>
 </node>
 <node TEXT="family is inferior to islam" POSITION="right" ID="ID_542390437" CREATED="1635035155204" MODIFIED="1638746724474">
 <node TEXT="marriage must be nullified" ID="ID_833565818" CREATED="1635034992931" MODIFIED="1635035312234">
@@ -152,9 +147,6 @@
 <node TEXT="husbands kill their wives" ID="ID_369749115" CREATED="1638747791448" MODIFIED="1638747804944">
 <node TEXT="for disrespecting muhammad" ID="ID_1373321210" CREATED="1638747806110" MODIFIED="1638747849791" LINK="islamic%20violence.mm#ID_510698484"/>
 </node>
-</node>
-<node TEXT="muhammad" POSITION="right" ID="ID_1648206933" CREATED="1644829839189" MODIFIED="1644829845376">
-<node TEXT="nobody could marry muhammad&apos;s wives after they are divorced from him" ID="ID_1972401649" CREATED="1644829845616" MODIFIED="1644829893365"/>
 </node>
 </node>
 </map>
