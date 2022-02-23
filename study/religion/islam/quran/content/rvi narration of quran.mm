@@ -11,7 +11,7 @@
 <node TEXT="rvi narration of quran" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643134752336" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.089">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -1014,7 +1014,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="withheld evidence" ID="ID_237685080" CREATED="1644016193338" MODIFIED="1644016232589">
 <node TEXT="muslims believe in the unseen" ID="ID_1875336630" CREATED="1643939164873" MODIFIED="1643939177802" LINK="https://quran.com/2:3?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>

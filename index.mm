@@ -38,7 +38,7 @@
 <edge STYLE="hide_edge" COLOR="#000000"/>
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffffff" BACKGROUND_ALPHA="0" BORDER_WIDTH="3 px" BORDER_COLOR="#ff8080" BORDER_DASH="SOLID"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
@@ -208,6 +208,7 @@
 </node>
 <node TEXT="programming" ID="ID_1478726703" CREATED="1642145814824" MODIFIED="1642145831998" LINK="study/programming/">
 <node TEXT="search" ID="ID_758762981" CREATED="1642145833400" MODIFIED="1642145961821" LINK="file:/D:/archive/cloud_storages/knowledge/study/programming/search.mm"/>
+<node TEXT="unty unit testing" LOCALIZED_STYLE_REF="default" ID="ID_1822815891" CREATED="1645620134738" MODIFIED="1645623220336" LINK="file:/C:/knowledge/study/programming/unty%20unit%20testing.mm" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
 </node>
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">

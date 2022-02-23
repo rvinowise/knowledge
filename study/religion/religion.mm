@@ -11,7 +11,7 @@
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -120,7 +120,7 @@
 <node TEXT="different qurans.mm" ID="ID_1639150382" CREATED="1643134376351" MODIFIED="1643134376352" LINK="islam/quran/different%20qurans.mm"/>
 <node TEXT="content" ID="ID_27619976" CREATED="1643134444653" MODIFIED="1643134450296" LINK="islam/quran/content/">
 <node TEXT="rvi narration of quran" ID="ID_1635158467" CREATED="1643134574806" MODIFIED="1643191320818" LINK="islam/quran/content/rvi%20narration%20of%20quran.mm"/>
-<node TEXT="Al 3imrAn" ID="ID_334779945" CREATED="1644090034525" MODIFIED="1644090144415" LINK="file:/C:/knowledge/study/religion/islam/quran/content/Al%203imrAn.mm"/>
+<node TEXT="Al 3imrAn" ID="ID_334779945" CREATED="1644090034525" MODIFIED="1645618403861" LINK="islam/quran/content/Al%203imrAn.mm"/>
 <node TEXT="quranic style" ID="ID_693315472" CREATED="1644485868771" MODIFIED="1644485879015" LINK="file:/C:/knowledge/study/religion/islam/quran/content/quranic%20style.mm"/>
 </node>
 </node>

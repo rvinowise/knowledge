@@ -48,7 +48,7 @@ def localise_links_in_mindmap(mindmap_file) {
 		localise_link_in_node(node)
 	}
 	mindmap.save(false)
-	if !(mindmap in opened_mindmaps) {
+	if (!(mindmap in opened_mindmaps)) {
 		mindmap.close(true, false)
 	}
 }
