@@ -119,10 +119,11 @@
 <node TEXT="quranic challenge.mm" ID="ID_1106883001" CREATED="1643134376347" MODIFIED="1643134376347" LINK="islam/quran/quranic%20challenge.mm"/>
 <node TEXT="different qurans.mm" ID="ID_1639150382" CREATED="1643134376351" MODIFIED="1643134376352" LINK="islam/quran/different%20qurans.mm"/>
 <node TEXT="content" ID="ID_27619976" CREATED="1643134444653" MODIFIED="1643134450296" LINK="islam/quran/content/">
-<node TEXT="rvi narration of quran" ID="ID_1635158467" CREATED="1643134574806" MODIFIED="1643191320818" LINK="islam/quran/content/rvi%20narration%20of%20quran.mm"/>
-<node TEXT="Al 3imrAn" ID="ID_334779945" CREATED="1644090034525" MODIFIED="1645618403861" LINK="islam/quran/content/Al%203imrAn.mm"/>
+<node TEXT="baqara.mm" ID="ID_1906622807" CREATED="1648617731460" MODIFIED="1648617731461" LINK="islam/quran/content/baqara.mm"/>
+<node TEXT="3imrAn.mm" ID="ID_638735691" CREATED="1648617729277" MODIFIED="1648617729278" LINK="islam/quran/content/3imrAn.mm"/>
 <node TEXT="quranic style" ID="ID_693315472" CREATED="1644485868771" MODIFIED="1644485879015" LINK="file:/C:/knowledge/study/religion/islam/quran/content/quranic%20style.mm"/>
 </node>
+<node TEXT="" ID="ID_1553189759" CREATED="1645928928419" MODIFIED="1645928928419"/>
 </node>
 <node TEXT="satan" ID="ID_1911431146" CREATED="1633686322952" MODIFIED="1635882571903" LINK="islam/satan.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
@@ -320,6 +321,10 @@
 <node TEXT="aspects of belief" ID="ID_125807405" CREATED="1642303573833" MODIFIED="1642303644241" LINK="aspects%20of%20belief/">
 <node TEXT="combinations of beliefs.mm" ID="ID_1485796504" CREATED="1642303707267" MODIFIED="1642303707267" LINK="aspects%20of%20belief/combinations%20of%20beliefs.mm"/>
 </node>
+<node TEXT="growth statistics" ID="ID_17368881" CREATED="1646376483669" MODIFIED="1646376498407" LINK="https://www.pewforum.org/2017/04/05/the-changing-global-religious-landscape/"/>
+</node>
+<node TEXT="general" POSITION="right" ID="ID_1478933401" CREATED="1646436293553" MODIFIED="1646436307386" LINK="general/">
+<node TEXT="psychology of religion" ID="ID_1700654662" CREATED="1646436308367" MODIFIED="1646436326446" LINK="file:/C:/knowledge/study/religion/general/psychology%20of%20religion.mm"/>
 </node>
 </node>
 </map>

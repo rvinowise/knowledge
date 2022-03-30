@@ -129,9 +129,6 @@
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="women don&apos;t choose the partner" POSITION="right" ID="ID_722695662" CREATED="1638746711970" MODIFIED="1638746789357">
-<node TEXT="woman was &quot;married&quot; to a random man" ID="ID_1524559577" CREATED="1633688749300" MODIFIED="1638747748886" LINK="islamic%20sex.mm#ID_1524559577"/>
-</node>
 <node TEXT="family is inferior to islam" POSITION="right" ID="ID_542390437" CREATED="1635035155204" MODIFIED="1638746724474">
 <node TEXT="marriage must be nullified" ID="ID_833565818" CREATED="1635034992931" MODIFIED="1635035312234">
 <icon BUILTIN="question@b"/>
@@ -147,6 +144,12 @@
 <node TEXT="husbands kill their wives" ID="ID_369749115" CREATED="1638747791448" MODIFIED="1638747804944">
 <node TEXT="for disrespecting muhammad" ID="ID_1373321210" CREATED="1638747806110" MODIFIED="1638747849791" LINK="islamic%20violence.mm#ID_510698484"/>
 </node>
+</node>
+<node TEXT="inferiority of women" POSITION="right" ID="ID_1773185742" CREATED="1647698259406" MODIFIED="1647698276108">
+<node TEXT="women don&apos;t choose the partner" ID="ID_722695662" CREATED="1638746711970" MODIFIED="1638746789357">
+<node TEXT="woman was &quot;married&quot; to a random man" ID="ID_1524559577" CREATED="1633688749300" MODIFIED="1638747748886" LINK="islamic%20sex.mm#ID_1524559577"/>
+</node>
+<node TEXT="followers of dajjal will be mostly women" ID="ID_839389231" CREATED="1647698280289" MODIFIED="1647698301412" LINK="https://www.youtube.com/watch?v=66kT9MHxK8Y&amp;ab_channel=iLovUAllah%E2%84%A2"/>
 </node>
 </node>
 </map>

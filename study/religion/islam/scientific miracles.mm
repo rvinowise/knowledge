@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -160,6 +160,40 @@
 <font ITALIC="true"/>
 </node>
 <node TEXT="ancient egyptian creation myth" ID="ID_559618349" CREATED="1636687341982" MODIFIED="1636687359294" LINK="https://egyptianmuseum.org/deities-geb"/>
+</node>
+<node TEXT="rotufers" POSITION="right" ID="ID_1719830330" CREATED="1645928939108" MODIFIED="1645929020387" LINK="https://en.wikipedia.org/wiki/Rotifer">
+<node ID="ID_1753128690" CREATED="1645928946148" MODIFIED="1645928992922"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      have <b>one leg</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="not two four of more" ID="ID_320854773" CREATED="1645928957345" MODIFIED="1645928965301"/>
+</node>
+<node ID="ID_346927185" CREATED="1645928968083" MODIFIED="1645929001743"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ancient <b>asexuals</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="not in pairs" ID="ID_1882054582" CREATED="1645928974415" MODIFIED="1645928984263"/>
+</node>
 </node>
 </node>
 </map>

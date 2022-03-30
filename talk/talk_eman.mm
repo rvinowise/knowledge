@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -214,7 +214,6 @@
 </richcontent>
 </node>
 </node>
-</node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1435893486" CREATED="1631899931509" MODIFIED="1632840227894" BACKGROUND_COLOR="#ffffec">
 <icon BUILTIN="question@b"/>
 <richcontent TYPE="NODE">
@@ -230,6 +229,7 @@
   </body>
 </html>
 </richcontent>
+</node>
 </node>
 <node TEXT="talking about islam with non-muslims is prohibited" ID="ID_1824588473" CREATED="1634892057207" MODIFIED="1634892086546">
 <icon BUILTIN="quote@b"/>
@@ -279,6 +279,161 @@
 <node TEXT="and you say my opinion is not important because i haven&apos;t studied islam. what&apos;s the difference?" ID="ID_1833351776" CREATED="1634981582515" MODIFIED="1634982184648" BACKGROUND_COLOR="#ffffec">
 <icon BUILTIN="question@b"/>
 </node>
+</node>
+</node>
+</node>
+</node>
+<node ID="ID_1453642575" CREATED="1648508246012" MODIFIED="1648508384878">
+<icon BUILTIN="quote@b"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      will you let your child <b>talk to ISIS</b>?
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<font ITALIC="true"/>
+<node TEXT="i&apos;m not sure" ID="ID_889727603" CREATED="1648508607258" MODIFIED="1648508609987">
+<node STYLE_REF="list item" ID="ID_1576476911" CREATED="1648508390078" MODIFIED="1648508716423"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i will not like my child to talk to ISIS, because i impose my <b>biasses</b>&nbsp;&nbsp;on my child (i'm biassed against ISIS)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="i will let my children listen for equal amount of time to all the sides (ISIS, mine and yours), and ask them to do the same with their children" STYLE_REF="list item" ID="ID_1573718534" CREATED="1648511967678" MODIFIED="1648512004116"/>
+</node>
+<node TEXT="ISIS leaders are sure they are right, just like my leaders are sure they are right" ID="ID_1804757053" CREATED="1648508277244" MODIFIED="1648508374365">
+<node TEXT="so, from the perspective of my child, how do they find out the truth?" ID="ID_1519475459" CREATED="1648508722102" MODIFIED="1648508808880">
+<node TEXT="you&apos;re fine with my children not talking to ISIS, but what about me prohibiting them from talking to your correct sunni inviters into islam?" ID="ID_411256886" CREATED="1648512086986" MODIFIED="1648512160607">
+<node TEXT="are you saying that i shouldn&apos;t let my children talk to ISIS, but i should let them talk to your dawa-people?" ID="ID_107190292" CREATED="1648512161650" MODIFIED="1648512201792"/>
+</node>
+</node>
+</node>
+<node ID="ID_1310907687" CREATED="1648508810461" MODIFIED="1648510953798"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      the problem is that <b>ISIS parents</b>&nbsp;Also don't want their children to listen to us
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_160439095" CREATED="1648508870506" MODIFIED="1648510483095"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      so, how do we show to&nbsp;those <b>ISIS children</b>, that ISIS is wrong, and they have been fooled?
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_1592736904" CREATED="1648509097878" MODIFIED="1648509175865"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      if we adopt the <b>isolationist preservation&nbsp;</b>strategy?
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1231018665" CREATED="1648509320277" MODIFIED="1648510252332"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      my strategy is the opposite: we promote the <b>open dialogue</b>: my children listen to ISIS, and ISIS shildren listen to me
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_988538526" CREATED="1648510014776" MODIFIED="1648510240870"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      and as a result of that, <b>all people </b>will adopt the true worldview
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="maybe it is ISIS&apos;s worldview, maybe yours, maybe mine" ID="ID_1296868528" CREATED="1648510066817" MODIFIED="1648510085244"/>
+</node>
+<node LOCALIZED_STYLE_REF="default" ID="ID_1685617210" CREATED="1648508494892" MODIFIED="1648511727684" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      it's good if everybody's children listen for <b>equal amount</b>&nbsp;of time to all the sides (ISIS, mine and yours)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1796917422" CREATED="1648509414525" MODIFIED="1648511735913">
+<icon BUILTIN="bad@bleak"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i will be <b>disturbed</b>&nbsp;when my children listen to ISIS (because of my biass), but this disturbance is bad
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="and ISIS parents will feel the same disturbance" ID="ID_833264366" CREATED="1648509475500" MODIFIED="1648511745076">
+<icon BUILTIN="good@bleak"/>
+</node>
+</node>
+<node TEXT="and it&apos;s not only about children: if an ISIS speaker joins this group, he will be the most interesting interlocutor for me." ID="ID_118350158" CREATED="1648510199107" MODIFIED="1648510426432"/>
 </node>
 </node>
 </node>
@@ -352,7 +507,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="or makes you non-muslim" ID="ID_542870708" CREATED="1635008056988" MODIFIED="1635008075274">
+<node TEXT="or make you non-muslim" ID="ID_542870708" CREATED="1635008056988" MODIFIED="1648507204200">
 <node ID="ID_265766706" CREATED="1635008075813" MODIFIED="1635008096543"><richcontent TYPE="NODE">
 
 <html>
@@ -1395,6 +1550,13 @@
 <icon BUILTIN="emoji-26F2"/>
 <font ITALIC="true"/>
 <node TEXT="this is a metaanalysis, it includes many specific studies in the &quot;evidence map&quot;" ID="ID_769554621" CREATED="1634648379474" MODIFIED="1634648417020"/>
+<node TEXT="men receive higher premiums or penalties than women." ID="ID_702590837" CREATED="1648507678381" MODIFIED="1648507684478">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+</node>
+<node TEXT="maybe it&apos;s because ugly women don&apos;t go to work at all" ID="ID_905110057" CREATED="1648507689417" MODIFIED="1648507715810">
+<icon BUILTIN="question@b"/>
 </node>
 </node>
 </node>
@@ -1480,7 +1642,9 @@
 </node>
 </node>
 </node>
-<node TEXT="jihadists" STYLE_REF="topic" FOLDED="true" POSITION="right" ID="ID_1402548785" CREATED="1631880732346" MODIFIED="1631880736860">
+<node TEXT="people" POSITION="right" ID="ID_1309264554" CREATED="1648618360871" MODIFIED="1648618650383" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="jihadists" STYLE_REF="topic" FOLDED="true" ID="ID_1402548785" CREATED="1631880732346" MODIFIED="1631880736860">
 <node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_968697060" CREATED="1631880738943" MODIFIED="1634630057284" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
@@ -1640,7 +1804,7 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="apologists" STYLE_REF="topic" POSITION="right" ID="ID_1910763882" CREATED="1631893871797" MODIFIED="1631893877006">
+<node TEXT="apologists" STYLE_REF="topic" ID="ID_1910763882" CREATED="1631893871797" MODIFIED="1631893877006">
 <node LOCALIZED_STYLE_REF="default" ID="ID_1037477142" CREATED="1631903485920" MODIFIED="1632840227920" BACKGROUND_COLOR="#ffffec">
 <icon BUILTIN="question@b"/>
 <richcontent TYPE="NODE">
@@ -2317,6 +2481,7 @@
 </node>
 </node>
 </node>
+</node>
 <node TEXT="favourite religions" STYLE_REF="topic" POSITION="right" ID="ID_1674760520" CREATED="1632612239438" MODIFIED="1632612317674">
 <node LOCALIZED_STYLE_REF="default" ID="ID_859800405" CREATED="1632612319683" MODIFIED="1632612357639"><richcontent TYPE="NODE">
 
@@ -2384,6 +2549,9 @@
 </node>
 <node TEXT="buddhism" ID="ID_520230621" CREATED="1632650591935" MODIFIED="1632650594767">
 <node TEXT="pleasure and suffering are inseparable" LOCALIZED_STYLE_REF="default" ID="ID_1916027225" CREATED="1632650595737" MODIFIED="1632840403251">
+<icon BUILTIN="good@bleak"/>
+</node>
+<node TEXT="discovered meditation which has medicinal qualities" ID="ID_1141912325" CREATED="1648619395190" MODIFIED="1648619429187">
 <icon BUILTIN="good@bleak"/>
 </node>
 </node>
@@ -3475,5 +3643,7 @@
 <node TEXT="mohammed hijab is bad" POSITION="left" ID="ID_1437592516" CREATED="1634986606901" MODIFIED="1634986623806" LINK="#ID_612131910"/>
 <node TEXT="it&apos;s a test" POSITION="left" ID="ID_1879026349" CREATED="1635035531461" MODIFIED="1635035556247" LINK="#ID_1126174628"/>
 <node TEXT="afeef&apos;s eclectic islam" POSITION="left" ID="ID_86003465" CREATED="1635979712527" MODIFIED="1635979743146" LINK="#ID_875986669"/>
+<node TEXT="talking to ISIS" POSITION="left" ID="ID_527182611" CREATED="1648508292583" MODIFIED="1648508318064" LINK="#ID_1453642575"/>
+<node TEXT="rajulkahf&apos;s suicide" POSITION="left" ID="ID_1683205997" CREATED="1648618322960" MODIFIED="1648618333099"/>
 </node>
 </map>

@@ -210,6 +210,9 @@
 <node TEXT="search" ID="ID_758762981" CREATED="1642145833400" MODIFIED="1642145961821" LINK="file:/D:/archive/cloud_storages/knowledge/study/programming/search.mm"/>
 <node TEXT="unty unit testing" LOCALIZED_STYLE_REF="default" ID="ID_1822815891" CREATED="1645620134738" MODIFIED="1645623220336" LINK="file:/C:/knowledge/study/programming/unty%20unit%20testing.mm" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
+<node TEXT="meta science" ID="ID_14757307" CREATED="1646396179556" MODIFIED="1646396213626" LINK="study/meta%20science/">
+<node TEXT="scientific studies" ID="ID_652375220" CREATED="1646396214688" MODIFIED="1646396221619" LINK="file:/C:/knowledge/study/meta%20science/scientific%20studies.mm"/>
+</node>
 </node>
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">
 <icon BUILTIN="info_circle@b"/>
@@ -237,10 +240,10 @@
 <node TEXT="talk" POSITION="right" ID="ID_1523271788" CREATED="1633368448993" MODIFIED="1636490920215" LINK="talk/" COLOR="#7f7f7f">
 <icon BUILTIN="info_circle@b"/>
 <font NAME="Tahoma" BOLD="true"/>
-<node TEXT="talk_eman.mm" ID="ID_165480055" CREATED="1633368599745" MODIFIED="1636491040135" LINK="talk_eman.mm.mm">
+<node TEXT="talk_eman.mm" ID="ID_165480055" CREATED="1633368599745" MODIFIED="1648506228178" LINK="talk/talk_eman.mm">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="talk_morality" ID="ID_1655141557" CREATED="1636491026136" MODIFIED="1636491058941" LINK="talk/talk_morality.mm"/>
+<node TEXT="talk_morality" ID="ID_1655141557" CREATED="1636491026136" MODIFIED="1648506217528" LINK="talk/talk_morality.mm"/>
 <node TEXT="talk_wafa" ID="ID_722166673" CREATED="1637038930217" MODIFIED="1637038945074" LINK="talk/talk_wafa.mm"/>
 <node TEXT="debate" ID="ID_1388544124" CREATED="1633374985794" MODIFIED="1635773283873">
 <icon BUILTIN="info_circle@b"/>
@@ -266,6 +269,16 @@
 <node TEXT="drill noise" ID="ID_810419896" CREATED="1642250603994" MODIFIED="1642250625281" LINK="file:/C:/knowledge/notes/drill%20noise.mm"/>
 <node TEXT="banking business" ID="ID_496917618" CREATED="1643303826925" MODIFIED="1643685291505" LINK="notes/banking%20business.mm"/>
 <node TEXT="ip address" ID="ID_1418509451" CREATED="1643462445324" MODIFIED="1643462460849" LINK="file:/C:/knowledge/notes/ip%20address.mm"/>
+<node TEXT="lawsuits" ID="ID_1543778548" CREATED="1646786662552" MODIFIED="1646786700909" LINK="notes/lawsuits/">
+<node TEXT="demonstration" ID="ID_1873930037" CREATED="1646786703357" MODIFIED="1646786709096" LINK="file:/C:/knowledge/notes/lawsuits/demonstration.mm"/>
+</node>
+<node TEXT="gardening" ID="ID_1720914206" CREATED="1646929190818" MODIFIED="1646929190822" LINK="../../M:/gardening/">
+<node TEXT="shops.mm" ID="ID_1293070062" CREATED="1646969383114" MODIFIED="1646969383120" LINK="../../M:/gardening/shops/shops.mm"/>
+<node TEXT="crop_result.mm" ID="ID_1706408965" CREATED="1646969390594" MODIFIED="1646969390594" LINK="../../M:/gardening/crop_results/crop_result.mm"/>
+</node>
+<node TEXT="demonstrations" ID="ID_56337084" CREATED="1647079189531" MODIFIED="1647079206205" LINK="notes/demonstrations/">
+<node TEXT="antiwar" ID="ID_373804382" CREATED="1647079208591" MODIFIED="1647079215097" LINK="file:/C:/knowledge/notes/demonstrations/antiwar.mm"/>
+</node>
 </node>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>

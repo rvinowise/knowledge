@@ -8,10 +8,10 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="rvi narration of quran" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643134752336" COLOR="#ffffff">
+<node TEXT="surah baqara" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1647377073656" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.089">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -152,8 +152,7 @@
 </node>
 <node TEXT="quranic_order / historical_order / place" ID="ID_1041711622" CREATED="1643191401408" MODIFIED="1643936864592" LINK="../history%20of%20quranic%20text.mm#ID_84947403" BACKGROUND_COLOR="#ffffff"/>
 </node>
-<node TEXT="baqara" POSITION="right" ID="ID_800214815" CREATED="1643134752343" MODIFIED="1643476979040">
-<node TEXT="history of quran" ID="ID_1731999089" CREATED="1643927375842" MODIFIED="1643936775772">
+<node TEXT="history of quran" POSITION="right" ID="ID_1731999089" CREATED="1643927375842" MODIFIED="1643936775772">
 <icon BUILTIN="control/comment"/>
 <node TEXT="last verse ever revealed" ID="ID_740224892" CREATED="1643927387678" MODIFIED="1643927457075" LINK="https://quran.com/2:281?font=v1&amp;translations=149%2C167%2C131%2C85%2C19%2C206">
 <node TEXT="Dr. Mustafa Khattab, the Clear Quran" ID="ID_47662967" CREATED="1643927704971" MODIFIED="1643927708215">
@@ -167,7 +166,7 @@
 </node>
 <node TEXT="2/87/madina" ID="ID_691791274" CREATED="1643191362122" MODIFIED="1643191595466"/>
 </node>
-<node ID="ID_13162180" CREATED="1643315161889" MODIFIED="1643315197234"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_13162180" CREATED="1643315161889" MODIFIED="1643315197234"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -435,7 +434,7 @@
 </node>
 </node>
 </node>
-<node ID="ID_1393966619" CREATED="1643203720085" MODIFIED="1643203774632"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_1393966619" CREATED="1643203720085" MODIFIED="1643203774632"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -453,7 +452,7 @@
 <font ITALIC="true"/>
 </node>
 </node>
-<node ID="ID_228621549" CREATED="1643396190653" MODIFIED="1643396310244" LINK="https://quran.com/2:106?font=v1&amp;translations=149%2C95%2C20"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_228621549" CREATED="1643396190653" MODIFIED="1643396310244" LINK="https://quran.com/2:106?font=v1&amp;translations=149%2C95%2C20"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -501,7 +500,7 @@
 </node>
 </node>
 </node>
-<node TEXT="self-conduct" ID="ID_747792494" CREATED="1643478052565" MODIFIED="1643478062251">
+<node TEXT="self-conduct" POSITION="right" ID="ID_747792494" CREATED="1643478052565" MODIFIED="1643478062251">
 <node ID="ID_1650408410" CREATED="1643395542912" MODIFIED="1643395574452" LINK="https://quran.com/2:104?font=v1&amp;translations=149%2C95%2C20"><richcontent TYPE="NODE">
 
 <html>
@@ -695,7 +694,7 @@
 <node TEXT="those oaths are considered &quot;iddle talk&quot;" ID="ID_1780787805" CREATED="1643766084065" MODIFIED="1643766100746" LINK="https://quran.com/2:225?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
 </node>
 </node>
-<node ID="ID_1914367222" CREATED="1643399993680" MODIFIED="1643400011597"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_1914367222" CREATED="1643399993680" MODIFIED="1643400011597"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1002,7 +1001,7 @@
 </node>
 </node>
 </node>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1087302806" CREATED="1643402393718" MODIFIED="1644096854376" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1087302806" CREATED="1643402393718" MODIFIED="1644096854376" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1196,7 +1195,7 @@
 </node>
 </node>
 </node>
-<node ID="ID_1977377117" CREATED="1643936474553" MODIFIED="1643936504027"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_1977377117" CREATED="1643936474553" MODIFIED="1643936504027"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1291,7 +1290,7 @@
 </node>
 <node TEXT="nobody is burdened beyond his capacity" ID="ID_1126175635" CREATED="1643936508718" MODIFIED="1643936541790" LINK="https://quran.com/2:286?font=v1&amp;translations=149%2C167%2C131%2C85%2C19%2C206"/>
 </node>
-<node TEXT="peculiar writing style" ID="ID_917883473" CREATED="1643832925156" MODIFIED="1643832942959">
+<node TEXT="peculiar writing style" POSITION="right" ID="ID_917883473" CREATED="1643832925156" MODIFIED="1643832942959">
 <node TEXT="different narrating person" ID="ID_1233354147" CREATED="1643402108344" MODIFIED="1643402128451">
 <node TEXT="We" ID="ID_1904533272" CREATED="1643402129167" MODIFIED="1643405332851">
 <node TEXT="the &quot;noble plural&quot;" ID="ID_412583875" CREATED="1643404944466" MODIFIED="1643404956058">
@@ -1316,14 +1315,14 @@
 <node TEXT="some translations add &quot;believers say:&quot; before it" ID="ID_870544222" CREATED="1643936283178" MODIFIED="1643936307420"/>
 </node>
 </node>
-<node TEXT="muslims didn&apos;t mean follower of muhammad in the past" ID="ID_879796557" CREATED="1643405964877" MODIFIED="1643405994638" LINK="https://quran.com/2:128?font=v1&amp;translations=149%2C95%2C20"/>
-<node TEXT="muslims are the middle men (witnesses) for the whole humanity" ID="ID_1288294393" CREATED="1643470533959" MODIFIED="1643470621798" LINK="https://quran.com/2:143?font=v1&amp;translations=149%2C95%2C20">
+<node TEXT="muslims didn&apos;t mean follower of muhammad in the past" POSITION="right" ID="ID_879796557" CREATED="1643405964877" MODIFIED="1643405994638" LINK="https://quran.com/2:128?font=v1&amp;translations=149%2C95%2C20"/>
+<node TEXT="muslims are the middle men (witnesses) for the whole humanity" POSITION="right" ID="ID_1288294393" CREATED="1643470533959" MODIFIED="1643470621798" LINK="https://quran.com/2:143?font=v1&amp;translations=149%2C95%2C20">
 <node TEXT="world policeman USA" ID="ID_477204420" CREATED="1643470570329" MODIFIED="1643470594011">
 <icon BUILTIN="connection/conferatur"/>
 </node>
 </node>
-<node TEXT="prayer unites muslims wherever they are" ID="ID_2464408" CREATED="1643477059461" MODIFIED="1643477087561" LINK="https://quran.com/2:148?font=v1&amp;translations=149%2C171%2C167%2C95%2C20"/>
-<node TEXT="jihad" ID="ID_1014128821" CREATED="1643478175845" MODIFIED="1643478178531">
+<node TEXT="prayer unites muslims wherever they are" POSITION="right" ID="ID_2464408" CREATED="1643477059461" MODIFIED="1643477087561" LINK="https://quran.com/2:148?font=v1&amp;translations=149%2C171%2C167%2C95%2C20"/>
+<node TEXT="jihad" POSITION="right" ID="ID_1014128821" CREATED="1643478175845" MODIFIED="1643478178531">
 <node ID="ID_746920917" CREATED="1643478179036" MODIFIED="1643478201197" LINK="https://quran.com/2:154?font=v1&amp;translations=149%2C171%2C167%2C95%2C20"><richcontent TYPE="NODE">
 
 <html>
@@ -1344,7 +1343,7 @@
 </node>
 </node>
 </node>
-<node TEXT="eternality of quran" ID="ID_1557488908" CREATED="1643667466381" MODIFIED="1643667476027">
+<node TEXT="eternality of quran" POSITION="right" ID="ID_1557488908" CREATED="1643667466381" MODIFIED="1643667476027">
 <node TEXT="future events are narrated in the past" ID="ID_1687130131" CREATED="1643667476207" MODIFIED="1643667493262" LINK="https://quran.com/2:166?font=v1&amp;translations=149%2C171%2C167%2C95%2C20">
 <node TEXT="believable" ID="ID_1080383868" CREATED="1643667494228" MODIFIED="1643767336793">
 <icon BUILTIN="control/hashtag"/>
@@ -1354,7 +1353,7 @@
 </node>
 </node>
 </node>
-<node TEXT="describing things" ID="ID_1766254130" CREATED="1643833185671" MODIFIED="1643833202184">
+<node TEXT="describing things" POSITION="right" ID="ID_1766254130" CREATED="1643833185671" MODIFIED="1643833202184">
 <node TEXT="explanations of natural phenomena" ID="ID_1015692436" CREATED="1643748390296" MODIFIED="1643833182319">
 <node TEXT="crescents are time markers" ID="ID_1971202350" CREATED="1643750112197" MODIFIED="1643750121048" LINK="https://quran.com/2:189?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
 <node TEXT="sky is a canopy (structure)" ID="ID_1681786137" CREATED="1644012492462" MODIFIED="1644012503809" LINK="https://quran.com/2:22?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
@@ -1690,6 +1689,7 @@
 </html>
 </richcontent>
 <node TEXT="good muslims say that they don&apos;t differentiate between prophets" ID="ID_1895405979" CREATED="1643934846311" MODIFIED="1643934869124" LINK="https://quran.com/2:285?font=v1&amp;translations=149%2C167%2C131%2C85%2C19%2C206"/>
+<node TEXT="3imran" ID="ID_322697545" CREATED="1647377326156" MODIFIED="1647377334806" LINK="3imrAn.mm#ID_1555529213"/>
 </node>
 <node TEXT="god loves some prophets more than others" LOCALIZED_STYLE_REF="default" ID="ID_876699457" CREATED="1643831180696" MODIFIED="1643831204858" LINK="https://quran.com/2:253?font=v1&amp;translations=149%2C95%2C206%2C20%2C207" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="god didn&apos;t speak directly to all prophets" ID="ID_1201529327" CREATED="1643831335717" MODIFIED="1643831387597"/>
@@ -1770,10 +1770,10 @@
 <node TEXT="" ID="ID_376185293" CREATED="1644021073605" MODIFIED="1644021073605"/>
 </node>
 </node>
-<node TEXT="wine and gambling have both sin and benefit" ID="ID_1694136742" CREATED="1643760485946" MODIFIED="1643760518825" LINK="https://quran.com/2:219?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
+<node TEXT="wine and gambling have both sin and benefit" POSITION="right" ID="ID_1694136742" CREATED="1643760485946" MODIFIED="1643760518825" LINK="https://quran.com/2:219?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="but the sin is bigger" ID="ID_1081945940" CREATED="1643760518968" MODIFIED="1643760523768"/>
 </node>
-<node TEXT="rules for the society" ID="ID_504778447" CREATED="1643760751270" MODIFIED="1643763560454">
+<node TEXT="rules for the society" POSITION="right" ID="ID_504778447" CREATED="1643760751270" MODIFIED="1643763560454">
 <node TEXT="you can mix food with orphans" ID="ID_1305387359" CREATED="1643760757347" MODIFIED="1643760785907" LINK="https://quran.com/2:220?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="before that guardians of orphans were too cautious about separating food" ID="ID_754969136" CREATED="1643760786041" MODIFIED="1643760824038">
 <node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_144667850" CREATED="1643760833712" MODIFIED="1643760836341">
@@ -1920,10 +1920,10 @@
 </node>
 </node>
 </node>
-<node TEXT="day of judgement" ID="ID_167739165" CREATED="1643833609241" MODIFIED="1643833615558">
+<node TEXT="day of judgement" POSITION="right" ID="ID_167739165" CREATED="1643833609241" MODIFIED="1643833615558">
 <node TEXT="on the day of judgement there will be no close friendship" ID="ID_909616675" CREATED="1643833562255" MODIFIED="1643847026578" LINK="https://quran.com/2:254?font=v1&amp;translations=149%2C167%2C131%2C85%2C19%2C206"/>
 </node>
-<node TEXT="metaphors" ID="ID_1017372117" CREATED="1643844521080" MODIFIED="1643844524201">
+<node TEXT="metaphors" POSITION="right" ID="ID_1017372117" CREATED="1643844521080" MODIFIED="1643844524201">
 <node ID="ID_342491466" CREATED="1643943039014" MODIFIED="1643943156054" LINK="https://quran.com/2:17?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"><richcontent TYPE="NODE">
 
 <html>
@@ -2025,10 +2025,10 @@
 </node>
 </node>
 </node>
-<node TEXT="differences in qira&apos;at" ID="ID_458464642" CREATED="1643941266380" MODIFIED="1643941275566">
+<node TEXT="differences in qira&apos;at" POSITION="right" ID="ID_458464642" CREATED="1643941266380" MODIFIED="1643941275566">
 <node TEXT="hippocrites deceive vs try to deceive" ID="ID_147291141" CREATED="1643941285992" MODIFIED="1643941322446" LINK="#ID_1908542192"/>
 </node>
-<node TEXT="my thoughts" ID="ID_1030618865" CREATED="1643831448107" MODIFIED="1643831468807" BACKGROUND_COLOR="#cccccc">
+<node TEXT="my thoughts" POSITION="right" ID="ID_1030618865" CREATED="1643831448107" MODIFIED="1643831468807" BACKGROUND_COLOR="#cccccc">
 <node TEXT="faith" ID="ID_408284742" CREATED="1643831462245" MODIFIED="1643832048355">
 <node TEXT="evident reasons" ID="ID_1153640187" CREATED="1643832162450" MODIFIED="1643832182161"/>
 <node TEXT="need to willingly choose" ID="ID_335912414" CREATED="1643832184091" MODIFIED="1643832206332"/>
@@ -2042,10 +2042,6 @@
 <font ITALIC="true"/>
 <node TEXT="is it empty?" ID="ID_1024727657" CREATED="1643832304369" MODIFIED="1643832312005"/>
 </node>
-</node>
-</node>
-<node TEXT="styles" POSITION="right" ID="ID_1315152755" CREATED="1644027492487" MODIFIED="1644027492489">
-<node TEXT="3" ID="ID_62621043" CREATED="1644027492489" MODIFIED="1644027492490"/>
 </node>
 </node>
 </map>

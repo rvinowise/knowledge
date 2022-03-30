@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -167,7 +167,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
@@ -186,7 +185,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font NAME="Tahoma"/>
 <node TEXT="what&apos;s the difference between:&#xa;1. your instinct&#xa;and&#xa;2. my personal opinion?" ID="ID_798834441" CREATED="1636514558697" MODIFIED="1636514831881">
@@ -215,7 +213,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1954400813" CREATED="1636512448664" MODIFIED="1636512556022" BACKGROUND_COLOR="#cccccc"><richcontent TYPE="NODE">
 
@@ -238,7 +235,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="false"/>
 </node>
@@ -255,7 +251,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1787047648" CREATED="1636513487961" MODIFIED="1636513916325" BACKGROUND_COLOR="#cccccc"><richcontent TYPE="NODE">
 
@@ -269,7 +264,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -288,7 +282,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font NAME="Tahoma"/>
 </node>

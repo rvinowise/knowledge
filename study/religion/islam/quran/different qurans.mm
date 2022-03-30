@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="different qurans" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633485734194"><hook NAME="MapStyle" zoom="1.21">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+<node TEXT="different qurans" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633485734194"><hook NAME="MapStyle" zoom="1.1">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -523,7 +523,7 @@
 <node TEXT="disputers barely killed each other" LOCALIZED_STYLE_REF="default" ID="ID_1415833332" CREATED="1633491612463" MODIFIED="1633570330306" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
 </node>
-<node ID="ID_1237102467" CREATED="1633570218357" MODIFIED="1633572570221" LINK="https://sunnah.com/bukhari:5057">
+<node ID="ID_1237102467" CREATED="1633570218357" MODIFIED="1648043113699" LINK="https://sunnah.com/bukhari:5062">
 <icon BUILTIN="emoji-26F2"/>
 <richcontent TYPE="NODE">
 
@@ -537,6 +537,7 @@
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
@@ -609,6 +610,9 @@
 <node TEXT="vowels etc." ID="ID_1912856" CREATED="1633487690886" MODIFIED="1633488005138">
 <icon BUILTIN="box_inscribed@b"/>
 </node>
+<node TEXT="taSHkIl" LOCALIZED_STYLE_REF="default" ID="ID_852255967" CREATED="1648044575416" MODIFIED="1648044653029" COLOR="#000000">
+<icon BUILTIN="punctuation/equal@b"/>
+</node>
 </node>
 </node>
 <node TEXT="examples" POSITION="right" ID="ID_1725310796" CREATED="1642616043634" MODIFIED="1643135011553" COLOR="#7f7f7f">
@@ -658,6 +662,9 @@
 </node>
 </node>
 </node>
+</node>
+<node TEXT="styles" POSITION="right" ID="ID_1772029659" CREATED="1648044607618" MODIFIED="1648044607634">
+<node TEXT="6" OBJECT="org.freeplane.features.format.FormattedNumber|6" ID="ID_125117644" CREATED="1648044607634" MODIFIED="1648044607646"/>
 </node>
 </node>
 </map>

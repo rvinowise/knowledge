@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="history of quranic text" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633564820065"><hook NAME="MapStyle" zoom="1.026">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -142,7 +142,13 @@
 <node TEXT="muhammad used to forget quran" ID="ID_1631186134" CREATED="1633564874082" MODIFIED="1633675367443" LINK="https://sunnah.com/bukhari:5042">
 <node TEXT="" ID="ID_966177860" CREATED="1633689323244" MODIFIED="1633689325219" LINK="https://sunnah.com/bukhari:5037"/>
 </node>
-<node TEXT="allah makes people forget quran" ID="ID_1494215450" CREATED="1633565516009" MODIFIED="1633675387636" LINK="https://sunnah.com/bukhari:5039"/>
+<node TEXT="allah makes people forget quran" ID="ID_1494215450" CREATED="1633565516009" MODIFIED="1633675387636" LINK="https://sunnah.com/bukhari:5039">
+<node TEXT="quran responding that forgetting is planned, in order to update the revelation" ID="ID_920170014" CREATED="1648045257952" MODIFIED="1648045290249" LINK="https://quran.com/2:106?font=v1&amp;translations=149%2C95%2C20">
+<node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_766001841" CREATED="1648045290626" MODIFIED="1648045301813">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="preservation of quran was in danger" ID="ID_530112833" CREATED="1633674659155" MODIFIED="1633812460356">
 <icon BUILTIN="calendar@b"/>
