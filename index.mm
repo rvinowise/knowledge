@@ -193,6 +193,7 @@
 <font NAME="Tahoma"/>
 </node>
 </node>
+<node TEXT="transhumanism" ID="ID_331750893" CREATED="1648792052850" MODIFIED="1648792098546" LINK="file:/C:/knowledge/study/transhumanism.mm"/>
 <node TEXT="psychology" ID="ID_1670482440" CREATED="1636701716052" MODIFIED="1636701733554" LINK="study/psychology/">
 <node TEXT="false beliefs" ID="ID_656203581" CREATED="1636701737235" MODIFIED="1636701750184" LINK="study/psychology/false%20beliefs.mm"/>
 <node TEXT="hypnosis" ID="ID_1124660689" CREATED="1640153283825" MODIFIED="1640153297254" LINK="study/psychology/hypnosis.mm"/>

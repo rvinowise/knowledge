@@ -679,84 +679,6 @@
 </node>
 <node TEXT="conversion" LOCALIZED_STYLE_REF="default" ID="ID_985939597" CREATED="1631987100924" MODIFIED="1634204074077" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
-<node ID="ID_1536631440" CREATED="1631987127004" MODIFIED="1632040709777"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      remember <b>Shahin </b>becoming a <b>buddhist</b>?
-    </p>
-  </body>
-</html>
-</richcontent>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      #apostate
-    </p>
-  </body>
-</html></richcontent>
-<node LOCALIZED_STYLE_REF="default" ID="ID_211876093" CREATED="1631987233540" MODIFIED="1631987275507"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      you tried to <b>talk to him</b>&nbsp;in private but he refused xD
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="did you talk to him?" LOCALIZED_STYLE_REF="default" ID="ID_1640404397" CREATED="1631987312459" MODIFIED="1632840227899" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
-</node>
-<node LOCALIZED_STYLE_REF="default" ID="ID_32954269" CREATED="1632470355299" MODIFIED="1634922704565" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      did you try to <b>pull him back</b>&nbsp;into islam
-    </p>
-    <p>
-      or were just <b>interested</b>&nbsp;in his thinking?
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="he&apos;s still respectful towards islam, which is unusual" ID="ID_1563722615" CREATED="1632037120025" MODIFIED="1632037137464">
-<node ID="ID_1146171506" CREATED="1632037329001" MODIFIED="1632470562820"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      often resent apostates are <b>hateful</b>, and later they become <b>embarrassed</b>&nbsp;by that
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="The Apostates When Muslims Leave Islam, Simon Cottee" STYLE_REF="source node" ID="ID_1693279051" CREATED="1632037385538" MODIFIED="1632037482310" LINK="religion/apostacy%20in%20islam.mm"/>
-</node>
-</node>
-</node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1337076553" CREATED="1632234672620" MODIFIED="1632840403248">
 <icon BUILTIN="good@bleak"/>
 <richcontent TYPE="NODE">
@@ -1550,7 +1472,7 @@
 <icon BUILTIN="emoji-26F2"/>
 <font ITALIC="true"/>
 <node TEXT="this is a metaanalysis, it includes many specific studies in the &quot;evidence map&quot;" ID="ID_769554621" CREATED="1634648379474" MODIFIED="1634648417020"/>
-<node TEXT="men receive higher premiums or penalties than women." ID="ID_702590837" CREATED="1648507678381" MODIFIED="1648507684478">
+<node TEXT="men receive higher premiums or penalties (because of their looks) than women." ID="ID_702590837" CREATED="1648507678381" MODIFIED="1648686345936">
 <icon BUILTIN="quote@b"/>
 <font ITALIC="true"/>
 </node>
@@ -2453,11 +2375,25 @@
 </richcontent>
 </node>
 </node>
+<node TEXT="david rajulkahf" ID="ID_1908246868" CREATED="1648684849663" MODIFIED="1648684860331">
+<node TEXT="he described his story in his poignant suicide note" ID="ID_1051483962" CREATED="1648684904572" MODIFIED="1648684921495">
+<node TEXT="a blind person running in the streets searching for light will only hurt himself" ID="ID_1529976745" CREATED="1648685019898" MODIFIED="1648685039912">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="he had depression, his life was miserable" ID="ID_21064938" CREATED="1648684865229" MODIFIED="1648684884659">
+<node TEXT="he desperately tried to find happiness (including studying religions)" ID="ID_340830967" CREATED="1648684884881" MODIFIED="1648685014054"/>
+</node>
+</node>
+<node TEXT="what ideas or videos of his do you like most?" ID="ID_1176167747" CREATED="1648685044708" MODIFIED="1648685293175" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+<node TEXT="you said you liked him" ID="ID_1858904349" CREATED="1648685304700" MODIFIED="1648685316585"/>
+</node>
+</node>
 <node TEXT="specific to islam" STYLE_REF="topic" ID="ID_1324133297" CREATED="1632026602394" MODIFIED="1632026611733">
 <node TEXT="apostate prophet" ID="ID_1208764884" CREATED="1631941078380" MODIFIED="1631941099216">
 <node TEXT="slightly toxic" LOCALIZED_STYLE_REF="default" ID="ID_1309663910" CREATED="1632141336906" MODIFIED="1632840417446">
 <icon BUILTIN="bad@bleak"/>
-<node TEXT="the most toxic anti-muslim (apostate prophet) is 10 times nicer, more gentle and civilised, than an average islamic apologist" ID="ID_1961763328" CREATED="1634632388430" MODIFIED="1634632433464"/>
 </node>
 </node>
 <node TEXT="abdullah sameer" ID="ID_1480159285" CREATED="1631941099621" MODIFIED="1631941103507">
@@ -3413,10 +3349,10 @@
 </node>
 </node>
 </node>
-<node TEXT="bias" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_592138119" CREATED="1633398691790" MODIFIED="1634630057284" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="emoji-2B1B"/>
-<node ID="ID_1435355774" CREATED="1633398703484" MODIFIED="1633399133209">
+<node TEXT="bias" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_592138119" CREATED="1633398691790" MODIFIED="1648690305673" BACKGROUND_COLOR="#ffffff">
+<node FOLDED="true" ID="ID_1435355774" CREATED="1633398703484" MODIFIED="1648690415790" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="quote@b"/>
+<icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3472,6 +3408,71 @@
 </node>
 </node>
 </node>
+<node TEXT="we all have them, and they are bad most of the times" ID="ID_1015293584" CREATED="1648690491862" MODIFIED="1648690552818">
+<node ID="ID_1890434830" CREATED="1648690417608" MODIFIED="1648690489093"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i'm trying to remove my <b>identity bias</b>&nbsp;by not calling myself an &quot;atheist&quot;, but &quot;free-thinker&quot;, who happened to be an atheist, but it's not important
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="i admit having biases, and i understand that they are bad" ID="ID_1173731903" CREATED="1648690557609" MODIFIED="1648690960494">
+<node ID="ID_302125615" CREATED="1648690584244" MODIFIED="1648690663437"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      but in islam it's the opposite: they cherish their <b>precious biases</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_1233270254" CREATED="1648690663945" MODIFIED="1648701039200"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>identity biass</b>: i'm a muslim, this is who i am
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_351937227" CREATED="1648690677189" MODIFIED="1648701044652"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>confirmation bias</b>: first you need to believe, and then you'll see the evidence
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="it&apos;s mentioned quran" ID="ID_1770704736" CREATED="1648690702042" MODIFIED="1648690796650" LINK="../study/religion/islam/quran/content/baqara.mm#ID_372114026"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="bookmarks: current" POSITION="left" ID="ID_1719248898" CREATED="1635297766532" MODIFIED="1635297857490" BACKGROUND_COLOR="#ffccff">
 <icon BUILTIN="emoji-1F7EA"/>
@@ -3479,7 +3480,6 @@
 <node TEXT="active bookmarks" POSITION="left" ID="ID_1914977921" CREATED="1635299586038" MODIFIED="1635299588930">
 <node TEXT="bookmarks: done" LOCALIZED_STYLE_REF="default" ID="ID_1334217373" CREATED="1632064659870" MODIFIED="1634630010005" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-2B1B"/>
-<node TEXT="bias" ID="ID_1480256980" CREATED="1634432415701" MODIFIED="1634432415781" LINK="#ID_592138119"/>
 <node TEXT="it&apos;s a test" ID="ID_259712457" CREATED="1634432509387" MODIFIED="1634432509396" LINK="#ID_1126174628"/>
 <node ID="ID_1990896752" CREATED="1634432555137" MODIFIED="1634432555239" LINK="#ID_968697060"><richcontent TYPE="NODE">
 
@@ -3636,6 +3636,21 @@
 </html>
 </richcontent>
 </node>
+<node ID="ID_1737871935" CREATED="1648690415774" MODIFIED="1648690415782" LINK="#ID_1435355774"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      you start from a <b>biassed</b>&nbsp;view
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="without doubts there&apos;s no truth" POSITION="left" ID="ID_1314694133" CREATED="1634929180711" MODIFIED="1634929798548" LINK="#ID_1084096476"/>
@@ -3644,6 +3659,6 @@
 <node TEXT="it&apos;s a test" POSITION="left" ID="ID_1879026349" CREATED="1635035531461" MODIFIED="1635035556247" LINK="#ID_1126174628"/>
 <node TEXT="afeef&apos;s eclectic islam" POSITION="left" ID="ID_86003465" CREATED="1635979712527" MODIFIED="1635979743146" LINK="#ID_875986669"/>
 <node TEXT="talking to ISIS" POSITION="left" ID="ID_527182611" CREATED="1648508292583" MODIFIED="1648508318064" LINK="#ID_1453642575"/>
-<node TEXT="rajulkahf&apos;s suicide" POSITION="left" ID="ID_1683205997" CREATED="1648618322960" MODIFIED="1648618333099"/>
+<node TEXT="rajulkahf&apos;s suicide" POSITION="left" ID="ID_1683205997" CREATED="1648618322960" MODIFIED="1648686014699" LINK="#ID_1683205997"/>
 </node>
 </map>
