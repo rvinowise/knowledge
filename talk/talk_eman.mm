@@ -557,6 +557,53 @@
 </node>
 <node TEXT="only during dawa for westerners do muslims say &quot;islam encourages questioning&quot;" ID="ID_650929072" CREATED="1634928856824" MODIFIED="1634928904828"/>
 </node>
+<node TEXT="you avoid talking to stronger speakers from atheists" LOCALIZED_STYLE_REF="default" ID="ID_171880035" CREATED="1648859195765" MODIFIED="1648865539331" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node ID="ID_1821381545" CREATED="1648865513224" MODIFIED="1648869095435"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      because you're afraid they can trick and <b>mislead</b>&nbsp;you out of islam
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1634510863" CREATED="1648860886147" MODIFIED="1648869082875"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      but you don't avoid listening to islamic <b>strong apologists</b>.
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_575584141" CREATED="1648865503921" MODIFIED="1648869088564"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      how do you know that they are not <b>tricking you</b>&nbsp;into believing in islam
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="doubts" LOCALIZED_STYLE_REF="default" ID="ID_1510954548" CREATED="1631873561500" MODIFIED="1634986253203" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
@@ -823,7 +870,7 @@
 </node>
 <node TEXT="slavery" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_165825678" CREATED="1631874408321" MODIFIED="1634921235616" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
-<node LOCALIZED_STYLE_REF="default" ID="ID_11148817" CREATED="1631874421877" MODIFIED="1632839360234">
+<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_11148817" CREATED="1631874421877" MODIFIED="1632839360234">
 <icon BUILTIN="quote@b"/>
 <richcontent TYPE="NODE">
 
@@ -1566,166 +1613,6 @@
 </node>
 <node TEXT="people" POSITION="right" ID="ID_1309264554" CREATED="1648618360871" MODIFIED="1648618650383" COLOR="#7f7f7f">
 <font BOLD="true"/>
-<node TEXT="jihadists" STYLE_REF="topic" FOLDED="true" ID="ID_1402548785" CREATED="1631880732346" MODIFIED="1631880736860">
-<node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_968697060" CREATED="1631880738943" MODIFIED="1634630057284" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="emoji-2B1B"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      do you remember <b>Am Al</b>?
-    </p>
-  </body>
-</html>
-</richcontent>
-<node LOCALIZED_STYLE_REF="default" ID="ID_386582836" CREATED="1631880760655" MODIFIED="1632839982584"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      that crazy girl who <b>accused me</b>&nbsp;of <b>hacking </b>her and was sending messages to everyone in the English Classroom
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1239054871" CREATED="1631880831816" MODIFIED="1631883025249"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>slandered </b>me because of my talks about islam
-    </p>
-  </body>
-</html>
-</richcontent>
-<node LOCALIZED_STYLE_REF="default" ID="ID_121971223" CREATED="1631882498115" MODIFIED="1632839984969"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      said: she wanted me to become <b>alone</b>&nbsp;and discover god
-    </p>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_983643766" CREATED="1631882550109" MODIFIED="1631882723363"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      probably a <b>lie</b>, there's no connection, she just wanted to <b>get rid </b>of an opponent
-    </p>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_1392748238" CREATED="1631882614143" MODIFIED="1631882650037"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      as <b>dumb </b>as jihadists always are, nobody even believed her
-    </p>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_305118143" CREATED="1631882659309" MODIFIED="1631882700217"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>stabbing</b>&nbsp;critics in the streets is their level of intelligence
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-</node>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1629976781" CREATED="1631882755691" MODIFIED="1631887100788"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      she even said &quot;<b>sorry</b>&quot; because it didn't work out
-    </p>
-  </body>
-</html>
-</richcontent>
-<node ID="ID_643485632" CREATED="1631882778338" MODIFIED="1631887110821"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      but she still <b>threatens</b>&nbsp;me
-    </p>
-  </body>
-</html>
-</richcontent>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1388751172" CREATED="1631887162021" MODIFIED="1632140849886"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      texted: don't make me <b>commit things</b>&nbsp;i don't want to
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1324418154" CREATED="1632141758968" MODIFIED="1634889801871" LINK="religion/social%20impact%20of%20religion.mm#ID_488677628" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      do you accept that critics of islam receive the biggest amount of <b>death threats</b>&nbsp;and bullying?
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
 <node TEXT="apologists" STYLE_REF="topic" ID="ID_1910763882" CREATED="1631893871797" MODIFIED="1631893877006">
 <node LOCALIZED_STYLE_REF="default" ID="ID_1037477142" CREATED="1631903485920" MODIFIED="1632840227920" BACKGROUND_COLOR="#ffffec">
 <icon BUILTIN="question@b"/>
@@ -3409,6 +3296,7 @@
 </node>
 </node>
 <node TEXT="we all have them, and they are bad most of the times" ID="ID_1015293584" CREATED="1648690491862" MODIFIED="1648690552818">
+<node TEXT="i admit having biases, and i understand that they are bad" ID="ID_1173731903" CREATED="1648690557609" MODIFIED="1648690960494">
 <node ID="ID_1890434830" CREATED="1648690417608" MODIFIED="1648690489093"><richcontent TYPE="NODE">
 
 <html>
@@ -3424,7 +3312,6 @@
 
 </richcontent>
 </node>
-<node TEXT="i admit having biases, and i understand that they are bad" ID="ID_1173731903" CREATED="1648690557609" MODIFIED="1648690960494">
 <node ID="ID_302125615" CREATED="1648690584244" MODIFIED="1648690663437"><richcontent TYPE="NODE">
 
 <html>
@@ -3481,20 +3368,6 @@
 <node TEXT="bookmarks: done" LOCALIZED_STYLE_REF="default" ID="ID_1334217373" CREATED="1632064659870" MODIFIED="1634630010005" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-2B1B"/>
 <node TEXT="it&apos;s a test" ID="ID_259712457" CREATED="1634432509387" MODIFIED="1634432509396" LINK="#ID_1126174628"/>
-<node ID="ID_1990896752" CREATED="1634432555137" MODIFIED="1634432555239" LINK="#ID_968697060"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      do you remember <b>Am Al</b>?
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
 <node ID="ID_567094084" CREATED="1634432579252" MODIFIED="1634432579272" LINK="#ID_976850010"><richcontent TYPE="NODE">
 
 <html>
@@ -3653,12 +3526,15 @@
 </node>
 </node>
 </node>
-<node TEXT="without doubts there&apos;s no truth" POSITION="left" ID="ID_1314694133" CREATED="1634929180711" MODIFIED="1634929798548" LINK="#ID_1084096476"/>
-<node TEXT="i&apos;m not a predator" POSITION="left" ID="ID_1639189142" CREATED="1634929430903" MODIFIED="1634929577154" LINK="#ID_835707450"/>
-<node TEXT="mohammed hijab is bad" POSITION="left" ID="ID_1437592516" CREATED="1634986606901" MODIFIED="1634986623806" LINK="#ID_612131910"/>
-<node TEXT="it&apos;s a test" POSITION="left" ID="ID_1879026349" CREATED="1635035531461" MODIFIED="1635035556247" LINK="#ID_1126174628"/>
-<node TEXT="afeef&apos;s eclectic islam" POSITION="left" ID="ID_86003465" CREATED="1635979712527" MODIFIED="1635979743146" LINK="#ID_875986669"/>
-<node TEXT="talking to ISIS" POSITION="left" ID="ID_527182611" CREATED="1648508292583" MODIFIED="1648508318064" LINK="#ID_1453642575"/>
-<node TEXT="rajulkahf&apos;s suicide" POSITION="left" ID="ID_1683205997" CREATED="1648618322960" MODIFIED="1648686014699" LINK="#ID_1683205997"/>
+<node TEXT="current" POSITION="left" ID="ID_1809165611" CREATED="1649045541244" MODIFIED="1649045546199">
+<node TEXT="where did you disappear?" ID="ID_1059123150" CREATED="1648857876513" MODIFIED="1648869053221" LINK="#ID_171880035"/>
+<node TEXT="talking to ISIS" ID="ID_527182611" CREATED="1648508292583" MODIFIED="1648508318064" LINK="#ID_1453642575"/>
+<node TEXT="rajulkahf&apos;s suicide" ID="ID_1683205997" CREATED="1648618322960" MODIFIED="1648686014699" LINK="#ID_1683205997"/>
+<node TEXT="without doubts there&apos;s no truth" ID="ID_1314694133" CREATED="1634929180711" MODIFIED="1634929798548" LINK="#ID_1084096476"/>
+<node TEXT="i&apos;m not a predator" ID="ID_1639189142" CREATED="1634929430903" MODIFIED="1634929577154" LINK="#ID_835707450"/>
+<node TEXT="mohammed hijab is bad" ID="ID_1437592516" CREATED="1634986606901" MODIFIED="1634986623806" LINK="#ID_612131910"/>
+<node TEXT="it&apos;s a test" ID="ID_1879026349" CREATED="1635035531461" MODIFIED="1635035556247" LINK="#ID_1126174628"/>
+<node TEXT="afeef&apos;s eclectic islam" ID="ID_86003465" CREATED="1635979712527" MODIFIED="1635979743146" LINK="#ID_875986669"/>
+</node>
 </node>
 </map>

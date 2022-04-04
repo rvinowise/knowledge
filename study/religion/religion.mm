@@ -155,6 +155,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="prohibitions" ID="ID_346116388" CREATED="1642831713520" MODIFIED="1642831749917" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/prohibitions.mm"/>
+<node TEXT="amusing" ID="ID_923920362" CREATED="1648883925075" MODIFIED="1648883943517" LINK="file:/C:/knowledge/study/religion/islam/amusing.mm"/>
 </node>
 <node TEXT="christianity" ID="ID_840596349" CREATED="1634263757943" MODIFIED="1636643399547" LINK="christianity/christianity.mm" COLOR="#000000">
 <icon BUILTIN="present@b"/>
