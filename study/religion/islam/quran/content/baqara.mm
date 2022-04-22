@@ -11,7 +11,7 @@
 <node TEXT="surah baqara" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1647377073656" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.089">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -597,7 +597,10 @@
 <node TEXT="such paupers don&apos;t look poor (to a stupid observer), because of not begging" ID="ID_1093794781" CREATED="1643925861546" MODIFIED="1643925917869" LINK="#ID_1210993131"/>
 </node>
 </node>
+<node TEXT="give loans to allah" ID="ID_1599066170" CREATED="1649720315228" MODIFIED="1649720323785" LINK="https://quran.com/2?startingVerse=245">
 <node TEXT="spend money for god" ID="ID_1627152493" CREATED="1643834022916" MODIFIED="1643834049907" LINK="https://quran.com/2:254?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
+<node TEXT="was ridiculed by jews, and responce was revaled in 3:181" ID="ID_1127232670" CREATED="1649720326484" MODIFIED="1649720546152" LINK="3imrAn.mm#ID_1657871204"/>
+</node>
 <node TEXT="don&apos;t give low quality possessions as a charity" ID="ID_1406082727" CREATED="1643916963013" MODIFIED="1643917039428" LINK="https://quran.com/2:267?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
 <node ID="ID_803082953" CREATED="1643845304856" MODIFIED="1643923819035" LINK="https://quran.com/2:262?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"><richcontent TYPE="NODE">
 
@@ -1143,14 +1146,14 @@
 </node>
 </node>
 </node>
-<node TEXT="don&apos;t blindly follow what your forefathers followed" ID="ID_1442985011" CREATED="1643669795764" MODIFIED="1643669826619" LINK="https://quran.com/2:170?font=v1&amp;translations=149%2C171%2C167%2C95%2C20">
+<node TEXT="don&apos;t blindly follow what your forefathers followed" FOLDED="true" ID="ID_1442985011" CREATED="1643669795764" MODIFIED="1643669826619" LINK="https://quran.com/2:170?font=v1&amp;translations=149%2C171%2C167%2C95%2C20">
 <node TEXT="what if they didn&apos;t research themselves?" ID="ID_1301844896" CREATED="1643669827643" MODIFIED="1643669863179"/>
 <node TEXT="irony" LOCALIZED_STYLE_REF="default" ID="ID_131012968" CREATED="1643669864040" MODIFIED="1643829463590" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="control/hashtag"/>
-</node>
 <node TEXT="saying that you practice a cult because your ancestors did - is a dumb argument" ID="ID_854944312" CREATED="1643669927648" MODIFIED="1643669973495">
 <node TEXT="  Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1750095975" CREATED="1643669932718" MODIFIED="1643669937118">
 <icon BUILTIN="emoji-26F2"/>
+</node>
 </node>
 </node>
 </node>

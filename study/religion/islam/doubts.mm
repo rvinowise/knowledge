@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="doubts about islam" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1634204371801"><hook NAME="MapStyle" zoom="1.129">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -247,15 +247,15 @@
 <icon BUILTIN="bad@bleak"/>
 <node TEXT="it&apos;s like ignoring an itch" ID="ID_1590482357" CREATED="1634234865101" MODIFIED="1634234879339"/>
 </node>
-<node TEXT="" ID="ID_1537521871" CREATED="1635025029342" MODIFIED="1635025033846">
-<icon BUILTIN="emoji-26F2"/>
 <node TEXT="then he should repel them and not pay any attention to them" ID="ID_1334483427" CREATED="1635001133191" MODIFIED="1635039181733" LINK="https://www.islamweb.net/en/fatwa/376606/doubting-matters-in-islam">
 <icon BUILTIN="quote@b"/>
 <font ITALIC="true"/>
 </node>
+<node TEXT="doubts about islam in particular" ID="ID_1495790869" CREATED="1650582923276" MODIFIED="1650582949839">
 <node TEXT="and avoid these doubts, ignore them, repel them, and not pay any attention to them." ID="ID_920056254" CREATED="1635007008972" MODIFIED="1635039170833" LINK="https://www.islamweb.net/en/fatwa/356170/having-doubts-about-islam">
 <icon BUILTIN="quote@b"/>
 <font ITALIC="true"/>
+</node>
 </node>
 <node TEXT="seek refuge in Allaah and totally ignore them." ID="ID_135866866" CREATED="1635025061983" MODIFIED="1635039194070" LINK="https://www.islamweb.net/en/fatwa/260875/how-to-discard-satanic-whisperings-associated-with-ones-faith">
 <icon BUILTIN="quote@b"/>
@@ -269,6 +269,9 @@
 <icon BUILTIN="quote@b"/>
 <font ITALIC="true"/>
 </node>
+<node TEXT="You need to ignore these doubts and illusions" ID="ID_1760136450" CREATED="1650580490702" MODIFIED="1650580523354" LINK="#ID_1776013735">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
 </node>
 </node>
 <node ID="ID_1476537250" CREATED="1634976898210" MODIFIED="1634976961324"><richcontent TYPE="NODE">
@@ -403,6 +406,16 @@
 </node>
 </node>
 </node>
+<node TEXT="can develop into real doubts" ID="ID_90843549" CREATED="1650583376793" MODIFIED="1650583445477" LINK="https://www.islamweb.net/en/fatwa/343858/difference-between-doubts-and-satanic-whispers-regarding-islam">
+<node TEXT="if you dwell on them and don&apos;t ignore them" ID="ID_1259537555" CREATED="1650583390177" MODIFIED="1650583400905">
+<node TEXT="then you will become a disbeliever" ID="ID_1319074792" CREATED="1650583423378" MODIFIED="1650583430828">
+<node TEXT="Satanic whispers may develop into doubts if they take root in the heart and the person dwells on them, accepts them, and becomes content with them" ID="ID_901311013" CREATED="1650583435955" MODIFIED="1650583439562">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="real_doubts" ID="ID_840631438" CREATED="1635006274346" MODIFIED="1635006513126">
 <icon BUILTIN="control/type_of_parent"/>
@@ -502,6 +515,10 @@
 </node>
 </node>
 </node>
+</node>
+<node TEXT="my summary messages" POSITION="right" ID="ID_1253449984" CREATED="1650588792931" MODIFIED="1650588822252">
+<icon BUILTIN="control/comment"/>
+<node TEXT="to eman" ID="ID_923523758" CREATED="1650588805947" MODIFIED="1650588814830" LINK="https://t.me/c/1441338363/37660"/>
 </node>
 </node>
 </map>

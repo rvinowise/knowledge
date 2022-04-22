@@ -11,7 +11,7 @@
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -121,6 +121,7 @@
 <node TEXT="content" ID="ID_27619976" CREATED="1643134444653" MODIFIED="1643134450296" LINK="islam/quran/content/">
 <node TEXT="baqara.mm" ID="ID_1906622807" CREATED="1648617731460" MODIFIED="1648617731461" LINK="islam/quran/content/baqara.mm"/>
 <node TEXT="3imrAn.mm" ID="ID_638735691" CREATED="1648617729277" MODIFIED="1648617729278" LINK="islam/quran/content/3imrAn.mm"/>
+<node TEXT="nisA2" ID="ID_907269167" CREATED="1649980090295" MODIFIED="1649980126851" LINK="file:/C:/knowledge/study/religion/islam/quran/content/nisA2.mm"/>
 <node TEXT="quranic style" ID="ID_693315472" CREATED="1644485868771" MODIFIED="1644485879015" LINK="file:/C:/knowledge/study/religion/islam/quran/content/quranic%20style.mm"/>
 </node>
 <node TEXT="" ID="ID_1553189759" CREATED="1645928928419" MODIFIED="1645928928419"/>
@@ -154,7 +155,7 @@
 <node TEXT="humiliating jizyah" ID="ID_1164451940" CREATED="1637890291821" MODIFIED="1641760877570" LINK="islam/humiliating%20jizyah.mm">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="prohibitions" ID="ID_346116388" CREATED="1642831713520" MODIFIED="1642831749917" LINK="file:/D:/archive/cloud_storages/knowledge/study/religion/islam/prohibitions.mm"/>
+<node TEXT="prohibitions" ID="ID_346116388" CREATED="1642831713520" MODIFIED="1649893568890" LINK="islam/prohibitions.mm"/>
 <node TEXT="amusing" ID="ID_923920362" CREATED="1648883925075" MODIFIED="1648883943517" LINK="file:/C:/knowledge/study/religion/islam/amusing.mm"/>
 </node>
 <node TEXT="christianity" ID="ID_840596349" CREATED="1634263757943" MODIFIED="1636643399547" LINK="christianity/christianity.mm" COLOR="#000000">
