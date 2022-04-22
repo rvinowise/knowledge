@@ -11,7 +11,7 @@
 <node TEXT="bubble preservation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1640520737070" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -266,6 +266,12 @@
 <icon BUILTIN="quote@b"/>
 <font ITALIC="true"/>
 </node>
+</node>
+</node>
+<node TEXT="doubting veracity of islam is prohibited" ID="ID_1009720059" CREATED="1650455844693" MODIFIED="1650455858032">
+<node TEXT="takes you out of the fold of islam" ID="ID_1998874711" CREATED="1650455858877" MODIFIED="1650455870556" LINK="https://www.islamweb.net/en/fatwa/90226/doubts-in-islam"/>
+<node TEXT="doubting god is prohibited" ID="ID_1557356095" CREATED="1650455892637" MODIFIED="1650455935773">
+<node TEXT="it&apos;s a dicease" ID="ID_1931381271" CREATED="1650455911688" MODIFIED="1650455917605" LINK="https://www.islamweb.net/en/fatwa/85823/"/>
 </node>
 </node>
 </node>
