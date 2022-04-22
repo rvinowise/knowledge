@@ -11,7 +11,7 @@
 <node TEXT="islamic family" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1638746711956" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -150,6 +150,37 @@
 <node TEXT="woman was &quot;married&quot; to a random man" ID="ID_1524559577" CREATED="1633688749300" MODIFIED="1638747748886" LINK="islamic%20sex.mm#ID_1524559577"/>
 </node>
 <node TEXT="followers of dajjal will be mostly women" ID="ID_839389231" CREATED="1647698280289" MODIFIED="1647698301412" LINK="https://www.youtube.com/watch?v=66kT9MHxK8Y&amp;ab_channel=iLovUAllah%E2%84%A2"/>
+</node>
+<node TEXT="words in islamic propaganda don&apos;t mean what they seem to mean" POSITION="right" ID="ID_1249143274" CREATED="1650327654523" MODIFIED="1650327684394">
+<node TEXT="rape" ID="ID_1551735079" CREATED="1650327684960" MODIFIED="1650327687097">
+<node TEXT="it doesn&apos;t mean &quot;forced sex&quot;" ID="ID_1465853608" CREATED="1650328551965" MODIFIED="1650328561937">
+<node TEXT="because forced sex with a wife is not &quot;rape&quot;" ID="ID_946672538" CREATED="1650328562103" MODIFIED="1650328574393"/>
+<node TEXT="it means having sex with somebody who is not allowed, even if both consent" ID="ID_1327466253" CREATED="1650328574784" MODIFIED="1650328597127"/>
+</node>
+</node>
+<node TEXT="protection" ID="ID_959489570" CREATED="1650327687548" MODIFIED="1650327691223">
+<node TEXT="&quot;protected&quot; woman is not benefitting from that protection" ID="ID_1684841130" CREATED="1650327691868" MODIFIED="1650327720394">
+<node TEXT="just like my protected jewel (an object)" ID="ID_1796951450" CREATED="1650327720646" MODIFIED="1650327751359"/>
+<node ID="ID_1732120561" CREATED="1650328449871" MODIFIED="1650328656848" LINK="https://quran.com/4?startingVerse=25"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      the punishment for cheating for a free woman is bigger than for a slave, because the former <i>violates</i>&nbsp;double &quot;protection&quot;
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1761623260" CREATED="1650328496935" MODIFIED="1650328515077">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 </map>

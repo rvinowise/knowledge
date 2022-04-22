@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="different qurans" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633485734194"><hook NAME="MapStyle" zoom="1.1">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -537,7 +537,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -581,15 +580,6 @@
 <node TEXT="instead of being transmitted (tawAtur)" ID="ID_1265923885" CREATED="1633911130364" MODIFIED="1633911304053"/>
 </node>
 </node>
-</node>
-<node TEXT="i only talk using Your islamic narrative" ID="ID_1663642496" CREATED="1633553613864" MODIFIED="1633557717148" COLOR="#000000" BACKGROUND_COLOR="#ffe4e6">
-<node TEXT="there are other (atheist) sources, which destroys islam differently" ID="ID_1712850517" CREATED="1633553639413" MODIFIED="1633553665282">
-<node TEXT="but you don&apos;t believe in them" ID="ID_357674771" CREATED="1633553666477" MODIFIED="1633553745176"/>
-<node TEXT="e.g. some say that many parts of quran were lost when huffaz died in wars" ID="ID_1239560255" CREATED="1633558235328" MODIFIED="1633558290205">
-<node TEXT="i didn&apos;t find this in islamic sources, so, i don&apos;t bring it up" ID="ID_70548524" CREATED="1633558293340" MODIFIED="1633558310529"/>
-</node>
-</node>
-<node TEXT="i&apos;m trying to understand what You believe in" ID="ID_1837983579" CREATED="1633553685888" MODIFIED="1633553696157"/>
 </node>
 </node>
 <node TEXT="arabic symbols" POSITION="right" ID="ID_16853980" CREATED="1633487586037" MODIFIED="1633564318469" COLOR="#7f7f7f">
@@ -664,7 +654,7 @@
 </node>
 </node>
 <node TEXT="styles" POSITION="right" ID="ID_1772029659" CREATED="1648044607618" MODIFIED="1648044607634">
-<node TEXT="6" OBJECT="org.freeplane.features.format.FormattedNumber|6" ID="ID_125117644" CREATED="1648044607634" MODIFIED="1648044607646"/>
+<node TEXT="6" OBJECT="java.lang.Integer|6" ID="ID_125117644" CREATED="1648044607634" MODIFIED="1648044607646"/>
 </node>
 </node>
 </map>

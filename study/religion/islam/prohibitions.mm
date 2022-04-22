@@ -8,10 +8,10 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="prohibitions" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1642831750208" COLOR="#ffffff">
+<node TEXT="stupid rules" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649893594905" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -129,19 +129,30 @@
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="silverware" POSITION="right" ID="ID_217931698" CREATED="1642831750222" MODIFIED="1642831867004" LINK="https://www.islamweb.net/en/fatwa/85181/using-silver-utensils-of-any-kind">
+<node TEXT="   prohibitions" POSITION="right" ID="ID_971889156" CREATED="1649893582255" MODIFIED="1649893590097">
+<node TEXT="silverware" ID="ID_217931698" CREATED="1642831750222" MODIFIED="1642831867004" LINK="https://www.islamweb.net/en/fatwa/85181/using-silver-utensils-of-any-kind">
 <node TEXT="silver spoons, plates etc." ID="ID_1015372069" CREATED="1642831757038" MODIFIED="1642831767882"/>
 <node TEXT="" ID="ID_1196539334" CREATED="1642832771124" MODIFIED="1642832777663" LINK="https://aboutislam.net/counseling/ask-the-scholar/food-slaughter/is-eating-from-vessels-made-of-gold-and-silver-permissible/">
 <icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
-<node TEXT="musical instruments" POSITION="right" ID="ID_973038374" CREATED="1642831776658" MODIFIED="1642831784999">
+<node TEXT="musical instruments" ID="ID_973038374" CREATED="1642831776658" MODIFIED="1642831784999">
 <node TEXT="including drums" ID="ID_494940976" CREATED="1642831785773" MODIFIED="1642831799814" LINK="https://www.islamweb.net/en/fatwa/85181/using-silver-utensils-of-any-kind">
 <node TEXT="like a drum (a musical instrument)" ID="ID_48393752" CREATED="1642831800233" MODIFIED="1642831816358">
 <icon BUILTIN="quote@b"/>
 <font ITALIC="true"/>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="purity" POSITION="right" ID="ID_857868517" CREATED="1649893620236" MODIFIED="1649893624272">
+<node TEXT="droplet of wine drains a well" ID="ID_528828962" CREATED="1649893597100" MODIFIED="1649893649796" LINK="https://www.al-islam.org/greater-sins-volume-1-sayyid-abdul-husayn-dastghaib-shirazi/thirteenth-greater-sin-drinking-liquor">
+<node TEXT="Even if a drop of wine falls into a well full of water it does not become Halal. Rather the whole well has to be emptied" ID="ID_1855768319" CREATED="1649893664100" MODIFIED="1649893667795">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+</node>
+<node TEXT="wine is dirtier than shit" ID="ID_573434527" CREATED="1649893631149" MODIFIED="1649893642705"/>
 </node>
 </node>
 </map>
