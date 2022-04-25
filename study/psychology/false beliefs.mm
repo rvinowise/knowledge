@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -234,6 +234,10 @@
 <font ITALIC="true"/>
 </node>
 </node>
+</node>
+<node TEXT="" POSITION="right" ID="ID_1926370117" CREATED="1650771003729" MODIFIED="1650771007405">
+<icon BUILTIN="emoji-26F2"/>
+<node TEXT="a long article about beliefs" ID="ID_1470383779" CREATED="1650771008620" MODIFIED="1650771020140" LINK="https://www.researchgate.net/publication/281593485_Assessing_the_psychological_correlates_of_belief_strength_Contributing_factors_and_role_in_behavior"/>
 </node>
 </node>
 </map>
