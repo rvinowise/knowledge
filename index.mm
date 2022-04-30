@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -167,9 +167,6 @@
 <node TEXT="languages" ID="ID_240520434" CREATED="1635246372876" MODIFIED="1640897915980" LINK="languages/languages.mm">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="attention schema theory.mm" ID="ID_1274837309" CREATED="1633368586381" MODIFIED="1635882118961" LINK="study/attention%20schema%20theory.mm">
-<font NAME="Tahoma"/>
-</node>
 <node TEXT="interesting courses" ID="ID_808344822" CREATED="1633724536734" MODIFIED="1635773283868">
 <font NAME="Tahoma"/>
 <node TEXT="Evolution, Ecology and Behavior with Stephen C. Stearns (yale)" ID="ID_35004263" CREATED="1633724558647" MODIFIED="1635773283868" LINK="https://www.youtube.com/playlist?list=PL6299F3195349CCDA" COLOR="#00aa00">
@@ -197,6 +194,11 @@
 <node TEXT="psychology" ID="ID_1670482440" CREATED="1636701716052" MODIFIED="1636701733554" LINK="study/psychology/">
 <node TEXT="false beliefs" ID="ID_656203581" CREATED="1636701737235" MODIFIED="1636701750184" LINK="study/psychology/false%20beliefs.mm"/>
 <node TEXT="hypnosis" ID="ID_1124660689" CREATED="1640153283825" MODIFIED="1640153297254" LINK="study/psychology/hypnosis.mm"/>
+<node TEXT="consciousness" ID="ID_1723662688" CREATED="1649580431018" MODIFIED="1649580452444" LINK="study/psychology/consciousness/">
+<node TEXT="overview" ID="ID_1933737082" CREATED="1649580455323" MODIFIED="1649580568618" LINK="file:/C:/knowledge/study/psychology/consciousness/overview.mm"/>
+<node TEXT="attention schema theory.mm" ID="ID_961341553" CREATED="1649580538101" MODIFIED="1649580538102" LINK="study/psychology/consciousness/attention%20schema%20theory.mm"/>
+<node TEXT="integrated information theory" ID="ID_564923483" CREATED="1649580548611" MODIFIED="1649580560332" LINK="file:/C:/knowledge/study/psychology/consciousness/integrated%20information%20theory.mm"/>
+</node>
 </node>
 <node TEXT="health" ID="ID_1563290764" CREATED="1638643041408" MODIFIED="1638643058757" LINK="study/health/">
 <node TEXT="glycation end products" ID="ID_226375567" CREATED="1638643060165" MODIFIED="1638643090310" LINK="study/health/glycation%20end%20products.mm"/>
@@ -236,6 +238,9 @@
 <node TEXT="violin" ID="ID_1848283519" CREATED="1634123313790" MODIFIED="1640828028748" LINK="videos/violin.mm">
 <font NAME="Tahoma"/>
 </node>
+</node>
+<node TEXT="gardening" ID="ID_663806832" CREATED="1649596485445" MODIFIED="1649596485449" LINK="../../M:/gardening/">
+<node TEXT="shops.mm" ID="ID_523593267" CREATED="1649596499336" MODIFIED="1649596499336" LINK="../../M:/gardening/shops/shops.mm"/>
 </node>
 </node>
 <node TEXT="talk" POSITION="right" ID="ID_1523271788" CREATED="1633368448993" MODIFIED="1636490920215" LINK="talk/" COLOR="#7f7f7f">
@@ -280,7 +285,9 @@
 <node TEXT="demonstrations" ID="ID_56337084" CREATED="1647079189531" MODIFIED="1647079206205" LINK="notes/demonstrations/">
 <node TEXT="antiwar" ID="ID_373804382" CREATED="1647079208591" MODIFIED="1647079215097" LINK="file:/C:/knowledge/notes/demonstrations/antiwar.mm"/>
 </node>
-<node TEXT="diary" ID="ID_510659810" CREATED="1650934069459" MODIFIED="1650934176773" LINK="file:/C:/knowledge/notes/diary.mm"/>
+<node TEXT="music" ID="ID_1224476505" CREATED="1650208364642" MODIFIED="1650208369315" LINK="notes/music/">
+<node TEXT="shops" ID="ID_1781800957" CREATED="1650208370574" MODIFIED="1650208376880" LINK="file:/C:/knowledge/notes/music/shops.mm"/>
+</node>
 </node>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>

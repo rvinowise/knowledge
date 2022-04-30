@@ -1,5 +1,5 @@
 <map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="poetry" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1632342482072"><hook NAME="MapStyle" zoom="1.209">
+<node TEXT="poetry" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1632342482072"><hook NAME="MapStyle" zoom="0.908">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -619,8 +619,7 @@
       sorrow
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="uzn" ID="ID_1917239038" CREATED="1632699311326" MODIFIED="1632699316999"/>
 <node TEXT="أَحْزَان‎" ID="ID_22264381" CREATED="1632699329274" MODIFIED="1632922398325">
 <icon BUILTIN="punctuation/three_dots@b"/>

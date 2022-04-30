@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="doubts about islam" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1634204371801"><hook NAME="MapStyle" zoom="1.129">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -516,9 +516,12 @@
 </node>
 </node>
 </node>
-<node TEXT="my summary messages" POSITION="right" ID="ID_1253449984" CREATED="1650588792931" MODIFIED="1650588822252">
+<node TEXT="notes" POSITION="right" ID="ID_1294553770" CREATED="1650770618429" MODIFIED="1650770625418">
 <icon BUILTIN="control/comment"/>
+<node TEXT="my summary messages" LOCALIZED_STYLE_REF="default" ID="ID_1253449984" CREATED="1650588792931" MODIFIED="1650770627401" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="to eman" ID="ID_923523758" CREATED="1650588805947" MODIFIED="1650588814830" LINK="https://t.me/c/1441338363/37660"/>
+</node>
+<node TEXT="" ID="ID_904820342" CREATED="1650770623379" MODIFIED="1650770623379"/>
 </node>
 </node>
 </map>

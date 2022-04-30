@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="eman" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1632037036544"><hook NAME="MapStyle" zoom="0.818">
+<node TEXT="eman" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1632037036544"><hook NAME="MapStyle" zoom="0.99">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -283,161 +283,6 @@
 </node>
 </node>
 </node>
-<node ID="ID_1453642575" CREATED="1648508246012" MODIFIED="1648508384878">
-<icon BUILTIN="quote@b"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      will you let your child <b>talk to ISIS</b>?
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<font ITALIC="true"/>
-<node TEXT="i&apos;m not sure" ID="ID_889727603" CREATED="1648508607258" MODIFIED="1648508609987">
-<node STYLE_REF="list item" ID="ID_1576476911" CREATED="1648508390078" MODIFIED="1648508716423"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      i will not like my child to talk to ISIS, because i impose my <b>biasses</b>&nbsp;&nbsp;on my child (i'm biassed against ISIS)
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node TEXT="i will let my children listen for equal amount of time to all the sides (ISIS, mine and yours), and ask them to do the same with their children" STYLE_REF="list item" ID="ID_1573718534" CREATED="1648511967678" MODIFIED="1648512004116"/>
-</node>
-<node TEXT="ISIS leaders are sure they are right, just like my leaders are sure they are right" ID="ID_1804757053" CREATED="1648508277244" MODIFIED="1648508374365">
-<node TEXT="so, from the perspective of my child, how do they find out the truth?" ID="ID_1519475459" CREATED="1648508722102" MODIFIED="1648508808880">
-<node TEXT="you&apos;re fine with my children not talking to ISIS, but what about me prohibiting them from talking to your correct sunni inviters into islam?" ID="ID_411256886" CREATED="1648512086986" MODIFIED="1648512160607">
-<node TEXT="are you saying that i shouldn&apos;t let my children talk to ISIS, but i should let them talk to your dawa-people?" ID="ID_107190292" CREATED="1648512161650" MODIFIED="1648512201792"/>
-</node>
-</node>
-</node>
-<node ID="ID_1310907687" CREATED="1648508810461" MODIFIED="1648510953798"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      the problem is that <b>ISIS parents</b>&nbsp;Also don't want their children to listen to us
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<node ID="ID_160439095" CREATED="1648508870506" MODIFIED="1648510483095"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      so, how do we show to&nbsp;those <b>ISIS children</b>, that ISIS is wrong, and they have been fooled?
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<node ID="ID_1592736904" CREATED="1648509097878" MODIFIED="1648509175865"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      if we adopt the <b>isolationist preservation&nbsp;</b>strategy?
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node ID="ID_1231018665" CREATED="1648509320277" MODIFIED="1648510252332"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      my strategy is the opposite: we promote the <b>open dialogue</b>: my children listen to ISIS, and ISIS shildren listen to me
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<node ID="ID_988538526" CREATED="1648510014776" MODIFIED="1648510240870"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      and as a result of that, <b>all people </b>will adopt the true worldview
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="maybe it is ISIS&apos;s worldview, maybe yours, maybe mine" ID="ID_1296868528" CREATED="1648510066817" MODIFIED="1648510085244"/>
-</node>
-<node LOCALIZED_STYLE_REF="default" ID="ID_1685617210" CREATED="1648508494892" MODIFIED="1648511727684" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      it's good if everybody's children listen for <b>equal amount</b>&nbsp;of time to all the sides (ISIS, mine and yours)
-    </p>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node ID="ID_1796917422" CREATED="1648509414525" MODIFIED="1648511735913">
-<icon BUILTIN="bad@bleak"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      i will be <b>disturbed</b>&nbsp;when my children listen to ISIS (because of my biass), but this disturbance is bad
-    </p>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="and ISIS parents will feel the same disturbance" ID="ID_833264366" CREATED="1648509475500" MODIFIED="1648511745076">
-<icon BUILTIN="good@bleak"/>
-</node>
-</node>
-<node TEXT="and it&apos;s not only about children: if an ISIS speaker joins this group, he will be the most interesting interlocutor for me." ID="ID_118350158" CREATED="1648510199107" MODIFIED="1648510426432"/>
-</node>
-</node>
-</node>
-</node>
 </node>
 <node TEXT="you can question islam" ID="ID_1084096476" CREATED="1634928175360" MODIFIED="1634928185593">
 <icon BUILTIN="quote@b"/>
@@ -557,8 +402,301 @@
 </node>
 <node TEXT="only during dawa for westerners do muslims say &quot;islam encourages questioning&quot;" ID="ID_650929072" CREATED="1634928856824" MODIFIED="1634928904828"/>
 </node>
-<node TEXT="you avoid talking to stronger speakers from atheists" LOCALIZED_STYLE_REF="default" ID="ID_171880035" CREATED="1648859195765" MODIFIED="1648865539331" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<node ID="ID_1821381545" CREATED="1648865513224" MODIFIED="1648869095435"><richcontent TYPE="NODE">
+<node TEXT="you avoid talking to &quot;stronger&quot; speakers from atheists" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_171880035" CREATED="1648859195765" MODIFIED="1649579804496" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-2B1B"/>
+<node TEXT="why i want to talk to you (instead of professional muslims)?" LOCALIZED_STYLE_REF="default" ID="ID_1992018992" CREATED="1649139467546" MODIFIED="1649164299257" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node TEXT="because i want to mislead you out of islam (looking for easy targets)" ID="ID_630016474" CREATED="1649139865448" MODIFIED="1649164304652">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node TEXT="this is true partially: i don&apos;t believe that i&apos;m &quot;misleading&quot; you out of islam, in contrary, i think i&apos;m trying to &quot;lead&quot; you towards the truth (as i undertand it)" ID="ID_1571214935" CREATED="1649140063531" MODIFIED="1649140147025">
+<node TEXT="do you believe the classical islamic narrative that i (a kafir) know that islam is true, but try to mislead you out of it, because i&apos;m evil? knowing that we both will go to hell if i succeed?" ID="ID_1306845448" CREATED="1649140712551" MODIFIED="1649140798256" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+<node TEXT="do you believe that anybody in this chain (people from whom i took the information) know that islam is true, but want to mislead us all?" ID="ID_1868587282" CREATED="1649141089872" MODIFIED="1649141125126" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+<node TEXT="i don&apos;t believe that such people exist anywhere, apart from nonsensical islamic doctrine, designed to isolate your mind; by suggesting to you that there are evil enemies all around" ID="ID_1779786974" CREATED="1649141125678" MODIFIED="1649141276280">
+<node TEXT="the closest equivalent is satanists" ID="ID_271027853" CREATED="1649144580937" MODIFIED="1649144609023">
+<node TEXT="but even they think it will be better for us to go to hell, and they want to go to hell (e.g. because there&apos;s more freedom)" ID="ID_85771039" CREATED="1649144609191" MODIFIED="1649144757422"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="but it doesn&apos;t matter: i think you&apos;ve been fooled by islamists" ID="ID_1346670217" CREATED="1649238324853" MODIFIED="1649238368106"/>
+</node>
+</node>
+<node TEXT="why don&apos;t you go to &lt;a strong apologist&gt;?" ID="ID_734482121" CREATED="1649140235717" MODIFIED="1649140240195">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node ID="ID_1976089828" CREATED="1649236581323" MODIFIED="1649236638297"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>i don't know</b>&nbsp;why i don't look for talks with professional muslims
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="maybe i don&apos;t want to appear intrusive" ID="ID_1433279661" CREATED="1649236664872" MODIFIED="1649236696789"/>
+<node ID="ID_1847738868" CREATED="1649144045425" MODIFIED="1649144243226"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i like talking to regular (non-professional) muslims, because it's <b>more real</b>. professional muslims will do everything to promote islam by all means
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="even if there are &quot;crazy&quot; stubborn people from both sides, which won&apos;t change their mind;" ID="ID_947658876" CREATED="1649144324979" MODIFIED="1649164440344"/>
+</node>
+<node TEXT="i&apos;m afraid of" LOCALIZED_STYLE_REF="default" ID="ID_1265172857" CREATED="1636442356221" MODIFIED="1636442567377" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="appearing a looser to the public" LOCALIZED_STYLE_REF="default" ID="ID_220456582" CREATED="1636442397955" MODIFIED="1636442541119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="not being a skilfull debater" ID="ID_176940428" CREATED="1636442377025" MODIFIED="1636442387828"/>
+<node TEXT="if it&apos;s a private talk - i&apos;m ok" ID="ID_1765087906" CREATED="1636442603532" MODIFIED="1636442634889">
+<icon BUILTIN="good@bleak"/>
+</node>
+</node>
+<node TEXT="bullying by the cult members" LOCALIZED_STYLE_REF="default" ID="ID_1059064421" CREATED="1636442402780" MODIFIED="1636442541675" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="if it&apos;s a civilised apologist - i&apos;m ok" ID="ID_1394342526" CREATED="1636442621369" MODIFIED="1636442634135">
+<icon BUILTIN="good@bleak"/>
+<node TEXT="hamza tzortzis" ID="ID_1301128729" CREATED="1636442649911" MODIFIED="1636442657221"/>
+<node TEXT="nadir ahmed" ID="ID_967951020" CREATED="1636442657592" MODIFIED="1636442674747"/>
+</node>
+<node TEXT="mo hijab" ID="ID_498844935" CREATED="1636442694264" MODIFIED="1636442698432"/>
+<node TEXT="haqiqatchu" ID="ID_1292266638" CREATED="1636442701486" MODIFIED="1636442707166"/>
+</node>
+</node>
+<node TEXT="i&apos;m NOT afraid of" ID="ID_1225773236" CREATED="1636442427745" MODIFIED="1636442568689">
+<icon BUILTIN="good@bleak"/>
+<node TEXT="losing my &quot;faith&quot; in atheism" LOCALIZED_STYLE_REF="default" ID="ID_261594289" CREATED="1636442436100" MODIFIED="1649164477089" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="i&apos;m sure i&apos;ll stay an atheist" ID="ID_1158752583" CREATED="1636442456462" MODIFIED="1636442502274"/>
+<node TEXT="if i change my mind - it&apos;s Good for me" ID="ID_1162971417" CREATED="1636442480544" MODIFIED="1636442494621"/>
+<node TEXT="mulims are afraid of Losing faith" ID="ID_1255916789" CREATED="1636442504845" MODIFIED="1649164486889">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="this is the key difference" ID="ID_583720432" CREATED="1636442590370" MODIFIED="1636442594980"/>
+</node>
+</node>
+</node>
+</node>
+<node ID="ID_52168323" CREATED="1649140393009" MODIFIED="1649164607512"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i think that some <b>professional apologists </b>are so biased that it makes no sense to talk to them personally
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_830047388" CREATED="1649164501525" MODIFIED="1649164600940"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      some of them are <b>dishonest</b>&nbsp;(mo hijab) some of them are genuinely &quot;<b>crazy</b>&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1330586212" CREATED="1649164549317" MODIFIED="1649164592635"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      it makes more sense to <b>open you eyes </b>on them, rather then engaging with them
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="it doesn&apos;t matter, it&apos;s irrelevant" ID="ID_1515463968" CREATED="1649266905049" MODIFIED="1649266936404">
+<node TEXT="i don&apos;t do anything to you that i wouldn&apos;t do to myself" ID="ID_1387314541" CREATED="1649272498157" MODIFIED="1649272525033">
+<node TEXT="what do you think i will do, if a strongest islamic apologist (e.g. mo hijab) contacts me, and seeks a dialogue, being respectful and friendly (maybe because he&apos;s interested in my perspective, or wants to convert me personally)" ID="ID_848563096" CREATED="1649266936650" MODIFIED="1649273162049" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+<node TEXT="do you think i&apos;ll reprimand him for seeking &quot;easy targets&quot; for conversion into islam? you&apos;re the first person who gave me such an idea, it was unthinkable for me before" ID="ID_1627559616" CREATED="1649273352717" MODIFIED="1649273750586">
+<node TEXT="the biggest abuse of &quot;easy targets&quot; is done by religious indoctrination of children; but i never thought about that regarging adults who can search for information from the best speakers from all sides" ID="ID_991447639" CREATED="1649273382208" MODIFIED="1649273889924"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node ID="ID_1145196522" CREATED="1649396445506" MODIFIED="1649396477214"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i need <b>practicing english</b>&nbsp;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_836284689" CREATED="1649136917710" MODIFIED="1649145176761"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>female islamic </b>defenders are espetially interesting, because islam is a religion from men for men, and women should normally stay home and not stick out.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_661652512" CREATED="1649147469037" MODIFIED="1649150892479"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i <b>was amazed</b>&nbsp;because you not only propagated islam, but also openly engaged into atheistic talks (as i understood it)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="and i was in for a sad disappointment, when you let me know that you&apos;re not going to talk to &quot;stronger&quot; speakers, who can &quot;(by using trickery and sophistry) steal your faith&quot;" ID="ID_1478103974" CREATED="1649147580762" MODIFIED="1649150191443"/>
+</node>
+<node TEXT="i was interested in learning your perspective. i understood that:" FOLDED="true" ID="ID_169077598" CREATED="1649145229346" MODIFIED="1649145254415">
+<node ID="ID_108873913" CREATED="1649145246711" MODIFIED="1649145707965"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      you're very worried about <b>filthy men </b>from whose sexuality you need to be protected by all means
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="you&apos;re afraid of talking to atheists because they can lead (or &quot;mislead&quot;) you out of islam" ID="ID_371124194" CREATED="1649145313451" MODIFIED="1649145356578">
+<node TEXT="this is the most important issue." ID="ID_390149680" CREATED="1649145356875" MODIFIED="1649145362951"/>
+</node>
+</node>
+</node>
+<node ID="ID_644781453" CREATED="1649255019963" MODIFIED="1649255061165"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>we already had </b>interesting and long interactions
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_678907888" CREATED="1649257325765" MODIFIED="1649257543529"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      we could be friends if islam allowed women to befriend men, and muslims to <b>befriend no-muslims </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_431392635" CREATED="1649257622738" MODIFIED="1649265288129"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      since for me these prohibitions don't exist, i'm <b>pursuing</b>&nbsp;this
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_483310104" CREATED="1649255119759" MODIFIED="1649257562869"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      we are <b>nice interlocutors</b>&nbsp;for each other, and the only reason you avoid talking - is information filtering (&quot;mental prison&quot;)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="if you truly searched for the truth" ID="ID_1078212936" CREATED="1649427657242" MODIFIED="1649427673634">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node ID="ID_303849143" CREATED="1649427674569" MODIFIED="1649427790891"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i already <b>make up my mind </b>- i think islam is false
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="we&apos;re not different - you are commanded to strictly  believe that it&apos;s true" ID="ID_396706563" CREATED="1649427798387" MODIFIED="1649427822739"/>
+</node>
+<node ID="ID_1611405607" CREATED="1649427689776" MODIFIED="1649427783060"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i'm searching for the information About the practical <b>implementation of islam</b>, as practiced or believed in by real people, as a cultural phenomenon
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="" ID="ID_1417563277" CREATED="1649427690199" MODIFIED="1649427690199"/>
+</node>
+</node>
+<node TEXT="this is the most important first issue which needs to be addressed" ID="ID_1447358304" CREATED="1649137655690" MODIFIED="1649137676906">
+<node TEXT="at least you openly disclosed this reason: you said our &quot;levels&quot; are different, instead of simply quitting and leaving me completely perplexed" ID="ID_747440671" CREATED="1649137885451" MODIFIED="1649138235511"/>
+</node>
+<node ID="ID_1821381545" CREATED="1648865513224" MODIFIED="1649253807782"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -570,10 +708,8 @@
     </p>
   </body>
 </html>
-
 </richcontent>
-</node>
-<node ID="ID_1634510863" CREATED="1648860886147" MODIFIED="1648869082875"><richcontent TYPE="NODE">
+<node ID="ID_1634510863" CREATED="1648860886147" MODIFIED="1649253962279"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -585,9 +721,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
-<node ID="ID_575584141" CREATED="1648865503921" MODIFIED="1648869088564"><richcontent TYPE="NODE">
+<node ID="ID_575584141" CREATED="1648865503921" MODIFIED="1649253954980" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+<richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -595,12 +732,263 @@
   </head>
   <body>
     <p>
-      how do you know that they are not <b>tricking you</b>&nbsp;into believing in islam
+      how do you know that they are not <b>tricking you</b>&nbsp;into believing in islam?
     </p>
   </body>
 </html>
-
 </richcontent>
+</node>
+</node>
+</node>
+<node ID="ID_1453642575" CREATED="1648508246012" MODIFIED="1649138203204" VGAP_QUANTITY="2 pt">
+<icon BUILTIN="quote@b"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      will you let your child <b>talk to ISIS</b>?
+    </p>
+  </body>
+</html>
+</richcontent>
+<font ITALIC="true"/>
+<node TEXT="i&apos;m not sure" ID="ID_889727603" CREATED="1648508607258" MODIFIED="1649138203202">
+<node STYLE_REF="list item" ID="ID_1576476911" CREATED="1648508390078" MODIFIED="1648508716423"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i will not like my child to talk to ISIS, because i impose my <b>biasses</b>&nbsp;&nbsp;on my child (i'm biassed against ISIS)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="i will let my children listen for equal amount of time to all the sides (ISIS, mine and yours), and ask them to do the same with their children" STYLE_REF="list item" ID="ID_1573718534" CREATED="1648511967678" MODIFIED="1648512004116"/>
+</node>
+<node TEXT="ISIS leaders think they are right, just like my leaders are sure they are right" ID="ID_1804757053" CREATED="1648508277244" MODIFIED="1649138306951">
+<node TEXT="so, from the perspective of my child, how do they find out the truth?" ID="ID_1519475459" CREATED="1648508722102" MODIFIED="1649138517297" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+<node TEXT="you&apos;re fine with my children not talking to ISIS, but what about me prohibiting them from talking to your correct sunni inviters into islam?" ID="ID_411256886" CREATED="1648512086986" MODIFIED="1648512160607">
+<node TEXT="are you saying that i shouldn&apos;t let my children talk to ISIS, but i should let them talk to your dawa-people?" ID="ID_107190292" CREATED="1648512161650" MODIFIED="1648512201792"/>
+</node>
+<node TEXT="simply belive to your father?" LOCALIZED_STYLE_REF="default" ID="ID_1306679379" CREATED="1649138635601" MODIFIED="1649138902701" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="logic/branching"/>
+<node TEXT="but what if it&apos;s an ISIS child?" ID="ID_1849616070" CREATED="1649138906144" MODIFIED="1649139053703" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+</node>
+</node>
+</node>
+<node ID="ID_1628452179" CREATED="1649137184018" MODIFIED="1649137402030"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>my relatives</b>&nbsp;only watch<b>&nbsp;</b>russian TV&nbsp;to get information
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="because putin blocked most alternative sourses" ID="ID_878119459" CREATED="1649137205775" MODIFIED="1649137246106"/>
+<node ID="ID_973150908" CREATED="1649137248664" MODIFIED="1649137414367"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      and they beleive that the war is justified, that russians are <b>freeing ukrainians</b>&nbsp;from nazis and biological weapons
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="it all is laughable for the westernets" ID="ID_1716200108" CREATED="1649137284937" MODIFIED="1649137333050"/>
+</node>
+</node>
+</node>
+<node ID="ID_1310907687" CREATED="1648508810461" MODIFIED="1648510953798"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      the problem is that <b>ISIS parents</b>&nbsp;Also don't want their children to listen to us
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_160439095" CREATED="1648508870506" MODIFIED="1649272734931" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      so, how do we show to&nbsp;those <b>ISIS children</b>, that ISIS is wrong, and they have been fooled (if we adopt the isolationist preservation strategy)?
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1231018665" CREATED="1648509320277" MODIFIED="1649311644030"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      my strategy is the opposite: we promote the <b>open dialogue</b>: my children listen to ISIS, and ISIS shildren listen to me (in the perfect world)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_988538526" CREATED="1648510014776" MODIFIED="1648510240870"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      and as a result of that, <b>all people </b>will adopt the true worldview
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="maybe it is ISIS&apos;s worldview, maybe yours, maybe mine" ID="ID_1296868528" CREATED="1648510066817" MODIFIED="1648510085244"/>
+</node>
+<node LOCALIZED_STYLE_REF="default" ID="ID_1685617210" CREATED="1648508494892" MODIFIED="1648511727684" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      it's good if everybody's children listen for <b>equal amount</b>&nbsp;of time to all the sides (ISIS, mine and yours)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1796917422" CREATED="1648509414525" MODIFIED="1648511735913">
+<icon BUILTIN="bad@bleak"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      i will be <b>disturbed</b>&nbsp;when my children listen to ISIS (because of my biass), but this disturbance is bad
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="and ISIS parents will feel the same disturbance" ID="ID_833264366" CREATED="1648509475500" MODIFIED="1648511745076">
+<icon BUILTIN="good@bleak"/>
+</node>
+</node>
+<node TEXT="and it&apos;s not only about children: if an ISIS speaker joins this group, he will be the most interesting interlocutor for me." ID="ID_118350158" CREATED="1648510199107" MODIFIED="1648510426432"/>
+</node>
+<node TEXT="when you talk to an ISIS child, and she has trouble defending ISIS against you; she will reply to you: &quot;you&apos;re too high level for me&quot; - she will reprimand you for looking for &quot;easy targets&quot;" ID="ID_268433692" CREATED="1649311827390" MODIFIED="1649312814280">
+<node TEXT="what will you respond to such an ISIS child?" ID="ID_1973504067" CREATED="1649325106294" MODIFIED="1649325118303" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+</node>
+<node TEXT="do you think the responce of that ISIS child makes sense? what is the difference between that ISIS child and you?" ID="ID_1087164735" CREATED="1649320994721" MODIFIED="1649321049453" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="question@b"/>
+</node>
+<node TEXT="I: dear ISIS child, if you consider everybody who is arguing successfully against ISIS as &quot;a too high level for you&quot; - and if you only consider opponents who are arguing badly as appropriate opponents - you will never learn that ISIS is false (even if it is false)" ID="ID_388475486" CREATED="1649312814590" MODIFIED="1649325332611"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="double standards" LOCALIZED_STYLE_REF="default" ID="ID_101212212" CREATED="1649586277578" MODIFIED="1649779408480" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="you mentioned several characteristics, which prevent atheists (me) from finding the truth (of islam)" ID="ID_413728298" CREATED="1649586292384" MODIFIED="1649779406663" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-2B1B"/>
+<node TEXT="my problems" ID="ID_1107451439" CREATED="1649591403083" MODIFIED="1649591406878">
+<node TEXT="confirmation bias" STYLE_REF="list item" ID="ID_1786579994" CREATED="1649586971909" MODIFIED="1649587136923">
+<node TEXT="i Assume that islam is wrong before studying it" ID="ID_718548158" CREATED="1649586944540" MODIFIED="1649586964768"/>
+</node>
+<node TEXT="preventing myself from exposure to the opposite view" STYLE_REF="list item" ID="ID_1455992492" CREATED="1649586997748" MODIFIED="1649587137536">
+<node TEXT="" ID="ID_790919269" CREATED="1649591394684" MODIFIED="1649591394684">
+<node TEXT="not going to the high level islamic scholars" ID="ID_1019043267" CREATED="1649587022250" MODIFIED="1649587033908"/>
+<node TEXT="ignoring a russian speaker from islam" ID="ID_133942150" CREATED="1649587035621" MODIFIED="1649587058155"/>
+</node>
+</node>
+</node>
+<node TEXT="but among muslims (including yourself) all those characteristics exist in a much higher amount" ID="ID_502887044" CREATED="1649587145282" MODIFIED="1649587191601">
+<node TEXT="muslims have all the biases, but unlike me, they cherish them, and consider them good" ID="ID_402708070" CREATED="1649587196963" MODIFIED="1649590805627">
+<node ID="ID_1962029135" CREATED="1649587225125" MODIFIED="1649590856460"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      islam openly teaches you to Assume that islam is true before stydying it (<b>confirmation bias</b>)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="first you need to believe, and then you will see that it&apos;s true" ID="ID_405350922" CREATED="1649587248122" MODIFIED="1649587271720">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node TEXT="quran" ID="ID_1174102119" CREATED="1649587258107" MODIFIED="1649587824768">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+</node>
+<node ID="ID_73198565" CREATED="1649587688431" MODIFIED="1649590853110"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      muslims cherish their <b>identity bias</b>, being a Muslim is their whole essense
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="i&apos;m a muslim, this is who i am" LOCALIZED_STYLE_REF="default" ID="ID_203134494" CREATED="1649587807659" MODIFIED="1649587818250" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+<node TEXT="apostates from simone" ID="ID_248754372" CREATED="1649587819051" MODIFIED="1649591108091">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="and I have found the truth by reasoning..." ID="ID_1962113946" CREATED="1649779409721" MODIFIED="1649852430028" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="quote@b"/>
+<icon BUILTIN="emoji-2B1B"/>
+<font ITALIC="true"/>
+<node TEXT="what is the difference between:" ID="ID_755798210" CREATED="1649779418176" MODIFIED="1649779508103">
+<node TEXT="you have found the truth (of islam), this is why you&apos;re not searching anymore" ID="ID_1727952263" CREATED="1649779508261" MODIFIED="1649779540549"/>
+<node TEXT="i have developed my biases (that religions are man-made), which prevent me from finally finding the truth" ID="ID_1861635009" CREATED="1649779544009" MODIFIED="1649780695118"/>
 </node>
 </node>
 </node>
@@ -866,9 +1254,13 @@
 </node>
 </node>
 </node>
+<node TEXT="you refuting islam reflects a very small part in you that believes in it" ID="ID_947803225" CREATED="1649855300098" MODIFIED="1649859978780">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
 </node>
 </node>
-<node TEXT="slavery" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_165825678" CREATED="1631874408321" MODIFIED="1634921235616" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
+</node>
+<node TEXT="slavery" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_165825678" CREATED="1631874408321" MODIFIED="1634921235616" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
 <node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_11148817" CREATED="1631874421877" MODIFIED="1632839360234">
 <icon BUILTIN="quote@b"/>
@@ -1237,11 +1629,8 @@
 </node>
 </node>
 </node>
-<node TEXT="lifestyle" STYLE_REF="topic" POSITION="right" ID="ID_240418438" CREATED="1632137343507" MODIFIED="1632137350022">
+<node TEXT="lifestyle" STYLE_REF="topic" FOLDED="true" POSITION="right" ID="ID_240418438" CREATED="1632137343507" MODIFIED="1632137350022">
 <node TEXT="sexual relationship" STYLE_REF="topic" ID="ID_615702781" CREATED="1631880589764" MODIFIED="1632144221955" LINK="religion/religious%20morality.mm#ID_111853252">
-<node TEXT="eman loved this topic" LOCALIZED_STYLE_REF="default" ID="ID_199701451" CREATED="1631880625919" MODIFIED="1632830857822">
-<icon BUILTIN="good@bleak"/>
-</node>
 <node ID="ID_1743394158" CREATED="1631899745561" MODIFIED="1631978034969"><richcontent TYPE="NODE">
 
 <html>
@@ -2303,6 +2692,17 @@
 </node>
 </node>
 </node>
+<node TEXT="nasty muslims" ID="ID_348582841" CREATED="1649851930973" MODIFIED="1649852313615">
+<node TEXT="the first word i learned in arabic was himAr - donkey" ID="ID_1307049722" CREATED="1649851936100" MODIFIED="1649851953640"/>
+<node TEXT="muslim men are insulting me while i can&apos;t understand that" ID="ID_1354760854" CREATED="1649851954179" MODIFIED="1649851973073">
+<node TEXT="ofoo reprimanded a muslim for telling bad things about me, and he said sorry into my private. but before that he probably did the same, without anybody noticing" ID="ID_1347627046" CREATED="1649851973589" MODIFIED="1649852289574"/>
+<node TEXT="an egyptian man joined a public group, and abused us in arabic. and when i asked other arabs what he said - they replied that they &quot;don&apos;t want to talk behind his back&quot;" ID="ID_1011319129" CREATED="1649852151212" MODIFIED="1649852229981"/>
+<node TEXT="mu&apos;min keeps using arabic posts with donkeys" ID="ID_233851745" CREATED="1649851999544" MODIFIED="1649852127931">
+<node TEXT="and you laugh with him at me" ID="ID_69273821" CREATED="1649852128121" MODIFIED="1649852138225"/>
+</node>
+</node>
+<node TEXT="i wanted to show you the atrocities said by muhammad hijab, but after you were amazed by insulting messages of mu&apos;min, caling us donkey in every line - i&apos;m afraid you might become as well amazed by skillfully disguised rape and death threads given by muhammad hjab, which would hurt me even more" ID="ID_964325203" CREATED="1649911254359" MODIFIED="1649911412616"/>
+</node>
 </node>
 </node>
 <node TEXT="favourite religions" STYLE_REF="topic" POSITION="right" ID="ID_1674760520" CREATED="1632612239438" MODIFIED="1632612317674">
@@ -3309,7 +3709,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_302125615" CREATED="1648690584244" MODIFIED="1648690663437"><richcontent TYPE="NODE">
@@ -3324,7 +3723,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1233270254" CREATED="1648690663945" MODIFIED="1648701039200"><richcontent TYPE="NODE">
 
@@ -3338,7 +3736,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_351937227" CREATED="1648690677189" MODIFIED="1648701044652"><richcontent TYPE="NODE">
@@ -3353,7 +3750,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="it&apos;s mentioned quran" ID="ID_1770704736" CREATED="1648690702042" MODIFIED="1648690796650" LINK="../study/religion/islam/quran/content/baqara.mm#ID_372114026"/>
 </node>
@@ -3361,6 +3757,7 @@
 </node>
 </node>
 </node>
+<node TEXT="8.4.2022" POSITION="right" ID="ID_1605997323" CREATED="1649601677648" MODIFIED="1649601709469"/>
 <node TEXT="bookmarks: current" POSITION="left" ID="ID_1719248898" CREATED="1635297766532" MODIFIED="1635297857490" BACKGROUND_COLOR="#ffccff">
 <icon BUILTIN="emoji-1F7EA"/>
 </node>
@@ -3521,14 +3918,15 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
+<node TEXT="you avoid talking to &quot;stronger&quot; speakers from atheists" ID="ID_51240868" CREATED="1649579804460" MODIFIED="1649579804485" LINK="#ID_171880035"/>
+<node TEXT="you mentioned several characteristics, which prevent atheists (me) from finding the truth (of islam)" ID="ID_1046120466" CREATED="1649779406651" MODIFIED="1649779406656" LINK="#ID_413728298"/>
+<node TEXT="and I have found the truth by reasoning..." ID="ID_1664348937" CREATED="1649852430000" MODIFIED="1649852430006" LINK="#ID_1962113946"/>
 </node>
 </node>
 <node TEXT="current" POSITION="left" ID="ID_1809165611" CREATED="1649045541244" MODIFIED="1649045546199">
-<node TEXT="where did you disappear?" ID="ID_1059123150" CREATED="1648857876513" MODIFIED="1648869053221" LINK="#ID_171880035"/>
-<node TEXT="talking to ISIS" ID="ID_527182611" CREATED="1648508292583" MODIFIED="1648508318064" LINK="#ID_1453642575"/>
+<node TEXT="avoiding talks with atheists" ID="ID_1059123150" CREATED="1648857876513" MODIFIED="1649136803725" LINK="#ID_171880035"/>
 <node TEXT="rajulkahf&apos;s suicide" ID="ID_1683205997" CREATED="1648618322960" MODIFIED="1648686014699" LINK="#ID_1683205997"/>
 <node TEXT="without doubts there&apos;s no truth" ID="ID_1314694133" CREATED="1634929180711" MODIFIED="1634929798548" LINK="#ID_1084096476"/>
 <node TEXT="i&apos;m not a predator" ID="ID_1639189142" CREATED="1634929430903" MODIFIED="1634929577154" LINK="#ID_835707450"/>

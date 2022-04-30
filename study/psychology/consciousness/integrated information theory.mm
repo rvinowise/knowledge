@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="false beliefs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1636701750839"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="integrated information theory (IIT)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649591920324"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -38,7 +38,7 @@
 <edge STYLE="hide_edge" COLOR="#000000"/>
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffffff" BACKGROUND_ALPHA="0" BORDER_WIDTH="3 px" BORDER_COLOR="#ff8080" BORDER_DASH="SOLID"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
@@ -137,107 +137,143 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_1214444471" CREATED="1636701750854" MODIFIED="1636701750855"/>
-<node TEXT="martial arts" POSITION="right" ID="ID_1431695386" CREATED="1636701847802" MODIFIED="1636701914559" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="aikido" ID="ID_1763973745" CREATED="1636701750856" MODIFIED="1636701765454">
-<node TEXT="no test" ID="ID_1054664722" CREATED="1636702810268" MODIFIED="1636703168895">
-<icon BUILTIN="libra@b"/>
-<node TEXT="pressure testing" ID="ID_1649492183" CREATED="1636702830712" MODIFIED="1636702838046">
-<icon BUILTIN="chain@b"/>
+<node TEXT="type: study" POSITION="left" ID="ID_1855080123" CREATED="1649580560910" MODIFIED="1649580560914"/>
+<node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
+<font NAME="Tahoma"/>
+<node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
+<font NAME="Tahoma" BOLD="true"/>
+<node TEXT="topic" ID="ID_1565487616" CREATED="1633811189288" MODIFIED="1635773283874" COLOR="#7f7f7f">
+<font NAME="Tahoma" BOLD="true"/>
 </node>
-<node TEXT="too deadly for pressure testing" ID="ID_483184583" CREATED="1636702242779" MODIFIED="1636702273708">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
+<node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
+<icon BUILTIN="question@b"/>
+<font NAME="Tahoma" ITALIC="true"/>
 </node>
-<node TEXT="peaceful philosophy doesn&apos;t allow pressure testing" ID="ID_699027027" CREATED="1636702279999" MODIFIED="1636702487706">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
+<node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
+<icon BUILTIN="emoji-26F2"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      name of a source <i>a phrase in a source to find it</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Tahoma" ITALIC="false"/>
 </node>
-<node TEXT="tested only against compliant partners" ID="ID_1749185328" CREATED="1636702382379" MODIFIED="1636702422488">
-<node TEXT="ukke" ID="ID_1492724584" CREATED="1636702397853" MODIFIED="1636702412530">
-<icon BUILTIN="chain@b"/>
 </node>
-<node TEXT="drilling" ID="ID_455903194" CREATED="1636703335540" MODIFIED="1636703341646">
+<node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
+<font NAME="Tahoma"/>
+<node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
+<icon BUILTIN="present@b"/>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
+<icon BUILTIN="control/type_of_parent"/>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="question@b"/>
+<icon BUILTIN="question@b"/>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
+<icon BUILTIN="box_inscribed@b"/>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
+<font NAME="Tahoma"/>
+<node TEXT="100 bc - 50bc" ID="ID_1628273348" CREATED="1633812654399" MODIFIED="1635773283879">
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="100 CE" ID="ID_1944988493" CREATED="1633812721835" MODIFIED="1635773283880">
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="100AD" ID="ID_1020979489" CREATED="1633812760263" MODIFIED="1635773283881">
+<font NAME="Tahoma"/>
+</node>
+</node>
+<node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
+<icon BUILTIN="question@b"/>
+<font NAME="Tahoma"/>
+<node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      questionable node
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="question for sb" ID="ID_1568891880" CREATED="1633811581054" MODIFIED="1635773283883">
+<font NAME="Tahoma"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="tries to quantify consciousness" POSITION="right" ID="ID_774662700" CREATED="1649580560916" MODIFIED="1649581129944">
+<icon BUILTIN="good@bleak"/>
+<node TEXT="the variable Phî" ID="ID_1181012864" CREATED="1649581032792" MODIFIED="1649581102537" COLOR="#000000">
+<node TEXT="not defined precisely" ID="ID_1854273201" CREATED="1649581110620" MODIFIED="1649581130902">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="can give different values of consciousness of the same systems" ID="ID_1956486716" CREATED="1649581131519" MODIFIED="1649581164078"/>
+</node>
+</node>
+</node>
+<node TEXT="was subjected to falsification check" POSITION="right" ID="ID_1534915182" CREATED="1649581168919" MODIFIED="1649581200824">
+<icon BUILTIN="good@bleak"/>
+<node TEXT="jake hanson" ID="ID_339461726" CREATED="1649581208040" MODIFIED="1649581231971" LINK="https://www.youtube.com/watch?v=oPg09MfQEMI&amp;t=1392s&amp;ab_channel=JakeHanson"/>
+<node TEXT="a fly should have lower level of Phi (consciousness) after anesthesia" ID="ID_1667573437" CREATED="1649581322686" MODIFIED="1649581360321"/>
+</node>
+<node TEXT="philosophical zombies are possible" POSITION="right" ID="ID_1763301991" CREATED="1649581941565" MODIFIED="1649581953258">
+<node TEXT="because Feedback is needed for consciousness" ID="ID_810497754" CREATED="1649581953394" MODIFIED="1649592036014">
+<node TEXT="any system can be rewired to not have the feedback, while still doing the same work" ID="ID_472664310" CREATED="1649581973097" MODIFIED="1649582046880">
+<node TEXT="krohn-rhodes theorem" ID="ID_851712614" CREATED="1649582957843" MODIFIED="1649582972228">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+</node>
+<node ID="ID_529763892" CREATED="1649591881012" MODIFIED="1649593145613">
+<icon BUILTIN="bad@bleak"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      it means IIT is a <b>metaphysical theory </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="it&apos;s impossible to test" ID="ID_1858020670" CREATED="1649591923214" MODIFIED="1649591929062"/>
+<node TEXT="it&apos;s not a scientific theory" ID="ID_1783754767" CREATED="1649592260429" MODIFIED="1649592267399"/>
+</node>
+</node>
+<node TEXT="it makes the transition from pre-theoretic definitions of &quot;consciousness&quot; to a well-defined one (Phi)" POSITION="right" ID="ID_718608171" CREATED="1649593154929" MODIFIED="1649593312068">
 <icon BUILTIN="good@bleak"/>
 </node>
-<node TEXT="sparring" ID="ID_1787309421" CREATED="1636703342394" MODIFIED="1636703347002">
-<icon BUILTIN="bad@bleak"/>
-</node>
-<node TEXT="tournaments" ID="ID_342992822" CREATED="1636703362112" MODIFIED="1636703368213">
-<icon BUILTIN="bad@bleak"/>
-</node>
-</node>
-</node>
-<node TEXT="join before getting evidence" ID="ID_1744643166" CREATED="1636704280409" MODIFIED="1636704728972">
-<node TEXT="just try it yourself and you&apos;ll see" ID="ID_1222947296" CREATED="1636704171588" MODIFIED="1636704369842">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-</node>
-</node>
-<node TEXT="chinese traditional MA" ID="ID_1172406901" CREATED="1636701918013" MODIFIED="1636701930853">
-<node TEXT="kung-fu" LOCALIZED_STYLE_REF="default" ID="ID_444856037" CREATED="1636701954626" MODIFIED="1636701979760" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
-</node>
-</node>
-</node>
-<node TEXT="medicine" POSITION="right" ID="ID_1822189676" CREATED="1636701855093" MODIFIED="1636701914561" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="homeopathy" ID="ID_1187684873" CREATED="1636701771973" MODIFIED="1636701780165">
-<node TEXT="no test" ID="ID_1936992520" CREATED="1636702810268" MODIFIED="1636703168895">
-<icon BUILTIN="libra@b"/>
-<node TEXT="attention of the homeopath is part of healing" ID="ID_729743599" CREATED="1636702603168" MODIFIED="1636702689509">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-<node TEXT="which is not tested in clinical trials" ID="ID_146355251" CREATED="1636702654183" MODIFIED="1636702669573"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="knowledge" POSITION="right" ID="ID_1512948921" CREATED="1636701882360" MODIFIED="1636701914562" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="psychic power" ID="ID_1499080343" CREATED="1636701821531" MODIFIED="1636701835891">
-<node TEXT="cold reading" ID="ID_834954923" CREATED="1636702148952" MODIFIED="1636702152649">
-<node TEXT="with a crowd" ID="ID_1609400868" CREATED="1636702160021" MODIFIED="1636702167911"/>
-</node>
-<node TEXT="using tools" ID="ID_249896458" CREATED="1636702154472" MODIFIED="1636702182935">
-<node TEXT="cards, ball etc." ID="ID_443060283" CREATED="1636702183152" MODIFIED="1636702195921"/>
-</node>
-</node>
-</node>
-<node TEXT="religion" POSITION="right" ID="ID_1236401970" CREATED="1636701765898" MODIFIED="1636701770860">
-<node TEXT="get involved, then have a proof" ID="ID_686499957" CREATED="1636704280409" MODIFIED="1636704335485">
-<node TEXT="just read our holy book" ID="ID_167638798" CREATED="1636704171588" MODIFIED="1636704385555">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-</node>
-<node TEXT="confirmation bias abuss" ID="ID_1075291640" CREATED="1636704409302" MODIFIED="1636704422239">
-<node TEXT="approach it with correct (open) mindset" ID="ID_273430146" CREATED="1636704422433" MODIFIED="1636704481472">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-</node>
-</node>
-<node TEXT="commonalities" POSITION="right" ID="ID_1109123570" CREATED="1636704161069" MODIFIED="1636705056373" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="join before getting evidence" ID="ID_498316018" CREATED="1636704510859" MODIFIED="1636704728972">
-<node TEXT="get involved, then have a proof" ID="ID_248159147" CREATED="1636704280409" MODIFIED="1636704510116">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-</node>
-<node TEXT="confirmation bias abuss" ID="ID_1644279282" CREATED="1636704409302" MODIFIED="1636704422239">
-<node TEXT="believe it works first, then test" ID="ID_1500966300" CREATED="1636704422433" MODIFIED="1636704437950">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-</node>
-</node>
-<node TEXT="" POSITION="right" ID="ID_1926370117" CREATED="1650771003729" MODIFIED="1650771007405">
+<node TEXT="" POSITION="right" ID="ID_1106772369" CREATED="1650122345583" MODIFIED="1650122349617">
 <icon BUILTIN="emoji-26F2"/>
-<node TEXT="a long article about beliefs" ID="ID_1470383779" CREATED="1650771008620" MODIFIED="1650771020140" LINK="https://www.researchgate.net/publication/281593485_Assessing_the_psychological_correlates_of_belief_strength_Contributing_factors_and_role_in_behavior"/>
+<node TEXT="a compilation of different mentions of IIT" ID="ID_328670960" CREATED="1650122313059" MODIFIED="1650122328568">
+<node TEXT="Julius Kratzer" LOCALIZED_STYLE_REF="default" ID="ID_207606664" CREATED="1650121778739" MODIFIED="1650122353865" LINK="https://www.youtube.com/playlist?list=PL3n8ok42MpXiRhgWQxvVQZ8IjCDjIGylg" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+</node>
+</node>
+<node TEXT="notes" POSITION="right" ID="ID_251399275" CREATED="1650122253965" MODIFIED="1650122302724" BACKGROUND_COLOR="#cccccc">
+<node TEXT="" ID="ID_907879466" CREATED="1650122307688" MODIFIED="1650122307688"/>
 </node>
 </node>
 </map>

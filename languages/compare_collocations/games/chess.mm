@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="false beliefs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1636701750839"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="chess" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1646392005070"><hook NAME="MapStyle" zoom="1.32">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -137,107 +137,144 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_1214444471" CREATED="1636701750854" MODIFIED="1636701750855"/>
-<node TEXT="martial arts" POSITION="right" ID="ID_1431695386" CREATED="1636701847802" MODIFIED="1636701914559" COLOR="#7f7f7f">
+<node TEXT="type: compare_colocations" POSITION="left" ID="ID_204822423" CREATED="1646392005088" MODIFIED="1646392005105"/>
+<node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
-<node TEXT="aikido" ID="ID_1763973745" CREATED="1636701750856" MODIFIED="1636701765454">
-<node TEXT="no test" ID="ID_1054664722" CREATED="1636702810268" MODIFIED="1636703168895">
-<icon BUILTIN="libra@b"/>
-<node TEXT="pressure testing" ID="ID_1649492183" CREATED="1636702830712" MODIFIED="1636702838046">
-<icon BUILTIN="chain@b"/>
-</node>
-<node TEXT="too deadly for pressure testing" ID="ID_483184583" CREATED="1636702242779" MODIFIED="1636702273708">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-<node TEXT="peaceful philosophy doesn&apos;t allow pressure testing" ID="ID_699027027" CREATED="1636702279999" MODIFIED="1636702487706">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-<node TEXT="tested only against compliant partners" ID="ID_1749185328" CREATED="1636702382379" MODIFIED="1636702422488">
-<node TEXT="ukke" ID="ID_1492724584" CREATED="1636702397853" MODIFIED="1636702412530">
-<icon BUILTIN="chain@b"/>
-</node>
-<node TEXT="drilling" ID="ID_455903194" CREATED="1636703335540" MODIFIED="1636703341646">
-<icon BUILTIN="good@bleak"/>
-</node>
-<node TEXT="sparring" ID="ID_1787309421" CREATED="1636703342394" MODIFIED="1636703347002">
-<icon BUILTIN="bad@bleak"/>
-</node>
-<node TEXT="tournaments" ID="ID_342992822" CREATED="1636703362112" MODIFIED="1636703368213">
-<icon BUILTIN="bad@bleak"/>
+<node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="amerian english" ID="ID_682913888" CREATED="1637117102145" MODIFIED="1637128718255"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      AME
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
+<node TEXT="2" ID="ID_1773790543" CREATED="1637117154806" MODIFIED="1637131455805">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="spanish" ID="ID_1958522291" CREATED="1637117154806" MODIFIED="1637128709006"/>
 </node>
-<node TEXT="join before getting evidence" ID="ID_1744643166" CREATED="1636704280409" MODIFIED="1636704728972">
-<node TEXT="just try it yourself and you&apos;ll see" ID="ID_1222947296" CREATED="1636704171588" MODIFIED="1636704369842">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
+<node TEXT="3" ID="ID_1473592466" CREATED="1637125216163" MODIFIED="1637131457083">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="french" ID="ID_434342138" CREATED="1637117151189" MODIFIED="1637128583329" BACKGROUND_COLOR="#ffffff"/>
+</node>
+<node TEXT="4" ID="ID_403235329" CREATED="1637126462159" MODIFIED="1637131457796">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<node TEXT="greek" ID="ID_1698930108" CREATED="1637117158741" MODIFIED="1637128583329"/>
+</node>
+<node TEXT="5" LOCALIZED_STYLE_REF="default" ID="ID_632092175" CREATED="1637126465234" MODIFIED="1639548721459" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="heraldics/roman_empire"/>
+<node TEXT="latin" ID="ID_1156533169" CREATED="1637117168846" MODIFIED="1637128583330"/>
+</node>
+<node TEXT="6" ID="ID_93050694" CREATED="1637126468425" MODIFIED="1637131459075">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="standard arabic" ID="ID_749941288" CREATED="1637117160288" MODIFIED="1637128673461"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      MSA
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
+<node TEXT="7" ID="ID_49222917" CREATED="1637128504162" MODIFIED="1637131459846">
+<icon BUILTIN="emoji-1F1EC-1F1E7"/>
+<node TEXT="british english" ID="ID_1532772911" CREATED="1637128525577" MODIFIED="1637128747347"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      BRE
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node TEXT="chinese traditional MA" ID="ID_1172406901" CREATED="1636701918013" MODIFIED="1636701930853">
-<node TEXT="kung-fu" LOCALIZED_STYLE_REF="default" ID="ID_444856037" CREATED="1636701954626" MODIFIED="1636701979760" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
+</node>
+<node TEXT="0" ID="ID_560374693" CREATED="1639547677101" MODIFIED="1639547717957">
+<icon BUILTIN="heraldics/earth_flag"/>
+<node TEXT="earth" ID="ID_1500230438" CREATED="1639548954842" MODIFIED="1639548957384"/>
 </node>
 </node>
-</node>
-<node TEXT="medicine" POSITION="right" ID="ID_1822189676" CREATED="1636701855093" MODIFIED="1636701914561" COLOR="#7f7f7f">
+<node TEXT="legend" POSITION="left" ID="ID_1999075329" CREATED="1637387218036" MODIFIED="1637387224907" COLOR="#7f7f7f">
 <font BOLD="true"/>
-<node TEXT="homeopathy" ID="ID_1187684873" CREATED="1636701771973" MODIFIED="1636701780165">
-<node TEXT="no test" ID="ID_1936992520" CREATED="1636702810268" MODIFIED="1636703168895">
-<icon BUILTIN="libra@b"/>
-<node TEXT="attention of the homeopath is part of healing" ID="ID_729743599" CREATED="1636702603168" MODIFIED="1636702689509">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-<node TEXT="which is not tested in clinical trials" ID="ID_146355251" CREATED="1636702654183" MODIFIED="1636702669573"/>
+<node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
+<node TEXT="feminine" LOCALIZED_STYLE_REF="default" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1638005675413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/gender/feminine@b"/>
+</node>
+<node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/gender/masculine@b"/>
+</node>
+<node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/gender/both_genders@b"/>
+</node>
+</node>
+<node TEXT="number" ID="ID_1197699449" CREATED="1638005695736" MODIFIED="1638005698501">
+<node TEXT="plural" ID="ID_911905125" CREATED="1638005699949" MODIFIED="1638005706091">
+<icon BUILTIN="grammar/plural"/>
+</node>
+</node>
+<node TEXT="syntax" ID="ID_1205169936" CREATED="1638005727863" MODIFIED="1638005731513">
+<node TEXT="sequence" ID="ID_1970909851" CREATED="1638005722645" MODIFIED="1638005725496">
+<node TEXT="word before its parent" ID="ID_704088312" CREATED="1638005732749" MODIFIED="1638005754493">
+<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
 </node>
 </node>
 </node>
-</node>
-<node TEXT="knowledge" POSITION="right" ID="ID_1512948921" CREATED="1636701882360" MODIFIED="1636701914562" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="psychic power" ID="ID_1499080343" CREATED="1636701821531" MODIFIED="1636701835891">
-<node TEXT="cold reading" ID="ID_834954923" CREATED="1636702148952" MODIFIED="1636702152649">
-<node TEXT="with a crowd" ID="ID_1609400868" CREATED="1636702160021" MODIFIED="1636702167911"/>
-</node>
-<node TEXT="using tools" ID="ID_249896458" CREATED="1636702154472" MODIFIED="1636702182935">
-<node TEXT="cards, ball etc." ID="ID_443060283" CREATED="1636702183152" MODIFIED="1636702195921"/>
+<node TEXT="declension&amp;conjugation" ID="ID_1063401470" CREATED="1638005780101" MODIFIED="1638005802100">
+<node TEXT="can be used as regular" ID="ID_371950240" CREATED="1638005802910" MODIFIED="1638005829357">
+<icon BUILTIN="smile@w"/>
 </node>
 </node>
+<node TEXT="control" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1639451537112">
+<node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
-<node TEXT="religion" POSITION="right" ID="ID_1236401970" CREATED="1636701765898" MODIFIED="1636701770860">
-<node TEXT="get involved, then have a proof" ID="ID_686499957" CREATED="1636704280409" MODIFIED="1636704335485">
-<node TEXT="just read our holy book" ID="ID_167638798" CREATED="1636704171588" MODIFIED="1636704385555">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
+<node TEXT="unnecessary" ID="ID_728579299" CREATED="1639451543852" MODIFIED="1639451557845">
+<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+</node>
+<node TEXT="declaration of variable" LOCALIZED_STYLE_REF="default" ID="ID_1822291525" CREATED="1639451560357" MODIFIED="1639809400026" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<node TEXT="all siblings are possible values of it (can substitute it)" ID="ID_1974389339" CREATED="1639809410262" MODIFIED="1639809455559"/>
+</node>
+<node ID="ID_716132178" CREATED="1639464033853" MODIFIED="1639464121745">
+<icon BUILTIN="punctuation/colon@b"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      all following siblings are <b>this </b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="same as parent (can substitute it)" ID="ID_1249817900" CREATED="1639453816860" MODIFIED="1639453847531">
+<icon BUILTIN="punctuation/equal@b"/>
+</node>
+<node TEXT="peculiar changes that are described in the comment" LOCALIZED_STYLE_REF="default" ID="ID_664356964" CREATED="1639809482935" MODIFIED="1639810963320" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="cog@b"/>
+<node TEXT="these changes apply to every occurance of the parent" ID="ID_1458823456" CREATED="1639809563939" MODIFIED="1639809585044"/>
 </node>
 </node>
-<node TEXT="confirmation bias abuss" ID="ID_1075291640" CREATED="1636704409302" MODIFIED="1636704422239">
-<node TEXT="approach it with correct (open) mindset" ID="ID_273430146" CREATED="1636704422433" MODIFIED="1636704481472">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
+<node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
 </node>
-</node>
-</node>
-<node TEXT="commonalities" POSITION="right" ID="ID_1109123570" CREATED="1636704161069" MODIFIED="1636705056373" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="join before getting evidence" ID="ID_498316018" CREATED="1636704510859" MODIFIED="1636704728972">
-<node TEXT="get involved, then have a proof" ID="ID_248159147" CREATED="1636704280409" MODIFIED="1636704510116">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-</node>
-<node TEXT="confirmation bias abuss" ID="ID_1644279282" CREATED="1636704409302" MODIFIED="1636704422239">
-<node TEXT="believe it works first, then test" ID="ID_1500966300" CREATED="1636704422433" MODIFIED="1636704437950">
-<icon BUILTIN="quote@b"/>
-<font ITALIC="true"/>
-</node>
-</node>
-</node>
-<node TEXT="" POSITION="right" ID="ID_1926370117" CREATED="1650771003729" MODIFIED="1650771007405">
+<node TEXT="names in all languages" POSITION="right" ID="ID_1202912328" CREATED="1646392005109" MODIFIED="1646392023959" LINK="https://www.schach-chess.com/chess-pieces.htm">
 <icon BUILTIN="emoji-26F2"/>
-<node TEXT="a long article about beliefs" ID="ID_1470383779" CREATED="1650771008620" MODIFIED="1650771020140" LINK="https://www.researchgate.net/publication/281593485_Assessing_the_psychological_correlates_of_belief_strength_Contributing_factors_and_role_in_behavior"/>
 </node>
 </node>
 </map>
