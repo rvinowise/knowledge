@@ -11,7 +11,7 @@
 <node TEXT="surah baqara" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1647377073656" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.089">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -1535,6 +1535,7 @@
 <icon BUILTIN="control/type_of_parent"/>
 </node>
 </node>
+<node TEXT="" ID="ID_1134307711" CREATED="1650679863483" MODIFIED="1650679863483"/>
 </node>
 <node ID="ID_1250292176" CREATED="1643406574800" MODIFIED="1643406601681" LINK="https://quran.com/2:130?font=v1&amp;translations=149%2C95%2C20"><richcontent TYPE="NODE">
 
