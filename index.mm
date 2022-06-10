@@ -288,6 +288,9 @@
 <node TEXT="music" ID="ID_1224476505" CREATED="1650208364642" MODIFIED="1650208369315" LINK="notes/music/">
 <node TEXT="shops" ID="ID_1781800957" CREATED="1650208370574" MODIFIED="1650208376880" LINK="file:/C:/knowledge/notes/music/shops.mm"/>
 </node>
+<node TEXT="shopping" ID="ID_1352705775" CREATED="1654334360600" MODIFIED="1654334370783" LINK="notes/shopping/">
+<node TEXT="shops" ID="ID_1221892413" CREATED="1654334371498" MODIFIED="1654334380829" LINK="file:/C:/knowledge/notes/shopping/shops.mm"/>
+</node>
 </node>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>

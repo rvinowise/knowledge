@@ -11,7 +11,7 @@
 <node TEXT="nisA2" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649980126985" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -613,7 +613,7 @@
 </node>
 </node>
 </node>
-<node ID="ID_739867714" CREATED="1650233870207" MODIFIED="1650233945113" LINK="https://quran.com/4?startingVerse=18"><richcontent TYPE="NODE">
+<node ID="ID_739867714" CREATED="1650233870207" MODIFIED="1654330391581" LINK="https://quran.com/4?startingVerse=18"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -621,11 +621,13 @@
   </head>
   <body>
     <p>
-      repentance is not accepted if done <b>right before death</b>&nbsp;or after death
+      repentance for sins is not accepted if done <b>right before death</b>&nbsp;or after death
     </p>
   </body>
 </html>
+
 </richcontent>
+<node TEXT="but conversion to islam is accepted right before death" ID="ID_1888205811" CREATED="1654290907946" MODIFIED="1654290934682" LINK="https://quran.com/4:18/tafsirs/en-tafisr-ibn-kathir"/>
 </node>
 </node>
 <node TEXT="allah set up bounds in quran" ID="ID_548912656" CREATED="1650229338938" MODIFIED="1650229358314" LINK="https://quran.com/4?startingVerse=13">
