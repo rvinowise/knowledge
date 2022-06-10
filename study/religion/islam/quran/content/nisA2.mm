@@ -96,10 +96,14 @@
 <node TEXT="general data" POSITION="right" ID="ID_1910787214" CREATED="1648420049150" MODIFIED="1649971532908">
 <icon BUILTIN="control/comment"/>
 <icon BUILTIN="control/comment"/>
+<node TEXT="history" ID="ID_712437610" CREATED="1650960358529" MODIFIED="1650960362530">
 <node TEXT="4/92/madina" ID="ID_1609697432" CREATED="1644090206502" MODIFIED="1650228668922"/>
+<node TEXT="history of revelation" ID="ID_431955423" CREATED="1650960364286" MODIFIED="1650960432018" LINK="http://www.englishtafsir.com/Quran/4/index.html"/>
+</node>
 <node TEXT="writing style" ID="ID_310960594" CREATED="1645473449066" MODIFIED="1645473452350">
 <node TEXT="superfluous text" ID="ID_1188583646" CREATED="1650057887741" MODIFIED="1650057894341">
 <node TEXT="for men blah-blah, and for women blah-blah" ID="ID_1089462111" CREATED="1650057894805" MODIFIED="1650057911103" LINK="https://quran.com/4?startingVerse=7"/>
+<node TEXT="respect the your relative neighbour, and your non-relative neighbour" ID="ID_1005878973" CREATED="1650965431014" MODIFIED="1650965461873"/>
 </node>
 </node>
 <node TEXT="confusion" ID="ID_114471216" CREATED="1646347611728" MODIFIED="1646347616213">
@@ -120,12 +124,16 @@
 <icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
+<node TEXT="settling spousal fight by arbitrators" ID="ID_1972431640" CREATED="1650945701192" MODIFIED="1650945729371" LINK="#ID_1432990579"/>
 </node>
 <node TEXT="to benefit for themselves" ID="ID_1936453744" CREATED="1650316765485" MODIFIED="1650316779408">
 <node TEXT="amount of slave girls is not limited" ID="ID_1737715326" CREATED="1650316722265" MODIFIED="1650316753763" LINK="#ID_386736361"/>
 </node>
 <node TEXT="by no reason" ID="ID_1263760826" CREATED="1650576445563" MODIFIED="1650576450263">
 <node TEXT="gambling is prohibited" ID="ID_323909493" CREATED="1650576451745" MODIFIED="1650576472657" LINK="#ID_1529824375"/>
+</node>
+<node TEXT="to make quran nices" ID="ID_1344970698" CREATED="1650947831236" MODIFIED="1650947835611">
+<node TEXT="treat your wives nicely, even though it&apos;s not specified in a long list" ID="ID_873879117" CREATED="1650947836706" MODIFIED="1650947887653" LINK="#ID_1490982100"/>
 </node>
 </node>
 <node TEXT="controversial translation" ID="ID_1906949117" CREATED="1650148165090" MODIFIED="1650148176519">
@@ -148,8 +156,13 @@
 </node>
 </node>
 </node>
-<node TEXT="typos" ID="ID_581570678" CREATED="1647384733754" MODIFIED="1647384737411"/>
-<node TEXT="explanations" ID="ID_41393924" CREATED="1648423561791" MODIFIED="1648423579167"/>
+<node TEXT="verses with complicated algorithms have omissions and mistakes" ID="ID_648983322" CREATED="1650965496760" MODIFIED="1650965742026">
+<node TEXT="they were winged by muhammad, without thoughtful prepration" ID="ID_101387735" CREATED="1650965743350" MODIFIED="1650971223235">
+<icon BUILTIN="control/comment"/>
+</node>
+<node TEXT="how much do two daughters inherit?" ID="ID_306458124" CREATED="1650971198917" MODIFIED="1650971313319" LINK="#ID_711440758"/>
+<node TEXT="wives aren&apos;t mentioned among people for nice treatment" ID="ID_463054015" CREATED="1650971273335" MODIFIED="1650971317886" LINK="#ID_873879117"/>
+</node>
 </node>
 <node TEXT="historical events" POSITION="right" ID="ID_1847136746" CREATED="1649981275065" MODIFIED="1649981279137">
 <node TEXT="in spiritual realm" ID="ID_1467560062" CREATED="1649981279285" MODIFIED="1649981288227">
@@ -193,7 +206,6 @@
 <node TEXT="give part of your inheritance to orphans" ID="ID_628463420" CREATED="1650059591771" MODIFIED="1650059613859" LINK="https://quran.com/4?startingVerse=8"/>
 <node TEXT="don&apos;t devour money of orphans unjustly" ID="ID_607461894" CREATED="1650059905461" MODIFIED="1650059920357" LINK="https://quran.com/4?startingVerse=10"/>
 </node>
-<node TEXT="sexual relationship" ID="ID_1148414396" CREATED="1650229094630" MODIFIED="1650229104557">
 <node TEXT="marriage" ID="ID_1860357081" CREATED="1649982656229" MODIFIED="1649982658597">
 <node TEXT="a peculiar algorithm of selecting wives" ID="ID_826014593" CREATED="1649984488356" MODIFIED="1649984503523" LINK="https://quran.com/4?startingVerse=3">
 <node TEXT="marry orphan girls" ID="ID_1042248209" CREATED="1649983767053" MODIFIED="1649984359005">
@@ -368,9 +380,25 @@
 </node>
 <node TEXT="because men are gifted more power by allah" ID="ID_815451408" CREATED="1650591287956" MODIFIED="1650591301688"/>
 <node TEXT="because men pay for women" ID="ID_1732329766" CREATED="1650591302746" MODIFIED="1650591307803"/>
+<node TEXT="if you fear rebellion from your wife" ID="ID_442853658" CREATED="1650672379591" MODIFIED="1650672436353">
+<node TEXT="admonish them" STYLE_REF="list item" ID="ID_983890887" CREATED="1650672436602" MODIFIED="1650672614776"/>
+<node TEXT="don&apos;t have sex with them" STYLE_REF="list item" ID="ID_1786909036" CREATED="1650672513853" MODIFIED="1650672614774"/>
+<node TEXT="strike them" STYLE_REF="list item" ID="ID_1616243638" CREATED="1650672523114" MODIFIED="1650672614766"/>
 </node>
-<node TEXT="" ID="ID_870463867" CREATED="1650591319856" MODIFIED="1650591319856"/>
 </node>
+<node TEXT="if spouses have an argument" ID="ID_389480556" CREATED="1650945568677" MODIFIED="1650945588583">
+<icon BUILTIN="programming/input@b"/>
+<node TEXT="assign two arbitrators (judges) from both sides" ID="ID_903922196" CREATED="1650945591233" MODIFIED="1650945628881">
+<node TEXT="to settle the dispute" ID="ID_585915399" CREATED="1650945631682" MODIFIED="1650945636175"/>
+<node TEXT="controversy" ID="ID_1432990579" CREATED="1650945638262" MODIFIED="1650945645631">
+<icon BUILTIN="control/hashtag"/>
+<node TEXT="who chooses the arbitrators?" ID="ID_1742061430" CREATED="1650945645822" MODIFIED="1650945678068"/>
+<node TEXT="can the arbitrators divorce the spouses?" ID="ID_1889206730" CREATED="1650945659302" MODIFIED="1650945675154"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="sexual relationship" ID="ID_1148414396" CREATED="1650229094630" MODIFIED="1650229104557">
 <node TEXT="slave girls" ID="ID_890140624" CREATED="1650314857618" MODIFIED="1650314863686">
 <node TEXT="quran doesn&apos;t mention sex with slaves, but only &quot;not prohibited&quot; slaves  (for marriage?)" ID="ID_386736361" CREATED="1650314863919" MODIFIED="1650317471899" LINK="https://quran.com/4?startingVerse=24">
 <icon BUILTIN="emoji-2754"/>
@@ -642,11 +670,99 @@
 <node TEXT="it may mean don&apos;t commit suicide vs don&apos;t commit murder among your nation" ID="ID_1264561523" CREATED="1650576635667" MODIFIED="1650576672610"/>
 </node>
 </node>
+<node TEXT="rituals" ID="ID_287817478" CREATED="1650971109156" MODIFIED="1650971111887">
+<node TEXT="don&apos;t do salat (necessary prayers) if you&apos;re dirty" ID="ID_1921326831" CREATED="1650971124199" MODIFIED="1650971172455" LINK="https://quran.com/4?startingVerse=42">
+<node TEXT="lacking information" ID="ID_108411957" CREATED="1650971169364" MODIFIED="1650971355704">
+<icon BUILTIN="control/hashtag"/>
+<node TEXT="" ID="ID_1532177202" CREATED="1650971454205" MODIFIED="1650971454205"/>
+</node>
+<node TEXT="if you &quot;touched a woman&quot;" LOCALIZED_STYLE_REF="default" ID="ID_4729019" CREATED="1650971481820" MODIFIED="1650972965237" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="programming/input@b"/>
+<node TEXT="if you&apos;re travelling or sick" ID="ID_385023936" CREATED="1650971518118" MODIFIED="1650971587823">
+<icon BUILTIN="programming/input@b"/>
+<node TEXT="" ID="ID_210059270" CREATED="1650971626808" MODIFIED="1650971626808"/>
+<node TEXT="else" ID="ID_993292188" CREATED="1650971615419" MODIFIED="1650971620052">
+<node TEXT="" ID="ID_1908006846" CREATED="1650971629081" MODIFIED="1650971629081"/>
+</node>
+</node>
+<node TEXT="controversy" ID="ID_1556252288" CREATED="1650972965904" MODIFIED="1650972970238">
+<icon BUILTIN="control/hashtag"/>
+<node TEXT="had sex / touched / touched with desire" ID="ID_1478462622" CREATED="1650972970497" MODIFIED="1650973161680">
+<node TEXT="Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_139153804" CREATED="1649985214231" MODIFIED="1650228735744">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="if you&apos;re drunk" ID="ID_1701257024" CREATED="1650971667020" MODIFIED="1650971684227">
+<icon BUILTIN="programming/input@b"/>
+<node TEXT="wait till you know what you&apos;re saying and then pray" ID="ID_1512908684" CREATED="1650971684478" MODIFIED="1650971706846">
+<icon BUILTIN="good@bleak"/>
+</node>
+<node TEXT="it&apos;s not abrogated by the later prohibition of intoxicants: praying while drunk is the greater sin" ID="ID_623198261" CREATED="1650971800159" MODIFIED="1650971832207">
+<icon BUILTIN="info_circle@b"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="of self-conduct" ID="ID_31390322" CREATED="1649982593536" MODIFIED="1649982606051">
 <node TEXT="don&apos;t be jealous of other people&apos;s favours from allah" ID="ID_455215236" CREATED="1650577745776" MODIFIED="1650577797323" LINK="https://quran.com/4:32/tafsirs/en-tafisr-ibn-kathir">
 <node TEXT="when a woman asked muhammad why women are not allowed to fight for allah, and inherit only half of men&apos;s inheritance" LOCALIZED_STYLE_REF="default" ID="ID_1831039282" CREATED="1650577797498" MODIFIED="1650577896117" LINK="https://quran.com/4:32/tafsirs/en-tafisr-ibn-kathir" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="calendar@b"/>
+</node>
+</node>
+<node TEXT="marriage" ID="ID_77490332" CREATED="1650672763554" MODIFIED="1650672766616">
+<node TEXT="righteous women are obedient to their husbands" ID="ID_1652990958" CREATED="1650672766716" MODIFIED="1650672799774" LINK="https://quran.com/4?startingVerse=34"/>
+</node>
+<node TEXT="don&apos;t associate anything with allah" ID="ID_257148622" CREATED="1650947253596" MODIFIED="1650947267178" LINK="https://quran.com/4?startingVerse=36"/>
+<node TEXT="be nice towards different people" ID="ID_1517002571" CREATED="1650947364630" MODIFIED="1650947378652" LINK="https://quran.com/4?startingVerse=36">
+<node TEXT="close people are specified in a long list (e.g. your distant neighbour, a traveler etc.)" ID="ID_1594805119" CREATED="1650947379303" MODIFIED="1650947465516">
+<node TEXT="relatives" ID="ID_684537454" CREATED="1650947466159" MODIFIED="1650947469184"/>
+<node TEXT="orphans" ID="ID_526015974" CREATED="1650947478139" MODIFIED="1650947480428"/>
+<node TEXT="neighbours" ID="ID_503418677" CREATED="1650947469838" MODIFIED="1650947472600"/>
+<node TEXT="paupers" ID="ID_1006619380" CREATED="1650947520934" MODIFIED="1650947522916"/>
+<node TEXT="&quot;companion by your side&quot;" ID="ID_885797081" CREATED="1650947500276" MODIFIED="1650947641654">
+<node TEXT="transient acquaintance" ID="ID_387864267" CREATED="1650947644718" MODIFIED="1650947668202">
+<icon BUILTIN="info_circle@b"/>
+</node>
+<node TEXT="wife" ID="ID_13246137" CREATED="1650947659550" MODIFIED="1650947673846">
+<icon BUILTIN="plus@b"/>
+<icon BUILTIN="info_circle@b"/>
+</node>
+</node>
+<node TEXT="travelers" ID="ID_402728973" CREATED="1650947473823" MODIFIED="1650947477479"/>
+<node TEXT="slaves" ID="ID_151289908" CREATED="1650947504124" MODIFIED="1650947506554"/>
+<node TEXT="no wives are listed" ID="ID_561526187" CREATED="1650947682590" MODIFIED="1650947697905">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="so, commentors said &quot;companion&quot; includes wives" ID="ID_1490982100" CREATED="1650947698633" MODIFIED="1650947733714">
+<icon BUILTIN="plus@b"/>
+</node>
+<node TEXT="funny" ID="ID_573915888" CREATED="1650947779926" MODIFIED="1650947783009">
+<icon BUILTIN="control/hashtag"/>
+<node TEXT="even slaves are mentioned" ID="ID_1795852966" CREATED="1650947783831" MODIFIED="1650947805139"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="show off your richness, instead of appearing poor in public" ID="ID_1956621538" CREATED="1650961150724" MODIFIED="1650961195389" LINK="https://quran.com/4?startingVerse=37">
+<node TEXT="Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_92699778" CREATED="1649985214231" MODIFIED="1650961206015">
+<icon BUILTIN="emoji-26F2"/>
+<icon BUILTIN="info_circle@b"/>
+</node>
+<node TEXT="ibn kathir" ID="ID_1244509471" CREATED="1650962088890" MODIFIED="1650962099346" LINK="https://quran.com/4:38/tafsirs/en-tafisr-ibn-kathir">
+<icon BUILTIN="emoji-26F2"/>
+<icon BUILTIN="info_circle@b"/>
+</node>
+<node TEXT="use expensive clothes and food" ID="ID_760363992" CREATED="1650961423490" MODIFIED="1650961445679"/>
+<node TEXT="contradiction" ID="ID_56822421" CREATED="1650961214764" MODIFIED="1650961218613">
+<icon BUILTIN="control/hashtag"/>
+<node TEXT="generally islam commands to appear modest" ID="ID_1966491760" CREATED="1650961218856" MODIFIED="1650961310032">
+<node TEXT="silverware is haram" LOCALIZED_STYLE_REF="default" ID="ID_518803113" CREATED="1650961318258" MODIFIED="1650961348636" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+</node>
+</node>
+<node TEXT="but spending in public without believing in allah is also bad" ID="ID_511386994" CREATED="1650961481907" MODIFIED="1650961497689" LINK="https://quran.com/4?startingVerse=38">
+<node TEXT="you need to spend you money extravagantly, while believing in god" ID="ID_330030216" CREATED="1650962317866" MODIFIED="1650962350527" LINK="https://quran.com/4?startingVerse=39"/>
 </node>
 </node>
 </node>
@@ -679,6 +795,19 @@
 </node>
 <node TEXT="justice" ID="ID_1591733463" CREATED="1650576897678" MODIFIED="1650576899831">
 <node TEXT="if you avoid major sins, your lesser sins will be forgiven" ID="ID_167357243" CREATED="1650576900039" MODIFIED="1650576919430" LINK="https://quran.com/4?startingVerse=31"/>
+<node TEXT="multiplies good your deeds and returns more" ID="ID_405214430" CREATED="1650962528011" MODIFIED="1650962551060" LINK="https://quran.com/4?startingVerse=40">
+<node TEXT="doesn&apos;t do even atom&apos;s weight of injustice" ID="ID_158744669" CREATED="1650963182724" MODIFIED="1650963205759" LINK="https://quran.com/4?startingVerse=40">
+<node TEXT="funny" ID="ID_1489324955" CREATED="1650963205912" MODIFIED="1650963210569">
+<icon BUILTIN="control/hashtag"/>
+<node TEXT="żarra(spec) is translated as &quot;atom&quot;" LOCALIZED_STYLE_REF="default" ID="ID_1686817404" CREATED="1650963210763" MODIFIED="1650963483430" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="if it&apos;s plutonium - it&apos;s not a big claim, even if it&apos;s a positively charged hidrogen (the lightest) - why not say &quot;electron&quot; weight of injustice?" ID="ID_1658879676" CREATED="1650963484263" MODIFIED="1650963546705"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="preferences" ID="ID_1490852052" CREATED="1650948677936" MODIFIED="1650948680832">
+<node TEXT="doesn&apos;t like arrogant and boastful" ID="ID_1904357288" CREATED="1650948681027" MODIFIED="1650948701126" LINK="https://quran.com/4?startingVerse=36"/>
 </node>
 </node>
 </node>
@@ -698,8 +827,39 @@
 </node>
 <node TEXT="bad people" ID="ID_1696115941" CREATED="1650493069049" MODIFIED="1650493080308">
 <node TEXT="those who follow their desires want you to deviate" ID="ID_395089671" CREATED="1650493080929" MODIFIED="1650493097115" LINK="https://quran.com/4?startingVerse=27"/>
+<node TEXT="the stingy people who command you to be stingy" ID="ID_112529689" CREATED="1650949476701" MODIFIED="1650949503397" LINK="https://quran.com/4?startingVerse=37">
+<node TEXT="they also conceal what god gave to them" ID="ID_799889300" CREATED="1650949503582" MODIFIED="1650958318798">
+<node TEXT="controversy" ID="ID_1243808139" CREATED="1650958517944" MODIFIED="1650958522438">
+<icon BUILTIN="control/hashtag"/>
+<node TEXT="if the &quot;concealed&apos; gift from god is the scripture" LOCALIZED_STYLE_REF="default" ID="ID_598580815" CREATED="1650958326051" MODIFIED="1650958544426" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="logic/branching"/>
+<node TEXT="funny" ID="ID_826185509" CREATED="1650949522836" MODIFIED="1650949526553">
+<icon BUILTIN="control/hashtag"/>
+<node TEXT="an insinuation about jews, combining &quot;concealing scriptures&quot; with &quot;being stingy&quot;" ID="ID_1495224193" CREATED="1650949527182" MODIFIED="1650958509733"/>
+<node TEXT="it might be about the jews" ID="ID_603676261" CREATED="1650958426119" MODIFIED="1650958469124" LINK="https://quran.com/4:37/tafsirs/en-tafisr-ibn-kathir">
+<icon BUILTIN="info_circle@b"/>
+</node>
+</node>
+</node>
+<node TEXT="if the concealed git is richness" ID="ID_1100223624" CREATED="1650961058630" MODIFIED="1650961071709">
+<node TEXT="don&apos;t be shy in showing off your richness" ID="ID_731299718" CREATED="1650961082136" MODIFIED="1650961125009">
+<node TEXT="Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1982815284" CREATED="1649985214231" MODIFIED="1650961210426">
+<icon BUILTIN="emoji-26F2"/>
+<icon BUILTIN="info_circle@b"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node TEXT="people were created weak" ID="ID_1393282750" CREATED="1650493215373" MODIFIED="1650493222028" LINK="https://quran.com/4?startingVerse=28"/>
+</node>
+<node TEXT="the day of jugement" ID="ID_5154886" CREATED="1650969356717" MODIFIED="1650969364729">
+<node TEXT="prophets for every nation will confirm that they notified their people about allah" ID="ID_1617213237" CREATED="1650969365343" MODIFIED="1650969416000" LINK="https://quran.com/4?startingVerse=41">
+<node TEXT="muhammad will be the main among them" ID="ID_1499002115" CREATED="1650969400203" MODIFIED="1650969413531"/>
+</node>
+<node TEXT="disbelievers will wish that earth be levelled with them" ID="ID_760496140" CREATED="1650970565665" MODIFIED="1650970631366" LINK="https://quran.com/4?startingVerse=42"/>
 </node>
 </node>
 <node TEXT="strong statements are made" POSITION="right" ID="ID_279341302" CREATED="1650589499305" MODIFIED="1650589506806">

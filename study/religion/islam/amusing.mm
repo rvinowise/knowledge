@@ -11,7 +11,7 @@
 <node TEXT="amusing" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1648883943775" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -78,6 +78,9 @@
 <node TEXT="they say &quot;allahu-akbar!&quot;" ID="ID_106113506" CREATED="1648883962378" MODIFIED="1648883975598"/>
 </node>
 </node>
+</node>
+<node TEXT="verbal insults" POSITION="right" ID="ID_1886016970" CREATED="1650947945416" MODIFIED="1650947970290">
+<node TEXT="believers are like camels" ID="ID_1463537394" CREATED="1650947963311" MODIFIED="1650947982333" LINK="https://sunnah.com/ibnmajah:43"/>
 </node>
 </node>
 </map>

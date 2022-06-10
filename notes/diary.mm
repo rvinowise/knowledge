@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="banking business" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643303849730"><hook NAME="MapStyle" zoom="0.99">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+<node TEXT="diary" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1650934177084"><hook NAME="MapStyle" zoom="1.2">
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -38,7 +38,7 @@
 <edge STYLE="hide_edge" COLOR="#000000"/>
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffffff" BACKGROUND_ALPHA="0" BORDER_WIDTH="3 px" BORDER_COLOR="#ff8080" BORDER_DASH="SOLID"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: notes" POSITION="left" ID="ID_1489289909" CREATED="1643303849820" MODIFIED="1643303849869"/>
+<node TEXT="type: notes" POSITION="left" ID="ID_855316725" CREATED="1650934177106" MODIFIED="1650934177216"/>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
@@ -222,106 +222,148 @@
 </node>
 </node>
 </node>
-<node TEXT="legend" POSITION="right" ID="ID_693098453" CREATED="1643656098705" MODIFIED="1643656104966" COLOR="#7f7f7f">
+<node TEXT="legend" POSITION="right" ID="ID_724634063" CREATED="1650934404698" MODIFIED="1650934408000" COLOR="#7f7f7f">
 <font BOLD="true"/>
-<node TEXT="bank" ID="ID_95445790" CREATED="1643656111382" MODIFIED="1643656303268" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="place@b"/>
-<node TEXT="company" ID="ID_1136007296" CREATED="1643656106302" MODIFIED="1643656303263" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="plastic card pin" ID="ID_239101429" CREATED="1643657149320" MODIFIED="1644771499778" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="padlock_closed@b"/>
+<node TEXT="started new activity" ID="ID_1623638527" CREATED="1650934414110" MODIFIED="1650934764266">
+<icon BUILTIN="plus@b"/>
 </node>
-<node TEXT="login" ID="ID_106174859" CREATED="1644771502806" MODIFIED="1644771517393" BACKGROUND_COLOR="#cccccc">
-<node TEXT="password" ID="ID_1480398179" CREATED="1644771506477" MODIFIED="1644771517411" BACKGROUND_COLOR="#cccccc"/>
+<node TEXT="reason why" LOCALIZED_STYLE_REF="default" ID="ID_844818657" CREATED="1650934973872" MODIFIED="1650935436162" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="programming/goal"/>
 </node>
 </node>
+<node TEXT="2019" OBJECT="java.lang.Long|2019" POSITION="right" ID="ID_1008988856" CREATED="1650937390738" MODIFIED="1650937397970">
+<node TEXT="quit my job at eme" ID="ID_1840793607" CREATED="1650937404634" MODIFIED="1650937416833"/>
+</node>
+<node TEXT="2020" OBJECT="java.lang.Long|2020" POSITION="right" ID="ID_800186891" CREATED="1650934285867" MODIFIED="1650934288187">
+<node TEXT="summer" ID="ID_1651779639" CREATED="1650934288384" MODIFIED="1650935759009">
+<icon BUILTIN="calendar@b"/>
+<node TEXT="gardening" ID="ID_1017631541" CREATED="1650934290856" MODIFIED="1650934812069">
+<icon BUILTIN="plus@b"/>
+<node TEXT="started from the greenhouse" STYLE_REF="list item" ID="ID_200104784" CREATED="1650934324147" MODIFIED="1650934825746">
+<node TEXT="wanted to grow at least radish" ID="ID_121393783" CREATED="1650934389153" MODIFIED="1650935708697">
+<icon BUILTIN="thinking_cloud@b"/>
 </node>
 </node>
-<node TEXT="сбербанк" POSITION="right" ID="ID_993956904" CREATED="1643656970955" MODIFIED="1643657146150">
-<icon BUILTIN="place@b"/>
-<node ID="ID_583290111" CREATED="1643303931468" MODIFIED="1643656282615">
-<icon BUILTIN="box_inscribed@b"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <div class="contragent">
-      техмет
-    </div>
-  </body>
-</html>
-</richcontent>
-<node TEXT="1902" ID="ID_1912346697" CREATED="1643657195329" MODIFIED="1643657586562">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-</node>
-<node TEXT="Промтех" ID="ID_1331281239" CREATED="1643303945930" MODIFIED="1643656282618">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="1969" ID="ID_1897885364" CREATED="1643657263304" MODIFIED="1643657586568">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-</node>
-<node TEXT="map" FOLDED="true" ID="ID_585378066" CREATED="1643685347889" MODIFIED="1643685354153">
-<node TEXT="" ID="ID_591714527" CREATED="1643661483052" MODIFIED="1643661573493">
-<hook URI="banking%20business_files/png_4499177379709321500.png" SIZE="0.54016334" NAME="ExternalObject"/>
-</node>
-<node TEXT="" ID="ID_1189235608" CREATED="1643661565823" MODIFIED="1643661570580">
-<hook URI="banking%20business_files/png_199551016169454052.png" SIZE="0.9075501" NAME="ExternalObject"/>
+<node TEXT="several growing beds outside" STYLE_REF="list item" ID="ID_354267881" CREATED="1650934340307" MODIFIED="1650934826278"/>
+<node TEXT="planted blueberries" ID="ID_1425270225" CREATED="1650936408071" MODIFIED="1650936419760">
+<node TEXT="digging complicated growing beds for ericaceae" ID="ID_187151879" CREATED="1650936423334" MODIFIED="1650936443850">
+<node TEXT="attacked by mosquitoes" ID="ID_897159661" CREATED="1650936447661" MODIFIED="1650936464317">
+<node TEXT="at the pond" ID="ID_451971343" CREATED="1650936469132" MODIFIED="1650936472910"/>
 </node>
 </node>
 </node>
-<node TEXT="точка банк" POSITION="right" ID="ID_1153345186" CREATED="1643657005447" MODIFIED="1643657146226">
-<icon BUILTIN="place@b"/>
-<node TEXT="меттех" ID="ID_709951051" CREATED="1643303937086" MODIFIED="1643656282617">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="9391" ID="ID_616882074" CREATED="1643657441303" MODIFIED="1643657586571">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-<node TEXT="965301082" ID="ID_644020310" CREATED="1644771328416" MODIFIED="1645279449258" LINK="https://z.tochka.com/login/#/?from_menu=index">
-<node TEXT="dad&apos;s" ID="ID_1591787005" CREATED="1644771463779" MODIFIED="1644771544835"/>
 </node>
 </node>
-<node TEXT="открытие" FOLDED="true" ID="ID_171381922" CREATED="1643659470910" MODIFIED="1643659482335">
-<icon BUILTIN="place@b"/>
-<node TEXT="" ID="ID_1510493837" CREATED="1643659493535" MODIFIED="1643659516836">
-<hook URI="banking%20business_files/png_8997090948026338741.png" SIZE="0.31715745" NAME="ExternalObject"/>
+<node TEXT="autumn" ID="ID_1349209225" CREATED="1650935959765" MODIFIED="1650936002708">
+<icon BUILTIN="calendar@b"/>
+<node TEXT="knowledge" ID="ID_1244319577" CREATED="1650936228669" MODIFIED="1650936234179">
+<node TEXT="yale lectures about ancient greece (spartan gay hoplites)" ID="ID_509444121" CREATED="1650936188609" MODIFIED="1650936251767"/>
 </node>
 </node>
-<node TEXT="map" FOLDED="true" ID="ID_489819098" CREATED="1643685366077" MODIFIED="1643685367675">
-<node TEXT="may charge" ID="ID_572932352" CREATED="1643659737861" MODIFIED="1643659746683">
-<hook URI="banking%20business_files/png_9026560092691679304.png" SIZE="0.4878271" NAME="ExternalObject"/>
+<node TEXT="winter" ID="ID_1666654894" CREATED="1650935974141" MODIFIED="1650936002282">
+<icon BUILTIN="calendar@b"/>
+<node TEXT="nice vivid dreams" ID="ID_305624785" CREATED="1650936053455" MODIFIED="1650936066190">
+<icon BUILTIN="good@bleak"/>
+</node>
+<node TEXT="people" ID="ID_392496078" CREATED="1650936120636" MODIFIED="1650936283801">
+<node TEXT="girlfriend" ID="ID_452510508" CREATED="1650937116564" MODIFIED="1650937252036">
+<icon BUILTIN="plus@b"/>
+<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good@bleak"/>
+<node TEXT="wafa (ofoo)" LOCALIZED_STYLE_REF="default" ID="ID_1718211044" CREATED="1650936066754" MODIFIED="1650937166389" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+<node TEXT="sending nudes" ID="ID_810339309" CREATED="1650937223936" MODIFIED="1650937228568">
+<icon BUILTIN="plus@b"/>
+</node>
+<node TEXT="love confession" ID="ID_1017009033" CREATED="1650937230731" MODIFIED="1650937245060">
+<icon BUILTIN="plus@b"/>
+</node>
+<node TEXT="love song" ID="ID_1365491192" CREATED="1650937240347" MODIFIED="1650937243981">
+<icon BUILTIN="plus@b"/>
 </node>
 </node>
-</node>
-<node TEXT="модульбанк" POSITION="right" ID="ID_451407127" CREATED="1643656940005" MODIFIED="1650955136673" LINK="https://my.modulbank.ru/">
-<icon BUILTIN="place@b"/>
-<node TEXT="Экометстрой" ID="ID_1062325276" CREATED="1643304036008" MODIFIED="1643656282619">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="9141" ID="ID_470164298" CREATED="1643657312796" MODIFIED="1643657586575">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-<node TEXT="965-301-08-28" ID="ID_1170963115" CREATED="1645279489145" MODIFIED="1645279876908" LINK="https://my.modulbank.ru/#/finance">
-<node TEXT="dad&apos;s" ID="ID_204081835" CREATED="1645279857113" MODIFIED="1645279860464"/>
+<node TEXT="discussions with eman (lulu)" ID="ID_1933633063" CREATED="1650936135427" MODIFIED="1650936154975">
+<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="plus@b"/>
 </node>
 </node>
-<node TEXT="Промтехмет" ID="ID_1500269537" CREATED="1643303859973" MODIFIED="1643656282609">
-<icon BUILTIN="box_inscribed@b"/>
-<node TEXT="4382" ID="ID_1000691965" CREATED="1643657227314" MODIFIED="1643657586577">
-<icon BUILTIN="padlock_closed@b"/>
-</node>
-</node>
-<node TEXT="map" FOLDED="true" ID="ID_1341014500" CREATED="1643685374654" MODIFIED="1643685376126">
-<node TEXT="" ID="ID_850313804" CREATED="1643658341824" MODIFIED="1643659521319">
-<hook URI="banking%20business_files/png_5745792038375600778.png" SIZE="0.41829306" NAME="ExternalObject"/>
+<node TEXT="coding" ID="ID_395779418" CREATED="1650937631158" MODIFIED="1650937633092">
+<node TEXT="my game abyss_defence" ID="ID_1389403686" CREATED="1650937633254" MODIFIED="1650937645745"/>
 </node>
 </node>
 </node>
-<node TEXT="dad&apos;s" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_456260017" CREATED="1650955189022" MODIFIED="1650955208619" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="padlock_closed@b"/>
-<node TEXT="R4e3w2q1" ID="ID_1468418984" CREATED="1650955209394" MODIFIED="1650955212865"/>
+<node TEXT="2021" OBJECT="java.lang.Long|2021" POSITION="right" ID="ID_1853869437" CREATED="1650934177218" MODIFIED="1650934189812">
+<node TEXT="spring" ID="ID_1518444536" CREATED="1650935580296" MODIFIED="1650935759008">
+<icon BUILTIN="calendar@b"/>
+<node TEXT="gardening" ID="ID_631216434" CREATED="1650935392841" MODIFIED="1650935395636">
+<node TEXT="preparing plantlets" ID="ID_1231256063" CREATED="1650935390802" MODIFIED="1650935499856">
+<icon BUILTIN="plus@b"/>
+<node TEXT="too many tomatoes" ID="ID_1765525693" CREATED="1650935505351" MODIFIED="1650935514966">
+<node TEXT="which ended up destroyed by fungi" ID="ID_477416268" CREATED="1650935516398" MODIFIED="1650935543749">
+<icon BUILTIN="bad@bleak"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="summer" ID="ID_1274487683" CREATED="1650934266481" MODIFIED="1650935759007">
+<icon BUILTIN="calendar@b"/>
+<node TEXT="gardening" ID="ID_606982209" CREATED="1650935392841" MODIFIED="1650935395636">
+<node TEXT="whole garden is taken up by plants" ID="ID_11558641" CREATED="1650934190534" MODIFIED="1650934889180">
+<icon BUILTIN="plus@b"/>
+<node TEXT="almost no space left in the bottom" ID="ID_1315561323" CREATED="1650934217645" MODIFIED="1650934227881"/>
+<node TEXT="growing beds on the top" ID="ID_699047888" CREATED="1650934231394" MODIFIED="1650934901586">
+<icon BUILTIN="plus@b"/>
+</node>
+<node TEXT="greenhouse isn&apos;t used" ID="ID_327041473" CREATED="1650934296704" MODIFIED="1650935339953">
+<icon BUILTIN="useless"/>
+<node TEXT="no rain, needs manual watering" ID="ID_1645358943" CREATED="1650934952163" MODIFIED="1650935286414">
+<icon BUILTIN="programming/goal"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="broke up with wafa" ID="ID_128290271" CREATED="1650936276595" MODIFIED="1650936293339">
+<node TEXT="" ID="ID_539650246" CREATED="1650937214014" MODIFIED="1650937214014"/>
+</node>
+</node>
+<node TEXT="autumn" ID="ID_221380164" CREATED="1650935814974" MODIFIED="1650935830433">
+<icon BUILTIN="calendar@b"/>
+<node TEXT="gardening" ID="ID_1651132763" CREATED="1650935831267" MODIFIED="1650935841917">
+<node TEXT="discovered new crops" ID="ID_1493923954" CREATED="1650935864645" MODIFIED="1650935931830">
+<icon BUILTIN="good@bleak"/>
+<node TEXT="aubergines" ID="ID_300296430" CREATED="1650935882333" MODIFIED="1650935885209"/>
+<node TEXT="pumpkins" ID="ID_422267295" CREATED="1650935842597" MODIFIED="1650935863756"/>
+<node TEXT="corn" ID="ID_715886942" CREATED="1650935879345" MODIFIED="1650935881569"/>
+</node>
+</node>
+</node>
+<node TEXT="winter" ID="ID_1067478422" CREATED="1650936337465" MODIFIED="1650936344095">
+<icon BUILTIN="calendar@b"/>
+<node TEXT="people" ID="ID_554966180" CREATED="1650936120636" MODIFIED="1650936283801">
+<node TEXT="eman disappeared" ID="ID_770513279" CREATED="1650936344742" MODIFIED="1650936351031">
+<icon BUILTIN="bad@bleak"/>
+</node>
+</node>
+<node TEXT="coding" ID="ID_734411978" CREATED="1650937546461" MODIFIED="1650937550325">
+<node TEXT="stopped making my game" ID="ID_111756628" CREATED="1650937551155" MODIFIED="1650937614407">
+<icon BUILTIN="useless"/>
+</node>
+<node TEXT="focused on unity_ai" ID="ID_952148946" CREATED="1650937591610" MODIFIED="1650937673361"/>
+</node>
+</node>
+</node>
+<node TEXT="2022" OBJECT="java.lang.Long|2022" POSITION="right" ID="ID_1368563362" CREATED="1650935573061" MODIFIED="1650935574870">
+<node TEXT="spring" ID="ID_924411261" CREATED="1650935575612" MODIFIED="1650935759002">
+<icon BUILTIN="calendar@b"/>
+<node TEXT="gardening" ID="ID_1526707881" CREATED="1650935733972" MODIFIED="1650935736405">
+<node TEXT="preparing plantlets" ID="ID_1183008300" CREATED="1650935736548" MODIFIED="1650935793778">
+<node TEXT="accent on aubergines" ID="ID_648139309" CREATED="1650935798285" MODIFIED="1650935807576"/>
+<node TEXT="tomatoes didn&apos;t grow as high as last year" ID="ID_1360406090" CREATED="1650935904640" MODIFIED="1650935926790">
+<icon BUILTIN="bad@bleak"/>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 </map>
