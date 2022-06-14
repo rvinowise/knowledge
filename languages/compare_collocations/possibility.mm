@@ -206,13 +206,13 @@
 <font BOLD="true"/>
 <node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
 <node TEXT="feminine" LOCALIZED_STYLE_REF="default" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1638005675413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/feminine@b"/>
+<icon BUILTIN="grammar/gender/feminine"/>
 </node>
 <node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/masculine@b"/>
+<icon BUILTIN="grammar/gender/masculine"/>
 </node>
 <node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/both_genders@b"/>
+<icon BUILTIN="grammar/gender/both_genders"/>
 </node>
 </node>
 <node TEXT="number" ID="ID_1197699449" CREATED="1638005695736" MODIFIED="1638005698501">
@@ -223,7 +223,7 @@
 <node TEXT="syntax" ID="ID_1205169936" CREATED="1638005727863" MODIFIED="1638005731513">
 <node TEXT="sequence" ID="ID_1970909851" CREATED="1638005722645" MODIFIED="1638005725496">
 <node TEXT="word before its parent" ID="ID_704088312" CREATED="1638005732749" MODIFIED="1638005754493">
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+<icon BUILTIN="grammar/syntax/precedes_previous"/>
 </node>
 </node>
 </node>
@@ -253,7 +253,7 @@
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="lo" ID="ID_2686681" CREATED="1638057404148" MODIFIED="1638060904156" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous"/>
 </node>
 </node>
 </node>
@@ -263,7 +263,7 @@
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 <node TEXT="le" ID="ID_796111081" CREATED="1638057432104" MODIFIED="1638057444542" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+<icon BUILTIN="grammar/syntax/precedes_previous"/>
 </node>
 <node TEXT="cela" ID="ID_1579331013" CREATED="1638058051275" MODIFIED="1638058100610" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
@@ -276,7 +276,7 @@
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="hoc" LOCALIZED_STYLE_REF="default" ID="ID_1267618137" CREATED="1638057332600" MODIFIED="1638060944164" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
-<icon BUILTIN="arrows/shuffle@b"/>
+<icon BUILTIN="arrows/shuffle"/>
 </node>
 </node>
 </node>
@@ -301,7 +301,7 @@
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 <node TEXT="το" ID="ID_1522338190" CREATED="1638061318407" MODIFIED="1638061323137" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="arrows/arrow_left@b"/>
+<icon BUILTIN="arrows/arrow_left"/>
 </node>
 </node>
 </node>

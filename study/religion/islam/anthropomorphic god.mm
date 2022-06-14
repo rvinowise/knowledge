@@ -127,7 +127,7 @@
 <node TEXT="type: " POSITION="left" ID="ID_213266307" CREATED="1635986794012" MODIFIED="1635986794050"/>
 <node TEXT="sits on his throne" POSITION="right" ID="ID_1607465822" CREATED="1635986794054" MODIFIED="1635986832491">
 <node TEXT="His throne was on water" ID="ID_542792153" CREATED="1635987010989" MODIFIED="1635987089322" LINK="https://quran.com/11:7">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node ID="ID_1402038325" CREATED="1635987054404" MODIFIED="1635987057813">
 <icon BUILTIN="emoji-26F2"/>
@@ -147,11 +147,11 @@
 </richcontent>
 </node>
 <node TEXT="c.f. water above the sky" ID="ID_770958340" CREATED="1635987092079" MODIFIED="1635987221053">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 </node>
 </node>
 <node ID="ID_580434938" CREATED="1635987433587" MODIFIED="1635987455835" LINK="https://quran.com/40:7">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -175,7 +175,7 @@
 <node TEXT="has legs" POSITION="right" ID="ID_1192669173" CREATED="1635986841132" MODIFIED="1635986842863"/>
 <node TEXT="lives in the sky" POSITION="right" ID="ID_501508519" CREATED="1635986843394" MODIFIED="1635986854365">
 <node TEXT="the angels and the Spirit ascend to Him in one Day the duration of which is fifty thousand years." ID="ID_1992470056" CREATED="1635988288961" MODIFIED="1635988319604" LINK="https://quran.com/70:4">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

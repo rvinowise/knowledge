@@ -131,14 +131,14 @@
 </node>
 <node TEXT="family is inferior to islam" POSITION="right" ID="ID_542390437" CREATED="1635035155204" MODIFIED="1638746724474">
 <node TEXT="marriage must be nullified" ID="ID_833565818" CREATED="1635034992931" MODIFIED="1635035312234">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="if a spouse disbelieves in islam" ID="ID_116507256" CREATED="1635034954465" MODIFIED="1635035017239"/>
 </node>
 <node TEXT="children are often banished" ID="ID_977559560" CREATED="1635035183359" MODIFIED="1635035304416">
 <node TEXT="if they apostatise" ID="ID_823244062" CREATED="1635035212211" MODIFIED="1635035231557"/>
 </node>
 <node TEXT="daughters hate their mothers" ID="ID_1721475798" CREATED="1635035416648" MODIFIED="1635035439716">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="" ID="ID_1192734813" CREATED="1638747787062" MODIFIED="1638747787062"/>
 </node>
 <node TEXT="husbands kill their wives" ID="ID_369749115" CREATED="1638747791448" MODIFIED="1638747804944">

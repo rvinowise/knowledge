@@ -208,7 +208,7 @@
 </node>
 <node TEXT="attempted by some muslims" LOCALIZED_STYLE_REF="default" ID="ID_233556773" CREATED="1643191773562" MODIFIED="1643191995954" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="we just want peace" ID="ID_1128429339" CREATED="1643191640672" MODIFIED="1643191647148">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node ID="ID_1899935763" CREATED="1643191841494" MODIFIED="1643191890233"><richcontent TYPE="NODE">
@@ -243,7 +243,7 @@
 </html>
 </richcontent>
 <node TEXT="are you going to establish an evil ruler?" ID="ID_430461480" CREATED="1643312543652" MODIFIED="1643312563415">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="god challenged doubting angels to name all things, showing their incompetence to doubt god" ID="ID_1788894218" CREATED="1644020641715" MODIFIED="1644020764481" LINK="https://quran.com/2:31?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
@@ -252,7 +252,7 @@
 <node TEXT="messy writing" ID="ID_1707393646" CREATED="1644019479151" MODIFIED="1644019483419">
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="god showed the names, then showed These_names to angels, ans asked them to say the Names_of_those_names" ID="ID_863578905" CREATED="1644019557647" MODIFIED="1644020630475">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="the only translation making it comprehensible is Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_176279917" CREATED="1644020588002" MODIFIED="1644020609471"/>
 </node>
@@ -298,7 +298,7 @@
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="why killing him knowing that he&apos;s a prophet (and face punishment)?" ID="ID_1602170610" CREATED="1643319704287" MODIFIED="1643319735971"/>
 <node TEXT="most prophets bring a message that everybody Would Like" ID="ID_1704859411" CREATED="1643319757882" MODIFIED="1643324843044">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 </node>
@@ -319,7 +319,7 @@
 </richcontent>
 <node TEXT="god allowed adam and eve to eat everything apart from the forbidden fruit" LOCALIZED_STYLE_REF="default" ID="ID_1248085046" CREATED="1644022710824" MODIFIED="1644029834717" LINK="https://quran.com/2:35?font=v1&amp;translations=149%2C167%2C131%2C85%2C95%2C19%2C206" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 <node TEXT="and remember how..." ID="ID_1407939913" CREATED="1643203698409" MODIFIED="1643313192468">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="god parted the sea for moses" LOCALIZED_STYLE_REF="default" ID="ID_1832116970" CREATED="1643307700226" MODIFIED="1644025755622" LINK="https://quran.com/2:50?font=v1&amp;translations=149%2C95%2C206%2C20%2C207" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 <node TEXT="you worshipped the calf" ID="ID_932755223" CREATED="1643328137708" MODIFIED="1644025772758" LINK="https://quran.com/2:51?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
@@ -333,7 +333,7 @@
 <node TEXT="god turned deniers of sabbath into despicable apes" ID="ID_723056377" CREATED="1643312683712" MODIFIED="1644027127939" LINK="https://quran.com/2:65?font=v1&amp;translations=149%2C95%2C20"/>
 <node TEXT="jews demanded to see god as a proof" ID="ID_1511397217" CREATED="1644026550252" MODIFIED="1644026696843" LINK="#ID_1029443112">
 <node TEXT="god killed those jews" ID="ID_889267525" CREATED="1644026584729" MODIFIED="1644026630837" LINK="https://quran.com/2:55?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 <node TEXT="then god resurrected those jews" LOCALIZED_STYLE_REF="default" ID="ID_331529618" CREATED="1643309681970" MODIFIED="1644026613213" LINK="https://quran.com/2:56?font=v1&amp;translations=149%2C167%2C131%2C85%2C19%2C206" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 <node TEXT="in torah jews successfully saw god" ID="ID_665267773" CREATED="1644026632236" MODIFIED="1644026672722">
 <icon BUILTIN="control/comment"/>
@@ -391,7 +391,7 @@
 </node>
 <node TEXT="jews didn&apos;t like a divinely appointed king, because he was poor" ID="ID_654907042" CREATED="1643773248972" MODIFIED="1643773280554" LINK="https://quran.com/2:247?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="the proof of his power will be the ark of covenant, returned by angel" ID="ID_1986393128" CREATED="1643773589507" MODIFIED="1643829294722" LINK="https://quran.com/2:248?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 </node>
 </node>
 <node TEXT="Saul (Talut) - first king of united jews" ID="ID_1375072242" CREATED="1643829750422" MODIFIED="1643829780644">
@@ -416,7 +416,7 @@
 </node>
 </node>
 <node TEXT="a man was resurrected after 100 years" ID="ID_6516345" CREATED="1643843471013" MODIFIED="1643844147551" LINK="https://quran.com/2:259?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 <node TEXT="after asking god how he can resurrect the dead" ID="ID_1042349043" CREATED="1643843536079" MODIFIED="1643843553746"/>
 </node>
 <node TEXT="abraham&apos;s birds are resurrected as a proof" ID="ID_1614576078" CREATED="1643844149505" MODIFIED="1643844193472" LINK="#ID_1038456297"/>
@@ -448,7 +448,7 @@
 </html>
 </richcontent>
 <node TEXT="it&apos;s about their nation, not religion" LOCALIZED_STYLE_REF="default" ID="ID_1375294620" CREATED="1643203794413" MODIFIED="1643203829989" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -761,13 +761,13 @@
 </node>
 <node TEXT="don&apos;t eat specific things" ID="ID_776886372" CREATED="1643672310956" MODIFIED="1643672658625" LINK="https://quran.com/2:173?font=v1&amp;translations=149%2C171%2C167%2C95%2C20">
 <node TEXT="pork" ID="ID_1361200396" CREATED="1643672352151" MODIFIED="1643672402600">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="carrion" ID="ID_549372502" CREATED="1643672354252" MODIFIED="1643672403057">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="animals not slaughtered according to islamic rituals" ID="ID_1810395672" CREATED="1643672361603" MODIFIED="1643672403373">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="controversy" LOCALIZED_STYLE_REF="default" ID="ID_1235203039" CREATED="1643672537956" MODIFIED="1643767201366" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="slaughtering in the name of Other gods is prohibited" ID="ID_189715851" CREATED="1643672562124" MODIFIED="1643672625773">
@@ -798,7 +798,7 @@
 <node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1480880271" CREATED="1643674572048" MODIFIED="1643674575625">
 <icon BUILTIN="emoji-26F2"/>
 <node TEXT="like Most other Injunctions of Islam .. revealed gradually" ID="ID_1298832301" CREATED="1643674599179" MODIFIED="1643674675402">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -1069,7 +1069,7 @@
 </node>
 <node TEXT="god gave you life and kills you" ID="ID_1768410500" CREATED="1644018006574" MODIFIED="1644018057591" LINK="https://quran.com/2:28?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="and yet you (still) deny him" ID="ID_399846366" CREATED="1644018069587" MODIFIED="1644018089492">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="nonsense argument" ID="ID_1596441510" CREATED="1644018058389" MODIFIED="1644018067565">
 <icon BUILTIN="control/hashtag"/>
@@ -1119,7 +1119,7 @@
 </html>
 </richcontent>
 <node TEXT="produce your proof if you&apos;re truthful" ID="ID_922193928" CREATED="1643400291656" MODIFIED="1643400314785" LINK="https://quran.com/2:111?font=v1&amp;translations=149%2C95%2C20">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -1238,12 +1238,12 @@
 </html>
 </richcontent>
 <node TEXT="because they will have sex with invaders" ID="ID_1727555734" CREATED="1643192042025" MODIFIED="1644025704043">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <icon BUILTIN="control/comment"/>
 <node TEXT="damaging the honor of their family" ID="ID_526246048" CREATED="1643192108155" MODIFIED="1643192144368"/>
 </node>
 <node TEXT="god harshly tested you by" ID="ID_147653278" CREATED="1643192149610" MODIFIED="1643192171665">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="killing your sons" STYLE_REF="list item" ID="ID_603186297" CREATED="1643192162985" MODIFIED="1643194370787" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 <node TEXT="letting your women live" STYLE_REF="list item" ID="ID_704781135" CREATED="1643194371262" MODIFIED="1643203594711"/>
@@ -1494,7 +1494,7 @@
 </node>
 <node TEXT="kafara" ID="ID_1860631796" CREATED="1643661935996" MODIFIED="1643661962608">
 <icon BUILTIN="control/comment"/>
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 <node TEXT="is translated either as &quot;deny&quot; or &quot;disbelieve&quot; by different translators" ID="ID_1330934663" CREATED="1643661963811" MODIFIED="1643662017317" LINK="https://quran.com/2:161?font=v1&amp;translations=149%2C171%2C167%2C95%2C20"/>
 </node>
 <node TEXT="concealing the scriptures from laymen" ID="ID_990064516" CREATED="1643673059684" MODIFIED="1643937462597">
@@ -1506,7 +1506,7 @@
 <icon BUILTIN="emoji-2754"/>
 </node>
 <node TEXT="but other translations say Jews and Christians conceal the truth" ID="ID_765585009" CREATED="1643661740967" MODIFIED="1643661813093">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <icon BUILTIN="control/comment"/>
 <node TEXT="christianity is proselytising (not &quot;concealing&quot; anything)" ID="ID_1331476468" CREATED="1643661764927" MODIFIED="1643661786001"/>
 </node>
@@ -1623,7 +1623,7 @@
 </node>
 </node>
 <node TEXT="there are people who call god as the witness of their impressive wordly talks. they are worst enemies" ID="ID_795510600" CREATED="1643753886883" MODIFIED="1643938021298" LINK="https://quran.com/2:204?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="after their talks they go sinning and destroying progeny" ID="ID_1435189268" CREATED="1643753987769" MODIFIED="1643754017258" LINK="https://quran.com/2:205?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="controversial translation" ID="ID_1155733405" CREATED="1643754057940" MODIFIED="1643937516651">
 <icon BUILTIN="control/hashtag"/>
@@ -1636,7 +1636,7 @@
 </node>
 </node>
 <node ID="ID_695763890" CREATED="1643754221311" MODIFIED="1643754279432" LINK="https://quran.com/2:207?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1654,7 +1654,7 @@
 </node>
 <node TEXT="everybody worships something" ID="ID_75580180" CREATED="1643671916979" MODIFIED="1643671939308" LINK="https://quran.com/2:172?font=v1&amp;translations=149%2C171%2C167%2C95%2C20">
 <node TEXT="if it&apos;s Him whom you worship" ID="ID_683473965" CREATED="1643671932380" MODIFIED="1643671958992">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="what if it&apos;s nobody?" ID="ID_1998603608" CREATED="1643671959138" MODIFIED="1643671968733">
 <icon BUILTIN="control/comment"/>
@@ -1718,7 +1718,7 @@
 <node TEXT="predestination (qadr)" ID="ID_1903403529" CREATED="1643832403667" MODIFIED="1643832413075">
 <node TEXT="god sealed hearts of disbelievers (hence their disbelief)" ID="ID_378152863" CREATED="1643939352912" MODIFIED="1643939845724" LINK="https://quran.com/2:7?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="modern explanations say that disbelievers decided to disbelieve first, and Then god sealed them" ID="ID_555715916" CREATED="1643939773759" MODIFIED="1643939886174" LINK="#ID_1274718667">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 <node TEXT="people fight because god wants it" ID="ID_786889772" CREATED="1643832413973" MODIFIED="1643832461621" LINK="https://quran.com/2:253?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>
@@ -1750,7 +1750,7 @@
 <node TEXT="satan says you will be poor by donating money" ID="ID_981964510" CREATED="1643922536414" MODIFIED="1644185108989" LINK="https://quran.com/2:268?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="funny" LOCALIZED_STYLE_REF="default" ID="ID_1552844915" CREATED="1643922589820" MODIFIED="1644185079125" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="control/hashtag"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="satan never keeps his promises (most kafir countries are rich)" ID="ID_1385997883" CREATED="1643922601754" MODIFIED="1643922639247"/>
 </node>
 </node>
@@ -1854,7 +1854,7 @@
 </node>
 <node TEXT="business" ID="ID_301212761" CREATED="1643925999716" MODIFIED="1643926003430">
 <node TEXT="don&apos;t buy and sell quran" ID="ID_1612206837" CREATED="1644025048470" MODIFIED="1644025076092" LINK="https://quran.com/2:41?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="owing money" ID="ID_888901624" CREATED="1643934317840" MODIFIED="1643934323266">
 <node TEXT="don&apos;t take interest" ID="ID_1479834136" CREATED="1643926004791" MODIFIED="1643934332687" LINK="https://quran.com/2:275?font=v1&amp;translations=149%2C167%2C131%2C85%2C19%2C206"/>
@@ -2042,7 +2042,7 @@
 <node TEXT="" ID="ID_483986753" CREATED="1643832248226" MODIFIED="1643832248226"/>
 </node>
 <node TEXT="ok, i will believe" ID="ID_452748924" CREATED="1643832278949" MODIFIED="1643832286351">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="is it empty?" ID="ID_1024727657" CREATED="1643832304369" MODIFIED="1643832312005"/>
 </node>

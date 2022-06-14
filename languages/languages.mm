@@ -142,7 +142,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="compare_colocations" POSITION="right" ID="ID_1720804096" CREATED="1637117029240" MODIFIED="1637161318968" LINK="compare_collocations/">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <node TEXT="foolishness.mm" ID="ID_1325955562" CREATED="1637181382311" MODIFIED="1637181382315" LINK="compare_collocations/information/foolishness.mm"/>
 <node TEXT="exchanging information" ID="ID_454811070" CREATED="1637130958457" MODIFIED="1640899053478" LINK="compare_collocations/exchanging%20information.mm"/>
 <node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="compare_collocations/using.mm"/>
@@ -260,13 +260,13 @@
 <font BOLD="true"/>
 <node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
 <node TEXT="feminine" LOCALIZED_STYLE_REF="default" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1638005675413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/feminine@b"/>
+<icon BUILTIN="grammar/gender/feminine"/>
 </node>
 <node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/masculine@b"/>
+<icon BUILTIN="grammar/gender/masculine"/>
 </node>
 <node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/both_genders@b"/>
+<icon BUILTIN="grammar/gender/both_genders"/>
 </node>
 </node>
 <node TEXT="number" ID="ID_1197699449" CREATED="1638005695736" MODIFIED="1638005698501">
@@ -277,7 +277,7 @@
 <node TEXT="syntax" ID="ID_1205169936" CREATED="1638005727863" MODIFIED="1638005731513">
 <node TEXT="sequence" ID="ID_1970909851" CREATED="1638005722645" MODIFIED="1638005725496">
 <node TEXT="word before its parent" ID="ID_704088312" CREATED="1638005732749" MODIFIED="1638005754493">
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+<icon BUILTIN="grammar/syntax/precedes_previous"/>
 </node>
 </node>
 </node>
@@ -288,17 +288,17 @@
 </node>
 <node TEXT="control" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1639451537112">
 <node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 </node>
 <node TEXT="unnecessary" ID="ID_728579299" CREATED="1639451543852" MODIFIED="1639451557845">
-<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+<icon BUILTIN="size_optimisation/unnecessary_node"/>
 </node>
 <node TEXT="declaration of variable" LOCALIZED_STYLE_REF="default" ID="ID_1822291525" CREATED="1639451560357" MODIFIED="1639809400026" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 <node TEXT="all siblings are possible values of it (can substitute it)" ID="ID_1974389339" CREATED="1639809410262" MODIFIED="1639809455559"/>
 </node>
 <node ID="ID_716132178" CREATED="1639464033853" MODIFIED="1639464121745">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -314,10 +314,10 @@
 </richcontent>
 </node>
 <node TEXT="same as parent (can substitute it)" ID="ID_1249817900" CREATED="1639453816860" MODIFIED="1639453847531">
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 <node TEXT="peculiar changes that are described in the comment" LOCALIZED_STYLE_REF="default" ID="ID_664356964" CREATED="1639809482935" MODIFIED="1639810963320" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="cog@b"/>
+<icon BUILTIN="cog"/>
 <node TEXT="these changes apply to every occurance of the parent" ID="ID_1458823456" CREATED="1639809563939" MODIFIED="1639809585044"/>
 </node>
 </node>

@@ -95,7 +95,7 @@
 </node>
 </node>
 <node TEXT="after the battle of badr" LOCALIZED_STYLE_REF="default" ID="ID_784837616" CREATED="1648424036583" MODIFIED="1648424116458" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 </node>
 <node TEXT="assembling quran" ID="ID_1949061818" CREATED="1643938226182" MODIFIED="1643938252440">
 <icon BUILTIN="control/hashtag"/>
@@ -114,7 +114,7 @@
 </node>
 </node>
 <node TEXT="when christians from najran visited muhammad" LOCALIZED_STYLE_REF="default" ID="ID_1845427295" CREATED="1648424088512" MODIFIED="1648424222468" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 </node>
 </node>
 <node TEXT="verses 121-200" STYLE_REF="list item" ID="ID_1757125812" CREATED="1648423960463" MODIFIED="1648424253196">
@@ -131,7 +131,7 @@
 </node>
 </node>
 <node TEXT="after the battle of uhud" ID="ID_973365282" CREATED="1648424255049" MODIFIED="1648424265873">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 </node>
 </node>
 </node>
@@ -145,7 +145,7 @@
 <node TEXT="god talks directly to muhammad" ID="ID_661895154" CREATED="1645473453041" MODIFIED="1645473463752">
 <node TEXT="god ensures muhammad that he&apos;s receiving secred data from god" ID="ID_901882786" CREATED="1645473464277" MODIFIED="1647905563364" LINK="https://quran.com/3:44?font=v1&amp;translations=149%2C131%2C95%2C20">
 <node TEXT="" ID="ID_1991257467" CREATED="1645474921675" MODIFIED="1645474948361" LINK="#ID_866717018">
-<icon BUILTIN="chain2@b"/>
+<icon BUILTIN="chain2"/>
 </node>
 </node>
 <node TEXT="god reminds muhammad what he said before" ID="ID_1765249959" CREATED="1647990252217" MODIFIED="1647990282359" LINK="https://quran.com/3?startingVerse=124"/>
@@ -279,7 +279,7 @@
 </node>
 <node TEXT="historical error" ID="ID_249559508" CREATED="1644687362824" MODIFIED="1644687395382">
 <icon BUILTIN="control/hashtag"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 </node>
@@ -307,7 +307,7 @@
 <node TEXT="war" ID="ID_185071713" CREATED="1648426297824" MODIFIED="1649089213969">
 <node TEXT="battle of badr" ID="ID_364023343" CREATED="1644096733032" MODIFIED="1644096736981">
 <node TEXT="a successful battle" ID="ID_26620018" CREATED="1648426347819" MODIFIED="1648426388464">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="muslims defeated twice as many enemies" ID="ID_1064711067" CREATED="1644096737352" MODIFIED="1644096812855">
 <node TEXT="it was a sign from god" ID="ID_440375006" CREATED="1644096831279" MODIFIED="1644096837095"/>
@@ -316,7 +316,7 @@
 </node>
 <node TEXT="battle of Uhud" ID="ID_650100486" CREATED="1647737204069" MODIFIED="1648426520303">
 <node TEXT="a lost battle" ID="ID_1561339106" CREATED="1648426363221" MODIFIED="1648426389372">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="two muslim commanders almost fleed" ID="ID_252596478" CREATED="1647737215732" MODIFIED="1647737227311" LINK="https://quran.com/3?startingVerse=122">
 <node TEXT="but they trusted allah and stayed" ID="ID_752596530" CREATED="1647737240361" MODIFIED="1647737249559"/>
@@ -336,7 +336,7 @@
 </node>
 <node TEXT="ungrateful muslims worried about their losses in the battle of uhud, Even Though they inflicted twice as much losses onto their enemies in the battle of badr" ID="ID_1232356415" CREATED="1649528120192" MODIFIED="1649528319189" LINK="https://quran.com/3?startingVerse=165">
 <node TEXT="why are you worried, if you killed more enemies than lost your people?" LOCALIZED_STYLE_REF="default" ID="ID_1346435962" CREATED="1649528335330" MODIFIED="1649528915234" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="evil god" ID="ID_1246493678" CREATED="1649528388370" MODIFIED="1649528393747">
 <icon BUILTIN="control/hashtag"/>
@@ -372,7 +372,7 @@
 </node>
 </node>
 <node TEXT=" if you are truthful" ID="ID_58211137" CREATED="1649535057925" MODIFIED="1649535062368">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -385,7 +385,7 @@
 </node>
 </node>
 <node TEXT="archers left positions willing to get their share of war booty" ID="ID_464961701" CREATED="1649089242544" MODIFIED="1649089334893" LINK="https://quran.com/3?startingVerse=161">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1438019591" CREATED="1649089287979" MODIFIED="1649089298539">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -475,7 +475,7 @@
 </node>
 <node TEXT="if muhammad dies, don&apos;t leave islam" ID="ID_1323704910" CREATED="1648427645337" MODIFIED="1648427671293" LINK="https://quran.com/3?startingVerse=144">
 <node TEXT="when rumors of muhammad&apos;s death disheartened muslims" ID="ID_891350287" CREATED="1648428803275" MODIFIED="1648428918604">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_716100760" CREATED="1648428824487" MODIFIED="1648428829164">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -557,7 +557,7 @@
 </node>
 <node TEXT="allah ensures muhammad that he is receiving secret information from god" ID="ID_866717018" CREATED="1645474593595" MODIFIED="1645474661271" LINK="https://quran.com/3:44?font=v1&amp;translations=149%2C131%2C95%2C20">
 <node TEXT="you weren&apos;t there, but now you know what happened" ID="ID_736002503" CREATED="1645474673574" MODIFIED="1645474707953">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="who was the guardian of Mary" ID="ID_860536366" CREATED="1645474709584" MODIFIED="1645474720361">
@@ -597,7 +597,7 @@
 <node TEXT="fake sources" ID="ID_1338883914" CREATED="1645475347797" MODIFIED="1645475363338">
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="it&apos;s from some apocrifal gospel" ID="ID_476070152" CREATED="1645475363595" MODIFIED="1645475382249">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 </node>
@@ -709,10 +709,10 @@
 </node>
 <node TEXT="replying to criticism" ID="ID_1879092582" CREATED="1647384055577" MODIFIED="1647384060667">
 <node TEXT="islam allows some food which is prohibited in judaism" ID="ID_946990588" CREATED="1647384491062" MODIFIED="1648592438965">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="original judaism also allowed that food" ID="ID_882617863" CREATED="1647384520036" MODIFIED="1647384588188" LINK="https://quran.com/3?startingVerse=93">
 <node TEXT="asks jews to just read torah to make sure" ID="ID_801443370" CREATED="1647384594745" MODIFIED="1648592443991">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="dumb argument" ID="ID_522788134" CREATED="1647384616196" MODIFIED="1649723469901">
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="tora is the very book which contradicts quran regarding allowed food" ID="ID_437184573" CREATED="1647384626172" MODIFIED="1647384647382"/>
@@ -722,9 +722,9 @@
 <node TEXT="rabbit, camel" ID="ID_1995381657" CREATED="1647384538359" MODIFIED="1647384544544"/>
 </node>
 <node TEXT="critics say real prophet wouldn&apos;t lose the battle of Uhud" ID="ID_723339233" CREATED="1648591232340" MODIFIED="1648592454533" LINK="https://quran.com/3?startingVerse=149">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="it&apos;s because muslims obeyed disbelievers" ID="ID_253050967" CREATED="1648592397795" MODIFIED="1648592455869">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1419046106" CREATED="1646347258617" MODIFIED="1646347271700">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -732,22 +732,22 @@
 </node>
 </node>
 <node TEXT="jews ridiculed allah for asking for loans" ID="ID_1151580905" CREATED="1649722493435" MODIFIED="1649722533863" LINK="#ID_1657871204">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="allah heard, and wrote down all the nasty things they say, to punish them later" LOCALIZED_STYLE_REF="default" ID="ID_1191919209" CREATED="1649722570318" MODIFIED="1649723444390" LINK="https://quran.com/3?startingVerse=181" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 </node>
 <node TEXT="jews said a real prophet should invoke magical fire when sacrificing (and muhammad didn&apos;t do that)" ID="ID_284633856" CREATED="1649723221362" MODIFIED="1649968293316" LINK="https://quran.com/3?startingVerse=183">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="but jews had people who invoked that magcal fire (and had other signs), and yet jews still dismissed them" LOCALIZED_STYLE_REF="default" ID="ID_534366579" CREATED="1649723411706" MODIFIED="1649724090818" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="dumb argument" ID="ID_243528791" CREATED="1649724091065" MODIFIED="1649724096669">
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="magical fire is not the only sign, if at least one sign is not fulfilled - such a &quot;prophet&quot; is considered a fake. but muhammad didn&apos;t even fulfill that first sign" ID="ID_1783370898" CREATED="1649724097028" MODIFIED="1650494261237">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="but it&apos;s not about jews (as a religion), it&apos;s about pagan worshippers of baal - they killed elijah" ID="ID_177652393" CREATED="1649724408234" MODIFIED="1649724911646">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1576967803" CREATED="1649724398524" MODIFIED="1649724407284">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -755,7 +755,7 @@
 <icon BUILTIN="emoji-2754"/>
 </node>
 <node TEXT="those evil jews of the past about whom quran is raving, that they killed many prophets - they are completely different people from the (real) jews, who are suspicious about muhammad?" ID="ID_1150245740" CREATED="1649725190877" MODIFIED="1649725285947">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="dumb argument" ID="ID_59002913" CREATED="1649725367574" MODIFIED="1649725381997">
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="like ad-hominem, but &quot;ad-genus&quot; - &quot;their race was bad, therefore allah is not going to fulfill their prophecies and signs&quot;" ID="ID_787356642" CREATED="1649725382159" MODIFIED="1649725878081"/>
@@ -766,12 +766,12 @@
 </node>
 </node>
 <node TEXT="jews (israelites?) didn&apos;t accept other prophets in the past, so, it&apos;s ok that they don&apos;t accepd muhammad" ID="ID_1998862295" CREATED="1649725984934" MODIFIED="1649726032000" LINK="https://quran.com/3?startingVerse=184">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="jews asked muhamad for miracles" LOCALIZED_STYLE_REF="default" ID="ID_104592697" CREATED="1649977925556" MODIFIED="1649977948466" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="muhammad recited surah 3imrAn from 190 till the end" ID="ID_1031817839" CREATED="1649977968388" MODIFIED="1649978011867">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1766160013" CREATED="1646347258617" MODIFIED="1649977965487" LINK="https://quran.com/3?startingVerse=195">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -820,12 +820,12 @@
 <node TEXT="accepting god" ID="ID_719953127" CREATED="1647376757444" MODIFIED="1647376759563">
 <node TEXT="everybody submits to allah either willingly or unwillingly" ID="ID_1211034361" CREATED="1647376760277" MODIFIED="1647376809627" LINK="https://quran.com/3?startingVerse=83">
 <node TEXT="unwilling submission is" ID="ID_607426906" CREATED="1650505149736" MODIFIED="1650575523111">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 </node>
 <node TEXT="muslims pray by saying that they attained faith after hearing the call of muhammad" ID="ID_1082621994" CREATED="1649973460447" MODIFIED="1649973666431" LINK="https://quran.com/3?startingVerse=193">
 <node TEXT="he said: &quot;Believe in your Lord&quot;, and we believed." ID="ID_1735371887" CREATED="1649973667687" MODIFIED="1649973686758">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -857,7 +857,7 @@
 <node TEXT="feelings are secondary to words, and given by god" LOCALIZED_STYLE_REF="default" ID="ID_1864144933" CREATED="1648606920161" MODIFIED="1648608504249" LINK="https://quran.com/3?startingVerse=156" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="don&apos;t say &quot;i regret&quot;, or else god will give you sense of regret" ID="ID_633741950" CREATED="1648606942126" MODIFIED="1648606964673"/>
 <node TEXT="it may be about the &quot;misconception&quot; that it could have been prevented (word &quot;misconception&quot; is inserted by some translators)" ID="ID_223465916" CREATED="1648608512758" MODIFIED="1648608589250">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="Saheeh International" ID="ID_715840622" CREATED="1648608544354" MODIFIED="1648608556145">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -1005,7 +1005,7 @@
 </node>
 <node TEXT="a prophet always distributes spoils of war fairly among his people" ID="ID_1626606435" CREATED="1649089833568" MODIFIED="1649089886418" LINK="https://quran.com/3?startingVerse=161">
 <node TEXT="because of greedy archers" ID="ID_1013129770" CREATED="1649090105363" MODIFIED="1649090179414" LINK="#ID_733354450">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 </node>
 </node>
 <node TEXT="muhammad" ID="ID_79430861" CREATED="1649091905415" MODIFIED="1649091907405">
@@ -1067,7 +1067,7 @@
 <node TEXT="paradise" ID="ID_500266604" CREATED="1644097136552" MODIFIED="1644097138288">
 <node TEXT="gardens beneath which rivers flow" ID="ID_381158432" CREATED="1644014619109" MODIFIED="1644097178934" LINK="https://quran.com/3:15?font=v1&amp;translations=149%2C167%2C131%2C85%2C95%2C19%2C206">
 <node TEXT="baqara" LOCALIZED_STYLE_REF="default" ID="ID_1968688342" CREATED="1644097181084" MODIFIED="1644097217416" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 <node TEXT="" ID="ID_227941053" CREATED="1649974928862" MODIFIED="1649974933163" LINK="https://quran.com/3?startingVerse=195"/>
 <node TEXT="" ID="ID_1415872599" CREATED="1649978952057" MODIFIED="1649978954687" LINK="https://quran.com/3?startingVerse=198"/>
@@ -1172,7 +1172,7 @@
 <node TEXT="the repentance of those who disbelieved after having believed won&apos;t be accepted" ID="ID_1032351590" CREATED="1647378742693" MODIFIED="1647378784034" LINK="https://quran.com/3?startingVerse=90">
 <node TEXT="it&apos;s only the repentance after their dead" ID="ID_142931637" CREATED="1647378785599" MODIFIED="1647378822657">
 <icon BUILTIN="control/comment"/>
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="Dr. Mustafa Khattab, the Clear Quran" ID="ID_1878030755" CREATED="1647378825101" MODIFIED="1647378835916">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -1216,7 +1216,7 @@
 <node TEXT="the best of deceivers" ID="ID_1351820815" CREATED="1645476943206" MODIFIED="1645476949103">
 <node TEXT="when disbelievers schemed against jesus god over-schemed them" ID="ID_36381940" CREATED="1645476953613" MODIFIED="1645476979164"/>
 <node TEXT="Makr" ID="ID_257293601" CREATED="1645476982110" MODIFIED="1645476997491">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 <node TEXT="translated as planner, schemer" ID="ID_1328198326" CREATED="1645476998516" MODIFIED="1645477009931"/>
 </node>
 </node>
@@ -1228,7 +1228,7 @@
 </node>
 <node TEXT="allah staged a military defeat, In_order_to Know who&apos;s the true believer" ID="ID_1043747385" CREATED="1649530636070" MODIFIED="1649530707472" LINK="https://quran.com/3?startingVerse=166">
 <node TEXT="battle of uhud" ID="ID_944271169" CREATED="1649530651134" MODIFIED="1649530666346">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 </node>
 <node TEXT="and to know who&apos;s the hypocrite" ID="ID_139434103" CREATED="1649532968833" MODIFIED="1649532988586" LINK="https://quran.com/3?startingVerse=167"/>
 </node>
@@ -1245,7 +1245,7 @@
 <node TEXT="what are they talking about?" ID="ID_1690500315" CREATED="1648603572207" MODIFIED="1648603609516">
 <icon BUILTIN="emoji-2754"/>
 <node TEXT="If it were up to us, none of us would have been killed here" ID="ID_1734735332" CREATED="1648603547034" MODIFIED="1648603607925">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -1309,7 +1309,7 @@
 <node TEXT="prayer" ID="ID_1457135104" CREATED="1644108282390" MODIFIED="1644108284284">
 <node TEXT="pray for forgiveness before dawn" ID="ID_452250408" CREATED="1644108284560" MODIFIED="1644108314430"/>
 <node TEXT="oh god, you didn&apos;t created it all in vain" ID="ID_485537571" CREATED="1649971425300" MODIFIED="1649971457423">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

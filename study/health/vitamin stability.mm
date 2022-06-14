@@ -145,7 +145,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -169,7 +169,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -177,12 +177,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="" ID="ID_85762982" CREATED="1633811933391" MODIFIED="1635773283879" BACKGROUND_COLOR="#e5e5e5">
@@ -201,7 +201,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -229,16 +229,16 @@
 </node>
 <node TEXT="b12" POSITION="right" ID="ID_190691352" CREATED="1641512680868" MODIFIED="1641512687252">
 <node TEXT="heat" ID="ID_1382244266" CREATED="1641512687890" MODIFIED="1641512691310">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="acidity" ID="ID_153214123" CREATED="1641512691707" MODIFIED="1641512704212">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 <node TEXT="alcalinity" ID="ID_127854812" CREATED="1641512699425" MODIFIED="1641512704209">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 <node TEXT="reduction" ID="ID_409033954" CREATED="1641513251027" MODIFIED="1641513355424" LINK="https://en.wikipedia.org/wiki/Reducing_agent">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="some acids" LOCALIZED_STYLE_REF="default" ID="ID_1659145834" CREATED="1641513256130" MODIFIED="1641513458116" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="formic" ID="ID_419032903" CREATED="1641513267536" MODIFIED="1641513269793"/>

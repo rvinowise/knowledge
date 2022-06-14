@@ -209,7 +209,7 @@
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="لَامَه في" ID="ID_1732834767" CREATED="1637324922784" MODIFIED="1637336943074" COLOR="#666666">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -253,7 +253,7 @@
 <font BOLD="true"/>
 <node TEXT="[problem]" ID="ID_1774971138" CREATED="1637326638060" MODIFIED="1637336845372">
 <node TEXT="reason to blame" ID="ID_1671738837" CREATED="1637326663598" MODIFIED="1637336870817">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 </node>

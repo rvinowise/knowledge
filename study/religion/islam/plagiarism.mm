@@ -124,7 +124,7 @@
 </hook>
 <node TEXT="type: study" POSITION="left" ID="ID_1713325462" CREATED="1633688130034" MODIFIED="1633688130035"/>
 <node TEXT="the last ones will be the first" POSITION="right" ID="ID_1865918927" CREATED="1633688131189" MODIFIED="1633688206220">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="jesus" ID="ID_502144013" CREATED="1633688155844" MODIFIED="1633688168692">
 <icon BUILTIN="emoji-26F2"/>

@@ -279,12 +279,12 @@
 </node>
 <node TEXT="شَيءًا" ID="ID_420025619" CREATED="1637364707949" MODIFIED="1637365448678" COLOR="#666666">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="شَخصًا" ID="ID_1758175863" CREATED="1637365450453" MODIFIED="1637365510716" COLOR="#666666">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="اِحْتَاجَ" ID="ID_740678382" CREATED="1637365161924" MODIFIED="1637365199678" COLOR="#000000">

@@ -209,7 +209,7 @@
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="i&apos;m hugry" ID="ID_1742247839" CREATED="1637166303957" MODIFIED="1637166322737" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -220,7 +220,7 @@
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="tengo hambre" ID="ID_1681513143" CREATED="1637166315218" MODIFIED="1637166333969" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

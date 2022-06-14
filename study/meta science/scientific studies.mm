@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,7 +170,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -178,12 +178,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -199,7 +199,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -226,7 +226,7 @@
 <node TEXT="longitudinal study" ID="ID_1878949647" CREATED="1646396222000" MODIFIED="1646465719694">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="during a long period of time" ID="ID_1564563436" CREATED="1646396233423" MODIFIED="1646396494531">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 <node TEXT="observation of people" ID="ID_1370557946" CREATED="1646396260711" MODIFIED="1646396270499"/>
 </node>
@@ -236,10 +236,10 @@
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="at one moment" ID="ID_1709807071" CREATED="1646396284032" MODIFIED="1646396288070"/>
 <node TEXT="inexpensive and fast" ID="ID_1206790475" CREATED="1646396976285" MODIFIED="1646396985957">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="can&apos;t determine a cause of something" ID="ID_1634744042" CREATED="1646396468087" MODIFIED="1646396490126">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 <node TEXT="find relations between variables for further investigation" ID="ID_68587946" CREATED="1646396638963" MODIFIED="1646396651742"/>
 </node>

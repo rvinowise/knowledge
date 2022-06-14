@@ -219,7 +219,7 @@
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="tiene mucha imaginación" ID="ID_221760367" CREATED="1637213274991" MODIFIED="1637213297705" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

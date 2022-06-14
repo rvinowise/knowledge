@@ -132,7 +132,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="new religions are unique" POSITION="right" ID="ID_88825196" CREATED="1641758329093" MODIFIED="1641771630337">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma"/>
 <node TEXT="when they begin" LOCALIZED_STYLE_REF="default" ID="ID_337760340" CREATED="1641758300631" MODIFIED="1641760864572" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <font NAME="Tahoma"/>
@@ -148,11 +148,11 @@
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 <node TEXT="peoblem of the followers" ID="ID_1999470766" CREATED="1641760775761" MODIFIED="1641771694141" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 <node TEXT="solution, destroying the uniqueness" ID="ID_1962140977" CREATED="1641760800618" MODIFIED="1641771694142" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 </node>
@@ -176,7 +176,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_185464042" CREATED="1641760647352" MODIFIED="1641894600925">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -194,7 +194,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_899750296" CREATED="1641760647353" MODIFIED="1641894603070">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -232,11 +232,11 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="people want idols" ID="ID_228741492" CREATED="1641760647359" MODIFIED="1641768782824">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_943987066" CREATED="1641760647360" MODIFIED="1641894617282">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -280,11 +280,11 @@
 </node>
 </node>
 <node TEXT="people want to pray to something" ID="ID_1630677178" CREATED="1641760647271" MODIFIED="1641768789166">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_23471182" CREATED="1641768795449" MODIFIED="1641894637574">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -300,13 +300,13 @@
 
 </richcontent>
 <node TEXT="in mahayama buddhism" ID="ID_884616061" CREATED="1641768833758" MODIFIED="1641768927399">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 </node>
 <node TEXT="Maitreya" ID="ID_247217085" CREATED="1641769366171" MODIFIED="1641769372586">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 </node>
 <node ID="ID_583031446" CREATED="1641768858891" MODIFIED="1641768906763">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -325,7 +325,7 @@
 <node TEXT="bodhisattvas existed from the beginning" LOCALIZED_STYLE_REF="default" ID="ID_1032070754" CREATED="1641769865257" MODIFIED="1641771435105" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="but the ritual of prayer was added later" ID="ID_1300016904" CREATED="1641769879816" MODIFIED="1641769917475" LINK="https://en.wikipedia.org/wiki/Bodhisattva">
 <node TEXT="Later Sanskrit Mahayana Buddhists also developed specific rituals" ID="ID_1547403149" CREATED="1641769903757" MODIFIED="1641769909891">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,7 +170,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -178,12 +178,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -199,7 +199,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -224,11 +224,11 @@
 </node>
 <node TEXT="epicenter" POSITION="right" ID="ID_578588542" CREATED="1647079215503" MODIFIED="1647079222685">
 <node TEXT="Manezhnaya square" ID="ID_196042499" CREATED="1647079222991" MODIFIED="1647080953966" LINK="https://www.google.com/maps/place/55%C2%B045&apos;20.0%22N+37%C2%B036&apos;57.8%22E/@55.7584154,37.6122934,16.5z/data=!4m8!1m2!2m1!1s55%C2%B045&apos;20.0%22N+37%C2%B036&apos;57.8%22E,+(55.755552,+37.616063)!3m4!1s0x0:0xaf96760eeada8e60!8m2!3d55.755552!4d37.616063">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 </node>
 <node TEXT="when pushed away from it" ID="ID_1499041306" CREATED="1647079306348" MODIFIED="1647079328359">
 <node TEXT="Tverskaya Street" ID="ID_842257919" CREATED="1647079329101" MODIFIED="1647079762601">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 <node TEXT="march down the broad pavement" ID="ID_1656578533" CREATED="1647079764449" MODIFIED="1647079766029"/>
 </node>
 <node TEXT="" ID="ID_1785738432" CREATED="1647079707597" MODIFIED="1647161287008" LINK="https://www.theguardian.com/world/2022/feb/25/prominent-russians-join-protests-against-ukraine-war-amid-1800-arrests-putin">
@@ -244,9 +244,9 @@
 </node>
 </node>
 <node TEXT="dangerous places" POSITION="right" ID="ID_991975243" CREATED="1647080747127" MODIFIED="1647080754180">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="Tverskaya street" ID="ID_1599274392" CREATED="1647080935988" MODIFIED="1647088924160">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 <node TEXT="from Pushkinskaya Square to Mayakovskaya metro" ID="ID_1495015597" CREATED="1647080903580" MODIFIED="1647080930157">
 <node TEXT="png_1371433145406612156.png" ID="ID_249225038" CREATED="1647088636930" MODIFIED="1647088636930">
 <hook URI="antiwar_files/png_1371433145406612156.png" SIZE="0.45931768" NAME="ExternalObject"/>

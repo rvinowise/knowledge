@@ -124,37 +124,37 @@
 </hook>
 <node TEXT="type: study" POSITION="left" ID="ID_1229383936" CREATED="1634897209013" MODIFIED="1634897209020"/>
 <node TEXT="brAhman" POSITION="right" ID="ID_642575801" CREATED="1634897254887" MODIFIED="1634897409427">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <node TEXT="the only god" ID="ID_643830490" CREATED="1634897268450" MODIFIED="1634897832397">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="the Existence itself" ID="ID_735023511" CREATED="1634897809426" MODIFIED="1634897829181">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="three manifestations" ID="ID_1868601465" CREATED="1634897294005" MODIFIED="1634897302027">
 <node TEXT="brAhma" ID="ID_1226239171" CREATED="1634897304188" MODIFIED="1635979425556">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <node TEXT="creates the universe" ID="ID_185263715" CREATED="1634897375720" MODIFIED="1634897380212"/>
 </node>
 <node TEXT="vishnu" ID="ID_1235921016" CREATED="1634897315175" MODIFIED="1634897403936">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <node TEXT="governs the universe" ID="ID_687764195" CREATED="1634897361509" MODIFIED="1634897366489"/>
 <node TEXT="krishna" ID="ID_569426388" CREATED="1634897529384" MODIFIED="1634897546215">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 </node>
 </node>
 <node TEXT="shiva" ID="ID_1123136942" CREATED="1634897318266" MODIFIED="1634897403860">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <node TEXT="destroys the universe" ID="ID_1649734190" CREATED="1634897322847" MODIFIED="1634897329441"/>
 <node TEXT="our life is his dance" ID="ID_1429336576" CREATED="1634897330883" MODIFIED="1634897336297"/>
 <node TEXT="metaphor for Time" ID="ID_668658457" CREATED="1634897336632" MODIFIED="1634897843898">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="monotheistic religion in a sense" POSITION="right" ID="ID_655451194" CREATED="1634897209022" MODIFIED="1634897798588">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <node TEXT="all gods are manifestations of higher gods" ID="ID_887286987" CREATED="1634897464902" MODIFIED="1634897479271"/>
 </node>
 <node TEXT="similar to other religions" POSITION="right" ID="ID_770004774" CREATED="1634898207537" MODIFIED="1634898220749">

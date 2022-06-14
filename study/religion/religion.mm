@@ -11,7 +11,7 @@
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.2">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -88,7 +88,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="islam" ID="ID_232435923" CREATED="1634263754471" MODIFIED="1635831178852" LINK="islam/" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma" BOLD="false"/>
 <node TEXT="social impact of religion" ID="ID_877134100" CREATED="1634834704204" MODIFIED="1635831185783" LINK="islam/social%20impact%20of%20religion.mm#ID_111853252" COLOR="#000000">
 <font NAME="Tahoma"/>
@@ -148,7 +148,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="akh rashid refuting miracles" ID="ID_1630753467" CREATED="1637143615723" MODIFIED="1641760877569" LINK="https://www.youtube.com/playlist?list=PLeALEPpd_E-kJna1EbQNT05eIiyRzSUvW">
-<icon BUILTIN="book_open@b"/>
+<icon BUILTIN="book_open"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="humiliating jizyah" ID="ID_1164451940" CREATED="1637890291821" MODIFIED="1641760877570" LINK="islam/humiliating%20jizyah.mm">
@@ -158,7 +158,7 @@
 <node TEXT="amusing" ID="ID_923920362" CREATED="1648883925075" MODIFIED="1648883943517" LINK="file:/C:/knowledge/study/religion/islam/amusing.mm"/>
 </node>
 <node TEXT="christianity" ID="ID_840596349" CREATED="1634263757943" MODIFIED="1636643399547" LINK="christianity/christianity.mm" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 <node TEXT="judaism" ID="ID_677523575" CREATED="1635360269109" MODIFIED="1638679179021" LINK="./judaism" COLOR="#000000">
@@ -192,15 +192,15 @@
 <node TEXT="daoic religions" ID="ID_243736217" CREATED="1635725395393" MODIFIED="1635791415617" COLOR="#000000">
 <font NAME="Tahoma"/>
 <node TEXT="daoism" ID="ID_39026932" CREATED="1635725620701" MODIFIED="1635791415617" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="confucionism" ID="ID_1564988983" CREATED="1635725624641" MODIFIED="1635791415618" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="shintoism" ID="ID_1735048052" CREATED="1635725629806" MODIFIED="1635791415618" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 </node>
@@ -221,7 +221,7 @@
 <node TEXT="abrahamic" LOCALIZED_STYLE_REF="default" ID="ID_93433689" CREATED="1634263805706" MODIFIED="1635791415620" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <font NAME="Tahoma"/>
 <node TEXT="baháʼí" ID="ID_1475465310" CREATED="1634263508818" MODIFIED="1635791415619" LINK="baha&apos;i/baha&apos;i.mm#ID_696401721" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 <node TEXT="mormonism" LOCALIZED_STYLE_REF="default" ID="ID_529750798" CREATED="1635725370810" MODIFIED="1635791415620" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -244,11 +244,11 @@
 <node TEXT="no personal god" ID="ID_617565163" CREATED="1634263815796" MODIFIED="1635791415621" COLOR="#000000">
 <font NAME="Tahoma" BOLD="false"/>
 <node TEXT="jainism" ID="ID_962623445" CREATED="1634263830213" MODIFIED="1635791415622" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 <node TEXT="buddhism" ID="ID_733562869" CREATED="1634263825102" MODIFIED="1635791415622" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 <node TEXT="all daoic religions" ID="ID_921544333" CREATED="1635772340263" MODIFIED="1635791415623" LINK="#ID_243736217" COLOR="#000000">
@@ -258,12 +258,12 @@
 <node TEXT="polytheism" ID="ID_675771439" CREATED="1634264055623" MODIFIED="1635791415623" COLOR="#000000">
 <font NAME="Tahoma" BOLD="false"/>
 <node TEXT="hinduism" ID="ID_1647654224" CREATED="1634264031141" MODIFIED="1635791415624" COLOR="#000000">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 </node>
 <node TEXT="controversial due to" ID="ID_126683062" CREATED="1635725703721" MODIFIED="1635791415624" COLOR="#000000">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node TEXT="conflict between old doctrine and modern desire" ID="ID_184331965" CREATED="1635772082052" MODIFIED="1635791415625" COLOR="#000000">
 <font NAME="Tahoma"/>
@@ -326,6 +326,7 @@
 </node>
 <node TEXT="general" POSITION="right" ID="ID_1478933401" CREATED="1646436293553" MODIFIED="1646436307386" LINK="general/">
 <node TEXT="psychology of religion" ID="ID_1700654662" CREATED="1646436308367" MODIFIED="1646436326446" LINK="file:/C:/knowledge/study/religion/general/psychology%20of%20religion.mm"/>
+<node TEXT="views on religion" ID="ID_1216115606" CREATED="1655084828128" MODIFIED="1655084844787" LINK="file:/C:/knowledge/study/religion/general/views%20on%20religion.mm"/>
 </node>
 </node>
 </map>

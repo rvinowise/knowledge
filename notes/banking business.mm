@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,7 +170,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -178,12 +178,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -199,7 +199,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -225,11 +225,11 @@
 <node TEXT="legend" POSITION="right" ID="ID_693098453" CREATED="1643656098705" MODIFIED="1643656104966" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="bank" ID="ID_95445790" CREATED="1643656111382" MODIFIED="1643656303268" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 <node TEXT="company" ID="ID_1136007296" CREATED="1643656106302" MODIFIED="1643656303263" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="plastic card pin" ID="ID_239101429" CREATED="1643657149320" MODIFIED="1644771499778" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="padlock_closed@b"/>
+<icon BUILTIN="padlock_closed"/>
 </node>
 <node TEXT="login" ID="ID_106174859" CREATED="1644771502806" MODIFIED="1644771517393" BACKGROUND_COLOR="#cccccc">
 <node TEXT="password" ID="ID_1480398179" CREATED="1644771506477" MODIFIED="1644771517411" BACKGROUND_COLOR="#cccccc"/>
@@ -238,9 +238,9 @@
 </node>
 </node>
 <node TEXT="сбербанк" POSITION="right" ID="ID_993956904" CREATED="1643656970955" MODIFIED="1643657146150">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 <node ID="ID_583290111" CREATED="1643303931468" MODIFIED="1643656282615">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -255,13 +255,13 @@
 </html>
 </richcontent>
 <node TEXT="1902" ID="ID_1912346697" CREATED="1643657195329" MODIFIED="1643657586562">
-<icon BUILTIN="padlock_closed@b"/>
+<icon BUILTIN="padlock_closed"/>
 </node>
 </node>
 <node TEXT="Промтех" ID="ID_1331281239" CREATED="1643303945930" MODIFIED="1643656282618">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="1969" ID="ID_1897885364" CREATED="1643657263304" MODIFIED="1643657586568">
-<icon BUILTIN="padlock_closed@b"/>
+<icon BUILTIN="padlock_closed"/>
 </node>
 </node>
 <node TEXT="map" FOLDED="true" ID="ID_585378066" CREATED="1643685347889" MODIFIED="1643685354153">
@@ -274,18 +274,18 @@
 </node>
 </node>
 <node TEXT="точка банк" POSITION="right" ID="ID_1153345186" CREATED="1643657005447" MODIFIED="1643657146226">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 <node TEXT="меттех" ID="ID_709951051" CREATED="1643303937086" MODIFIED="1643656282617">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="9391" ID="ID_616882074" CREATED="1643657441303" MODIFIED="1643657586571">
-<icon BUILTIN="padlock_closed@b"/>
+<icon BUILTIN="padlock_closed"/>
 </node>
 <node TEXT="965301082" ID="ID_644020310" CREATED="1644771328416" MODIFIED="1645279449258" LINK="https://z.tochka.com/login/#/?from_menu=index">
 <node TEXT="dad&apos;s" ID="ID_1591787005" CREATED="1644771463779" MODIFIED="1644771544835"/>
 </node>
 </node>
 <node TEXT="открытие" FOLDED="true" ID="ID_171381922" CREATED="1643659470910" MODIFIED="1643659482335">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 <node TEXT="" ID="ID_1510493837" CREATED="1643659493535" MODIFIED="1643659516836">
 <hook URI="banking%20business_files/png_8997090948026338741.png" SIZE="0.31715745" NAME="ExternalObject"/>
 </node>
@@ -297,20 +297,20 @@
 </node>
 </node>
 <node TEXT="модульбанк" POSITION="right" ID="ID_451407127" CREATED="1643656940005" MODIFIED="1650955136673" LINK="https://my.modulbank.ru/">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 <node TEXT="Экометстрой" ID="ID_1062325276" CREATED="1643304036008" MODIFIED="1643656282619">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="9141" ID="ID_470164298" CREATED="1643657312796" MODIFIED="1643657586575">
-<icon BUILTIN="padlock_closed@b"/>
+<icon BUILTIN="padlock_closed"/>
 </node>
 <node TEXT="965-301-08-28" ID="ID_1170963115" CREATED="1645279489145" MODIFIED="1645279876908" LINK="https://my.modulbank.ru/#/finance">
 <node TEXT="dad&apos;s" ID="ID_204081835" CREATED="1645279857113" MODIFIED="1645279860464"/>
 </node>
 </node>
 <node TEXT="Промтехмет" ID="ID_1500269537" CREATED="1643303859973" MODIFIED="1643656282609">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="4382" ID="ID_1000691965" CREATED="1643657227314" MODIFIED="1643657586577">
-<icon BUILTIN="padlock_closed@b"/>
+<icon BUILTIN="padlock_closed"/>
 </node>
 </node>
 <node TEXT="map" FOLDED="true" ID="ID_1341014500" CREATED="1643685374654" MODIFIED="1643685376126">
@@ -320,7 +320,7 @@
 </node>
 </node>
 <node TEXT="dad&apos;s" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_456260017" CREATED="1650955189022" MODIFIED="1650955208619" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="padlock_closed@b"/>
+<icon BUILTIN="padlock_closed"/>
 <node TEXT="R4e3w2q1" ID="ID_1468418984" CREATED="1650955209394" MODIFIED="1650955212865"/>
 </node>
 </node>

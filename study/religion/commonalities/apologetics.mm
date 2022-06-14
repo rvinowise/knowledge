@@ -128,11 +128,11 @@
 <node TEXT="theistic argumentation" POSITION="right" ID="ID_204849185" CREATED="1636768422560" MODIFIED="1636768466589">
 <node TEXT="personal attacks" ID="ID_52400937" CREATED="1636768663166" MODIFIED="1636769087254">
 <node TEXT="effective in public" ID="ID_749327244" CREATED="1636768761406" MODIFIED="1636768781849">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="bullying" ID="ID_1898136082" CREATED="1636769104292" MODIFIED="1636769108409">
 <node TEXT="psychological pressure" ID="ID_1209351748" CREATED="1636769270702" MODIFIED="1636769277367">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="chanting, shouting" ID="ID_1840033696" CREATED="1636769126335" MODIFIED="1636769358829">
 <node TEXT="by a group of apologists" ID="ID_1500052153" CREATED="1636769157037" MODIFIED="1636769187986"/>
@@ -143,19 +143,19 @@
 </node>
 <node TEXT="" ID="ID_1190359188" CREATED="1636768676923" MODIFIED="1636769085274">
 <node TEXT="ad hominem" ID="ID_258119347" CREATED="1636768684355" MODIFIED="1636768701182">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 </node>
 <node TEXT="you have little knowledge" ID="ID_370888129" CREATED="1636768952052" MODIFIED="1636769041904">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="you just want to sin" ID="ID_1011402464" CREATED="1636769018092" MODIFIED="1636769033515">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="presenting opponents as immoral" ID="ID_291516812" CREATED="1636768749843" MODIFIED="1636768837598">
 <node TEXT="is killing Really wrong for You?" ID="ID_1667198252" CREATED="1636768837738" MODIFIED="1636769545549" LINK="#ID_1983240950">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="arguments about morality" ID="ID_417372375" CREATED="1636768912817" MODIFIED="1636768927029"/>
@@ -166,7 +166,7 @@
 <node TEXT="assuming the conclusion" ID="ID_788443853" CREATED="1636768479324" MODIFIED="1636768595498">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="begging the question" ID="ID_587968010" CREATED="1636768501703" MODIFIED="1636768517727">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 </node>
 <node TEXT="circular reasoning" ID="ID_422677558" CREATED="1636768494163" MODIFIED="1636768595034">
 <icon BUILTIN="control/type_of_parent"/>
@@ -175,16 +175,16 @@
 <node TEXT="appeal to consequences" ID="ID_1656193803" CREATED="1636769425610" MODIFIED="1636769439706">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="if there&apos;s no god..." ID="ID_1549259300" CREATED="1636769440272" MODIFIED="1636769459045">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="life would be meaningless" ID="ID_1880315138" CREATED="1636769459271" MODIFIED="1636769525082">
-<icon BUILTIN="quote@b"/>
-<icon BUILTIN="punctuation/three_dots@b"/>
+<icon BUILTIN="quote"/>
+<icon BUILTIN="punctuation/three_dots"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="killing wouldn&apos;t be wrong" ID="ID_1983240950" CREATED="1636769471283" MODIFIED="1636769545497" LINK="#ID_1667198252">
-<icon BUILTIN="quote@b"/>
-<icon BUILTIN="punctuation/three_dots@b"/>
+<icon BUILTIN="quote"/>
+<icon BUILTIN="punctuation/three_dots"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -192,11 +192,11 @@
 </node>
 <node TEXT="personal feeling" ID="ID_1736718770" CREATED="1636768602498" MODIFIED="1636768612329">
 <node TEXT="it just makes sense to me" ID="ID_665109489" CREATED="1636768612466" MODIFIED="1636768628947">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="you need to Feel it" ID="ID_1460873804" CREATED="1636768629684" MODIFIED="1636768638889">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

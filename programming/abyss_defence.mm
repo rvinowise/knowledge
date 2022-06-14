@@ -177,7 +177,7 @@
 
 </richcontent>
 <node ID="ID_744911697" CREATED="1638461848361" MODIFIED="1638463092756">
-<icon BUILTIN="need@b"/>
+<icon BUILTIN="need"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -192,7 +192,7 @@
 </html>
 </richcontent>
 <node TEXT="but without actors seized by this action" ID="ID_1059468415" CREATED="1638462539901" MODIFIED="1638462609118">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 <node ID="ID_792769170" CREATED="1638462650908" MODIFIED="1638463095496"><richcontent TYPE="NODE">
 
@@ -236,7 +236,7 @@
 </richcontent>
 </node>
 <node TEXT="" ID="ID_485507672" CREATED="1638463470795" MODIFIED="1638463481762">
-<icon BUILTIN="need@b"/>
+<icon BUILTIN="need"/>
 </node>
 </node>
 </node>
@@ -301,35 +301,35 @@
 </node>
 <node TEXT="profiling" POSITION="right" ID="ID_446184092" CREATED="1638769330013" MODIFIED="1638769333511">
 <node TEXT="fast" ID="ID_1390204675" CREATED="1638769469469" MODIFIED="1638769473126">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="changing actions" LOCALIZED_STYLE_REF="default" ID="ID_875976510" CREATED="1638769366519" MODIFIED="1638769493579" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
 <node TEXT="slow" ID="ID_535471663" CREATED="1638769466981" MODIFIED="1638769473706">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="operations on enumeration" ID="ID_212346225" CREATED="1638814821955" MODIFIED="1638814834891">
 <node TEXT="equating enumerations (Side.LEFT == ...)" LOCALIZED_STYLE_REF="default" ID="ID_284211408" CREATED="1638769333791" MODIFIED="1638814933714" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 </node>
 <node TEXT="Side.multiply" ID="ID_425552905" CREATED="1638814837123" MODIFIED="1638814847992">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 </node>
 <node TEXT="Enumeration.get_value" ID="ID_846042813" CREATED="1638814977125" MODIFIED="1638814986915">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 </node>
 </node>
 <node TEXT="determine anglge reaching point" LOCALIZED_STYLE_REF="default" ID="ID_1674834967" CREATED="1638769393635" MODIFIED="1638814309621" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <node TEXT="Limb2" ID="ID_948940843" CREATED="1638769509135" MODIFIED="1638769515698">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 </node>
 </node>
 <node TEXT="activate gameObject" ID="ID_1809309538" CREATED="1638772039713" MODIFIED="1638814307027">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <node TEXT="when grabbing tool" ID="ID_863918568" CREATED="1638772048002" MODIFIED="1638814326052">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="Awake()" ID="ID_1663191599" CREATED="1638814291651" MODIFIED="1638814303536">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 </node>
 </node>
 </node>
@@ -371,13 +371,13 @@
 <node TEXT="changing arm(s)" LOCALIZED_STYLE_REF="default" ID="ID_1235777912" CREATED="1639397529152" MODIFIED="1639398177639" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="Take_tool_from_bag" ID="ID_615263306" CREATED="1639398105699" MODIFIED="1639398105699">
 <node TEXT="put Tool into bag" ID="ID_1794870150" CREATED="1639397262669" MODIFIED="1639544406321" COLOR="#000000">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="put hand before bag" ID="ID_1764687138" CREATED="1639397402207" MODIFIED="1639544603907">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="the actor (hand_r) still has this action, instead of the substituting one" ID="ID_349984767" CREATED="1639546047354" MODIFIED="1639546068049"/>
 </node>
 <node TEXT="move hand into bag" ID="ID_1564101245" CREATED="1639397435800" MODIFIED="1639544605820">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="drop tool" ID="ID_612140483" CREATED="1639397441698" MODIFIED="1639397446993"/>
 </node>

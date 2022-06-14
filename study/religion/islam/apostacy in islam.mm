@@ -138,7 +138,7 @@
 <node TEXT="experience of terrible physical suffering or violent abuse" ID="ID_163647209" CREATED="1633950153078" MODIFIED="1633950153078"/>
 <node TEXT="cumulative build-up of familial obligations and pressures" ID="ID_66357483" CREATED="1633950153079" MODIFIED="1633950153079">
 <node TEXT="Shahin the indian" ID="ID_754674384" CREATED="1633950219789" MODIFIED="1633950279490">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 </node>
 </node>
 </node>
@@ -155,7 +155,7 @@
 <node TEXT="probing" STYLE_REF="list item" ID="ID_838013448" CREATED="1635478726748" MODIFIED="1635478733015">
 <node TEXT="proxying questions" ID="ID_202834348" CREATED="1630145520817" MODIFIED="1630145702588">
 <node LOCALIZED_STYLE_REF="default" ID="ID_1548349596" CREATED="1630145703734" MODIFIED="1635998235811" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -174,7 +174,7 @@
 </node>
 <node TEXT="paraphrasing questions" ID="ID_1850360882" CREATED="1630146620918" MODIFIED="1630146629938">
 <node LOCALIZED_STYLE_REF="default" ID="ID_676666685" CREATED="1630146630716" MODIFIED="1635998237405" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -203,7 +203,7 @@
 <node TEXT="Discord" STYLE_REF="list item" ID="ID_1860819316" CREATED="1636088475088" MODIFIED="1636088481149">
 <node TEXT="self-denunciation" ID="ID_897499235" CREATED="1636088627834" MODIFIED="1636088627834">
 <node TEXT="there is something wrong with me" ID="ID_1640475718" CREATED="1636088639010" MODIFIED="1636088643955">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -227,7 +227,7 @@
 </node>
 </node>
 <node TEXT="living in anxiety, uncertainty and conflict" ID="ID_1498040613" CREATED="1635533164684" MODIFIED="1635533200475">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 <node TEXT="fear of hell postpones apostasy" STYLE_REF="list item" ID="ID_150785069" CREATED="1641968529996" MODIFIED="1641968566631">
@@ -242,33 +242,33 @@
 <node TEXT="during ramadan" ID="ID_705237778" CREATED="1630283600866" MODIFIED="1630283604734"/>
 </node>
 <node TEXT="feeling strong relief" STYLE_REF="list item" ID="ID_1631940200" CREATED="1635532985530" MODIFIED="1635996605498">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="there&apos;s no dissonance" ID="ID_623572267" CREATED="1635996656667" MODIFIED="1635996720763"/>
 </node>
 <node TEXT="residual anxiety" STYLE_REF="list item" ID="ID_478244826" CREATED="1635647428705" MODIFIED="1636088859711">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="What if you’re actually wrong, kāfir?" ID="ID_90321743" CREATED="1635647457442" MODIFIED="1635647462879">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="giving god an ultimatum" ID="ID_44188485" CREATED="1635647501421" MODIFIED="1635647501421">
 <node TEXT="convince me that you exist" ID="ID_1508856458" CREATED="1635647523399" MODIFIED="1635647526339">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 </node>
 <node TEXT="disavowal" ID="ID_1548712109" CREATED="1635532952189" MODIFIED="1635532976818">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 <node TEXT="disavowing Islam" ID="ID_546363365" CREATED="1635647272243" MODIFIED="1635647272243"/>
 </node>
 </node>
 <node TEXT="feeling euphoria" STYLE_REF="list item" ID="ID_1173332463" CREATED="1635996643244" MODIFIED="1635996651972">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="freedom" ID="ID_885930274" CREATED="1635996618036" MODIFIED="1635996716532"/>
 </node>
 <node TEXT="depression" STYLE_REF="list item" ID="ID_1263800087" CREATED="1635996606767" MODIFIED="1635996616791">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="lack of meaning" ID="ID_1872069361" CREATED="1635996676596" MODIFIED="1635996701503"/>
 <node TEXT="fear of death" ID="ID_82231346" CREATED="1635996691862" MODIFIED="1635996695035"/>
 </node>
@@ -355,7 +355,7 @@
 <node TEXT="no music with instruments" ID="ID_1299939300" CREATED="1630065573361" MODIFIED="1632139278528">
 <node TEXT="" STYLE_REF="source node" ID="ID_1734203501" CREATED="1630085409704" MODIFIED="1630291334774">
 <node TEXT="Mufti Menk" ID="ID_1238446400" CREATED="1630085414094" MODIFIED="1633294280712" LINK="https://www.youtube.com/shorts/66t2mLXtj9E" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 <node TEXT="modern songs have filthy lyrics" STYLE_REF="speech" ID="ID_1900234973" CREATED="1630087656188" MODIFIED="1630290518530">
 <node TEXT="it&apos;s not the lyrics but the musical instruments that are prohibited" STYLE_REF="against" ID="ID_980650901" CREATED="1630090190312" MODIFIED="1630290682617"/>

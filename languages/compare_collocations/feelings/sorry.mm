@@ -210,13 +210,13 @@
 <font BOLD="true"/>
 <node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
 <node TEXT="feminine" LOCALIZED_STYLE_REF="default" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1638005675413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/feminine@b"/>
+<icon BUILTIN="grammar/gender/feminine"/>
 </node>
 <node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/masculine@b"/>
+<icon BUILTIN="grammar/gender/masculine"/>
 </node>
 <node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/both_genders@b"/>
+<icon BUILTIN="grammar/gender/both_genders"/>
 </node>
 </node>
 <node TEXT="number" ID="ID_1197699449" CREATED="1638005695736" MODIFIED="1638005698501">
@@ -227,7 +227,7 @@
 <node TEXT="syntax" ID="ID_1205169936" CREATED="1638005727863" MODIFIED="1638005731513">
 <node TEXT="sequence" ID="ID_1970909851" CREATED="1638005722645" MODIFIED="1638005725496">
 <node TEXT="word before its parent" ID="ID_704088312" CREATED="1638005732749" MODIFIED="1638005754493">
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+<icon BUILTIN="grammar/syntax/precedes_previous"/>
 </node>
 </node>
 </node>
@@ -238,17 +238,17 @@
 </node>
 <node TEXT="control" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1639451537112">
 <node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 </node>
 <node TEXT="unnecessary" ID="ID_728579299" CREATED="1639451543852" MODIFIED="1639451557845">
-<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+<icon BUILTIN="size_optimisation/unnecessary_node"/>
 </node>
 <node TEXT="declaration of variable" LOCALIZED_STYLE_REF="default" ID="ID_1822291525" CREATED="1639451560357" MODIFIED="1639809400026" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 <node TEXT="all siblings are possible values of it (can substitute it)" ID="ID_1974389339" CREATED="1639809410262" MODIFIED="1639809455559"/>
 </node>
 <node ID="ID_716132178" CREATED="1639464033853" MODIFIED="1639464121745">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -264,10 +264,10 @@
 </richcontent>
 </node>
 <node TEXT="same as parent (can substitute it)" ID="ID_1249817900" CREATED="1639453816860" MODIFIED="1639453847531">
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 <node TEXT="peculiar changes that are described in the comment" LOCALIZED_STYLE_REF="default" ID="ID_664356964" CREATED="1639809482935" MODIFIED="1639810963320" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="cog@b"/>
+<icon BUILTIN="cog"/>
 <node TEXT="these changes apply to every occurance of the parent" ID="ID_1458823456" CREATED="1639809563939" MODIFIED="1639809585044"/>
 </node>
 </node>
@@ -276,7 +276,7 @@
 <node TEXT="i&apos;m sorry" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1031596780" CREATED="1640154328396" MODIFIED="1640154339350" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="i" ID="ID_478160442" CREATED="1640156393877" MODIFIED="1640156419500" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="am" LOCALIZED_STYLE_REF="default" ID="ID_1297637428" CREATED="1640154352715" MODIFIED="1640156512996" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="sorry" LOCALIZED_STYLE_REF="default" ID="ID_445806151" CREATED="1640154335281" MODIFIED="1640154343225" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -285,7 +285,7 @@
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="him" ID="ID_1285434074" CREATED="1640154361542" MODIFIED="1640156464258" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 </node>
 <node TEXT="his loss" ID="ID_1988244565" CREATED="1640154371985" MODIFIED="1640154374045" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
@@ -301,7 +301,7 @@
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="him" ID="ID_1447800649" CREATED="1640156469936" MODIFIED="1640156473428" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 </node>
 </node>
 </node>
@@ -309,7 +309,7 @@
 </node>
 <node TEXT="أنا" ID="ID_1436853587" CREATED="1640154381002" MODIFIED="1640156408122" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="آسِف" LOCALIZED_STYLE_REF="default" ID="ID_581151892" CREATED="1640154396520" MODIFIED="1640158227048" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="لِ" ID="ID_1883180864" CREATED="1640154804088" MODIFIED="1640154813110" COLOR="#000000">
@@ -320,19 +320,19 @@
 <node TEXT="خَسَارَتِهِ" ID="ID_1464362796" CREATED="1640154833527" MODIFIED="1640155024855" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="ambiguous" ID="ID_1836024733" CREATED="1640155619172" MODIFIED="1640155645419">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <node TEXT="for his loss" LOCALIZED_STYLE_REF="default" ID="ID_456117135" CREATED="1640155624064" MODIFIED="1640155659348" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 <node TEXT="for losing him" LOCALIZED_STYLE_REF="default" ID="ID_1611324466" CREATED="1640155629448" MODIFIED="1640155659339" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
 </node>
 <node TEXT="before pronouns I turns into A" ID="ID_1820986648" CREATED="1640155869096" MODIFIED="1640155900381">
-<icon BUILTIN="cog@b"/>
+<icon BUILTIN="cog"/>
 </node>
 </node>
 <node TEXT="آسِفة" ID="ID_865094667" CREATED="1640154661204" MODIFIED="1640157001566" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="punctuation/equal@b"/>
-<icon BUILTIN="grammar/gender/feminine@b"/>
+<icon BUILTIN="punctuation/equal"/>
+<icon BUILTIN="grammar/gender/feminine"/>
 </node>
 </node>
 <node TEXT="أشْعُرُ" ID="ID_698075937" CREATED="1640156493626" MODIFIED="1640156545779" COLOR="#000000">

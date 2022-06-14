@@ -138,16 +138,16 @@
 </hook>
 <font NAME="Tahoma"/>
 <node TEXT="study" POSITION="right" ID="ID_712601449" CREATED="1633368426935" MODIFIED="1635882090051" LINK="study/" COLOR="#7f7f7f">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma" BOLD="true"/>
 <node TEXT="history" ID="ID_1641012873" CREATED="1633368871369" MODIFIED="1635882091274" LINK="study/history/">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma"/>
 <node TEXT="history of greece.mm" ID="ID_933115436" CREATED="1633368764712" MODIFIED="1635773283864" LINK="history/history%20of%20greece.mm">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 <node TEXT="yale course on youtube" ID="ID_396954466" CREATED="1633369558184" MODIFIED="1635773283865">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
 </node>
@@ -170,7 +170,7 @@
 <node TEXT="interesting courses" ID="ID_808344822" CREATED="1633724536734" MODIFIED="1635773283868">
 <font NAME="Tahoma"/>
 <node TEXT="Evolution, Ecology and Behavior with Stephen C. Stearns (yale)" ID="ID_35004263" CREATED="1633724558647" MODIFIED="1635773283868" LINK="https://www.youtube.com/playlist?list=PL6299F3195349CCDA" COLOR="#00aa00">
-<icon BUILTIN="book_open@b"/>
+<icon BUILTIN="book_open"/>
 <font NAME="Tahoma"/>
 </node>
 </node>
@@ -218,7 +218,7 @@
 </node>
 </node>
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma" BOLD="true"/>
 <node TEXT="ai_index.mm" ID="ID_1174436778" CREATED="1641516806386" MODIFIED="1641516806388" LINK="../prj/unity_ai/docs/ai_index.mm"/>
 <node TEXT="programming" ID="ID_64242684" CREATED="1638461481894" MODIFIED="1638461492219" LINK="programming/">
@@ -244,7 +244,7 @@
 </node>
 </node>
 <node TEXT="talk" POSITION="right" ID="ID_1523271788" CREATED="1633368448993" MODIFIED="1636490920215" LINK="talk/" COLOR="#7f7f7f">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma" BOLD="true"/>
 <node TEXT="talk_eman.mm" ID="ID_165480055" CREATED="1633368599745" MODIFIED="1648506228178" LINK="talk/talk_eman.mm">
 <font NAME="Tahoma"/>
@@ -252,7 +252,7 @@
 <node TEXT="talk_morality" ID="ID_1655141557" CREATED="1636491026136" MODIFIED="1648506217528" LINK="talk/talk_morality.mm"/>
 <node TEXT="talk_wafa" ID="ID_722166673" CREATED="1637038930217" MODIFIED="1637038945074" LINK="talk/talk_wafa.mm"/>
 <node TEXT="debate" ID="ID_1388544124" CREATED="1633374985794" MODIFIED="1635773283873">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma"/>
 <node TEXT="social impact of religion" FOLDED="true" ID="ID_1181291235" CREATED="1633368726273" MODIFIED="1635773283873" LINK="///D:/archive/cloud_storages/google/religion/social%20impact%20of%20religion%20test.mm"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -270,7 +270,7 @@
 </node>
 </node>
 <node TEXT="notes" POSITION="right" ID="ID_1038715512" CREATED="1638113784765" MODIFIED="1638113797000" LINK="notes/">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <node TEXT="debt" ID="ID_1242890115" CREATED="1638113809236" MODIFIED="1638113812799" LINK="notes/debt.mm"/>
 <node TEXT="drill noise" ID="ID_810419896" CREATED="1642250603994" MODIFIED="1642250625281" LINK="file:/C:/knowledge/notes/drill%20noise.mm"/>
 <node TEXT="banking business" ID="ID_496917618" CREATED="1643303826925" MODIFIED="1643685291505" LINK="notes/banking%20business.mm"/>
@@ -300,7 +300,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -324,7 +324,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -332,12 +332,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -353,7 +353,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -391,11 +391,11 @@
 <node TEXT="an event, showing that" ID="ID_1789105104" CREATED="1633380465596" MODIFIED="1635773283885" BACKGROUND_COLOR="#e5e5e5">
 <font NAME="Tahoma"/>
 <node TEXT="time of the event" ID="ID_1250174700" CREATED="1633380715870" MODIFIED="1635773283886">
-<icon BUILTIN="clock@b"/>
+<icon BUILTIN="clock"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="time of the event" ID="ID_401561160" CREATED="1633380715870" MODIFIED="1635773283886">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <font NAME="Tahoma"/>
 </node>
 </node>
@@ -433,14 +433,14 @@
 <node TEXT="a discussed thing" LOCALIZED_STYLE_REF="default" ID="ID_1969747749" CREATED="1633371517717" MODIFIED="1635773283890" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <font NAME="Tahoma"/>
 <node TEXT="argument against it" ID="ID_1480475957" CREATED="1633371595889" MODIFIED="1635773283890">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <font NAME="Tahoma"/>
 <node TEXT="argument against previous argument" ID="ID_1724256398" CREATED="1633371609364" MODIFIED="1635773283891">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_1950005134" CREATED="1633371699989" MODIFIED="1635773283892">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -460,7 +460,7 @@
 </node>
 </node>
 <node TEXT="a controversial topic" LOCALIZED_STYLE_REF="default" ID="ID_1850924524" CREATED="1633371160955" MODIFIED="1635773283894" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 <node TEXT="nodes are refutable arguments" ID="ID_259362757" CREATED="1633371222456" MODIFIED="1635773283895">
 <font NAME="Tahoma"/>
@@ -472,7 +472,7 @@
 </node>
 </node>
 <node TEXT="question to them" ID="ID_77176876" CREATED="1633811328288" MODIFIED="1635773283896" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 </node>

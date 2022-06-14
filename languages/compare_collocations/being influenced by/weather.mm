@@ -210,13 +210,13 @@
 <font BOLD="true"/>
 <node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
 <node TEXT="feminine" LOCALIZED_STYLE_REF="default" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1638005675413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/feminine@b"/>
+<icon BUILTIN="grammar/gender/feminine"/>
 </node>
 <node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/masculine@b"/>
+<icon BUILTIN="grammar/gender/masculine"/>
 </node>
 <node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/both_genders@b"/>
+<icon BUILTIN="grammar/gender/both_genders"/>
 </node>
 </node>
 <node TEXT="number" ID="ID_1197699449" CREATED="1638005695736" MODIFIED="1638005698501">
@@ -227,7 +227,7 @@
 <node TEXT="syntax" ID="ID_1205169936" CREATED="1638005727863" MODIFIED="1638005731513">
 <node TEXT="sequence" ID="ID_1970909851" CREATED="1638005722645" MODIFIED="1638005725496">
 <node TEXT="word before its parent" ID="ID_704088312" CREATED="1638005732749" MODIFIED="1638005754493">
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+<icon BUILTIN="grammar/syntax/precedes_previous"/>
 </node>
 </node>
 </node>
@@ -238,17 +238,17 @@
 </node>
 <node TEXT="control" LOCALIZED_STYLE_REF="default" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1640972178897" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 </node>
 <node TEXT="unnecessary" ID="ID_728579299" CREATED="1639451543852" MODIFIED="1639451557845">
-<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+<icon BUILTIN="size_optimisation/unnecessary_node"/>
 </node>
 <node TEXT="declaration of variable" LOCALIZED_STYLE_REF="default" ID="ID_1822291525" CREATED="1639451560357" MODIFIED="1639809400026" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 <node TEXT="all siblings are possible values of it (can substitute it)" ID="ID_1974389339" CREATED="1639809410262" MODIFIED="1639809455559"/>
 </node>
 <node ID="ID_716132178" CREATED="1639464033853" MODIFIED="1639464121745">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -264,10 +264,10 @@
 </richcontent>
 </node>
 <node TEXT="same as parent (can substitute it)" ID="ID_1249817900" CREATED="1639453816860" MODIFIED="1639453847531">
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 <node TEXT="peculiar changes that are described in the comment" LOCALIZED_STYLE_REF="default" ID="ID_664356964" CREATED="1639809482935" MODIFIED="1639810963320" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="cog@b"/>
+<icon BUILTIN="cog"/>
 <node TEXT="these changes apply to every occurance of the parent" ID="ID_1458823456" CREATED="1639809563939" MODIFIED="1639809585044"/>
 </node>
 </node>
@@ -281,32 +281,32 @@
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="rain" ID="ID_377769398" CREATED="1640971096360" MODIFIED="1640971114754" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 </node>
 <node TEXT="snow" ID="ID_929270541" CREATED="1640971124428" MODIFIED="1640971682619" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="fall" ID="ID_694790177" CREATED="1640971653990" MODIFIED="1640983115674" COLOR="#666666">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
-<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="size_optimisation/unnecessary_node"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous"/>
+<icon BUILTIN="question"/>
 <font STRIKETHROUGH="false"/>
 <node TEXT="ambiguity? how to distingwuish between snow from the sky and on the ground?" ID="ID_1287134355" CREATED="1640983348516" MODIFIED="1640983418338">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="if &quot;in the snowfall&quot; isn&apos;t used" ID="ID_1152445421" CREATED="1640983439795" MODIFIED="1640983447821"/>
 </node>
 </node>
 </node>
 <node TEXT="hail" ID="ID_1878071754" CREATED="1640971134971" MODIFIED="1640983132441" COLOR="#666666" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="rain" LOCALIZED_STYLE_REF="default" ID="ID_1965002805" CREATED="1640971762023" MODIFIED="1640971769668" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="storm" ID="ID_143681512" CREATED="1640971715693" MODIFIED="1640971785730" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous"/>
 </node>
 </node>
 <node TEXT="downpour" ID="ID_1216864038" CREATED="1640978394871" MODIFIED="1640978398878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -316,7 +316,7 @@
 </node>
 <node TEXT="في" LOCALIZED_STYLE_REF="default" ID="ID_582306273" CREATED="1640971861717" MODIFIED="1640972417013" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 <node TEXT="ال" ID="ID_860192896" CREATED="1640971961134" MODIFIED="1640971966543" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="مَطَار" ID="ID_226174249" CREATED="1640971925147" MODIFIED="1640971952880" COLOR="#000000">
@@ -329,26 +329,26 @@
 </node>
 <node TEXT="bajo" ID="ID_1078763502" CREATED="1640973211771" MODIFIED="1640973263759" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 <node TEXT="la" ID="ID_1544556557" CREATED="1640973224258" MODIFIED="1640978525990" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="lluvia" ID="ID_1453443107" CREATED="1640973227965" MODIFIED="1640973236175" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 </node>
 <node TEXT="nieve" ID="ID_516149881" CREATED="1640976306355" MODIFIED="1640976318185" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 </node>
 <node TEXT="el granizo" ID="ID_1047331266" CREATED="1640977969067" MODIFIED="1640983115677" COLOR="#666666">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="grammar/gender/masculine@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="grammar/gender/masculine"/>
 <font STRIKETHROUGH="false" ITALIC="false"/>
 </node>
 <node TEXT="el aguacero" ID="ID_1455625078" CREATED="1640978453493" MODIFIED="1640980552849" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="grammar/gender/masculine@b"/>
+<icon BUILTIN="grammar/gender/masculine"/>
 </node>
 </node>
 </node>
@@ -364,19 +364,19 @@
 </node>
 <node TEXT="sous" ID="ID_1426105811" CREATED="1640973336388" MODIFIED="1640973352346" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 <node TEXT="la" ID="ID_1002550075" CREATED="1640973340449" MODIFIED="1640973348289" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 <node TEXT="pluie" ID="ID_1475861843" CREATED="1640973341733" MODIFIED="1640976184256" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 </node>
 <node TEXT="neige" ID="ID_341240940" CREATED="1640975600218" MODIFIED="1640975604593" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
 <node TEXT="grêle" ID="ID_1174857660" CREATED="1640976166770" MODIFIED="1640983115677" COLOR="#666666">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 </node>
@@ -391,35 +391,35 @@
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 <node TEXT="τη" ID="ID_1864378155" CREATED="1640985024547" MODIFIED="1640985125783" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 <node TEXT="βροχί" LOCALIZED_STYLE_REF="default" ID="ID_1212276650" CREATED="1640975074695" MODIFIED="1640985195079" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
-<icon BUILTIN="grammar/gender/feminine@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
+<icon BUILTIN="grammar/gender/feminine"/>
 </node>
 <node TEXT="χιόνι" ID="ID_40811046" CREATED="1640984147972" MODIFIED="1640986595496" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="grammar/gender/neuter@b"/>
+<icon BUILTIN="grammar/gender/neuter"/>
 </node>
 <node TEXT="χαλάζι" ID="ID_1606456238" CREATED="1640986670060" MODIFIED="1640986688017" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="grammar/gender/neuter@b"/>
+<icon BUILTIN="grammar/gender/neuter"/>
 </node>
 <node TEXT="την" ID="ID_1107541195" CREATED="1640975093876" MODIFIED="1640985061020" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 </node>
 <node TEXT="το" LOCALIZED_STYLE_REF="default" ID="ID_1176769954" CREATED="1640985072963" MODIFIED="1640985089894" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous"/>
 </node>
 </node>
 <node ID="ID_468204767" CREATED="1640980599962" MODIFIED="1640980825245" COLOR="#000000">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <icon BUILTIN="heraldics/earth_flag"/>
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -439,7 +439,7 @@
 <node TEXT="damaged by" ID="ID_1276691690" CREATED="1640972891665" MODIFIED="1640972902670">
 <node TEXT="the carpet" ID="ID_412689614" CREATED="1640972903547" MODIFIED="1640973059520" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="got soaked" ID="ID_1745722792" CREATED="1640972915197" MODIFIED="1640972929558" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="from" ID="ID_269877628" CREATED="1640972918638" MODIFIED="1640972978582" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
@@ -448,7 +448,7 @@
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="rain" ID="ID_1446870039" CREATED="1640972921351" MODIFIED="1640972943027" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 </node>
 </node>
 </node>
@@ -456,7 +456,7 @@
 </node>
 <node TEXT="la alfombra" ID="ID_1393740814" CREATED="1640972996830" MODIFIED="1640973172794" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="se mojó" ID="ID_1143514719" CREATED="1640973004660" MODIFIED="1640973026757" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="por" ID="ID_480986482" CREATED="1640973028912" MODIFIED="1640973139439" LINK="https://www.realfastspanish.com/grammar/verbs-prepositions" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
@@ -465,7 +465,7 @@
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="lluvia" ID="ID_1218707416" CREATED="1640973035532" MODIFIED="1640973044383" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 </node>
 </node>
 </node>

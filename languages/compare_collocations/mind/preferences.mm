@@ -210,13 +210,13 @@
 <font BOLD="true"/>
 <node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
 <node TEXT="feminine" LOCALIZED_STYLE_REF="default" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1638005675413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/feminine@b"/>
+<icon BUILTIN="grammar/gender/feminine"/>
 </node>
 <node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/masculine@b"/>
+<icon BUILTIN="grammar/gender/masculine"/>
 </node>
 <node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/both_genders@b"/>
+<icon BUILTIN="grammar/gender/both_genders"/>
 </node>
 </node>
 <node TEXT="number" ID="ID_1197699449" CREATED="1638005695736" MODIFIED="1638005698501">
@@ -227,7 +227,7 @@
 <node TEXT="syntax" ID="ID_1205169936" CREATED="1638005727863" MODIFIED="1638005731513">
 <node TEXT="sequence" ID="ID_1970909851" CREATED="1638005722645" MODIFIED="1638005725496">
 <node TEXT="word before its parent" ID="ID_704088312" CREATED="1638005732749" MODIFIED="1638005754493">
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+<icon BUILTIN="grammar/syntax/precedes_previous"/>
 </node>
 </node>
 </node>
@@ -238,16 +238,16 @@
 </node>
 <node TEXT="control" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1639451537112">
 <node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 </node>
 <node TEXT="unnecessary" ID="ID_728579299" CREATED="1639451543852" MODIFIED="1639451557845">
-<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+<icon BUILTIN="size_optimisation/unnecessary_node"/>
 </node>
 <node TEXT="declaration of variable" ID="ID_1822291525" CREATED="1639451560357" MODIFIED="1639452478702">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 </node>
 <node ID="ID_716132178" CREATED="1639464033853" MODIFIED="1639464121745">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -263,7 +263,7 @@
 </richcontent>
 </node>
 <node TEXT="same as parent (can substitute it)" ID="ID_1249817900" CREATED="1639453816860" MODIFIED="1639453847531">
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 </node>
 <node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
@@ -275,59 +275,59 @@
 <node TEXT="basic way" ID="ID_177141069" CREATED="1639999696532" MODIFIED="1639999707965">
 <node TEXT="i" ID="ID_137184622" CREATED="1639812824278" MODIFIED="1639812908317" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="like" ID="ID_1969697882" CREATED="1639812667958" MODIFIED="1639812678342" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="ice-cream" ID="ID_1906088062" CREATED="1639812679143" MODIFIED="1639814338118" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="more" ID="ID_912596082" CREATED="1639812713424" MODIFIED="1639891769116" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 <node TEXT="than" LOCALIZED_STYLE_REF="default" ID="ID_1610446175" CREATED="1639812735716" MODIFIED="1639814389263" COLOR="#000000" BACKGROUND_COLOR="#cccc00">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="chocolate" ID="ID_645141000" CREATED="1639812789241" MODIFIED="1639814599296" COLOR="#000000" BACKGROUND_COLOR="#999999">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 <node TEXT="better" ID="ID_438690410" CREATED="1639812715806" MODIFIED="1639812732237" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 <node TEXT="" LOCALIZED_STYLE_REF="default" ID="ID_929037392" CREATED="1639812744390" MODIFIED="1639812762600" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="punctuation/period@b"/>
+<icon BUILTIN="punctuation/period"/>
 </node>
 </node>
 <node TEXT="less" ID="ID_894091296" CREATED="1639891770520" MODIFIED="1639891772341" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 </node>
 <node TEXT="" LOCALIZED_STYLE_REF="default" ID="ID_618643625" CREATED="1639812744390" MODIFIED="1639812762600" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="punctuation/period@b"/>
+<icon BUILTIN="punctuation/period"/>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="μου" ID="ID_340378999" CREATED="1639813129688" MODIFIED="1639813141492" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="αρέσει" ID="ID_1701020261" CREATED="1639813141876" MODIFIED="1639813151812" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 <node TEXT="το παγωτό" ID="ID_1015018454" CREATED="1639813155010" MODIFIED="1639814338123" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="περισσότερο" ID="ID_759451440" CREATED="1639814104861" MODIFIED="1639889140571" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="size_optimisation/variables/variable_declaration@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_declaration"/>
 <node TEXT="άπο" ID="ID_1988956811" CREATED="1639814118858" MODIFIED="1639814389264" COLOR="#000000" BACKGROUND_COLOR="#cccc00">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
 <node TEXT="το σοκολάτα" ID="ID_1353440014" CREATED="1639814135863" MODIFIED="1639814599300" COLOR="#000000" BACKGROUND_COLOR="#999999">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="άπτο" ID="ID_1411189416" CREATED="1639814970169" MODIFIED="1639815013455" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EC-1F1F7"/>
-<icon BUILTIN="cog@b"/>
+<icon BUILTIN="cog"/>
 </node>
 </node>
 </node>
@@ -339,19 +339,19 @@
 </node>
 <node TEXT="mihi" ID="ID_1151394604" CREATED="1639815186228" MODIFIED="1639815197225" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="heraldics/roman_empire"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="placet" ID="ID_319495181" CREATED="1639815197584" MODIFIED="1639815201944" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="lac gelâtum" ID="ID_400661908" CREATED="1639815205251" MODIFIED="1639882759016" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="heraldics/roman_empire"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="magis" ID="ID_1470956276" CREATED="1639815209444" MODIFIED="1639815684401" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="quam" ID="ID_433379976" CREATED="1639815214792" MODIFIED="1639815686976" COLOR="#000000" BACKGROUND_COLOR="#cccc00">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="socolâtum" ID="ID_30712445" CREATED="1639815218477" MODIFIED="1639815677796" COLOR="#000000" BACKGROUND_COLOR="#999999">
 <icon BUILTIN="heraldics/roman_empire"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 </node>
@@ -360,19 +360,19 @@
 </node>
 <node TEXT="أنا" ID="ID_133942362" CREATED="1639818746949" MODIFIED="1640447838584" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="أُحِبُّ" ID="ID_1439289035" CREATED="1639818762906" MODIFIED="1639818789072" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="الآيْس كْرِيم" ID="ID_1640965769" CREATED="1639818794585" MODIFIED="1639882666484" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="أَكْثَر" ID="ID_1841376784" CREATED="1639818797211" MODIFIED="1639818850609" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="مِن" ID="ID_1567385010" CREATED="1639818822674" MODIFIED="1639818854506" COLOR="#000000" BACKGROUND_COLOR="#cccc00">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="الشُوكُولَا" ID="ID_1933799594" CREATED="1639818832864" MODIFIED="1639882703565" COLOR="#000000" BACKGROUND_COLOR="#999999">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 </node>
@@ -386,30 +386,30 @@
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="نِي" ID="ID_1668348844" CREATED="1640447892547" MODIFIED="1640448572481" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
-<icon BUILTIN="grammar/syntax/attached_to_previous@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
+<icon BUILTIN="grammar/syntax/attached_to_previous"/>
 </node>
 <node TEXT="تُعجِبُ `inanimate" ID="ID_90327864" CREATED="1640447915198" MODIFIED="1640448609841" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <icon BUILTIN="grammar/plural"/>
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 </node>
 <node TEXT="me" ID="ID_1671089939" CREATED="1639812893919" MODIFIED="1639812914641" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="gusta" ID="ID_149044282" CREATED="1639812911758" MODIFIED="1639812918240" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="más" LOCALIZED_STYLE_REF="default" ID="ID_882218088" CREATED="1639812933575" MODIFIED="1639814360224" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="el helado" ID="ID_1754211911" CREATED="1639812920554" MODIFIED="1639814533550" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="que" ID="ID_709279606" CREATED="1639812943173" MODIFIED="1639814389255" COLOR="#000000" BACKGROUND_COLOR="#cccc00">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
 <node TEXT="el chocolate" ID="ID_1449365631" CREATED="1639812945344" MODIFIED="1639814599299" COLOR="#000000" BACKGROUND_COLOR="#999999">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 </node>
@@ -418,19 +418,19 @@
 </node>
 <node TEXT="j&apos;" ID="ID_422782512" CREATED="1639814657627" MODIFIED="1639814928938" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="aime" ID="ID_517430290" CREATED="1639814850610" MODIFIED="1639814854184" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 <node TEXT="plus" ID="ID_1809298618" CREATED="1639814884585" MODIFIED="1639814891852" COLOR="#000000" BACKGROUND_COLOR="#ffccff">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 <node TEXT="la glass" ID="ID_1162348370" CREATED="1639814854518" MODIFIED="1639814872219" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="que" ID="ID_1078944401" CREATED="1639814873339" MODIFIED="1639814899557" COLOR="#000000" BACKGROUND_COLOR="#cccc00">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 <node TEXT="le chocolat" ID="ID_1438171206" CREATED="1639814900156" MODIFIED="1639814909338" COLOR="#000000" BACKGROUND_COLOR="#999999">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 </node>
@@ -505,21 +505,21 @@
 <node TEXT="additional ways" ID="ID_1365732464" CREATED="1639999720723" MODIFIED="1639999729596">
 <node TEXT="i" ID="ID_482842452" CREATED="1639812830670" MODIFIED="1639812909624" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="prefer" LOCALIZED_STYLE_REF="default" ID="ID_1607755590" CREATED="1639812848675" MODIFIED="1639814566534" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="ice-cream" LOCALIZED_STYLE_REF="default" ID="ID_168030674" CREATED="1639812853886" MODIFIED="1639814338122" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="to" ID="ID_979558742" CREATED="1639812861232" MODIFIED="1639814477272" COLOR="#000000" BACKGROUND_COLOR="#cccc00">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="chocolate" ID="ID_977394130" CREATED="1639812864954" MODIFIED="1639814599299" COLOR="#000000" BACKGROUND_COLOR="#999999">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 <node TEXT="" ID="ID_1774479164" CREATED="1639812874855" MODIFIED="1639812877975">
-<icon BUILTIN="punctuation/period@b"/>
+<icon BUILTIN="punctuation/period"/>
 </node>
 </node>
 </node>

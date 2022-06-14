@@ -131,7 +131,7 @@
 </node>
 <node TEXT="present in one place" POSITION="right" ID="ID_82124599" CREATED="1638689075715" MODIFIED="1638689091868">
 <node TEXT="There is a place near me where you may stand on a rock." ID="ID_1650658347" CREATED="1638689093397" MODIFIED="1638689124749">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="Exodus 33:21" ID="ID_874024113" CREATED="1638689136935" MODIFIED="1638689243929" LINK="https://www.biblegateway.com/passage/?search=Exodus%2033&amp;version=NIV">
 <icon BUILTIN="emoji-26F2"/>
@@ -140,7 +140,7 @@
 </node>
 <node TEXT="has body parts" POSITION="right" ID="ID_1299373617" CREATED="1638689209359" MODIFIED="1638689214806">
 <node TEXT="Then I will remove my hand and you will see my back; but my face must not be seen." ID="ID_785868165" CREATED="1638689215586" MODIFIED="1638689251144">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="Exodus 33:23" ID="ID_425745522" CREATED="1638689232608" MODIFIED="1638689242476" LINK="https://www.biblegateway.com/passage/?search=Exodus%2033&amp;version=NIV">
 <icon BUILTIN="emoji-26F2"/>

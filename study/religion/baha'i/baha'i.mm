@@ -124,7 +124,7 @@
 </hook>
 <node TEXT="type: study" POSITION="left" ID="ID_1996850765" CREATED="1635620415970" MODIFIED="1635620415972"/>
 <node TEXT="persian origin" POSITION="right" ID="ID_1725519251" CREATED="1634263529521" MODIFIED="1634265425119">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 <node TEXT="5mln ppl" POSITION="right" ID="ID_1618751430" CREATED="1634263555081" MODIFIED="1634265425122">
@@ -136,7 +136,7 @@
 <node TEXT="sacred" POSITION="right" ID="ID_1141114707" CREATED="1634274592518" MODIFIED="1635624493013" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="israel" ID="ID_1778775389" CREATED="1634263639932" MODIFIED="1634265425123">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 <font NAME="Tahoma" BOLD="false"/>
 <node TEXT="acre" ID="ID_579463165" CREATED="1634263623638" MODIFIED="1634265425123">
 <font NAME="Tahoma" BOLD="false"/>
@@ -146,7 +146,7 @@
 </node>
 </node>
 <node TEXT="Kitāb-i-Aqdas" ID="ID_83896621" CREATED="1634274609482" MODIFIED="1634274665663">
-<icon BUILTIN="books@b"/>
+<icon BUILTIN="books"/>
 </node>
 </node>
 <node TEXT="target" POSITION="right" ID="ID_1584732993" CREATED="1634274510387" MODIFIED="1635624493015" COLOR="#7f7f7f">
@@ -173,7 +173,7 @@
 </richcontent>
 <node TEXT="next buddha" ID="ID_1055543722" CREATED="1635624346871" MODIFIED="1635624349936">
 <node TEXT="maitreya" LOCALIZED_STYLE_REF="default" ID="ID_149173753" CREATED="1635624337310" MODIFIED="1635624428704" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 </node>
 </node>
 </node>
@@ -186,10 +186,10 @@
 <node TEXT="will appear not earlier than after 1000 years" ID="ID_1488268531" CREATED="1635630577036" MODIFIED="1635630588802">
 <node TEXT="after 2800 CE" ID="ID_1919751830" CREATED="1635630589130" MODIFIED="1635630704228"/>
 <node TEXT="or else he&apos;s a lying impostor" ID="ID_371583910" CREATED="1635630631318" MODIFIED="1635630711524">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="but baha&apos;u&apos;llah himself claims to be maitreya" ID="ID_146700155" CREATED="1635630643277" MODIFIED="1635630688587">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="who should appear when buddhism is forgotten" ID="ID_260030963" CREATED="1635630664421" MODIFIED="1635630676894"/>
 </node>
 </node>

@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,20 +170,20 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
-<icon BUILTIN="bird2@b"/>
+<icon BUILTIN="bird2"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="" ID="ID_85762982" CREATED="1633811933391" MODIFIED="1635773283879" BACKGROUND_COLOR="#e5e5e5">
@@ -202,7 +202,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -227,18 +227,18 @@
 </node>
 <node TEXT="sodium cyclamate" POSITION="right" ID="ID_1135711940" CREATED="1641051419779" MODIFIED="1641051425023">
 <node TEXT="considered safe in most countries" ID="ID_1210402652" CREATED="1641051531048" MODIFIED="1641051543996">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="banned in some countries because of cancerogenity" ID="ID_242987149" CREATED="1641051426732" MODIFIED="1641051530455">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 <node TEXT="the cheapest for its sweetness" ID="ID_1690620894" CREATED="1641051555220" MODIFIED="1641051563271">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 </node>
 <node TEXT="sodium saccharin" POSITION="right" ID="ID_1223357511" CREATED="1641051770451" MODIFIED="1641051772991">
 <node TEXT="cancerogenic" ID="ID_339511069" CREATED="1641051773475" MODIFIED="1641051786986" LINK="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1637197/">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 <node TEXT="overview" POSITION="right" ID="ID_257102081" CREATED="1641051579288" MODIFIED="1641051583671">

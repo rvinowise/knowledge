@@ -126,7 +126,7 @@
 <node TEXT="root" POSITION="right" ID="ID_326585799" CREATED="1635543701696" MODIFIED="1635543721147" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node ID="ID_1024847714" CREATED="1635543721546" MODIFIED="1635614148177">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -141,7 +141,7 @@
 </html>
 </richcontent>
 <node TEXT="arose when islam invaded india" ID="ID_1573429005" CREATED="1635543729640" MODIFIED="1635544043973">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 </node>
 <node TEXT="islamic influence" ID="ID_846768814" CREATED="1635543985395" MODIFIED="1635544011864">
 <node TEXT="one god" ID="ID_40595475" CREATED="1635543964365" MODIFIED="1635543968684"/>
@@ -151,7 +151,7 @@
 <node TEXT="karma" ID="ID_1958101820" CREATED="1635543988938" MODIFIED="1635543991000"/>
 </node>
 <node TEXT="sincretism" ID="ID_1045291147" CREATED="1635614117888" MODIFIED="1635614128516">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 </node>
 </node>
 </node>
@@ -161,7 +161,7 @@
 <node TEXT="turban" ID="ID_1003325046" CREATED="1635544093030" MODIFIED="1635544095873"/>
 <node TEXT="dagger" ID="ID_705624169" CREATED="1635544098424" MODIFIED="1635544100195">
 <node TEXT="a substitute on an airplane" ID="ID_829139099" CREATED="1635544300840" MODIFIED="1635544330562">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 <node TEXT="bracelet" ID="ID_1013007168" CREATED="1635544110057" MODIFIED="1635544122073"/>

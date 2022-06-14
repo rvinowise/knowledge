@@ -128,7 +128,7 @@
 <node TEXT="small crimes rate is bigger" LOCALIZED_STYLE_REF="default" ID="ID_1618238440" CREATED="1630737581188" MODIFIED="1631766846473">
 <node TEXT="NationMaster" STYLE_REF="source node" ID="ID_1120094785" CREATED="1631766652928" MODIFIED="1631766673495" LINK="https://www.nationmaster.com/country-info/compare/India/Pakistan/Crime">
 <node TEXT="contradictory statistics" LOCALIZED_STYLE_REF="default" ID="ID_961071742" CREATED="1631766779708" MODIFIED="1633370579604" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 </node>
@@ -143,7 +143,7 @@
 <node TEXT="high rape in the family" ID="ID_1424755789" CREATED="1630769675857" MODIFIED="1630851892578">
 <node TEXT="hospital workers were asked" STYLE_REF="source node" ID="ID_358886029" CREATED="1630744361240" MODIFIED="1630823762608" LINK="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8140284/"/>
 <node TEXT="not sure if in india it&apos;s lower" LOCALIZED_STYLE_REF="default" ID="ID_1850029734" CREATED="1631780403539" MODIFIED="1633370579606" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 </node>
@@ -152,53 +152,53 @@
 <node TEXT="sexual behaviour" STYLE_REF="topic" POSITION="right" ID="ID_111853252" CREATED="1630747980135" MODIFIED="1634891144645" LINK="islamic%20sex.mm#ID_696401721">
 <node TEXT="islam" STYLE_REF="topic" ID="ID_1705305581" CREATED="1630767974104" MODIFIED="1631978234156">
 <node TEXT="rape isn&apos;t reported" LOCALIZED_STYLE_REF="default" ID="ID_1676630121" CREATED="1630764749690" MODIFIED="1633370579606" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="victime blaming" LOCALIZED_STYLE_REF="default" ID="ID_1610092051" CREATED="1630764760632" MODIFIED="1633370624382" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node ID="ID_29594317" TREE_ID="ID_358886029"/>
 </node>
 <node TEXT="young age of marriage" LOCALIZED_STYLE_REF="default" ID="ID_1767913618" CREATED="1630748007029" MODIFIED="1630748145390">
 <node TEXT="more likely to divorce" LOCALIZED_STYLE_REF="default" ID="ID_817625123" CREATED="1630748040225" MODIFIED="1633370579606" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="institute for family studies" STYLE_REF="source node" ID="ID_145751915" CREATED="1630848685641" MODIFIED="1630848904501" LINK="https://ifstudies.org/blog/want-to-avoid-divorce-wait-to-get-married-but-not-too-long/">
 <node TEXT="slightly right-wing, wouldn&apos;t slander early marriage" LOCALIZED_STYLE_REF="default" ID="ID_681512877" CREATED="1630848907788" MODIFIED="1633370589514" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="sourcewatch" STYLE_REF="source node" ID="ID_1968193003" CREATED="1630848970974" MODIFIED="1630848998455" LINK="https://www.sourcewatch.org/index.php/Institute_for_Family_Studies"/>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="women are raped" LOCALIZED_STYLE_REF="default" ID="ID_188284645" CREATED="1630770924891" MODIFIED="1633370579606" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="WomanStats Project" STYLE_REF="source node" ID="ID_1481318749" CREATED="1630770949339" MODIFIED="1630848600335" LINK="https://womanstats.wordpress.com/2013/01/16/the-high-rape-scale-in-saudi-arabia/"/>
 </node>
 </node>
 <node TEXT="secularism" STYLE_REF="topic" ID="ID_1379417412" CREATED="1630767990830" MODIFIED="1631978234159">
 <node TEXT="men are slandered" LOCALIZED_STYLE_REF="default" ID="ID_622666364" CREATED="1630768002157" MODIFIED="1633370579606" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 </node>
 <node TEXT="aggression" STYLE_REF="topic" POSITION="right" ID="ID_583362104" CREATED="1631767111322" MODIFIED="1631978226705">
 <node TEXT="islam" STYLE_REF="topic" ID="ID_291752460" CREATED="1631767125490" MODIFIED="1631978234160">
 <node TEXT="biggest amount of terrorism" LOCALIZED_STYLE_REF="default" ID="ID_1232359228" CREATED="1631767191431" MODIFIED="1633370579606" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="TheReligionofPeace.com(TROP)" STYLE_REF="source node" ID="ID_293810674" CREATED="1631767212116" MODIFIED="1631776401414" LINK="https://thereligionofpeace.com/">
 <node TEXT="Media Bias/Fact Check (MBFC)" LOCALIZED_STYLE_REF="default" ID="ID_1296080679" CREATED="1631788069861" MODIFIED="1633370589515" LINK="https://mediabiasfactcheck.com/the-religion-of-peace/" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="gives a low rating because of TROP&apos;s biass" LOCALIZED_STYLE_REF="default" ID="ID_438775114" CREATED="1631788486948" MODIFIED="1633370579606" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 <node TEXT="most sources of TROP are reliable" LOCALIZED_STYLE_REF="default" ID="ID_1262502448" CREATED="1631788501619" MODIFIED="1633370589515" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 </node>
 </node>
 <node TEXT="they are just &quot;extremists&quot;" LOCALIZED_STYLE_REF="default" ID="ID_471708521" CREATED="1631767419901" MODIFIED="1633370579606" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1477933851" CREATED="1631767732612" MODIFIED="1633370579607" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -213,7 +213,7 @@
 </html>
 </richcontent>
 <node TEXT="jain extremists are &quot;extremely peaceful&quot;" LOCALIZED_STYLE_REF="default" ID="ID_95751919" CREATED="1631776419711" MODIFIED="1633370589515" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="they cover mouths to not swallow insects,&#xa;swipe the road with a broom to not smash insects,&#xa;swear to make a limited amount of steps a day" ID="ID_1912719644" CREATED="1631788866296" MODIFIED="1631789027461">
 <node TEXT="Insects in the Religions of India&#xa;DOI: 10.1093/ae/59.4.200" STYLE_REF="source node" ID="ID_802268042" CREATED="1631776938095" MODIFIED="1631777778056" LINK="https://www.researchgate.net/figure/Jain-monks-wear-mesh-over-their-faces-to-avoid-inhaling-insects-and-carry-soft-brooms-to_fig1_262855310"/>
 </node>
@@ -223,20 +223,20 @@
 </node>
 </node>
 <node TEXT="critics of islam receive many death threats" LOCALIZED_STYLE_REF="default" ID="ID_488677628" CREATED="1631776598437" MODIFIED="1638759587636" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 <node TEXT="hinduism" ID="ID_1278494406" CREATED="1638759590173" MODIFIED="1638759594836" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="hindutva" ID="ID_1546642329" CREATED="1638759595179" MODIFIED="1638759598549">
 <node TEXT="the biggest amount of death threats" ID="ID_755900874" CREATED="1638759598915" MODIFIED="1638759610706">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 </node>
 <node TEXT="secularism" STYLE_REF="topic" ID="ID_589155641" CREATED="1631791222445" MODIFIED="1631978234161">
 <node TEXT="the smallest amount of crime is in atheistic countries" LOCALIZED_STYLE_REF="default" ID="ID_428779163" CREATED="1631791231774" MODIFIED="1633370589516" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="northern europe" ID="ID_1182474869" CREATED="1631791245653" MODIFIED="1631791249920"/>
 <node TEXT="japan" ID="ID_1132632519" CREATED="1631791263062" MODIFIED="1631791265320"/>
 </node>
@@ -247,7 +247,7 @@
 <node TEXT="religion" ID="ID_911661803" CREATED="1633936034223" MODIFIED="1633936041308" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="lowers depression" ID="ID_1610410370" CREATED="1633933845942" MODIFIED="1633936044716">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="Dr. Robert Sapolsky&apos;s lecture about Biological Underpinnings of Religiosity" ID="ID_1767893277" CREATED="1633933932173" MODIFIED="1633934136536" LINK="https://www.youtube.com/watch?v=4WwAQqWUkpI">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -256,7 +256,7 @@
 <node TEXT="secularism" ID="ID_1302259045" CREATED="1633936046603" MODIFIED="1633936052491" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="the biggest amount of suicides" LOCALIZED_STYLE_REF="default" ID="ID_16221201" CREATED="1631791295926" MODIFIED="1633936055801" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="japan" ID="ID_405190263" CREATED="1631791263062" MODIFIED="1631791265320"/>
 <node TEXT="baltic countries" ID="ID_1021388565" CREATED="1634265967698" MODIFIED="1634265974706"/>
 <node TEXT="russia" ID="ID_742478305" CREATED="1634891231337" MODIFIED="1634891232686"/>

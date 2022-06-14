@@ -139,40 +139,40 @@
 <font NAME="Tahoma"/>
 <node TEXT="type: history" POSITION="left" ID="ID_1741613068" CREATED="1636681813729" MODIFIED="1636681813729"/>
 <node TEXT="ænaxÆgɒras" POSITION="right" ID="ID_1955266929" CREATED="1636681813731" MODIFIED="1636682276366">
-<icon BUILTIN="man_bust@b"/>
+<icon BUILTIN="man_bust"/>
 <node TEXT="the moon is earthy" ID="ID_1339711058" CREATED="1636681834647" MODIFIED="1636681868711">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="not emitting light" ID="ID_1038329030" CREATED="1636681843250" MODIFIED="1636681848371"/>
 </node>
 <node TEXT="what are eclipses" ID="ID_402729511" CREATED="1636681850856" MODIFIED="1636681869149">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="the sun is bigger than peloponnse" ID="ID_526924532" CREATED="1636681914976" MODIFIED="1636681934963">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="the earth is flat" ID="ID_448196598" CREATED="1636681870048" MODIFIED="1636682021294">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="supported by air" ID="ID_544834084" CREATED="1636682021963" MODIFIED="1636682030509">
 <node TEXT="causing earthquakes by turbulence" ID="ID_1659506308" CREATED="1636682034219" MODIFIED="1636682052240"/>
 </node>
 </node>
 <node TEXT="500 - 429bc" ID="ID_113971637" CREATED="1636682523835" MODIFIED="1636682534376">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 </node>
 </node>
 <node TEXT="erɒtⱰsthenês" POSITION="right" ID="ID_1318841529" CREATED="1636681879525" MODIFIED="1636682255497">
-<icon BUILTIN="man_bust@b"/>
+<icon BUILTIN="man_bust"/>
 <node TEXT="circumference of (round) earth" ID="ID_1818370673" CREATED="1636681882923" MODIFIED="1636681899108">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="tilt of earth&apos;s axis" ID="ID_1082118659" CREATED="1636682433067" MODIFIED="1636682442795">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="lybia (cўrÊne)" ID="ID_1324299958" CREATED="1636682350951" MODIFIED="1636682395844">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 </node>
 <node TEXT="276bc - 194bc" ID="ID_171586578" CREATED="1636682463870" MODIFIED="1636682481718">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 </node>
 </node>
 </node>

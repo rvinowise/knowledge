@@ -144,13 +144,13 @@
 <node TEXT="in cold climates" ID="ID_1139856052" CREATED="1641415797389" MODIFIED="1641415800914">
 <node TEXT="e.g. scandinavian paganism" ID="ID_148571176" CREATED="1641415801147" MODIFIED="1641415809592">
 <node TEXT="niflheim" ID="ID_1793167902" CREATED="1641415821301" MODIFIED="1641415854035">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 <node TEXT="britannica" ID="ID_1171330905" CREATED="1641415829309" MODIFIED="1641415839689" LINK="https://www.britannica.com/topic/Niflheim">
 <icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 <node TEXT="hel" LOCALIZED_STYLE_REF="default" ID="ID_1297122618" CREATED="1641415864414" MODIFIED="1641415876186" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="chain"/>
 </node>
 </node>
 </node>
@@ -165,7 +165,7 @@
 <node TEXT="everybody go to hell" POSITION="right" ID="ID_367938873" CREATED="1642070759672" MODIFIED="1642070872726">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="greece" ID="ID_814716442" CREATED="1642070786967" MODIFIED="1642070796046">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 </node>
 <node TEXT="afterlife is not looked forward to" ID="ID_492773868" CREATED="1642070798596" MODIFIED="1642070832382"/>
 <node TEXT="tartarus" ID="ID_1161154922" CREATED="1642070688756" MODIFIED="1642071018377">
@@ -178,7 +178,7 @@
 <node TEXT="but was considered good by that culture" ID="ID_398118616" CREATED="1642070900010" MODIFIED="1642070910416"/>
 <node TEXT="valhalla" ID="ID_857747841" CREATED="1642070915981" MODIFIED="1642070919923">
 <node TEXT="scandinavia" ID="ID_1157023390" CREATED="1642070921028" MODIFIED="1642070929156">
-<icon BUILTIN="place@b"/>
+<icon BUILTIN="place"/>
 </node>
 <node TEXT="inhabitants fight to death constantly" ID="ID_1671202857" CREATED="1642070929896" MODIFIED="1642070960244"/>
 </node>
