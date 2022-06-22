@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -225,6 +225,15 @@
 <node TEXT="materialistic theories" POSITION="right" ID="ID_1723224585" CREATED="1649580569131" MODIFIED="1649580578911">
 <node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1649580634832" LINK="attention%20schema%20theory.mm"/>
 <node TEXT="integrated information theory" ID="ID_1698692448" CREATED="1649580629112" MODIFIED="1649580636794" LINK="integrated%20information%20theory.mm"/>
+</node>
+<node TEXT="perceived reality is an &quot;interface&quot;" POSITION="right" ID="ID_1442668370" CREATED="1655607494769" MODIFIED="1655607508786">
+<node TEXT="donald hoffman" ID="ID_565843133" CREATED="1655607510429" MODIFIED="1655607523804" LINK="https://youtu.be/reYdQYZ9Rj4?t=566">
+<node TEXT="it doesn&apos;t show the truth, it Hides it (because it&apos;s too complex)" ID="ID_1575200958" CREATED="1655607533955" MODIFIED="1655607552133">
+<icon BUILTIN="quote"/>
+<font ITALIC="true"/>
+</node>
+</node>
+<node TEXT="richard dennet" ID="ID_1913205298" CREATED="1655611931978" MODIFIED="1655611942684"/>
 </node>
 </node>
 </map>

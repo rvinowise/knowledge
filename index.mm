@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -159,7 +159,6 @@
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="deseases" ID="ID_515578829" CREATED="1636262773644" MODIFIED="1636262786057"/>
 <node TEXT="scientific knowledge" ID="ID_1080449578" CREATED="1636681780336" MODIFIED="1636681813271" LINK="study/history/scientific%20knowledge.mm"/>
 </node>
 <node TEXT="nature" ID="ID_1476016535" CREATED="1633368533504" MODIFIED="1635773283867">
@@ -278,9 +277,9 @@
 <node TEXT="lawsuits" ID="ID_1543778548" CREATED="1646786662552" MODIFIED="1646786700909" LINK="notes/lawsuits/">
 <node TEXT="demonstration" ID="ID_1873930037" CREATED="1646786703357" MODIFIED="1646786709096" LINK="file:/C:/knowledge/notes/lawsuits/demonstration.mm"/>
 </node>
-<node TEXT="gardening" ID="ID_1720914206" CREATED="1646929190818" MODIFIED="1646929190822" LINK="../../M:/gardening/">
-<node TEXT="shops.mm" ID="ID_1293070062" CREATED="1646969383114" MODIFIED="1646969383120" LINK="../../M:/gardening/shops/shops.mm"/>
-<node TEXT="crop_result.mm" ID="ID_1706408965" CREATED="1646969390594" MODIFIED="1646969390594" LINK="../../M:/gardening/crop_results/crop_result.mm"/>
+<node TEXT="gardening" ID="ID_1720914206" CREATED="1646929190818" MODIFIED="1655860865218" LINK="../../C:/gardening/">
+<node TEXT="crop_result.mm" ID="ID_1706408965" CREATED="1646969390594" MODIFIED="1655860862050" LINK="../../C:/gardening/crop_results/crop_result.mm"/>
+<node TEXT="shops.mm" ID="ID_1305970483" CREATED="1655863124640" MODIFIED="1655863124640" LINK="../../D:/gardening/shops/shops.mm"/>
 </node>
 <node TEXT="demonstrations" ID="ID_56337084" CREATED="1647079189531" MODIFIED="1647079206205" LINK="notes/demonstrations/">
 <node TEXT="antiwar" ID="ID_373804382" CREATED="1647079208591" MODIFIED="1647079215097" LINK="file:/C:/knowledge/notes/demonstrations/antiwar.mm"/>
