@@ -298,7 +298,7 @@
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="why killing him knowing that he&apos;s a prophet (and face punishment)?" ID="ID_1602170610" CREATED="1643319704287" MODIFIED="1643319735971"/>
 <node TEXT="most prophets bring a message that everybody Would Like" ID="ID_1704859411" CREATED="1643319757882" MODIFIED="1643324843044">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
@@ -1506,7 +1506,7 @@
 <icon BUILTIN="emoji-2754"/>
 </node>
 <node TEXT="but other translations say Jews and Christians conceal the truth" ID="ID_765585009" CREATED="1643661740967" MODIFIED="1643661813093">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <icon BUILTIN="control/comment"/>
 <node TEXT="christianity is proselytising (not &quot;concealing&quot; anything)" ID="ID_1331476468" CREATED="1643661764927" MODIFIED="1643661786001"/>
 </node>
@@ -1623,7 +1623,7 @@
 </node>
 </node>
 <node TEXT="there are people who call god as the witness of their impressive wordly talks. they are worst enemies" ID="ID_795510600" CREATED="1643753886883" MODIFIED="1643938021298" LINK="https://quran.com/2:204?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="after their talks they go sinning and destroying progeny" ID="ID_1435189268" CREATED="1643753987769" MODIFIED="1643754017258" LINK="https://quran.com/2:205?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="controversial translation" ID="ID_1155733405" CREATED="1643754057940" MODIFIED="1643937516651">
 <icon BUILTIN="control/hashtag"/>
@@ -1636,7 +1636,7 @@
 </node>
 </node>
 <node ID="ID_695763890" CREATED="1643754221311" MODIFIED="1643754279432" LINK="https://quran.com/2:207?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1718,7 +1718,7 @@
 <node TEXT="predestination (qadr)" ID="ID_1903403529" CREATED="1643832403667" MODIFIED="1643832413075">
 <node TEXT="god sealed hearts of disbelievers (hence their disbelief)" ID="ID_378152863" CREATED="1643939352912" MODIFIED="1643939845724" LINK="https://quran.com/2:7?font=v1&amp;translations=149%2C95%2C206%2C20%2C207">
 <node TEXT="modern explanations say that disbelievers decided to disbelieve first, and Then god sealed them" ID="ID_555715916" CREATED="1643939773759" MODIFIED="1643939886174" LINK="#ID_1274718667">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="people fight because god wants it" ID="ID_786889772" CREATED="1643832413973" MODIFIED="1643832461621" LINK="https://quran.com/2:253?font=v1&amp;translations=149%2C95%2C206%2C20%2C207"/>

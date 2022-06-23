@@ -141,13 +141,13 @@
 <node TEXT="claimers probably knew arabic good enough" ID="ID_6143986" CREATED="1636419808413" MODIFIED="1636420206692"/>
 </node>
 <node TEXT="nA7l can be f. or m." ID="ID_1867237381" CREATED="1636428158301" MODIFIED="1636428271614" LINK="https://en.wiktionary.org/wiki/%D9%86%D8%AD%D9%84">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="quran choses f." ID="ID_238609102" CREATED="1636428279331" MODIFIED="1636428287225">
 <node TEXT="&gt;50% of success" ID="ID_769857255" CREATED="1636428287458" MODIFIED="1636428407243"/>
 </node>
 </node>
 <node TEXT="arabic plurals are grammatically feminine singular" ID="ID_1240497319" CREATED="1636420006540" MODIFIED="1636420174549">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="apart from jinn, angels and humans" ID="ID_1809003932" CREATED="1636420041586" MODIFIED="1636420054404">
 <node TEXT="grammatical plural_feminine and plural_masculine are applied only for them" ID="ID_204010831" CREATED="1636420061730" MODIFIED="1636420154784"/>
 </node>

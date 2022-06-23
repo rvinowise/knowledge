@@ -224,16 +224,16 @@
 </node>
 <node TEXT="isolation of tested parts" POSITION="right" ID="ID_104714199" CREATED="1645623475472" MODIFIED="1645623482840">
 <node TEXT="good isolation" ID="ID_622415625" CREATED="1645623221020" MODIFIED="1645623341863">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="abstracting logic from monoBehaviours into regular classes" ID="ID_1506603887" CREATED="1645623397658" MODIFIED="1645623423964">
 <icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="confuses design with dummy monoBehaviours" ID="ID_218978170" CREATED="1645623379729" MODIFIED="1645623396492">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="poor isolation" ID="ID_385107581" CREATED="1645623304706" MODIFIED="1645623342877">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="instantiating monoBehaviours" ID="ID_450376170" CREATED="1645623314599" MODIFIED="1645623373853">
 <icon BUILTIN="box_inscribed"/>
 <node TEXT="the whole game is instantiated in test" ID="ID_278472559" CREATED="1645623523236" MODIFIED="1645625732499">
@@ -243,7 +243,7 @@
 </node>
 </node>
 <node TEXT="doesn&apos;t confuse program design" ID="ID_1698447960" CREATED="1645623335796" MODIFIED="1645623498393">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 </node>
@@ -266,7 +266,7 @@
 <icon BUILTIN="emoji-26F2"/>
 </node>
 <node TEXT="confusing syntax" ID="ID_178459637" CREATED="1645632985872" MODIFIED="1645632999405">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node ID="ID_1590161634" CREATED="1645631328893" MODIFIED="1645632956667"><richcontent TYPE="NODE">
@@ -287,7 +287,7 @@
 <icon BUILTIN="emoji-26F2"/>
 </node>
 <node TEXT="code changes" LOCALIZED_STYLE_REF="default" ID="ID_885970436" CREATED="1645631382542" MODIFIED="1645632982333" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>

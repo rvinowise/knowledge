@@ -189,7 +189,7 @@
 </node>
 </node>
 <node TEXT="it&apos;s permissible for worthly benefit" ID="ID_1032144225" CREATED="1640524825489" MODIFIED="1640524881430" LINK="https://www.islamweb.net/en/fatwa/405748/befriending-a-non-muslim-for-worldly-benefit-is-not-disbelief">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_666714211" CREATED="1640524905356" MODIFIED="1640527979964" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
 
 <html>
@@ -220,16 +220,16 @@
 <icon BUILTIN="man_bust"/>
 <icon BUILTIN="punctuation/colon"/>
 <node TEXT="i&apos;m afraid of" LOCALIZED_STYLE_REF="default" ID="ID_1265172857" CREATED="1636442356221" MODIFIED="1636442567377" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="appearing a looser to the public" LOCALIZED_STYLE_REF="default" ID="ID_220456582" CREATED="1636442397955" MODIFIED="1636442541119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="not being a skilfull debater" ID="ID_176940428" CREATED="1636442377025" MODIFIED="1636442387828"/>
 <node TEXT="if it&apos;s a private talk - i&apos;m ok" ID="ID_1765087906" CREATED="1636442603532" MODIFIED="1636442634889">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="bullying by the cult members" LOCALIZED_STYLE_REF="default" ID="ID_1059064421" CREATED="1636442402780" MODIFIED="1636442541675" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="if it&apos;s a civilised apologist - i&apos;m ok" ID="ID_1394342526" CREATED="1636442621369" MODIFIED="1636442634135">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="hamza tzortzis" ID="ID_1301128729" CREATED="1636442649911" MODIFIED="1636442657221"/>
 <node TEXT="nadir ahmed" ID="ID_967951020" CREATED="1636442657592" MODIFIED="1636442674747"/>
 </node>
@@ -238,12 +238,12 @@
 </node>
 </node>
 <node TEXT="i&apos;m NOT afraid of" ID="ID_1225773236" CREATED="1636442427745" MODIFIED="1636442568689">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="loosing my &quot;faith&quot; in atheism" LOCALIZED_STYLE_REF="default" ID="ID_261594289" CREATED="1636442436100" MODIFIED="1636442579449" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="i&apos;m sure i&apos;ll stay an atheist" ID="ID_1158752583" CREATED="1636442456462" MODIFIED="1636442502274"/>
 <node TEXT="if i change my mind - it&apos;s Good for me" ID="ID_1162971417" CREATED="1636442480544" MODIFIED="1636442494621"/>
 <node TEXT="mulims are afraid of Loosing faith" ID="ID_1255916789" CREATED="1636442504845" MODIFIED="1636442530669">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="this is the key difference" ID="ID_583720432" CREATED="1636442590370" MODIFIED="1636442594980"/>
 </node>
 </node>

@@ -151,9 +151,9 @@
 <node TEXT="most important tafsir" ID="ID_942179163" CREATED="1634014495666" MODIFIED="1634014501698">
 <node TEXT="Tafsir al-Tabari" ID="ID_431340642" CREATED="1634014511716" MODIFIED="1634014529632" LINK="https://en.wikipedia.org/wiki/Tafsir_al-Tabari">
 <node TEXT="quran has borrowed words" ID="ID_1834802915" CREATED="1634015858104" MODIFIED="1634015912276">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="they were borrowed before the revelation of quran" ID="ID_1080290956" CREATED="1634015880289" MODIFIED="1634015940036" LINK="https://en.wikipedia.org/wiki/Tafsir_al-Tabari">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>

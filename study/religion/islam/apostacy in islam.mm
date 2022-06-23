@@ -227,7 +227,7 @@
 </node>
 </node>
 <node TEXT="living in anxiety, uncertainty and conflict" ID="ID_1498040613" CREATED="1635533164684" MODIFIED="1635533200475">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="fear of hell postpones apostasy" STYLE_REF="list item" ID="ID_150785069" CREATED="1641968529996" MODIFIED="1641968566631">
@@ -242,11 +242,11 @@
 <node TEXT="during ramadan" ID="ID_705237778" CREATED="1630283600866" MODIFIED="1630283604734"/>
 </node>
 <node TEXT="feeling strong relief" STYLE_REF="list item" ID="ID_1631940200" CREATED="1635532985530" MODIFIED="1635996605498">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="there&apos;s no dissonance" ID="ID_623572267" CREATED="1635996656667" MODIFIED="1635996720763"/>
 </node>
 <node TEXT="residual anxiety" STYLE_REF="list item" ID="ID_478244826" CREATED="1635647428705" MODIFIED="1636088859711">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="What if you’re actually wrong, kāfir?" ID="ID_90321743" CREATED="1635647457442" MODIFIED="1635647462879">
 <icon BUILTIN="quote"/>
 <font ITALIC="true"/>
@@ -264,11 +264,11 @@
 </node>
 </node>
 <node TEXT="feeling euphoria" STYLE_REF="list item" ID="ID_1173332463" CREATED="1635996643244" MODIFIED="1635996651972">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="freedom" ID="ID_885930274" CREATED="1635996618036" MODIFIED="1635996716532"/>
 </node>
 <node TEXT="depression" STYLE_REF="list item" ID="ID_1263800087" CREATED="1635996606767" MODIFIED="1635996616791">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="lack of meaning" ID="ID_1872069361" CREATED="1635996676596" MODIFIED="1635996701503"/>
 <node TEXT="fear of death" ID="ID_82231346" CREATED="1635996691862" MODIFIED="1635996695035"/>
 </node>

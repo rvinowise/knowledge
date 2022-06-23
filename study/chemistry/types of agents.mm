@@ -271,7 +271,7 @@
 <node TEXT="earth metals" ID="ID_546009856" CREATED="1641515276850" MODIFIED="1641515281214"/>
 <node TEXT="an acid can be a reducing agent" ID="ID_1788310250" CREATED="1641515228400" MODIFIED="1641515636705" LINK="https://chemistry.stackexchange.com/questions/63153/how-does-a-lewis-acid-differ-from-an-oxidizing-agent-lewis-bases-from-reducing">
 <icon BUILTIN="info_circle"/>
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="HI" ID="ID_1177092783" CREATED="1641515316153" MODIFIED="1641515467076"/>
 </node>
 </node>

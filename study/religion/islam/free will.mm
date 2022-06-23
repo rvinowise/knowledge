@@ -192,7 +192,7 @@
 <icon BUILTIN="quote"/>
 <font NAME="Tahoma" ITALIC="true"/>
 <node ID="ID_27006087" CREATED="1635277525828" MODIFIED="1636335438347">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>

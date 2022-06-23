@@ -143,7 +143,7 @@
 <node TEXT="based on hinduism" ID="ID_1253585279" CREATED="1635284396856" MODIFIED="1635284427993">
 <node TEXT="buddha was hindu" ID="ID_1676589343" CREATED="1635284428130" MODIFIED="1635284435106">
 <node TEXT="but gods are irrelevant for his teaching" ID="ID_1635681790" CREATED="1635284435369" MODIFIED="1635284634685">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
@@ -167,12 +167,12 @@
 <node TEXT="meditation" ID="ID_1208055183" CREATED="1635284838545" MODIFIED="1635284842619">
 <node TEXT="useless meditation" ID="ID_1906389523" CREATED="1635284842747" MODIFIED="1635284978567">
 <icon BUILTIN="control/type_of_parent"/>
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="if you feel bliss during it" ID="ID_1182034678" CREATED="1635284852887" MODIFIED="1635284867367"/>
 </node>
 <node TEXT="correct meditation" ID="ID_1922216033" CREATED="1635284868511" MODIFIED="1635284982110">
 <icon BUILTIN="control/type_of_parent"/>
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="if you don&apos;t feel anything" ID="ID_1794371982" CREATED="1635284874784" MODIFIED="1635284897770">
 <icon BUILTIN="question"/>
 </node>
@@ -197,15 +197,15 @@
 <node TEXT="nirvana" ID="ID_1150582606" CREATED="1635285290993" MODIFIED="1635542889427">
 <icon BUILTIN="chain"/>
 <node TEXT="moksha (hinduism&amp;jainism)" ID="ID_1951766658" CREATED="1635285290993" MODIFIED="1635543191621">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="losing your personality" ID="ID_58423418" CREATED="1635285384998" MODIFIED="1635614638347">
 <node TEXT="sounds similar to atheistic oblivion" ID="ID_1712381431" CREATED="1635285413611" MODIFIED="1635285449832">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="good, because you&apos;re not suffering" ID="ID_175761" CREATED="1635285440832" MODIFIED="1635285448711">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="no more rebirth" ID="ID_641777404" CREATED="1635285400194" MODIFIED="1635285407859">
@@ -346,9 +346,9 @@
 <node TEXT="when muslims invaded pakistan" STYLE_REF="history event" ID="ID_1801670233" CREATED="1635285569661" MODIFIED="1635285631518">
 <node TEXT="because if was simple to target monasteries" ID="ID_1280735505" CREATED="1635285876514" MODIFIED="1635285896996"/>
 <node TEXT="it had been already declining" ID="ID_676928918" CREATED="1635285947861" MODIFIED="1635337957638">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="it&apos;s thriving in countries that weren&apos;t conquered by muslims" ID="ID_1016466257" CREATED="1635337908534" MODIFIED="1635338064280">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="tibet" ID="ID_933903787" CREATED="1635337945785" MODIFIED="1635337949356">
 <node TEXT="repelled the invasion" ID="ID_614241714" CREATED="1635338033603" MODIFIED="1635338040727"/>
 </node>

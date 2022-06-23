@@ -148,11 +148,11 @@
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 <node TEXT="peoblem of the followers" ID="ID_1999470766" CREATED="1641760775761" MODIFIED="1641771694141" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 <node TEXT="solution, destroying the uniqueness" ID="ID_1962140977" CREATED="1641760800618" MODIFIED="1641771694142" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <font NAME="Tahoma" BOLD="false"/>
 </node>
 </node>
@@ -176,7 +176,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_185464042" CREATED="1641760647352" MODIFIED="1641894600925">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -194,7 +194,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_899750296" CREATED="1641760647353" MODIFIED="1641894603070">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -232,11 +232,11 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="people want idols" ID="ID_228741492" CREATED="1641760647359" MODIFIED="1641768782824">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_943987066" CREATED="1641760647360" MODIFIED="1641894617282">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -280,11 +280,11 @@
 </node>
 </node>
 <node TEXT="people want to pray to something" ID="ID_1630677178" CREATED="1641760647271" MODIFIED="1641768789166">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_23471182" CREATED="1641768795449" MODIFIED="1641894637574">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>

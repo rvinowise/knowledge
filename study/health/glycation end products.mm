@@ -140,7 +140,7 @@
 <node TEXT="type: study" POSITION="left" ID="ID_1243215519" CREATED="1638643090883" MODIFIED="1638643090889"/>
 <node TEXT="destroyed by" POSITION="right" ID="ID_1734466034" CREATED="1638643165130" MODIFIED="1638643169522">
 <node TEXT="most prominent GEP in humans isn&apos;t known to be destroyed by anything" ID="ID_766001737" CREATED="1638643090891" MODIFIED="1638643160407">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="glycosepam" ID="ID_1716277940" CREATED="1638643175220" MODIFIED="1638643187650">
 <icon BUILTIN="box_inscribed"/>
 </node>

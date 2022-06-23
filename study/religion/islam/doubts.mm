@@ -191,9 +191,9 @@
 </node>
 </node>
 <node TEXT="it&apos;s OK to have waswas" ID="ID_576704953" CREATED="1634975471449" MODIFIED="1635006426030">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="good sign" ID="ID_1953144902" CREATED="1634204780799" MODIFIED="1634930998443">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <icon BUILTIN="box_inscribed"/>
 <node TEXT="having a big Faith" ID="ID_76879475" CREATED="1634205985435" MODIFIED="1634206318505">
 <node TEXT="which shaitan wants to steal" ID="ID_351218948" CREATED="1634206048596" MODIFIED="1634206060190"/>
@@ -203,7 +203,7 @@
 </node>
 </node>
 <node TEXT="not a sin" ID="ID_856391700" CREATED="1634208538775" MODIFIED="1634930998446">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <icon BUILTIN="box_inscribed"/>
 <node TEXT="because you can&apos;t control your thoughts" ID="ID_1633221642" CREATED="1634208552344" MODIFIED="1634208560284"/>
 <node TEXT="you&apos;re still a muslim" ID="ID_1523327383" CREATED="1634208581543" MODIFIED="1634208619279"/>
@@ -244,7 +244,7 @@
 </html>
 </richcontent>
 <node TEXT="it may become more annoying" ID="ID_1785298560" CREATED="1634234822154" MODIFIED="1634978999567">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="it&apos;s like ignoring an itch" ID="ID_1590482357" CREATED="1634234865101" MODIFIED="1634234879339"/>
 </node>
 <node TEXT="then he should repel them and not pay any attention to them" ID="ID_1334483427" CREATED="1635001133191" MODIFIED="1635039181733" LINK="https://www.islamweb.net/en/fatwa/376606/doubting-matters-in-islam">
@@ -365,13 +365,13 @@
 </html>
 </richcontent>
 <node TEXT="confirmation biass" ID="ID_122887261" CREATED="1634234174656" MODIFIED="1635820290088" LINK="commonalities/my%20narration%20of%20the%20evolution%20of%20religions.mm#ID_1712827070">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="hazing effect" ID="ID_1887723504" CREATED="1634234363754" MODIFIED="1635820290091" LINK="commonalities/my%20narration%20of%20the%20evolution%20of%20religions.mm#ID_210944234">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="doubts are more noticeable and important" ID="ID_1159590679" CREATED="1634234497134" MODIFIED="1634234549565">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="if you spend so much on the religion" ID="ID_567718321" CREATED="1634234551791" MODIFIED="1634234577417"/>
 </node>
 <node TEXT="let prayers be your precious gem" LOCALIZED_STYLE_REF="default" ID="ID_745320349" CREATED="1630348230491" MODIFIED="1633042088604" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -400,7 +400,7 @@
 <font ITALIC="true"/>
 </node>
 <node TEXT="doubts will not be that annoying" ID="ID_1484349239" CREATED="1634234016593" MODIFIED="1634234164490">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="if you don&apos;t spend much on the religion" ID="ID_1635500592" CREATED="1634234065422" MODIFIED="1634234095297"/>
 </node>
 </node>
@@ -444,7 +444,7 @@
 </node>
 </node>
 <node TEXT="cause suffering" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_975870080" CREATED="1634204511074" MODIFIED="1634930976834" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="guilt" ID="ID_915738163" CREATED="1634204838593" MODIFIED="1634930754616">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="about not being a good muslim" ID="ID_315955742" CREATED="1634205629334" MODIFIED="1634205646058">
