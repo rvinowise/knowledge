@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -120,9 +120,9 @@
 <node TEXT="different qurans.mm" ID="ID_1639150382" CREATED="1643134376351" MODIFIED="1643134376352" LINK="islam/quran/different%20qurans.mm"/>
 <node TEXT="content" ID="ID_27619976" CREATED="1643134444653" MODIFIED="1643134450296" LINK="islam/quran/content/">
 <node TEXT="baqara.mm" ID="ID_1906622807" CREATED="1648617731460" MODIFIED="1648617731461" LINK="islam/quran/content/baqara.mm"/>
-<node TEXT="3imrAn.mm" ID="ID_638735691" CREATED="1648617729277" MODIFIED="1648617729278" LINK="islam/quran/content/3imrAn.mm"/>
-<node TEXT="nisA2" ID="ID_907269167" CREATED="1649980090295" MODIFIED="1649980126851" LINK="file:/C:/knowledge/study/religion/islam/quran/content/nisA2.mm"/>
-<node TEXT="quranic style" ID="ID_693315472" CREATED="1644485868771" MODIFIED="1644485879015" LINK="file:/C:/knowledge/study/religion/islam/quran/content/quranic%20style.mm"/>
+<node TEXT="3imrAn.mm" ID="ID_638735691" CREATED="1648617729277" MODIFIED="1655954133508" LINK="islam/quran/content/3imrAn.mm"/>
+<node TEXT="nisA2" ID="ID_907269167" CREATED="1649980090295" MODIFIED="1655954124418" LINK="islam/quran/content/nisA2.mm"/>
+<node TEXT="quranic style" ID="ID_693315472" CREATED="1644485868771" MODIFIED="1655954142066" LINK="islam/quran/content/quranic%20style.mm"/>
 </node>
 </node>
 <node TEXT="satan" ID="ID_1911431146" CREATED="1633686322952" MODIFIED="1635882571903" LINK="islam/satan.mm" COLOR="#000000">
