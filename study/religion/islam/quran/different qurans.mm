@@ -155,13 +155,13 @@
 <icon BUILTIN="emoji-26F2"/>
 <font ITALIC="false"/>
 <node TEXT="2 different a7ruf from the same tribe Quraysh" ID="ID_395532107" CREATED="1633494115917" MODIFIED="1633494456558" LINK="#ID_934073419">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="" ID="ID_1940582349" CREATED="1633572929196" MODIFIED="1633572930384">
 <icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 <node TEXT="2 sahih hadiths say quran was revealed in the Quraysh&apos;s dialect" ID="ID_1383041265" CREATED="1633497397521" MODIFIED="1633673809900" LINK="history%20of%20quranic%20text.mm#ID_556801793">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="a popular view" ID="ID_474166790" CREATED="1633494888803" MODIFIED="1633498759297">
 <icon BUILTIN="info_circle"/>
@@ -191,21 +191,21 @@
 <icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="which one?" ID="ID_506457722" CREATED="1633495463749" MODIFIED="1633548528370" LINK="#ID_395532107">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="revealed a7ruf were Not dialects" ID="ID_1919135507" CREATED="1633819096009" MODIFIED="1633819133926" LINK="#ID_1383041265">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <font BOLD="false"/>
 </node>
 </node>
 <node TEXT="he destroyed god&apos;s word" ID="ID_1144842125" CREATED="1633820163938" MODIFIED="1633820199942" LINK="#ID_1360421130">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="people forgot them" LOCALIZED_STYLE_REF="default" ID="ID_90540563" CREATED="1633820371724" MODIFIED="1633841370659" COLOR="#666666" BACKGROUND_COLOR="#ffffff">
 <font ITALIC="true"/>
 <node TEXT="god&apos;s word isn&apos;t preserved" ID="ID_919352018" CREATED="1633820387619" MODIFIED="1633828350974">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="&quot;shades of meaning&quot; from a7ruf were lost" ID="ID_390000834" CREATED="1633820404619" MODIFIED="1633828321030"/>
 </node>
 </node>
@@ -213,19 +213,19 @@
 <node TEXT="they all are preserved" ID="ID_1368404897" CREATED="1633840796570" MODIFIED="1633840839527"/>
 </node>
 <node TEXT="quran doesn&apos;t mention a7ruf" ID="ID_1624039187" CREATED="1633490775752" MODIFIED="1633490812040">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="text is preserved in tablets in heaven" ID="ID_51112507" CREATED="1633490813441" MODIFIED="1633490835979">
 <icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="hadith mentions them" ID="ID_1037063121" CREATED="1633490975388" MODIFIED="1633490991333">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="muhammad said both are correct" ID="ID_934073419" CREATED="1633491575688" MODIFIED="1633727629963">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="muhammad asked gabriel to send quran in more and more a7ruf" ID="ID_1360421130" CREATED="1633492752887" MODIFIED="1633492785491">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="gabriel stopped muhammad at 7th 7arf" LOCALIZED_STYLE_REF="default" ID="ID_507932331" CREATED="1633489057072" MODIFIED="1633573564329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="" ID="ID_668955760" CREATED="1633680366069" MODIFIED="1633680371823" LINK="https://sunnah.com/bukhari:4991">
 <icon BUILTIN="emoji-26F2"/>
@@ -238,10 +238,10 @@
 <node TEXT="after it was corrupted?" ID="ID_1612907056" CREATED="1633491051183" MODIFIED="1633491061303"/>
 </node>
 <node TEXT="most mentions of the variants are Post-factum" ID="ID_1789013090" CREATED="1633933435677" MODIFIED="1633940735362">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="after people suddenly realised that they differ" ID="ID_302331631" CREATED="1633933532933" MODIFIED="1633933568326"/>
 <node TEXT="one mentioning of variants without a context exists" LOCALIZED_STYLE_REF="default" ID="ID_367902936" CREATED="1633940738318" MODIFIED="1633940809976" LINK="#ID_1360421130" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="god revealing several qurans is worthy a more thorough mentionning" ID="ID_43667951" CREATED="1633940820598" MODIFIED="1633940857697"/>
 </node>
@@ -255,7 +255,7 @@
 <icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="there are different Words from standard arabic" ID="ID_794985035" CREATED="1633488683756" MODIFIED="1633941404780">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="a lie or incomplete information" ID="ID_5416193" CREATED="1633488707557" MODIFIED="1633488720604"/>
 </node>
@@ -282,9 +282,9 @@
 </node>
 </node>
 <node TEXT="hadith mentions 7 variations (a7ruf), not 10 (qira&apos;at)" ID="ID_325335031" CREATED="1633549803462" MODIFIED="1633941276324" LINK="#ID_507932331">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="7 could be a methaphor meaning &quot;many&quot;" ID="ID_1542907327" CREATED="1633504359291" MODIFIED="1633573761462">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="of different quality" ID="ID_1110762207" CREATED="1633654519770" MODIFIED="1633654544241">
@@ -423,7 +423,7 @@
 </node>
 <node TEXT="temporarily revealed dialects" ID="ID_251439221" CREATED="1633677193325" MODIFIED="1633806000845">
 <node TEXT="it&apos;s revealed in Quraysh dialect" ID="ID_109161750" CREATED="1633677209679" MODIFIED="1633677240838" LINK="history%20of%20quranic%20text.mm#ID_556801793">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="how did he know that they were only temporary?" ID="ID_209829996" CREATED="1633728125449" MODIFIED="1633728145278" BACKGROUND_COLOR="#ffffec">
 <icon BUILTIN="question"/>
@@ -431,7 +431,7 @@
 </node>
 <node TEXT="revealed categories" ID="ID_326945002" CREATED="1633677065688" MODIFIED="1633806000846">
 <node TEXT="it&apos;s blasphemy" ID="ID_932147105" CREATED="1633677079996" MODIFIED="1633677089502">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
@@ -448,7 +448,7 @@
 <icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="gives a false impression to muslims" ID="ID_1375184844" CREATED="1633550208897" MODIFIED="1633729076129">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="they got disturbed when shown different qira&apos;at" ID="ID_1454093398" CREATED="1633550224395" MODIFIED="1633550248389">
 <node TEXT="my telegram debate in Magic&apos;s group" ID="ID_955186284" CREATED="1633550249946" MODIFIED="1633550266644">
 <icon BUILTIN="emoji-26F2"/>
@@ -479,7 +479,7 @@
 <icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="there are different letters of the language" ID="ID_1161642793" CREATED="1633940428401" MODIFIED="1633940461801">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="the differences are dialectical, like &quot;color&quot; and &quot;colour&quot;" STYLE_REF="list item" ID="ID_581969363" CREATED="1633550526509" MODIFIED="1633551429333" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -489,7 +489,7 @@
 <icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="there are differences in persons, cases and words" ID="ID_846659536" CREATED="1633551030414" MODIFIED="1633940388089">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="they all were revealed by jibriil" STYLE_REF="list item" ID="ID_42535147" CREATED="1633551070132" MODIFIED="1633551429331" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -499,11 +499,11 @@
 <icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="muhammad lied to prevent dispute" ID="ID_672105512" CREATED="1633729045198" MODIFIED="1633807065968">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="whenever people disagreed he said all were right" ID="ID_1355788246" CREATED="1633729298646" MODIFIED="1633804723982"/>
 </node>
 <node TEXT="uthman didn&apos;t think so" ID="ID_660104070" CREATED="1633729530586" MODIFIED="1633729812312">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="he burnt differences in Rasm" ID="ID_681946994" CREATED="1633729665751" MODIFIED="1633729824606"/>
 </node>
 </node>

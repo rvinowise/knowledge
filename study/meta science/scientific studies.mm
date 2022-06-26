@@ -226,7 +226,7 @@
 <node TEXT="longitudinal study" ID="ID_1878949647" CREATED="1646396222000" MODIFIED="1646465719694">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="during a long period of time" ID="ID_1564563436" CREATED="1646396233423" MODIFIED="1646396494531">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="observation of people" ID="ID_1370557946" CREATED="1646396260711" MODIFIED="1646396270499"/>
 </node>
@@ -236,10 +236,10 @@
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="at one moment" ID="ID_1709807071" CREATED="1646396284032" MODIFIED="1646396288070"/>
 <node TEXT="inexpensive and fast" ID="ID_1206790475" CREATED="1646396976285" MODIFIED="1646396985957">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="can&apos;t determine a cause of something" ID="ID_1634744042" CREATED="1646396468087" MODIFIED="1646396490126">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="find relations between variables for further investigation" ID="ID_68587946" CREATED="1646396638963" MODIFIED="1646396651742"/>
 </node>

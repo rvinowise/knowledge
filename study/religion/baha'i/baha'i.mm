@@ -189,7 +189,7 @@
 <icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="but baha&apos;u&apos;llah himself claims to be maitreya" ID="ID_146700155" CREATED="1635630643277" MODIFIED="1635630688587">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="who should appear when buddhism is forgotten" ID="ID_260030963" CREATED="1635630664421" MODIFIED="1635630676894"/>
 </node>
 </node>

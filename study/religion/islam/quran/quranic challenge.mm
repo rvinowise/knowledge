@@ -193,7 +193,7 @@
 <node TEXT="several surahs on akh rashid&apos;s channel" ID="ID_1186766326" CREATED="1638416009576" MODIFIED="1638416024373"/>
 <node TEXT="there are many written surahs" ID="ID_1091142895" CREATED="1638416051359" MODIFIED="1638416227795">
 <node ID="ID_327703288" CREATED="1638416229267" MODIFIED="1638416231461">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>

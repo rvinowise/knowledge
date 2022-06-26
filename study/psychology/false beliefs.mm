@@ -159,13 +159,13 @@
 <icon BUILTIN="chain"/>
 </node>
 <node TEXT="drilling" ID="ID_455903194" CREATED="1636703335540" MODIFIED="1636703341646">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="sparring" ID="ID_1787309421" CREATED="1636703342394" MODIFIED="1636703347002">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="tournaments" ID="ID_342992822" CREATED="1636703362112" MODIFIED="1636703368213">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>

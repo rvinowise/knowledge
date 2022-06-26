@@ -227,18 +227,18 @@
 </node>
 <node TEXT="sodium cyclamate" POSITION="right" ID="ID_1135711940" CREATED="1641051419779" MODIFIED="1641051425023">
 <node TEXT="considered safe in most countries" ID="ID_1210402652" CREATED="1641051531048" MODIFIED="1641051543996">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="banned in some countries because of cancerogenity" ID="ID_242987149" CREATED="1641051426732" MODIFIED="1641051530455">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="the cheapest for its sweetness" ID="ID_1690620894" CREATED="1641051555220" MODIFIED="1641051563271">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="sodium saccharin" POSITION="right" ID="ID_1223357511" CREATED="1641051770451" MODIFIED="1641051772991">
 <node TEXT="cancerogenic" ID="ID_339511069" CREATED="1641051773475" MODIFIED="1641051786986" LINK="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1637197/">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="overview" POSITION="right" ID="ID_257102081" CREATED="1641051579288" MODIFIED="1641051583671">

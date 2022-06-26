@@ -238,10 +238,10 @@
 </node>
 </node>
 <node TEXT="randomly chosen" ID="ID_387755808" CREATED="1635729478837" MODIFIED="1635729485815">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="stayed alive to govern" ID="ID_581542874" CREATED="1635729486787" MODIFIED="1635729515957">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="isma&apos;il bin jafar" ID="ID_1713153979" CREATED="1635729244484" MODIFIED="1635729298765">
@@ -253,10 +253,10 @@
 </node>
 </node>
 <node TEXT="appointed by &quot;infallible&quot; father" ID="ID_1830949947" CREATED="1635729399195" MODIFIED="1635729411885">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="died before taking power" ID="ID_911830531" CREATED="1635729412557" MODIFIED="1635729465554">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
@@ -391,7 +391,7 @@
 <node TEXT="1980 manifesto" ID="ID_1651826964" CREATED="1635725096901" MODIFIED="1635725102158">
 <node TEXT="mormon fundamentalism" LOCALIZED_STYLE_REF="default" ID="ID_1273640295" CREATED="1635727804791" MODIFIED="1635731249111" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="outcome"/>
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>

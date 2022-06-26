@@ -709,10 +709,10 @@
 </node>
 <node TEXT="replying to criticism" ID="ID_1879092582" CREATED="1647384055577" MODIFIED="1647384060667">
 <node TEXT="islam allows some food which is prohibited in judaism" ID="ID_946990588" CREATED="1647384491062" MODIFIED="1648592438965">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="original judaism also allowed that food" ID="ID_882617863" CREATED="1647384520036" MODIFIED="1647384588188" LINK="https://quran.com/3?startingVerse=93">
 <node TEXT="asks jews to just read torah to make sure" ID="ID_801443370" CREATED="1647384594745" MODIFIED="1648592443991">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="dumb argument" ID="ID_522788134" CREATED="1647384616196" MODIFIED="1649723469901">
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="tora is the very book which contradicts quran regarding allowed food" ID="ID_437184573" CREATED="1647384626172" MODIFIED="1647384647382"/>
@@ -722,9 +722,9 @@
 <node TEXT="rabbit, camel" ID="ID_1995381657" CREATED="1647384538359" MODIFIED="1647384544544"/>
 </node>
 <node TEXT="critics say real prophet wouldn&apos;t lose the battle of Uhud" ID="ID_723339233" CREATED="1648591232340" MODIFIED="1648592454533" LINK="https://quran.com/3?startingVerse=149">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="it&apos;s because muslims obeyed disbelievers" ID="ID_253050967" CREATED="1648592397795" MODIFIED="1648592455869">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1419046106" CREATED="1646347258617" MODIFIED="1646347271700">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -732,22 +732,22 @@
 </node>
 </node>
 <node TEXT="jews ridiculed allah for asking for loans" ID="ID_1151580905" CREATED="1649722493435" MODIFIED="1649722533863" LINK="#ID_1657871204">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="allah heard, and wrote down all the nasty things they say, to punish them later" LOCALIZED_STYLE_REF="default" ID="ID_1191919209" CREATED="1649722570318" MODIFIED="1649723444390" LINK="https://quran.com/3?startingVerse=181" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="jews said a real prophet should invoke magical fire when sacrificing (and muhammad didn&apos;t do that)" ID="ID_284633856" CREATED="1649723221362" MODIFIED="1649968293316" LINK="https://quran.com/3?startingVerse=183">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="but jews had people who invoked that magcal fire (and had other signs), and yet jews still dismissed them" LOCALIZED_STYLE_REF="default" ID="ID_534366579" CREATED="1649723411706" MODIFIED="1649724090818" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="dumb argument" ID="ID_243528791" CREATED="1649724091065" MODIFIED="1649724096669">
 <icon BUILTIN="control/hashtag"/>
 <node TEXT="magical fire is not the only sign, if at least one sign is not fulfilled - such a &quot;prophet&quot; is considered a fake. but muhammad didn&apos;t even fulfill that first sign" ID="ID_1783370898" CREATED="1649724097028" MODIFIED="1650494261237">
 <icon BUILTIN="question"/>
 </node>
 <node TEXT="but it&apos;s not about jews (as a religion), it&apos;s about pagan worshippers of baal - they killed elijah" ID="ID_177652393" CREATED="1649724408234" MODIFIED="1649724911646">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1576967803" CREATED="1649724398524" MODIFIED="1649724407284">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -766,12 +766,12 @@
 </node>
 </node>
 <node TEXT="jews (israelites?) didn&apos;t accept other prophets in the past, so, it&apos;s ok that they don&apos;t accepd muhammad" ID="ID_1998862295" CREATED="1649725984934" MODIFIED="1649726032000" LINK="https://quran.com/3?startingVerse=184">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="jews asked muhamad for miracles" LOCALIZED_STYLE_REF="default" ID="ID_104592697" CREATED="1649977925556" MODIFIED="1649977948466" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="muhammad recited surah 3imrAn from 190 till the end" ID="ID_1031817839" CREATED="1649977968388" MODIFIED="1649978011867">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT=" Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1766160013" CREATED="1646347258617" MODIFIED="1649977965487" LINK="https://quran.com/3?startingVerse=195">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -857,7 +857,7 @@
 <node TEXT="feelings are secondary to words, and given by god" LOCALIZED_STYLE_REF="default" ID="ID_1864144933" CREATED="1648606920161" MODIFIED="1648608504249" LINK="https://quran.com/3?startingVerse=156" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="don&apos;t say &quot;i regret&quot;, or else god will give you sense of regret" ID="ID_633741950" CREATED="1648606942126" MODIFIED="1648606964673"/>
 <node TEXT="it may be about the &quot;misconception&quot; that it could have been prevented (word &quot;misconception&quot; is inserted by some translators)" ID="ID_223465916" CREATED="1648608512758" MODIFIED="1648608589250">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="Saheeh International" ID="ID_715840622" CREATED="1648608544354" MODIFIED="1648608556145">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -1172,7 +1172,7 @@
 <node TEXT="the repentance of those who disbelieved after having believed won&apos;t be accepted" ID="ID_1032351590" CREATED="1647378742693" MODIFIED="1647378784034" LINK="https://quran.com/3?startingVerse=90">
 <node TEXT="it&apos;s only the repentance after their dead" ID="ID_142931637" CREATED="1647378785599" MODIFIED="1647378822657">
 <icon BUILTIN="control/comment"/>
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="Dr. Mustafa Khattab, the Clear Quran" ID="ID_1878030755" CREATED="1647378825101" MODIFIED="1647378835916">
 <icon BUILTIN="emoji-26F2"/>
 </node>

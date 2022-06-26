@@ -148,7 +148,7 @@
 <node TEXT="recognize" POSITION="right" ID="ID_261097033" CREATED="1636180018056" MODIFIED="1636180021431" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="not necessary circumcision" ID="ID_1735949228" CREATED="1636180022289" MODIFIED="1636180043014">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>

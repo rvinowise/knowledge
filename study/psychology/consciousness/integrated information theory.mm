@@ -223,16 +223,16 @@
 </node>
 </node>
 <node TEXT="tries to quantify consciousness" POSITION="right" ID="ID_774662700" CREATED="1649580560916" MODIFIED="1649581129944">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="the variable Phî" ID="ID_1181012864" CREATED="1649581032792" MODIFIED="1649581102537" COLOR="#000000">
 <node TEXT="not defined precisely" ID="ID_1854273201" CREATED="1649581110620" MODIFIED="1649581130902">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="can give different values of consciousness of the same systems" ID="ID_1956486716" CREATED="1649581131519" MODIFIED="1649581164078"/>
 </node>
 </node>
 </node>
 <node TEXT="was subjected to falsification check" POSITION="right" ID="ID_1534915182" CREATED="1649581168919" MODIFIED="1649581200824">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="jake hanson" ID="ID_339461726" CREATED="1649581208040" MODIFIED="1649581231971" LINK="https://www.youtube.com/watch?v=oPg09MfQEMI&amp;t=1392s&amp;ab_channel=JakeHanson"/>
 <node TEXT="a fly should have lower level of Phi (consciousness) after anesthesia" ID="ID_1667573437" CREATED="1649581322686" MODIFIED="1649581360321"/>
 </node>
@@ -245,7 +245,7 @@
 </node>
 </node>
 <node ID="ID_529763892" CREATED="1649591881012" MODIFIED="1649593145613">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -264,7 +264,7 @@
 </node>
 </node>
 <node TEXT="it makes the transition from pre-theoretic definitions of &quot;consciousness&quot; to a well-defined one (Phi)" POSITION="right" ID="ID_718608171" CREATED="1649593154929" MODIFIED="1649593312068">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="" POSITION="right" ID="ID_1106772369" CREATED="1650122345583" MODIFIED="1650122349617">
 <icon BUILTIN="emoji-26F2"/>
