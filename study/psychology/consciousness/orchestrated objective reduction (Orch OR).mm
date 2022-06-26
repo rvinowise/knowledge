@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="orchestrated objective reduction (Orch OR)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1656229683055"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_305989472" CREATED="1649580569127" MODIFIED="1649580569130"/>
+<node TEXT="type: " POSITION="left" ID="ID_931255635" CREATED="1656229683064" MODIFIED="1656229683067"/>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
@@ -222,42 +222,27 @@
 </node>
 </node>
 </node>
-<node TEXT="materialistic theories" POSITION="right" ID="ID_1723224585" CREATED="1649580569131" MODIFIED="1649580578911">
-<node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1656229481667" LINK="attention%20schema%20theory.mm">
-<icon BUILTIN="present"/>
-<node TEXT="graziano" ID="ID_176199771" CREATED="1656229368873" MODIFIED="1656229380560">
-<icon BUILTIN="person"/>
+<node TEXT="quantum effects create consciousness" POSITION="right" ID="ID_1295332472" CREATED="1656229683067" MODIFIED="1656229703136">
+<node TEXT="inside individual neurons" ID="ID_1299229291" CREATED="1656229704265" MODIFIED="1656229710409"/>
+<node TEXT="in the microtubials" ID="ID_1984717957" CREATED="1656229749351" MODIFIED="1656229754683"/>
 </node>
+<node TEXT="consciousness is needed for abstract thinking" POSITION="right" ID="ID_572243565" CREATED="1656229712795" MODIFIED="1656229725141">
+<node TEXT="philosophical zombies are impossible" ID="ID_1088809094" CREATED="1656229725299" MODIFIED="1656229739895"/>
 </node>
-<node TEXT="integrated information theory (IIT)" ID="ID_1698692448" CREATED="1649580629112" MODIFIED="1656229481260" LINK="integrated%20information%20theory.mm">
-<icon BUILTIN="present"/>
-<node TEXT="" ID="ID_1973655456" CREATED="1656229418446" MODIFIED="1656229425257">
-<icon BUILTIN="person"/>
-<node TEXT="julio tonony" ID="ID_316745192" CREATED="1656229404068" MODIFIED="1656229414881">
-<icon BUILTIN="person"/>
+<node TEXT="consciousness is not a computation" POSITION="right" ID="ID_89228692" CREATED="1656229762574" MODIFIED="1656229770578"/>
+<node TEXT="consciousness existed before life" POSITION="right" ID="ID_1816078754" CREATED="1656229770937" MODIFIED="1656229780928">
+<node TEXT="it guided the evolution of life" ID="ID_507571850" CREATED="1656229781143" MODIFIED="1656229791869"/>
 </node>
-<node TEXT="coch" ID="ID_880540209" CREATED="1656229426737" MODIFIED="1656229429705"/>
+<node TEXT="psychic effects are possible" POSITION="right" ID="ID_32371295" CREATED="1656231703902" MODIFIED="1656231731208">
+<icon BUILTIN="question"/>
+<node TEXT="predicting future" ID="ID_347359467" CREATED="1656231718154" MODIFIED="1656231723510"/>
+<node TEXT="telepathy" ID="ID_1047747166" CREATED="1656231723748" MODIFIED="1656231726048"/>
 </node>
+<node TEXT="not a mainstream theory" POSITION="right" ID="ID_133243887" CREATED="1656231636098" MODIFIED="1656231673903">
+<icon BUILTIN="info_circle"/>
+<node TEXT="criticised by peers" ID="ID_1320887289" CREATED="1656231643111" MODIFIED="1656231658880">
+<node TEXT="" ID="ID_1453160528" CREATED="1656231675688" MODIFIED="1656231675688"/>
 </node>
-</node>
-<node TEXT="some theories don&apos;t claim to be materialistic" POSITION="right" ID="ID_223284476" CREATED="1656229228076" MODIFIED="1656229301626">
-<node TEXT="orchestrated objective reduction (Orch OR)" ID="ID_95132925" CREATED="1656229262373" MODIFIED="1656229682888" LINK="file:/C:/knowledge/study/psychology/consciousness/orchestrated%20objective%20reduction%20(Orch%20OR).mm">
-<icon BUILTIN="present"/>
-<node TEXT="rodger penrose" ID="ID_1560136079" CREATED="1656229384347" MODIFIED="1656229468489">
-<icon BUILTIN="person"/>
-</node>
-<node TEXT="not mainstream" ID="ID_144727383" CREATED="1656231594195" MODIFIED="1656231611501"/>
-<node TEXT="" ID="ID_245594093" CREATED="1656231614988" MODIFIED="1656231614988"/>
-</node>
-</node>
-<node TEXT="the perceived reality is an &quot;interface&quot;" POSITION="right" ID="ID_1442668370" CREATED="1655607494769" MODIFIED="1656229282846">
-<node TEXT="donald hoffman" ID="ID_565843133" CREATED="1655607510429" MODIFIED="1655607523804" LINK="https://youtu.be/reYdQYZ9Rj4?t=566">
-<node TEXT="it doesn&apos;t show the truth, it Hides it (because it&apos;s too complex)" ID="ID_1575200958" CREATED="1655607533955" MODIFIED="1655607552133">
-<icon BUILTIN="quote"/>
-<font ITALIC="true"/>
-</node>
-</node>
-<node TEXT="richard dennet" ID="ID_1913205298" CREATED="1655611931978" MODIFIED="1655611942684"/>
 </node>
 </node>
 </map>

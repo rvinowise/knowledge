@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="baby" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1656034740377"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_305989472" CREATED="1649580569127" MODIFIED="1649580569130"/>
+<node TEXT="type: " POSITION="left" ID="ID_434992017" CREATED="1656034740394" MODIFIED="1656034740402"/>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
@@ -222,42 +222,25 @@
 </node>
 </node>
 </node>
-<node TEXT="materialistic theories" POSITION="right" ID="ID_1723224585" CREATED="1649580569131" MODIFIED="1649580578911">
-<node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1656229481667" LINK="attention%20schema%20theory.mm">
-<icon BUILTIN="present"/>
-<node TEXT="graziano" ID="ID_176199771" CREATED="1656229368873" MODIFIED="1656229380560">
-<icon BUILTIN="person"/>
-</node>
-</node>
-<node TEXT="integrated information theory (IIT)" ID="ID_1698692448" CREATED="1649580629112" MODIFIED="1656229481260" LINK="integrated%20information%20theory.mm">
-<icon BUILTIN="present"/>
-<node TEXT="" ID="ID_1973655456" CREATED="1656229418446" MODIFIED="1656229425257">
-<icon BUILTIN="person"/>
-<node TEXT="julio tonony" ID="ID_316745192" CREATED="1656229404068" MODIFIED="1656229414881">
-<icon BUILTIN="person"/>
-</node>
-<node TEXT="coch" ID="ID_880540209" CREATED="1656229426737" MODIFIED="1656229429705"/>
-</node>
-</node>
-</node>
-<node TEXT="some theories don&apos;t claim to be materialistic" POSITION="right" ID="ID_223284476" CREATED="1656229228076" MODIFIED="1656229301626">
-<node TEXT="orchestrated objective reduction (Orch OR)" ID="ID_95132925" CREATED="1656229262373" MODIFIED="1656229682888" LINK="file:/C:/knowledge/study/psychology/consciousness/orchestrated%20objective%20reduction%20(Orch%20OR).mm">
-<icon BUILTIN="present"/>
-<node TEXT="rodger penrose" ID="ID_1560136079" CREATED="1656229384347" MODIFIED="1656229468489">
-<icon BUILTIN="person"/>
-</node>
-<node TEXT="not mainstream" ID="ID_144727383" CREATED="1656231594195" MODIFIED="1656231611501"/>
-<node TEXT="" ID="ID_245594093" CREATED="1656231614988" MODIFIED="1656231614988"/>
-</node>
-</node>
-<node TEXT="the perceived reality is an &quot;interface&quot;" POSITION="right" ID="ID_1442668370" CREATED="1655607494769" MODIFIED="1656229282846">
-<node TEXT="donald hoffman" ID="ID_565843133" CREATED="1655607510429" MODIFIED="1655607523804" LINK="https://youtu.be/reYdQYZ9Rj4?t=566">
-<node TEXT="it doesn&apos;t show the truth, it Hides it (because it&apos;s too complex)" ID="ID_1575200958" CREATED="1655607533955" MODIFIED="1655607552133">
+<node TEXT="baby" POSITION="right" ID="ID_1698985737" CREATED="1656034740404" MODIFIED="1656034746054">
 <icon BUILTIN="quote"/>
 <font ITALIC="true"/>
+<node TEXT="C-1inv E" ID="ID_1824453322" CREATED="1656034750782" MODIFIED="1656035490140"/>
+<node TEXT="C-1inv G-2inv" ID="ID_294957482" CREATED="1656034759424" MODIFIED="1656035501338"/>
 </node>
+<node TEXT="frined" POSITION="right" ID="ID_1099214991" CREATED="1656043028394" MODIFIED="1656075602438">
+<icon BUILTIN="box"/>
+<node TEXT="if i want to be your friend" ID="ID_171330942" CREATED="1656042987931" MODIFIED="1656042993812"/>
+<node TEXT="you don&apos;t need to be afraid" ID="ID_1683505431" CREATED="1656042994151" MODIFIED="1656043000249"/>
+<node TEXT="thinking that maybe" ID="ID_1326373942" CREATED="1656043010511" MODIFIED="1656043014883"/>
+<node TEXT="i want you to be my baby" ID="ID_1593947027" CREATED="1656043015562" MODIFIED="1656043020079"/>
 </node>
-<node TEXT="richard dennet" ID="ID_1913205298" CREATED="1655611931978" MODIFIED="1655611942684"/>
+<node TEXT="don&apos;t agree" POSITION="right" ID="ID_1621432600" CREATED="1656075500865" MODIFIED="1656075603236">
+<icon BUILTIN="box"/>
+<node TEXT="don&apos;t agree to be a pearl" ID="ID_887299244" CREATED="1656083582088" MODIFIED="1656083588951"/>
+<node TEXT="nothing smaller than a girl" ID="ID_632503189" CREATED="1656083589188" MODIFIED="1656083595781"/>
+<node TEXT="you can be an angel" ID="ID_1702011048" CREATED="1656083596035" MODIFIED="1656083602356"/>
+<node TEXT="but don&apos;t agree to be a jewel" ID="ID_657570838" CREATED="1656083602610" MODIFIED="1656083620367"/>
 </node>
 </node>
 </map>

@@ -1,5 +1,5 @@
-<map version="freeplane 1.9.0">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<map version="freeplane 1.9.13">
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="attention schema theory" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1630506793822"><hook NAME="MapStyle" zoom="1.1">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -38,7 +38,7 @@
 <edge STYLE="hide_edge" COLOR="#000000"/>
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffcccc" STYLE="bubble" BORDER_COLOR_LIKE_EDGE="false">
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffcccc" BORDER_COLOR_LIKE_EDGE="false">
 <edge COLOR="#000000"/>
 </stylenode>
 </stylenode>
@@ -122,9 +122,12 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="materialist theory of consciousness" STYLE_REF="info node" POSITION="right" ID="ID_1910651294" CREATED="1630506805899" MODIFIED="1630506827032"/>
+<node TEXT="materialist theory of consciousness" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1910651294" CREATED="1630506805899" MODIFIED="1656229642453" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="info_circle"/>
+</node>
 <node TEXT="consciousness" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1819517222" CREATED="1630507084011" MODIFIED="1630507747953">
-<node TEXT="is a model of attention" STYLE_REF="info node" ID="ID_861453147" CREATED="1630507293553" MODIFIED="1630512948131">
+<node TEXT="is a model of attention" LOCALIZED_STYLE_REF="default" ID="ID_861453147" CREATED="1630507293553" MODIFIED="1656229642450" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="info_circle"/>
 <node TEXT="built by the lower brain" LOCALIZED_STYLE_REF="default" ID="ID_128379004" CREATED="1630507351418" MODIFIED="1630507599378">
 <node TEXT="unconscious by itself" ID="ID_1616778174" CREATED="1630507557800" MODIFIED="1630507767234"/>
 </node>
@@ -151,18 +154,29 @@
 </node>
 <node TEXT="language" ID="ID_1354599230" CREATED="1630508066812" MODIFIED="1630508069265">
 <node TEXT="claims having consciousness" ID="ID_988240771" CREATED="1630508446295" MODIFIED="1630509433958">
-<node TEXT="i&apos;m conscious" STYLE_REF="speech" ID="ID_1940201625" CREATED="1630508859587" MODIFIED="1630508864696"/>
+<node TEXT="i&apos;m conscious" LOCALIZED_STYLE_REF="default" ID="ID_1940201625" CREATED="1630508859587" MODIFIED="1656229631342" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote"/>
+<font ITALIC="true"/>
+</node>
 </node>
 <node TEXT="asks questions" ID="ID_373503491" CREATED="1630509093297" MODIFIED="1630509419411">
 <node TEXT="two ways of framing it" ID="ID_5602429" CREATED="1630509741123" MODIFIED="1630509767460">
-<node TEXT="why is consciousness miraculous?" STYLE_REF="speech" ID="ID_878736275" CREATED="1630509112258" MODIFIED="1630509135370"/>
-<node TEXT="why do we perceive consciousness as miraculous?" STYLE_REF="speech" ID="ID_1874889157" CREATED="1630509135903" MODIFIED="1630509157211"/>
+<node TEXT="why is consciousness miraculous?" LOCALIZED_STYLE_REF="default" ID="ID_878736275" CREATED="1630509112258" MODIFIED="1656229631336" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="why do we perceive consciousness as miraculous?" LOCALIZED_STYLE_REF="default" ID="ID_1874889157" CREATED="1630509135903" MODIFIED="1656229631344" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote"/>
+<font ITALIC="true"/>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="lower and higher brains are old and new brains?" STYLE_REF="lacking info" ID="ID_1545947224" CREATED="1630507614196" MODIFIED="1630507640787"/>
+</node>
+<node TEXT="lower and higher brains are old and new brains?" LOCALIZED_STYLE_REF="default" ID="ID_1545947224" CREATED="1630507614196" MODIFIED="1656229660556" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="question"/>
+</node>
 <node TEXT="imperfect, without details" ID="ID_603808067" CREATED="1630510713854" MODIFIED="1630510733191"/>
 </node>
 <node TEXT="evolved" ID="ID_480085836" CREATED="1630507252716" MODIFIED="1630507255264">
