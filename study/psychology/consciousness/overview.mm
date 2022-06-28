@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.56">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -225,7 +225,7 @@
 <node TEXT="materialistic theories" POSITION="right" ID="ID_1723224585" CREATED="1649580569131" MODIFIED="1649580578911">
 <node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1656229481667" LINK="attention%20schema%20theory.mm">
 <icon BUILTIN="present"/>
-<node TEXT="graziano" ID="ID_176199771" CREATED="1656229368873" MODIFIED="1656229380560">
+<node TEXT="michael graziano" ID="ID_176199771" CREATED="1656229368873" MODIFIED="1656312724085">
 <icon BUILTIN="person"/>
 </node>
 </node>
@@ -236,7 +236,9 @@
 <node TEXT="julio tonony" ID="ID_316745192" CREATED="1656229404068" MODIFIED="1656229414881">
 <icon BUILTIN="person"/>
 </node>
-<node TEXT="coch" ID="ID_880540209" CREATED="1656229426737" MODIFIED="1656229429705"/>
+<node TEXT="christof koch" ID="ID_880540209" CREATED="1656229426737" MODIFIED="1656312643147">
+<icon BUILTIN="person"/>
+</node>
 </node>
 </node>
 </node>

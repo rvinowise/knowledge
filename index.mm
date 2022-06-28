@@ -293,6 +293,9 @@
 <node TEXT="shopping" ID="ID_1352705775" CREATED="1654334360600" MODIFIED="1654334370783" LINK="notes/shopping/">
 <node TEXT="shops" ID="ID_1221892413" CREATED="1654334371498" MODIFIED="1654334380829" LINK="file:/C:/knowledge/notes/shopping/shops.mm"/>
 </node>
+<node TEXT="people" ID="ID_374183941" CREATED="1656402234854" MODIFIED="1656402240841" LINK="notes/people/">
+<node TEXT="people" ID="ID_1685326148" CREATED="1656402241754" MODIFIED="1656402250116" LINK="file:/C:/knowledge/notes/people/people.mm"/>
+</node>
 </node>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
