@@ -244,7 +244,7 @@
 </node>
 </node>
 <node TEXT="dangerous places" POSITION="right" ID="ID_991975243" CREATED="1647080747127" MODIFIED="1647080754180">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="Tverskaya street" ID="ID_1599274392" CREATED="1647080935988" MODIFIED="1647088924160">
 <icon BUILTIN="place"/>
 <node TEXT="from Pushkinskaya Square to Mayakovskaya metro" ID="ID_1495015597" CREATED="1647080903580" MODIFIED="1647080930157">

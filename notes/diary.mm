@@ -263,13 +263,13 @@
 <node TEXT="winter" ID="ID_1666654894" CREATED="1650935974141" MODIFIED="1650936002282">
 <icon BUILTIN="calendar"/>
 <node TEXT="nice vivid dreams" ID="ID_305624785" CREATED="1650936053455" MODIFIED="1650936066190">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="people" ID="ID_392496078" CREATED="1650936120636" MODIFIED="1650936283801">
 <node TEXT="girlfriend" ID="ID_452510508" CREATED="1650937116564" MODIFIED="1650937252036">
 <icon BUILTIN="plus"/>
-<icon BUILTIN="goodleak"/>
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
+<icon BUILTIN="good"/>
 <node TEXT="wafa (ofoo)" LOCALIZED_STYLE_REF="default" ID="ID_1718211044" CREATED="1650936066754" MODIFIED="1650937166389" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 <node TEXT="sending nudes" ID="ID_810339309" CREATED="1650937223936" MODIFIED="1650937228568">
 <icon BUILTIN="plus"/>
@@ -282,7 +282,7 @@
 </node>
 </node>
 <node TEXT="discussions with eman (lulu)" ID="ID_1933633063" CREATED="1650936135427" MODIFIED="1650936154975">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <icon BUILTIN="plus"/>
 </node>
 </node>
@@ -299,7 +299,7 @@
 <icon BUILTIN="plus"/>
 <node TEXT="too many tomatoes" ID="ID_1765525693" CREATED="1650935505351" MODIFIED="1650935514966">
 <node TEXT="which ended up destroyed by fungi" ID="ID_477416268" CREATED="1650935516398" MODIFIED="1650935543749">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
@@ -330,7 +330,7 @@
 <icon BUILTIN="calendar"/>
 <node TEXT="gardening" ID="ID_1651132763" CREATED="1650935831267" MODIFIED="1650935841917">
 <node TEXT="discovered new crops" ID="ID_1493923954" CREATED="1650935864645" MODIFIED="1650935931830">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="aubergines" ID="ID_300296430" CREATED="1650935882333" MODIFIED="1650935885209"/>
 <node TEXT="pumpkins" ID="ID_422267295" CREATED="1650935842597" MODIFIED="1650935863756"/>
 <node TEXT="corn" ID="ID_715886942" CREATED="1650935879345" MODIFIED="1650935881569"/>
@@ -341,7 +341,7 @@
 <icon BUILTIN="calendar"/>
 <node TEXT="people" ID="ID_554966180" CREATED="1650936120636" MODIFIED="1650936283801">
 <node TEXT="eman disappeared" ID="ID_770513279" CREATED="1650936344742" MODIFIED="1650936351031">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="coding" ID="ID_734411978" CREATED="1650937546461" MODIFIED="1650937550325">
@@ -359,7 +359,7 @@
 <node TEXT="preparing plantlets" ID="ID_1183008300" CREATED="1650935736548" MODIFIED="1650935793778">
 <node TEXT="accent on aubergines" ID="ID_648139309" CREATED="1650935798285" MODIFIED="1650935807576"/>
 <node TEXT="tomatoes didn&apos;t grow as high as last year" ID="ID_1360406090" CREATED="1650935904640" MODIFIED="1650935926790">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>

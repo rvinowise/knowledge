@@ -419,7 +419,7 @@
 <node ID="ID_468204767" CREATED="1640980599962" MODIFIED="1640980825245" COLOR="#000000">
 <icon BUILTIN="info_circle"/>
 <icon BUILTIN="heraldics/earth_flag"/>
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>

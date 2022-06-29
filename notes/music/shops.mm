@@ -224,24 +224,24 @@
 </node>
 <node TEXT="rediez" POSITION="right" ID="ID_953940554" CREATED="1650208391773" MODIFIED="1650208398267" LINK="https://rediez.ru/bowed/acc/string/violin/set/?sort=price">
 <node TEXT="everything" ID="ID_1426430209" CREATED="1650762614987" MODIFIED="1650762621037">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="no browsing" ID="ID_516160410" CREATED="1650762621546" MODIFIED="1650762626663">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="my3oboz" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1439894183" CREATED="1650700118882" MODIFIED="1650701585891" LINK="https://my3oboz.ru/catalog/?q=%D1%81%D1%82%D1%80%D1%83%D0%BD%D1%8B+%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B8&amp;how=r" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="everything" ID="ID_1229437278" CREATED="1650701577405" MODIFIED="1650712669853">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="no browsing" ID="ID_1925153467" CREATED="1650701551078" MODIFIED="1650701568918">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <font BOLD="false"/>
 </node>
 </node>
 <node TEXT="skifmusic" POSITION="right" ID="ID_779487036" CREATED="1650699618895" MODIFIED="1650699628239" LINK="https://skifmusic.ru/search/%D1%81%D1%82%D1%80%D1%83%D0%BD%D1%8B+%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B8/sort-by-price">
 <node TEXT="no shoulder rests and mutes" ID="ID_331639873" CREATED="1650712496776" MODIFIED="1650849315666">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="dynatone" POSITION="right" ID="ID_539738746" CREATED="1650257436086" MODIFIED="1650257444372" LINK="https://dynatone.ru/index.php?route=product/search&amp;search=%D1%81%D1%82%D1%80%D1%83%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B8">
@@ -249,42 +249,42 @@
 </node>
 <node TEXT="skybeat" POSITION="right" ID="ID_1674563096" CREATED="1650519414867" MODIFIED="1650519431365" LINK="https://skybeat.ru/">
 <node TEXT="no violin strings" ID="ID_233978256" CREATED="1650693672235" MODIFIED="1650693678201">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="muztorg" POSITION="right" ID="ID_1955302372" CREATED="1650208377387" MODIFIED="1650208411304" LINK="https://www.muztorg.ru/">
 <node TEXT="long delivery" LOCALIZED_STYLE_REF="default" ID="ID_496287268" CREATED="1650714708149" MODIFIED="1650714735609" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="muzblock" POSITION="right" ID="ID_1523652781" CREATED="1650693867473" MODIFIED="1650693876008" LINK="https://www.muzblock.ru/index.php?route=product/search&amp;search=%D1%81%D1%82%D1%80%D1%83%D0%BD%D1%8B%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B8">
 <node TEXT="no images of products" ID="ID_1186977973" CREATED="1650714294374" MODIFIED="1650714302818">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="accordmusic" POSITION="right" ID="ID_1519280951" CREATED="1650519802919" MODIFIED="1650519829276" LINK="https://accordmusic.ru/catalog/?sort=PRICE&amp;order=asc&amp;q=%D1%81%D1%82%D1%80%D1%83%D0%BD%D1%8B%20%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B8">
 <node TEXT="expensive strings" ID="ID_1678876776" CREATED="1650519831247" MODIFIED="1650519843856">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="legato" POSITION="right" ID="ID_1702945463" CREATED="1650693658603" MODIFIED="1650693671413" LINK="https://www.legato.su/index.php?searchstring=%F1%F2%F0%F3%ED%FB+%F1%EA%F0%E8%EF%EA%E8&amp;x=2&amp;y=5">
 <node TEXT="no violin strings" ID="ID_215001174" CREATED="1650693672235" MODIFIED="1650693678201">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="rondo" POSITION="right" ID="ID_907109320" CREATED="1650699529982" MODIFIED="1650699535694" LINK="http://www.rondomusic.ru/search/result?setsearchdata=1&amp;search=%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA&amp;sub=">
 <node TEXT="expensive strings" ID="ID_1076416699" CREATED="1650699536398" MODIFIED="1650699542327">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="glavmuz" POSITION="right" ID="ID_156280063" CREATED="1650713287158" MODIFIED="1650713299456" LINK="https://www.glavmuz.ru/search/?q=%D1%81%D1%82%D1%80%D1%83%D0%BD%D1%8B+%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B8">
 <node TEXT="expensive strings" ID="ID_903353003" CREATED="1650519831247" MODIFIED="1650519843856">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="glinki" POSITION="right" ID="ID_718265903" CREATED="1650849398125" MODIFIED="1650849409719" LINK="https://www.glinki.ru/basket/">
 <node TEXT="expensive strings" ID="ID_687041221" CREATED="1650849463973" MODIFIED="1650849472281">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>

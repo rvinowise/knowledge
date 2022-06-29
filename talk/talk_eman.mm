@@ -239,15 +239,15 @@
 <font ITALIC="true"/>
 <node TEXT="" ID="ID_709506012" CREATED="1634931117182" MODIFIED="1634931117182">
 <node TEXT="even if they are very knowledgeable" ID="ID_493969485" CREATED="1634928341387" MODIFIED="1634931268198">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="fatwa about Ismael Abu Adam" ID="ID_1912536491" CREATED="1634928359949" MODIFIED="1634928498813" LINK="https://www.islamweb.net/en/fatwa/340435/reacting-to-youtube-channel-that-attacks-islam">
 <icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 <node TEXT="it&apos;s not about lack of knowledge, it&apos;s about their being non-muslims" LOCALIZED_STYLE_REF="default" ID="ID_1672164009" CREATED="1634928369890" MODIFIED="1634928465805" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="they will call an apostate scholar &quot;misguided&quot; as well" ID="ID_1954890896" CREATED="1634928394843" MODIFIED="1634928422171">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 </node>
@@ -256,7 +256,7 @@
 <icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="it&apos;s double standards" LOCALIZED_STYLE_REF="default" ID="ID_541944529" CREATED="1634892262523" MODIFIED="1634892976554" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="if a shaikh tells you something about Hinduism (e.g. that it&apos;s wrong)" ID="ID_929477497" CREATED="1634892277725" MODIFIED="1634892319038">
 <node TEXT="you will not ask him to not talk about hinduism" ID="ID_1705066915" CREATED="1634892986190" MODIFIED="1634893030249">
 <node TEXT="because his misconceptions about hinduism might affect you, and give you a Wrong impression of hinduism" ID="ID_736449953" CREATED="1634893030824" MODIFIED="1634902180160"/>
@@ -458,16 +458,16 @@
 <node TEXT="even if there are &quot;crazy&quot; stubborn people from both sides, which won&apos;t change their mind;" ID="ID_947658876" CREATED="1649144324979" MODIFIED="1649164440344"/>
 </node>
 <node TEXT="i&apos;m afraid of" LOCALIZED_STYLE_REF="default" ID="ID_1265172857" CREATED="1636442356221" MODIFIED="1636442567377" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="appearing a looser to the public" LOCALIZED_STYLE_REF="default" ID="ID_220456582" CREATED="1636442397955" MODIFIED="1636442541119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="not being a skilfull debater" ID="ID_176940428" CREATED="1636442377025" MODIFIED="1636442387828"/>
 <node TEXT="if it&apos;s a private talk - i&apos;m ok" ID="ID_1765087906" CREATED="1636442603532" MODIFIED="1636442634889">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="bullying by the cult members" LOCALIZED_STYLE_REF="default" ID="ID_1059064421" CREATED="1636442402780" MODIFIED="1636442541675" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="if it&apos;s a civilised apologist - i&apos;m ok" ID="ID_1394342526" CREATED="1636442621369" MODIFIED="1636442634135">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="hamza tzortzis" ID="ID_1301128729" CREATED="1636442649911" MODIFIED="1636442657221"/>
 <node TEXT="nadir ahmed" ID="ID_967951020" CREATED="1636442657592" MODIFIED="1636442674747"/>
 </node>
@@ -476,12 +476,12 @@
 </node>
 </node>
 <node TEXT="i&apos;m NOT afraid of" ID="ID_1225773236" CREATED="1636442427745" MODIFIED="1636442568689">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="losing my &quot;faith&quot; in atheism" LOCALIZED_STYLE_REF="default" ID="ID_261594289" CREATED="1636442436100" MODIFIED="1649164477089" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="i&apos;m sure i&apos;ll stay an atheist" ID="ID_1158752583" CREATED="1636442456462" MODIFIED="1636442502274"/>
 <node TEXT="if i change my mind - it&apos;s Good for me" ID="ID_1162971417" CREATED="1636442480544" MODIFIED="1636442494621"/>
 <node TEXT="mulims are afraid of Losing faith" ID="ID_1255916789" CREATED="1636442504845" MODIFIED="1649164486889">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="this is the key difference" ID="ID_583720432" CREATED="1636442590370" MODIFIED="1636442594980"/>
 </node>
 </node>
@@ -888,7 +888,7 @@
 </richcontent>
 </node>
 <node ID="ID_1796917422" CREATED="1648509414525" MODIFIED="1648511735913">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -903,7 +903,7 @@
 </html>
 </richcontent>
 <node TEXT="and ISIS parents will feel the same disturbance" ID="ID_833264366" CREATED="1648509475500" MODIFIED="1648511745076">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="and it&apos;s not only about children: if an ISIS speaker joins this group, he will be the most interesting interlocutor for me." ID="ID_118350158" CREATED="1648510199107" MODIFIED="1648510426432"/>
@@ -1115,7 +1115,7 @@
 <node TEXT="conversion" LOCALIZED_STYLE_REF="default" ID="ID_985939597" CREATED="1631987100924" MODIFIED="1634204074077" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1337076553" CREATED="1632234672620" MODIFIED="1632840403248">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1142,7 +1142,7 @@
 </node>
 </node>
 <node TEXT="double standards" ID="ID_1071690949" CREATED="1634921740219" MODIFIED="1634921751094">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="if a muslim enters the english classroom, mentiones muhammad, and says &quot;peace-and-blessings be upon him&quot;" ID="ID_400671080" CREATED="1634921752086" MODIFIED="1636065130878">
 <node ID="ID_1376980018" CREATED="1634921900892" MODIFIED="1634927626393"><richcontent TYPE="NODE">
 
@@ -1596,7 +1596,7 @@
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_924648779" CREATED="1632472124988" MODIFIED="1632840403249">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1750,9 +1750,9 @@
 <node TEXT="france is the strictest" ID="ID_260731939" CREATED="1634433960633" MODIFIED="1634639173542">
 <node TEXT="all visible religious symbols are banned in schools" ID="ID_103547295" CREATED="1634636195644" MODIFIED="1634636210699">
 <node TEXT="but it affects mostly Islamic women and Jewish men" ID="ID_332886448" CREATED="1634636213557" MODIFIED="1634636363514" LINK="https://en.wikipedia.org/wiki/Hijab_by_country#France">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="so what? it&apos;s because they show off their religiosity, which is prohibited" ID="ID_792523646" CREATED="1634636335243" MODIFIED="1634636410193">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node ID="ID_634506490" CREATED="1634637712815" MODIFIED="1634637774747"><richcontent TYPE="NODE">
@@ -1791,7 +1791,7 @@
 </node>
 <node TEXT="all masks are banned in public spaces" ID="ID_848085009" CREATED="1634636678810" MODIFIED="1634636691096">
 <node TEXT="few exceptions" ID="ID_1563478510" CREATED="1634645881801" MODIFIED="1634646429710">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="private car" ID="ID_169673485" CREATED="1634645901605" MODIFIED="1634645930190"/>
 <node TEXT="place of worship" ID="ID_1556002023" CREATED="1634645906369" MODIFIED="1634645933362"/>
 </node>
@@ -1817,7 +1817,7 @@
 <icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="fine for forcing a veil is much higher than for wearing it" ID="ID_857701945" CREATED="1634645958966" MODIFIED="1634645981387">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node ID="ID_543342489" CREATED="1634646007110" MODIFIED="1634646149166"><richcontent TYPE="NODE">
 
 <html>
@@ -1832,7 +1832,7 @@
 </node>
 </node>
 <node TEXT="religious women are oppressed by this law" ID="ID_586104830" CREATED="1634642886532" MODIFIED="1634642913720">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
@@ -1903,7 +1903,7 @@
 </html>
 </richcontent>
 <node TEXT="the effect of beauty for men is Higher than for women" ID="ID_1332905808" CREATED="1634647811454" MODIFIED="1634647964765">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT=" This argument is supported by empirical studies from different countries and using different data" ID="ID_1570995290" CREATED="1634647834900" MODIFIED="1634647931875" LINK="https://wol.iza.org/articles/does-it-pay-to-be-beautiful/long">
 <icon BUILTIN="emoji-26F2"/>
 <font ITALIC="true"/>
@@ -2020,7 +2020,7 @@
 </richcontent>
 <node TEXT="yasir qadi" STYLE_REF="list item" ID="ID_1331531215" CREATED="1631903705564" MODIFIED="1632141283025" LINK="#ID_1771339082">
 <node LOCALIZED_STYLE_REF="default" ID="ID_1333330144" CREATED="1631903718825" MODIFIED="1632840403249">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2036,7 +2036,7 @@
 </richcontent>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_303531254" CREATED="1631903761493" MODIFIED="1632840417444">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2206,7 +2206,7 @@
 </node>
 <node TEXT="nadir akhmed" STYLE_REF="list item" ID="ID_618672913" CREATED="1631904073299" MODIFIED="1632141283030">
 <node LOCALIZED_STYLE_REF="default" ID="ID_760125589" CREATED="1631904143891" MODIFIED="1632840403250">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2222,7 +2222,7 @@
 </richcontent>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_456325047" CREATED="1631904162927" MODIFIED="1632840403250">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2240,13 +2240,13 @@
 </node>
 <node TEXT="zakir naik" STYLE_REF="list item" ID="ID_1835047811" CREATED="1631903607952" MODIFIED="1632141283031">
 <node TEXT="his accent is weird" LOCALIZED_STYLE_REF="default" ID="ID_1590632786" CREATED="1631903660192" MODIFIED="1632840417445">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="effective at dawa" LOCALIZED_STYLE_REF="default" ID="ID_1634729261" CREATED="1631903897311" MODIFIED="1632840403250">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="uses dishonest tricks" LOCALIZED_STYLE_REF="default" ID="ID_1952296591" CREATED="1632027262783" MODIFIED="1632840417445">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node ID="ID_1592051024" CREATED="1632027275430" MODIFIED="1632027324050"><richcontent TYPE="NODE">
 
 <html>
@@ -2307,7 +2307,7 @@
 </node>
 <node TEXT="daniel haqiqatju" STYLE_REF="list item" ID="ID_830320647" CREATED="1631903520030" MODIFIED="1632141283032">
 <node LOCALIZED_STYLE_REF="default" ID="ID_719480172" CREATED="1631903676814" MODIFIED="1632840417445">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2323,7 +2323,7 @@
 </richcontent>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1560851642" CREATED="1631903793634" MODIFIED="1632840403250">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2342,7 +2342,7 @@
 </node>
 <node TEXT="mohammed hijab" LOCALIZED_STYLE_REF="default" ID="ID_612131910" CREATED="1631904004793" MODIFIED="1634631477285" BACKGROUND_COLOR="#ffffff">
 <node TEXT="subtle bullying" LOCALIZED_STYLE_REF="default" ID="ID_1882647122" CREATED="1631904015003" MODIFIED="1634631658430">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="of which he can&apos;t be accused" ID="ID_437526358" CREATED="1634631514101" MODIFIED="1634633254497">
 <icon BUILTIN="info_circle"/>
 <node TEXT="but the effect is the same" ID="ID_507164490" CREATED="1634631676382" MODIFIED="1634631681406"/>
@@ -2463,7 +2463,7 @@
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1329621529" CREATED="1631904217297" MODIFIED="1634631496870" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
@@ -2572,7 +2572,7 @@
 </node>
 </node>
 <node TEXT="the prophet is the least special way" ID="ID_1810901297" CREATED="1635478136003" MODIFIED="1635478156114">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="there were thouthands of prophets" LOCALIZED_STYLE_REF="default" ID="ID_599832232" CREATED="1635477843972" MODIFIED="1635478157764" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="buddha, joseph smith, zoroaster" ID="ID_361561518" CREATED="1635477855066" MODIFIED="1635477874067"/>
 <node TEXT="how is a prophet (one of thousands) more special than a message in the sky?" ID="ID_1576304282" CREATED="1635477879956" MODIFIED="1635477907194"/>
@@ -2600,10 +2600,10 @@
 </richcontent>
 <node TEXT="richard dawkins" ID="ID_1490602708" CREATED="1631941070691" MODIFIED="1631941077508">
 <node TEXT="profoundly intelligent" LOCALIZED_STYLE_REF="default" ID="ID_1346374662" CREATED="1632141024131" MODIFIED="1632840403250">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_115468215" CREATED="1632141050929" MODIFIED="1632840403250">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2635,7 +2635,7 @@
 </node>
 <node TEXT="sam harris" ID="ID_1832637594" CREATED="1632140981996" MODIFIED="1632140985994">
 <node LOCALIZED_STYLE_REF="default" ID="ID_84002918" CREATED="1632140987391" MODIFIED="1632840403250">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2669,25 +2669,25 @@
 <node TEXT="specific to islam" STYLE_REF="topic" ID="ID_1324133297" CREATED="1632026602394" MODIFIED="1632026611733">
 <node TEXT="apostate prophet" ID="ID_1208764884" CREATED="1631941078380" MODIFIED="1631941099216">
 <node TEXT="slightly toxic" LOCALIZED_STYLE_REF="default" ID="ID_1309663910" CREATED="1632141336906" MODIFIED="1632840417446">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="abdullah sameer" ID="ID_1480159285" CREATED="1631941099621" MODIFIED="1631941103507">
 <node TEXT="nice tone" LOCALIZED_STYLE_REF="default" ID="ID_1415112668" CREATED="1632593210279" MODIFIED="1632840403250">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="david wood" ID="ID_171849029" CREATED="1632593148625" MODIFIED="1632593159267">
 <node TEXT="deep knowledge of islamic scriptures" LOCALIZED_STYLE_REF="default" ID="ID_840572302" CREATED="1632593174169" MODIFIED="1632840403251">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="CIRA international" ID="ID_465250840" CREATED="1632593161670" MODIFIED="1632593166024">
 <node TEXT="the deepest insight" ID="ID_584184325" CREATED="1634633165440" MODIFIED="1634633174292">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="level higher than average public" ID="ID_1067346651" CREATED="1634633174697" MODIFIED="1634633212660">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
@@ -2734,7 +2734,7 @@
 </richcontent>
 <node TEXT="jainism" ID="ID_56339052" CREATED="1632650489290" MODIFIED="1632650494115">
 <node TEXT="insight in botany" LOCALIZED_STYLE_REF="default" ID="ID_680394754" CREATED="1632650672931" MODIFIED="1632840403251">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node ID="ID_1564546519" CREATED="1632650496174" MODIFIED="1632650535211"><richcontent TYPE="NODE">
 
 <html>
@@ -2753,7 +2753,7 @@
 </node>
 <node TEXT="hinduism" ID="ID_896028627" CREATED="1632650538011" MODIFIED="1632650540834">
 <node LOCALIZED_STYLE_REF="default" ID="ID_305524849" CREATED="1632650541882" MODIFIED="1632840403251">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2772,10 +2772,10 @@
 </node>
 <node TEXT="buddhism" ID="ID_520230621" CREATED="1632650591935" MODIFIED="1632650594767">
 <node TEXT="pleasure and suffering are inseparable" LOCALIZED_STYLE_REF="default" ID="ID_1916027225" CREATED="1632650595737" MODIFIED="1632840403251">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="discovered meditation which has medicinal qualities" ID="ID_1141912325" CREATED="1648619395190" MODIFIED="1648619429187">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 </node>
@@ -3153,7 +3153,7 @@
 </node>
 </node>
 <node POSITION="right" ID="ID_1852458143" CREATED="1633021053613" MODIFIED="1635112812090">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 

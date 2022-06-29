@@ -1,1 +1,0 @@
-def base_node = nodedef parent = base_node.parent;def position = parent.getChildPosition(base_node)def new_node = parent.createChild()new_node.moveTo(parent, position)base_node.moveTo(new_node)c.select(new_node)

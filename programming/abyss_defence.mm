@@ -192,7 +192,7 @@
 </html>
 </richcontent>
 <node TEXT="but without actors seized by this action" ID="ID_1059468415" CREATED="1638462539901" MODIFIED="1638462609118">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node ID="ID_792769170" CREATED="1638462650908" MODIFIED="1638463095496"><richcontent TYPE="NODE">
 
@@ -301,11 +301,11 @@
 </node>
 <node TEXT="profiling" POSITION="right" ID="ID_446184092" CREATED="1638769330013" MODIFIED="1638769333511">
 <node TEXT="fast" ID="ID_1390204675" CREATED="1638769469469" MODIFIED="1638769473126">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="changing actions" LOCALIZED_STYLE_REF="default" ID="ID_875976510" CREATED="1638769366519" MODIFIED="1638769493579" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
 <node TEXT="slow" ID="ID_535471663" CREATED="1638769466981" MODIFIED="1638769473706">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="operations on enumeration" ID="ID_212346225" CREATED="1638814821955" MODIFIED="1638814834891">
 <node TEXT="equating enumerations (Side.LEFT == ...)" LOCALIZED_STYLE_REF="default" ID="ID_284211408" CREATED="1638769333791" MODIFIED="1638814933714" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="present"/>
@@ -371,13 +371,13 @@
 <node TEXT="changing arm(s)" LOCALIZED_STYLE_REF="default" ID="ID_1235777912" CREATED="1639397529152" MODIFIED="1639398177639" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="Take_tool_from_bag" ID="ID_615263306" CREATED="1639398105699" MODIFIED="1639398105699">
 <node TEXT="put Tool into bag" ID="ID_1794870150" CREATED="1639397262669" MODIFIED="1639544406321" COLOR="#000000">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="put hand before bag" ID="ID_1764687138" CREATED="1639397402207" MODIFIED="1639544603907">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="the actor (hand_r) still has this action, instead of the substituting one" ID="ID_349984767" CREATED="1639546047354" MODIFIED="1639546068049"/>
 </node>
 <node TEXT="move hand into bag" ID="ID_1564101245" CREATED="1639397435800" MODIFIED="1639544605820">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="drop tool" ID="ID_612140483" CREATED="1639397441698" MODIFIED="1639397446993"/>
 </node>

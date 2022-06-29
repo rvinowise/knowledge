@@ -438,14 +438,14 @@
 <node TEXT="a discussed thing" LOCALIZED_STYLE_REF="default" ID="ID_1969747749" CREATED="1633371517717" MODIFIED="1635773283890" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <font NAME="Tahoma"/>
 <node TEXT="argument against it" ID="ID_1480475957" CREATED="1633371595889" MODIFIED="1635773283890">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <font NAME="Tahoma"/>
 <node TEXT="argument against previous argument" ID="ID_1724256398" CREATED="1633371609364" MODIFIED="1635773283891">
-<icon BUILTIN="badleak"/>
+<icon BUILTIN="bad"/>
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_1950005134" CREATED="1633371699989" MODIFIED="1635773283892">
-<icon BUILTIN="goodleak"/>
+<icon BUILTIN="good"/>
 <richcontent TYPE="NODE">
 
 <html>
