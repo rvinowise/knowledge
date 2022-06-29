@@ -126,7 +126,7 @@
 <node TEXT="satan said the truth" POSITION="right" ID="ID_867077397" CREATED="1633686348093" MODIFIED="1633686409338">
 <node TEXT="a truth which helps fight against him" ID="ID_212041916" CREATED="1633686373542" MODIFIED="1633686578834">
 <node TEXT="why" ID="ID_1152317622" CREATED="1633686432334" MODIFIED="1633686439035" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="recite Ayat-al-Kursi (2:255) at night" ID="ID_1042535609" CREATED="1633686523669" MODIFIED="1633686581428" LINK="https://sunnah.com/bukhari:5010"/>
 </node>

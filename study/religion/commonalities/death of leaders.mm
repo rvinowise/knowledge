@@ -142,9 +142,9 @@
 
 </richcontent>
 <node TEXT="druze" ID="ID_842947798" CREATED="1636178623858" MODIFIED="1636178786815">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <node TEXT="al-hakim" LOCALIZED_STYLE_REF="default" ID="ID_1658685312" CREATED="1636178712124" MODIFIED="1636178800112" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="man_bust@b"/>
+<icon BUILTIN="man_bust"/>
 </node>
 </node>
 </node>
@@ -165,11 +165,11 @@
 
 </richcontent>
 <node TEXT="christianity" ID="ID_1404897661" CREATED="1636178634144" MODIFIED="1636178786666">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <node TEXT="jesus" LOCALIZED_STYLE_REF="default" ID="ID_1397151305" CREATED="1636178560035" MODIFIED="1636178800009" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="man_bust@b"/>
+<icon BUILTIN="man_bust"/>
 <node TEXT="died for our sins" LOCALIZED_STYLE_REF="default" ID="ID_237868471" CREATED="1636178592260" MODIFIED="1636178737384" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

@@ -177,7 +177,7 @@
 </node>
 <node TEXT="different tightness" POSITION="right" ID="ID_1734623825" CREATED="1634187531180" MODIFIED="1634202945303">
 <node TEXT="depends on Existential_security" ID="ID_87676089" CREATED="1634202082982" MODIFIED="1634202586780">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="loose cultures" ID="ID_335662732" CREATED="1634202075180" MODIFIED="1634202619116" COLOR="#7f7f7f">
 <icon BUILTIN="control/type_of_parent"/>

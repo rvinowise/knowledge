@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,7 +170,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -178,12 +178,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -199,7 +199,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -224,18 +224,18 @@
 </node>
 <node TEXT="isolation of tested parts" POSITION="right" ID="ID_104714199" CREATED="1645623475472" MODIFIED="1645623482840">
 <node TEXT="good isolation" ID="ID_622415625" CREATED="1645623221020" MODIFIED="1645623341863">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="abstracting logic from monoBehaviours into regular classes" ID="ID_1506603887" CREATED="1645623397658" MODIFIED="1645623423964">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 <node TEXT="confuses design with dummy monoBehaviours" ID="ID_218978170" CREATED="1645623379729" MODIFIED="1645623396492">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="poor isolation" ID="ID_385107581" CREATED="1645623304706" MODIFIED="1645623342877">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="instantiating monoBehaviours" ID="ID_450376170" CREATED="1645623314599" MODIFIED="1645623373853">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="the whole game is instantiated in test" ID="ID_278472559" CREATED="1645623523236" MODIFIED="1645625732499">
 <node TEXT=" Infallible Code" ID="ID_1727245513" CREATED="1645623584393" MODIFIED="1645623593876" LINK="https://youtu.be/TyxDg70hc3g?t=405">
 <icon BUILTIN="emoji-26F2"/>
@@ -243,7 +243,7 @@
 </node>
 </node>
 <node TEXT="doesn&apos;t confuse program design" ID="ID_1698447960" CREATED="1645623335796" MODIFIED="1645623498393">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 </node>
@@ -266,7 +266,7 @@
 <icon BUILTIN="emoji-26F2"/>
 </node>
 <node TEXT="confusing syntax" ID="ID_178459637" CREATED="1645632985872" MODIFIED="1645632999405">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node ID="ID_1590161634" CREATED="1645631328893" MODIFIED="1645632956667"><richcontent TYPE="NODE">
@@ -287,7 +287,7 @@
 <icon BUILTIN="emoji-26F2"/>
 </node>
 <node TEXT="code changes" LOCALIZED_STYLE_REF="default" ID="ID_885970436" CREATED="1645631382542" MODIFIED="1645632982333" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>

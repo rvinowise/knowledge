@@ -128,26 +128,26 @@
 <node TEXT="female bee" POSITION="right" ID="ID_933723387" CREATED="1636419410704" MODIFIED="1636419921024">
 <node TEXT="quran 16:68-69" ID="ID_227667558" CREATED="1636419547633" MODIFIED="1636419586493" LINK="https://quran.com/16:68"/>
 <node TEXT="bees are feminine in quran" ID="ID_829195812" CREATED="1636419869391" MODIFIED="1636419890221">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="and in the reality worker bees are female" ID="ID_553327981" CREATED="1636419890540" MODIFIED="1636419997635">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="a blatant lie" LOCALIZED_STYLE_REF="default" ID="ID_149460651" CREATED="1636419796225" MODIFIED="1636428154714" COLOR="#666666" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 <node TEXT="claimers probably knew arabic good enough" ID="ID_6143986" CREATED="1636419808413" MODIFIED="1636420206692"/>
 </node>
 <node TEXT="nA7l can be f. or m." ID="ID_1867237381" CREATED="1636428158301" MODIFIED="1636428271614" LINK="https://en.wiktionary.org/wiki/%D9%86%D8%AD%D9%84">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="quran choses f." ID="ID_238609102" CREATED="1636428279331" MODIFIED="1636428287225">
 <node TEXT="&gt;50% of success" ID="ID_769857255" CREATED="1636428287458" MODIFIED="1636428407243"/>
 </node>
 </node>
 <node TEXT="arabic plurals are grammatically feminine singular" ID="ID_1240497319" CREATED="1636420006540" MODIFIED="1636420174549">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="apart from jinn, angels and humans" ID="ID_1809003932" CREATED="1636420041586" MODIFIED="1636420054404">
 <node TEXT="grammatical plural_feminine and plural_masculine are applied only for them" ID="ID_204010831" CREATED="1636420061730" MODIFIED="1636420154784"/>
 </node>
@@ -156,7 +156,7 @@
 </node>
 <node TEXT="big bang" POSITION="right" ID="ID_1810140177" CREATED="1636687331391" MODIFIED="1636687492724" LINK="https://quran.com/21/30">
 <node TEXT="mentioned in the quran" ID="ID_1975955565" CREATED="1636687526715" MODIFIED="1636687543395">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="ancient egyptian creation myth" ID="ID_559618349" CREATED="1636687341982" MODIFIED="1636687359294" LINK="https://egyptianmuseum.org/deities-geb"/>

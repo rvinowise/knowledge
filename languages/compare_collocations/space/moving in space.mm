@@ -206,13 +206,13 @@
 <font BOLD="true"/>
 <node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
 <node TEXT="feminine" LOCALIZED_STYLE_REF="default" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1638005675413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/feminine@b"/>
+<icon BUILTIN="grammar/gender/feminine"/>
 </node>
 <node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1638005679024" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/masculine@b"/>
+<icon BUILTIN="grammar/gender/masculine"/>
 </node>
 <node TEXT="common" LOCALIZED_STYLE_REF="default" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1638005687329" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="grammar/gender/both_genders@b"/>
+<icon BUILTIN="grammar/gender/both_genders"/>
 </node>
 </node>
 <node TEXT="number" ID="ID_1197699449" CREATED="1638005695736" MODIFIED="1638005698501">
@@ -223,7 +223,7 @@
 <node TEXT="syntax" ID="ID_1205169936" CREATED="1638005727863" MODIFIED="1638005731513">
 <node TEXT="sequence" ID="ID_1970909851" CREATED="1638005722645" MODIFIED="1638005725496">
 <node TEXT="word before its parent" ID="ID_704088312" CREATED="1638005732749" MODIFIED="1638005754493">
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+<icon BUILTIN="grammar/syntax/precedes_previous"/>
 </node>
 </node>
 </node>
@@ -234,16 +234,16 @@
 </node>
 <node TEXT="control" ID="ID_1802402035" CREATED="1639451534453" MODIFIED="1639451537112">
 <node TEXT="use of variable" ID="ID_229128126" CREATED="1639451537929" MODIFIED="1639452484952">
-<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 </node>
 <node TEXT="unnecessary" ID="ID_728579299" CREATED="1639451543852" MODIFIED="1639451557845">
-<icon BUILTIN="size_optimisation/unnecessary_node@b"/>
+<icon BUILTIN="size_optimisation/unnecessary_node"/>
 </node>
 <node TEXT="declaration of variable" ID="ID_1822291525" CREATED="1639451560357" MODIFIED="1639452478702">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 </node>
 <node ID="ID_716132178" CREATED="1639464033853" MODIFIED="1639464121745">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -259,25 +259,25 @@
 </richcontent>
 </node>
 <node TEXT="same as parent (can substitute it)" ID="ID_1249817900" CREATED="1639453816860" MODIFIED="1639453847531">
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 </node>
 <node TEXT="tags of parts of speech" ID="ID_20962239" CREATED="1639452753867" MODIFIED="1639452775484" LINK="https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html"/>
 </node>
 <node TEXT="placing somewhere" POSITION="right" ID="ID_1169329615" CREATED="1639477521418" MODIFIED="1639477536757">
 <node TEXT="put it *" ID="ID_250774186" CREATED="1639477228542" MODIFIED="1639477495093">
-<icon BUILTIN="quote@b"/>
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="quote"/>
+<icon BUILTIN="punctuation/colon"/>
 <font ITALIC="true"/>
 <node TEXT="on" ID="ID_750963937" CREATED="1639477247018" MODIFIED="1639479445988" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="PRP" ID="ID_201692977" CREATED="1639477258620" MODIFIED="1639477272079">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 </node>
 <node TEXT="his" ID="ID_1788521691" CREATED="1639477254822" MODIFIED="1639477257651" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <node TEXT="side" ID="ID_1884717131" CREATED="1639477292441" MODIFIED="1639477295107">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 </node>
 <node TEXT="right" ID="ID_1687852247" CREATED="1639477284445" MODIFIED="1639477291150" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
@@ -290,7 +290,7 @@
 <node TEXT="ad" ID="ID_1809741003" CREATED="1639477303929" MODIFIED="1639477305383" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="side" ID="ID_110708015" CREATED="1639477608980" MODIFIED="1639477612455">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 <node TEXT="acc." ID="ID_1254291429" CREATED="1639477761377" MODIFIED="1639477769118">
 <icon BUILTIN="grammar/case"/>
 </node>
@@ -298,7 +298,7 @@
 <node TEXT="dexteram" ID="ID_1690679468" CREATED="1639477306166" MODIFIED="1639477312404" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="JJ, PRP$" ID="ID_919270462" CREATED="1639477394757" MODIFIED="1639477445785">
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="punctuation/colon"/>
 </node>
 <node TEXT="suam" ID="ID_867463559" CREATED="1639477316501" MODIFIED="1639477323380" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
@@ -311,7 +311,7 @@
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="sinistram" ID="ID_166443984" CREATED="1639479101542" MODIFIED="1639479218541" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
-<icon BUILTIN="punctuation/equal@b"/>
+<icon BUILTIN="punctuation/equal"/>
 </node>
 </node>
 </node>

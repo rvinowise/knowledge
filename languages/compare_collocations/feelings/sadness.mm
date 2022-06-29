@@ -215,14 +215,14 @@
 <icon BUILTIN="smile@w"/>
 <node TEXT="حُزَناء" ID="ID_411578917" CREATED="1637407960344" MODIFIED="1637408026618">
 <icon BUILTIN="grammar/plural"/>
-<icon BUILTIN="grammar/gender/masculine@b"/>
+<icon BUILTIN="grammar/gender/masculine"/>
 </node>
 </node>
 <node TEXT="حَزِن" LOCALIZED_STYLE_REF="default" ID="ID_1581575301" CREATED="1637408158664" MODIFIED="1637408183557" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <node TEXT="حِزان" ID="ID_1122483054" CREATED="1637408188645" MODIFIED="1637408234727">
 <icon BUILTIN="grammar/plural"/>
-<icon BUILTIN="grammar/gender/both_genders@b"/>
+<icon BUILTIN="grammar/gender/both_genders"/>
 </node>
 </node>
 </node>

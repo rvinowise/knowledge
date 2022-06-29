@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.2">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.56">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,7 +170,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -178,12 +178,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -199,7 +199,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -223,19 +223,43 @@
 </node>
 </node>
 <node TEXT="materialistic theories" POSITION="right" ID="ID_1723224585" CREATED="1649580569131" MODIFIED="1649580578911">
-<node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1649580634832" LINK="attention%20schema%20theory.mm"/>
-<node TEXT="integrated information theory (IIT)" ID="ID_1698692448" CREATED="1649580629112" MODIFIED="1651914314444" LINK="integrated%20information%20theory.mm"/>
-<node TEXT="information closure theory (ICT)" ID="ID_1763659129" CREATED="1651914298506" MODIFIED="1651914329234" LINK="file:/C:/knowledge/study/psychology/consciousness/information%20closure%20theory%20(ICT).mm"/>
-<node TEXT="geometric theory of consciousness" ID="ID_1549272598" CREATED="1651917078920" MODIFIED="1651917088207"/>
+<node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1656229481667" LINK="attention%20schema%20theory.mm">
+<icon BUILTIN="present"/>
+<node TEXT="michael graziano" ID="ID_176199771" CREATED="1656229368873" MODIFIED="1656312724085">
+<icon BUILTIN="person"/>
 </node>
-<node TEXT="quantify consciousness" POSITION="right" ID="ID_1948336920" CREATED="1651916983852" MODIFIED="1651916998659">
-<node TEXT="IIT" ID="ID_499777095" CREATED="1651916999629" MODIFIED="1651917016565" LINK="#ID_1698692448">
-<node TEXT="Phî" ID="ID_1899545725" CREATED="1651917140457" MODIFIED="1651917213882"/>
 </node>
-<node TEXT="geometric theory of consciousness" ID="ID_705156233" CREATED="1651917093417" MODIFIED="1651917131561" LINK="#ID_1549272598"/>
-<node TEXT="" ID="ID_95912139" CREATED="1651917000679" MODIFIED="1651917003296" LINK="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01504/full#:~:text=Information%20Closure%20Theory%20of%20Consciousness%20(ICT)%20proposes%20new%20quantitative%20definitions,various%20phenomena%20associated%20with%20consciousness.">
-<icon BUILTIN="emoji-26F2"/>
+<node TEXT="integrated information theory (IIT)" ID="ID_1698692448" CREATED="1649580629112" MODIFIED="1656229481260" LINK="integrated%20information%20theory.mm">
+<icon BUILTIN="present"/>
+<node TEXT="" ID="ID_1973655456" CREATED="1656229418446" MODIFIED="1656229425257">
+<icon BUILTIN="person"/>
+<node TEXT="julio tonony" ID="ID_316745192" CREATED="1656229404068" MODIFIED="1656229414881">
+<icon BUILTIN="person"/>
 </node>
+<node TEXT="christof koch" ID="ID_880540209" CREATED="1656229426737" MODIFIED="1656312643147">
+<icon BUILTIN="person"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="some theories don&apos;t claim to be materialistic" POSITION="right" ID="ID_223284476" CREATED="1656229228076" MODIFIED="1656229301626">
+<node TEXT="orchestrated objective reduction (Orch OR)" ID="ID_95132925" CREATED="1656229262373" MODIFIED="1656229682888" LINK="file:/C:/knowledge/study/psychology/consciousness/orchestrated%20objective%20reduction%20(Orch%20OR).mm">
+<icon BUILTIN="present"/>
+<node TEXT="rodger penrose" ID="ID_1560136079" CREATED="1656229384347" MODIFIED="1656229468489">
+<icon BUILTIN="person"/>
+</node>
+<node TEXT="not mainstream" ID="ID_144727383" CREATED="1656231594195" MODIFIED="1656231611501"/>
+<node TEXT="" ID="ID_245594093" CREATED="1656231614988" MODIFIED="1656231614988"/>
+</node>
+</node>
+<node TEXT="the perceived reality is an &quot;interface&quot;" POSITION="right" ID="ID_1442668370" CREATED="1655607494769" MODIFIED="1656229282846">
+<node TEXT="donald hoffman" ID="ID_565843133" CREATED="1655607510429" MODIFIED="1655607523804" LINK="https://youtu.be/reYdQYZ9Rj4?t=566">
+<node TEXT="it doesn&apos;t show the truth, it Hides it (because it&apos;s too complex)" ID="ID_1575200958" CREATED="1655607533955" MODIFIED="1655607552133">
+<icon BUILTIN="quote"/>
+<font ITALIC="true"/>
+</node>
+</node>
+<node TEXT="richard dennet" ID="ID_1913205298" CREATED="1655611931978" MODIFIED="1655611942684"/>
 </node>
 </node>
 </map>

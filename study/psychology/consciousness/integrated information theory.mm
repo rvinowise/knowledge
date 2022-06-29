@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,7 +170,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -178,12 +178,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -199,7 +199,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -223,16 +223,16 @@
 </node>
 </node>
 <node TEXT="tries to quantify consciousness" POSITION="right" ID="ID_774662700" CREATED="1649580560916" MODIFIED="1649581129944">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="the variable Phî" ID="ID_1181012864" CREATED="1649581032792" MODIFIED="1649581102537" COLOR="#000000">
 <node TEXT="not defined precisely" ID="ID_1854273201" CREATED="1649581110620" MODIFIED="1649581130902">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="can give different values of consciousness of the same systems" ID="ID_1956486716" CREATED="1649581131519" MODIFIED="1649581164078"/>
 </node>
 </node>
 </node>
 <node TEXT="was subjected to falsification check" POSITION="right" ID="ID_1534915182" CREATED="1649581168919" MODIFIED="1649581200824">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="jake hanson" ID="ID_339461726" CREATED="1649581208040" MODIFIED="1649581231971" LINK="https://www.youtube.com/watch?v=oPg09MfQEMI&amp;t=1392s&amp;ab_channel=JakeHanson"/>
 <node TEXT="a fly should have lower level of Phi (consciousness) after anesthesia" ID="ID_1667573437" CREATED="1649581322686" MODIFIED="1649581360321"/>
 </node>
@@ -246,7 +246,7 @@
 </node>
 </node>
 <node ID="ID_529763892" CREATED="1649591881012" MODIFIED="1649593145613">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -271,7 +271,7 @@
 <node TEXT="my left hemisphere is not conscious right now" ID="ID_496843988" CREATED="1651915058633" MODIFIED="1651915079089"/>
 </node>
 <node TEXT="it makes the transition from pre-theoretic definitions of &quot;consciousness&quot; to a well-defined one (Phi)" POSITION="right" ID="ID_718608171" CREATED="1649593154929" MODIFIED="1649593312068">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="doesn&apos;t address the metaquestion of consciousness" POSITION="right" ID="ID_417792410" CREATED="1651924962475" MODIFIED="1651924996932">
 <icon BUILTIN="bad@bleak"/>

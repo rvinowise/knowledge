@@ -132,7 +132,7 @@
 <node TEXT="in totalitarian mind-controlling cults" POSITION="right" ID="ID_1938561887" CREATED="1640520747440" MODIFIED="1640520807564">
 <node TEXT="islam" LOCALIZED_STYLE_REF="default" ID="ID_1471832716" CREATED="1640520737099" MODIFIED="1640520816110" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="don&apos;t befriend non-muslims" ID="ID_1896585819" CREATED="1640520765686" MODIFIED="1640520825256">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="overview of prohibitions from scriptires" ID="ID_1384280069" CREATED="1640520776698" MODIFIED="1640526171966" LINK="https://www.islamweb.net/en/fatwa/87176/having-non-muslim-friends">
 <icon BUILTIN="emoji-26F2"/>
@@ -165,7 +165,7 @@
 </html>
 </richcontent>
 <node TEXT="supported them against the Muslims" ID="ID_1369413080" CREATED="1640527961116" MODIFIED="1640527968888">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -183,13 +183,13 @@
 </html>
 </richcontent>
 <node TEXT="even if they were their fathers or their sons or their brothers" ID="ID_709243149" CREATED="1640528275450" MODIFIED="1640528278492">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 </node>
 <node TEXT="it&apos;s permissible for worthly benefit" ID="ID_1032144225" CREATED="1640524825489" MODIFIED="1640524881430" LINK="https://www.islamweb.net/en/fatwa/405748/befriending-a-non-muslim-for-worldly-benefit-is-not-disbelief">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_666714211" CREATED="1640524905356" MODIFIED="1640527979964" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
 
 <html>
@@ -209,27 +209,27 @@
 <node TEXT="no exposure to the opposing side" ID="ID_721068979" CREATED="1636442159529" MODIFIED="1636442308763">
 <node TEXT="muslims are afraid of talking to atheists, whose debating level is higher then theirs" ID="ID_313327886" CREATED="1636442235324" MODIFIED="1636442300358">
 <node TEXT="not my level" ID="ID_1567330734" CREATED="1636442225970" MODIFIED="1636442231272">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="why don&apos;t you go to &lt;a strong apologist&gt;?" ID="ID_1933256971" CREATED="1636442324695" MODIFIED="1636442355135">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="rvi" ID="ID_747053280" CREATED="1641758137098" MODIFIED="1641758172448">
-<icon BUILTIN="man_bust@b"/>
-<icon BUILTIN="punctuation/colon@b"/>
+<icon BUILTIN="man_bust"/>
+<icon BUILTIN="punctuation/colon"/>
 <node TEXT="i&apos;m afraid of" LOCALIZED_STYLE_REF="default" ID="ID_1265172857" CREATED="1636442356221" MODIFIED="1636442567377" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="appearing a looser to the public" LOCALIZED_STYLE_REF="default" ID="ID_220456582" CREATED="1636442397955" MODIFIED="1636442541119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="not being a skilfull debater" ID="ID_176940428" CREATED="1636442377025" MODIFIED="1636442387828"/>
 <node TEXT="if it&apos;s a private talk - i&apos;m ok" ID="ID_1765087906" CREATED="1636442603532" MODIFIED="1636442634889">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="bullying by the cult members" LOCALIZED_STYLE_REF="default" ID="ID_1059064421" CREATED="1636442402780" MODIFIED="1636442541675" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="if it&apos;s a civilised apologist - i&apos;m ok" ID="ID_1394342526" CREATED="1636442621369" MODIFIED="1636442634135">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="hamza tzortzis" ID="ID_1301128729" CREATED="1636442649911" MODIFIED="1636442657221"/>
 <node TEXT="nadir ahmed" ID="ID_967951020" CREATED="1636442657592" MODIFIED="1636442674747"/>
 </node>
@@ -238,12 +238,12 @@
 </node>
 </node>
 <node TEXT="i&apos;m NOT afraid of" ID="ID_1225773236" CREATED="1636442427745" MODIFIED="1636442568689">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="loosing my &quot;faith&quot; in atheism" LOCALIZED_STYLE_REF="default" ID="ID_261594289" CREATED="1636442436100" MODIFIED="1636442579449" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="i&apos;m sure i&apos;ll stay an atheist" ID="ID_1158752583" CREATED="1636442456462" MODIFIED="1636442502274"/>
 <node TEXT="if i change my mind - it&apos;s Good for me" ID="ID_1162971417" CREATED="1636442480544" MODIFIED="1636442494621"/>
 <node TEXT="mulims are afraid of Loosing faith" ID="ID_1255916789" CREATED="1636442504845" MODIFIED="1636442530669">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="this is the key difference" ID="ID_583720432" CREATED="1636442590370" MODIFIED="1636442594980"/>
 </node>
 </node>
@@ -253,7 +253,7 @@
 <node TEXT="filter sources of information" ID="ID_1774757013" CREATED="1644189915134" MODIFIED="1644189927966">
 <node TEXT="be selective of sources of opinions" ID="ID_1550754810" CREATED="1644189968187" MODIFIED="1644190014839" LINK="https://www.reddit.com/r/Hijabis/comments/n50vvm/arguments_against_islam_are_making_me_doubt_my/">
 <node TEXT="not all information is knowledge" ID="ID_1280048021" CREATED="1644189943096" MODIFIED="1644189949337">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -263,7 +263,7 @@
 <node TEXT="philosophy is haram" ID="ID_728746136" CREATED="1642684999214" MODIFIED="1642685006856"/>
 <node TEXT="natural sciences are haram" ID="ID_15648185" CREATED="1642685008648" MODIFIED="1642685019519" LINK="https://islamqa.info/en/answers/88184/ruling-on-studying-philosophy">
 <node TEXT="As for learning philosophy, magic (sleight of hand), astrology, geomancy, natural science and witchcraft, it is haraam" ID="ID_389133238" CREATED="1642685025887" MODIFIED="1642685040365">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

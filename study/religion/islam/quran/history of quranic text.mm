@@ -151,7 +151,7 @@
 </node>
 </node>
 <node TEXT="preservation of quran was in danger" ID="ID_530112833" CREATED="1633674659155" MODIFIED="1633812460356">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="memorizers died" ID="ID_33145504" CREATED="1633674227453" MODIFIED="1633675202610" LINK="https://sunnah.com/bukhari:4986">
 <node TEXT="Zaid bin Thabit collected text of quran" ID="ID_266961358" CREATED="1633674845552" MODIFIED="1633675101249">
 <node TEXT="unreliable parts, remembered by only one man" ID="ID_1701993704" CREATED="1633675545847" MODIFIED="1633678283979" LINK="https://sunnah.com/bukhari:4986">
@@ -277,14 +277,14 @@
 </node>
 <node TEXT="quranic recitation" POSITION="right" ID="ID_403487302" CREATED="1633568029400" MODIFIED="1633568042724">
 <node TEXT="act of prayer" ID="ID_1093557186" CREATED="1633568036819" MODIFIED="1633568049889">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="3 verses is the minimal amount" ID="ID_226978993" CREATED="1633568052335" MODIFIED="1633568260835">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="Ibn Shubruma" ID="ID_1147270296" CREATED="1633568062506" MODIFIED="1633568237337" LINK="https://sunnah.com/bukhari:5051">
 <icon BUILTIN="emoji-26F2"/>
 </node>
 <node TEXT="size of the shortest sura" ID="ID_1141581853" CREATED="1633568100143" MODIFIED="1633568105460">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 <node TEXT="2 last verses of al-bakhara is enough" ID="ID_631781657" CREATED="1633568178127" MODIFIED="1633568190510">

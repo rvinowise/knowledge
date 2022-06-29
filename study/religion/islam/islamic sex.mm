@@ -137,7 +137,7 @@
 </node>
 <node TEXT="jealousy is removed" ID="ID_640155378" CREATED="1636447166859" MODIFIED="1636447343538" LINK="https://www.farhathashmi.com/articles-section/women-and-family/men-get-hoor/">
 <node TEXT="“And We shall remove from their breasts any (mutual) hatred or sense of injury….” (Surah al-A’raaf:43)" ID="ID_706486408" CREATED="1636447312351" MODIFIED="1636447316525">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -173,7 +173,7 @@
 </richcontent>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_839033408" CREATED="1631972324142" MODIFIED="1633904474451">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -215,7 +215,7 @@
 </node>
 <node TEXT="picking Any captive girl" ID="ID_617813977" CREATED="1633658384569" MODIFIED="1633658424292">
 <node TEXT="muhammad: Go and take Any slave girl" ID="ID_1792998084" CREATED="1633658348136" MODIFIED="1633658453672" LINK="https://sunnah.com/bukhari:371">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="no addition &quot;among those who are into you&quot;" ID="ID_1973078590" CREATED="1633658457467" MODIFIED="1633658472348"/>
@@ -272,7 +272,7 @@
 <node TEXT="how is this &quot;tricking&quot; Allah with &quot;loop-holes&quot;, if it&apos;s just living according to his eternal commandments. in the quran sex slaves were not abrogated, if some ulama decided to abrogate it on their behalf - good luck for them on the day of judgement.&#xa;&#xa;also, if quran is from god, it&apos;s impossible for it to have loop-holes. god will not say: &quot;oops, he found a loophole to have sex...&quot;; he will say: &quot;good job:nvjpqts:, i perfectly predicted that!&quot;" ID="ID_1726423283" CREATED="1636173664017" MODIFIED="1636173672855"/>
 <node TEXT="muslims are disturbed by this" ID="ID_1734163565" CREATED="1636173690422" MODIFIED="1636256277321" LINK="https://www.somalispot.com/threads/can-sex-slave-contracts-be-a-loophole-to-avoid-zina.123575/">
 <node TEXT="in theory it&apos;s halal" ID="ID_774061075" CREATED="1636173715891" MODIFIED="1636173733077">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

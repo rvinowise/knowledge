@@ -126,7 +126,7 @@
 <node TEXT="recite quran despite danger" POSITION="right" ID="ID_984275969" CREATED="1633687734068" MODIFIED="1633687748295">
 <node TEXT="a horse could kill a boy" ID="ID_1696415011" CREATED="1633687750200" MODIFIED="1633687763591">
 <node TEXT="you should have kept reciting" ID="ID_1651096408" CREATED="1633687765250" MODIFIED="1633687788435" LINK="https://sunnah.com/bukhari:5018">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

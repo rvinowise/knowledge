@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,7 +170,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -178,12 +178,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -199,7 +199,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -225,7 +225,7 @@
 <node TEXT="legend" POSITION="right" ID="ID_724634063" CREATED="1650934404698" MODIFIED="1650934408000" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="started new activity" ID="ID_1623638527" CREATED="1650934414110" MODIFIED="1650934764266">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 </node>
 <node TEXT="reason why" LOCALIZED_STYLE_REF="default" ID="ID_844818657" CREATED="1650934973872" MODIFIED="1650935436162" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="programming/goal"/>
@@ -236,12 +236,12 @@
 </node>
 <node TEXT="2020" OBJECT="java.lang.Long|2020" POSITION="right" ID="ID_800186891" CREATED="1650934285867" MODIFIED="1650934288187">
 <node TEXT="summer" ID="ID_1651779639" CREATED="1650934288384" MODIFIED="1650935759009">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="gardening" ID="ID_1017631541" CREATED="1650934290856" MODIFIED="1650934812069">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 <node TEXT="started from the greenhouse" STYLE_REF="list item" ID="ID_200104784" CREATED="1650934324147" MODIFIED="1650934825746">
 <node TEXT="wanted to grow at least radish" ID="ID_121393783" CREATED="1650934389153" MODIFIED="1650935708697">
-<icon BUILTIN="thinking_cloud@b"/>
+<icon BUILTIN="thinking_cloud"/>
 </node>
 </node>
 <node TEXT="several growing beds outside" STYLE_REF="list item" ID="ID_354267881" CREATED="1650934340307" MODIFIED="1650934826278"/>
@@ -255,35 +255,35 @@
 </node>
 </node>
 <node TEXT="autumn" ID="ID_1349209225" CREATED="1650935959765" MODIFIED="1650936002708">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="knowledge" ID="ID_1244319577" CREATED="1650936228669" MODIFIED="1650936234179">
 <node TEXT="yale lectures about ancient greece (spartan gay hoplites)" ID="ID_509444121" CREATED="1650936188609" MODIFIED="1650936251767"/>
 </node>
 </node>
 <node TEXT="winter" ID="ID_1666654894" CREATED="1650935974141" MODIFIED="1650936002282">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="nice vivid dreams" ID="ID_305624785" CREATED="1650936053455" MODIFIED="1650936066190">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="people" ID="ID_392496078" CREATED="1650936120636" MODIFIED="1650936283801">
 <node TEXT="girlfriend" ID="ID_452510508" CREATED="1650937116564" MODIFIED="1650937252036">
-<icon BUILTIN="plus@b"/>
-<icon BUILTIN="good@bleak"/>
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="plus"/>
+<icon BUILTIN="goodleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="wafa (ofoo)" LOCALIZED_STYLE_REF="default" ID="ID_1718211044" CREATED="1650936066754" MODIFIED="1650937166389" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 <node TEXT="sending nudes" ID="ID_810339309" CREATED="1650937223936" MODIFIED="1650937228568">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 </node>
 <node TEXT="love confession" ID="ID_1017009033" CREATED="1650937230731" MODIFIED="1650937245060">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 </node>
 <node TEXT="love song" ID="ID_1365491192" CREATED="1650937240347" MODIFIED="1650937243981">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 </node>
 </node>
 <node TEXT="discussions with eman (lulu)" ID="ID_1933633063" CREATED="1650936135427" MODIFIED="1650936154975">
-<icon BUILTIN="good@bleak"/>
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="goodleak"/>
+<icon BUILTIN="plus"/>
 </node>
 </node>
 <node TEXT="coding" ID="ID_395779418" CREATED="1650937631158" MODIFIED="1650937633092">
@@ -293,26 +293,26 @@
 </node>
 <node TEXT="2021" OBJECT="java.lang.Long|2021" POSITION="right" ID="ID_1853869437" CREATED="1650934177218" MODIFIED="1650934189812">
 <node TEXT="spring" ID="ID_1518444536" CREATED="1650935580296" MODIFIED="1650935759008">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="gardening" ID="ID_631216434" CREATED="1650935392841" MODIFIED="1650935395636">
 <node TEXT="preparing plantlets" ID="ID_1231256063" CREATED="1650935390802" MODIFIED="1650935499856">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 <node TEXT="too many tomatoes" ID="ID_1765525693" CREATED="1650935505351" MODIFIED="1650935514966">
 <node TEXT="which ended up destroyed by fungi" ID="ID_477416268" CREATED="1650935516398" MODIFIED="1650935543749">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="summer" ID="ID_1274487683" CREATED="1650934266481" MODIFIED="1650935759007">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="gardening" ID="ID_606982209" CREATED="1650935392841" MODIFIED="1650935395636">
 <node TEXT="whole garden is taken up by plants" ID="ID_11558641" CREATED="1650934190534" MODIFIED="1650934889180">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 <node TEXT="almost no space left in the bottom" ID="ID_1315561323" CREATED="1650934217645" MODIFIED="1650934227881"/>
 <node TEXT="growing beds on the top" ID="ID_699047888" CREATED="1650934231394" MODIFIED="1650934901586">
-<icon BUILTIN="plus@b"/>
+<icon BUILTIN="plus"/>
 </node>
 <node TEXT="greenhouse isn&apos;t used" ID="ID_327041473" CREATED="1650934296704" MODIFIED="1650935339953">
 <icon BUILTIN="useless"/>
@@ -327,10 +327,10 @@
 </node>
 </node>
 <node TEXT="autumn" ID="ID_221380164" CREATED="1650935814974" MODIFIED="1650935830433">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="gardening" ID="ID_1651132763" CREATED="1650935831267" MODIFIED="1650935841917">
 <node TEXT="discovered new crops" ID="ID_1493923954" CREATED="1650935864645" MODIFIED="1650935931830">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="aubergines" ID="ID_300296430" CREATED="1650935882333" MODIFIED="1650935885209"/>
 <node TEXT="pumpkins" ID="ID_422267295" CREATED="1650935842597" MODIFIED="1650935863756"/>
 <node TEXT="corn" ID="ID_715886942" CREATED="1650935879345" MODIFIED="1650935881569"/>
@@ -338,10 +338,10 @@
 </node>
 </node>
 <node TEXT="winter" ID="ID_1067478422" CREATED="1650936337465" MODIFIED="1650936344095">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="people" ID="ID_554966180" CREATED="1650936120636" MODIFIED="1650936283801">
 <node TEXT="eman disappeared" ID="ID_770513279" CREATED="1650936344742" MODIFIED="1650936351031">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 <node TEXT="coding" ID="ID_734411978" CREATED="1650937546461" MODIFIED="1650937550325">
@@ -354,12 +354,12 @@
 </node>
 <node TEXT="2022" OBJECT="java.lang.Long|2022" POSITION="right" ID="ID_1368563362" CREATED="1650935573061" MODIFIED="1650935574870">
 <node TEXT="spring" ID="ID_924411261" CREATED="1650935575612" MODIFIED="1650935759002">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <node TEXT="gardening" ID="ID_1526707881" CREATED="1650935733972" MODIFIED="1650935736405">
 <node TEXT="preparing plantlets" ID="ID_1183008300" CREATED="1650935736548" MODIFIED="1650935793778">
 <node TEXT="accent on aubergines" ID="ID_648139309" CREATED="1650935798285" MODIFIED="1650935807576"/>
 <node TEXT="tomatoes didn&apos;t grow as high as last year" ID="ID_1360406090" CREATED="1650935904640" MODIFIED="1650935926790">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 </node>

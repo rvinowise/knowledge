@@ -144,7 +144,7 @@
 <node TEXT="too much love" ID="ID_756708247" CREATED="1637063085056" MODIFIED="1637063093258">
 <node TEXT="they didn&apos;t want the relationship to burn out" ID="ID_1929914721" CREATED="1637039002754" MODIFIED="1637039047699">
 <node TEXT="if we call each other it&apos;ll get boring eventually" ID="ID_599881951" CREATED="1637039091757" MODIFIED="1637039121007">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -152,7 +152,7 @@
 </node>
 <node TEXT="spending all romanticism on one relationship" ID="ID_306228499" CREATED="1637063093825" MODIFIED="1637063130520">
 <node TEXT="girl: i never was able too feel the same again" ID="ID_1540873907" CREATED="1637063133518" MODIFIED="1637063154479">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -176,7 +176,7 @@
 <node TEXT="named &quot;che&quot;" ID="ID_1588341317" CREATED="1637064722436" MODIFIED="1637064730493"/>
 </node>
 <node TEXT="do you start learning french because of the heroine" ID="ID_1465751885" CREATED="1637064977563" MODIFIED="1637065004726" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="i&apos;m more similar to the heroine" ID="ID_1006369495" CREATED="1637065199496" MODIFIED="1637065208107">
 <node TEXT="she writes lovesongs" ID="ID_236174577" CREATED="1637065208252" MODIFIED="1637065218979"/>
@@ -189,7 +189,7 @@
 <node TEXT="forgot the idea of romantic love" ID="ID_1131451650" CREATED="1637064334848" MODIFIED="1637064344849">
 <node TEXT="after the heroine didn&apos;t come" ID="ID_1711721219" CREATED="1637064344996" MODIFIED="1637064355315"/>
 <node TEXT="put romantic love to bed" ID="ID_1238193118" CREATED="1637064357304" MODIFIED="1637064369004">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -202,7 +202,7 @@
 </node>
 </node>
 <node TEXT="girl: french men are not as horny (as in usa)" ID="ID_492190662" CREATED="1637050187615" MODIFIED="1637050278141">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="but france is the western india =)" ID="ID_1941657722" CREATED="1637050273412" MODIFIED="1637050291180"/>
 </node>
 <node TEXT="girl doesn&apos;t believe in any magic" ID="ID_772330196" CREATED="1637051677254" MODIFIED="1637051688401">
@@ -210,13 +210,13 @@
 </node>
 <node TEXT="man doesn&apos;t believe in the afterlife" ID="ID_236913630" CREATED="1637051701943" MODIFIED="1637051719366">
 <node TEXT="every day is our last" ID="ID_1371440771" CREATED="1637051719654" MODIFIED="1637051727025">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="prophesy" ID="ID_1635300667" CREATED="1637052466824" MODIFIED="1637052469483">
 <node TEXT="notre dame will be gone one day" ID="ID_114088071" CREATED="1637052469671" MODIFIED="1637052483319">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -226,7 +226,7 @@
 <node TEXT="hero doesn&apos;t like his mother" ID="ID_1678334545" CREATED="1637120599505" MODIFIED="1637120611436">
 <node TEXT="it was bad in the past, but ok now" ID="ID_244343055" CREATED="1637120635949" MODIFIED="1637120649478">
 <node TEXT="you missed the fucked-up years" ID="ID_1709440245" CREATED="1637120614043" MODIFIED="1637120633349">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

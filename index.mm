@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -138,16 +138,16 @@
 </hook>
 <font NAME="Tahoma"/>
 <node TEXT="study" POSITION="right" ID="ID_712601449" CREATED="1633368426935" MODIFIED="1635882090051" LINK="study/" COLOR="#7f7f7f">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma" BOLD="true"/>
 <node TEXT="history" ID="ID_1641012873" CREATED="1633368871369" MODIFIED="1635882091274" LINK="study/history/">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma"/>
-<node TEXT="history of greece.mm" ID="ID_933115436" CREATED="1633368764712" MODIFIED="1654069540456" LINK="study/history/history%20of%20greece.mm">
-<icon BUILTIN="present@b"/>
+<node TEXT="history of greece.mm" ID="ID_933115436" CREATED="1633368764712" MODIFIED="1635773283864" LINK="history/history%20of%20greece.mm">
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 <node TEXT="yale course on youtube" ID="ID_396954466" CREATED="1633369558184" MODIFIED="1635773283865">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
 </node>
@@ -155,9 +155,11 @@
 <node TEXT="islamic_history.mm" ID="ID_917887503" CREATED="1633368741811" MODIFIED="1635773283865" LINK="religion/islamic_history.mm">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="deseases" ID="ID_515578829" CREATED="1636262773644" MODIFIED="1636262786057"/>
+<node TEXT="dense religious studies from a christian fundamentalist" ID="ID_1509021615" CREATED="1635524404764" MODIFIED="1636262761694" LINK="https://www.youtube.com/user/LakesideInstitute/videos">
+<icon BUILTIN="emoji-26F2"/>
+<font NAME="Tahoma"/>
+</node>
 <node TEXT="scientific knowledge" ID="ID_1080449578" CREATED="1636681780336" MODIFIED="1636681813271" LINK="study/history/scientific%20knowledge.mm"/>
-<node TEXT="people&apos;s beliefs" ID="ID_1891715009" CREATED="1653942727741" MODIFIED="1653942762556" LINK="file:/C:/knowledge/study/history/people&apos;s%20beliefs.mm"/>
 </node>
 <node TEXT="nature" ID="ID_1476016535" CREATED="1633368533504" MODIFIED="1635773283867">
 <font NAME="Tahoma"/>
@@ -167,7 +169,7 @@
 <node TEXT="interesting courses" ID="ID_808344822" CREATED="1633724536734" MODIFIED="1635773283868">
 <font NAME="Tahoma"/>
 <node TEXT="Evolution, Ecology and Behavior with Stephen C. Stearns (yale)" ID="ID_35004263" CREATED="1633724558647" MODIFIED="1635773283868" LINK="https://www.youtube.com/playlist?list=PL6299F3195349CCDA" COLOR="#00aa00">
-<icon BUILTIN="book_open@b"/>
+<icon BUILTIN="book_open"/>
 <font NAME="Tahoma"/>
 </node>
 </node>
@@ -175,7 +177,7 @@
 <node TEXT="cultural evolution" ID="ID_1181929883" CREATED="1635882031151" MODIFIED="1635882036842"/>
 </node>
 <node TEXT="biology" ID="ID_1728813802" CREATED="1636262853934" MODIFIED="1636844315484" LINK="study/biology/">
-<node TEXT="deseases" ID="ID_1379709528" CREATED="1636262860866" MODIFIED="1652328486324" LINK="study/biology/deseases.mm"/>
+<node TEXT="deseases" ID="ID_1379709528" CREATED="1636262860866" MODIFIED="1636262890840" LINK="study/deseases.mm"/>
 <node TEXT="psychology" ID="ID_1262274766" CREATED="1636844338128" MODIFIED="1636844350566" LINK="study/biology/psychology/psychology.mm"/>
 </node>
 <node TEXT="chemistry" ID="ID_1170336021" CREATED="1641514141193" MODIFIED="1641514147519" LINK="study/chemistry/">
@@ -209,27 +211,29 @@
 <node TEXT="programming" ID="ID_1478726703" CREATED="1642145814824" MODIFIED="1642145831998" LINK="study/programming/">
 <node TEXT="search" ID="ID_758762981" CREATED="1642145833400" MODIFIED="1642145961821" LINK="file:/D:/archive/cloud_storages/knowledge/study/programming/search.mm"/>
 <node TEXT="unty unit testing" LOCALIZED_STYLE_REF="default" ID="ID_1822815891" CREATED="1645620134738" MODIFIED="1645623220336" LINK="file:/C:/knowledge/study/programming/unty%20unit%20testing.mm" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
-<node TEXT="defects" ID="ID_1156231942" CREATED="1653884513691" MODIFIED="1653884534259" LINK="file:/C:/knowledge/study/programming/defects.mm"/>
 </node>
 <node TEXT="meta science" ID="ID_14757307" CREATED="1646396179556" MODIFIED="1646396213626" LINK="study/meta%20science/">
 <node TEXT="scientific studies" ID="ID_652375220" CREATED="1646396214688" MODIFIED="1646396221619" LINK="file:/C:/knowledge/study/meta%20science/scientific%20studies.mm"/>
 </node>
 </node>
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma" BOLD="true"/>
-<node TEXT="programming" ID="ID_64242684" CREATED="1638461481894" MODIFIED="1638461492219" LINK="programming/">
 <node TEXT="ai_index.mm" ID="ID_1174436778" CREATED="1641516806386" MODIFIED="1641516806388" LINK="../prj/unity_ai/docs/ai_index.mm"/>
+<node TEXT="programming" ID="ID_64242684" CREATED="1638461481894" MODIFIED="1638461492219" LINK="programming/">
 <node TEXT="abyss_defence" ID="ID_1914315453" CREATED="1638461487299" MODIFIED="1638461509161" LINK="programming/abyss_defence.mm"/>
 <node TEXT="unity" ID="ID_781744890" CREATED="1640791023000" MODIFIED="1640791035419" LINK="programming/unity/">
 <node TEXT="idiosyncrasy" ID="ID_929397564" CREATED="1640791036161" MODIFIED="1640791266836" LINK="programming/unity/idiosyncrasy.mm"/>
 </node>
 </node>
-<node TEXT="poetry.mm" ID="ID_1888622546" CREATED="1633368807278" MODIFIED="1652348651141" LINK="prj/poetry/poetry.mm">
+<node TEXT="poetry.mm" ID="ID_1888622546" CREATED="1633368807278" MODIFIED="1635773283871" LINK="poetry.mm">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="poetry2.mm" ID="ID_156298882" CREATED="1633368815365" MODIFIED="1652348661537" LINK="prj/poetry/poetry2.mm">
+<node TEXT="poetry2.mm" ID="ID_156298882" CREATED="1633368815365" MODIFIED="1635773283872" LINK="poetry2.mm">
 <font NAME="Tahoma"/>
+</node>
+<node TEXT="poetry" ID="ID_1603019221" CREATED="1656034707411" MODIFIED="1656034729620" LINK="poetry/">
+<node TEXT="baby" ID="ID_328248514" CREATED="1656034731320" MODIFIED="1656034740031" LINK="file:/C:/knowledge/poetry/baby.mm"/>
 </node>
 <node TEXT="videos" ID="ID_1543987241" CREATED="1634111893558" MODIFIED="1635773283872" LINK="videos/">
 <font NAME="Tahoma"/>
@@ -239,13 +243,10 @@
 </node>
 <node TEXT="gardening" ID="ID_663806832" CREATED="1649596485445" MODIFIED="1649596485449" LINK="../../M:/gardening/">
 <node TEXT="shops.mm" ID="ID_523593267" CREATED="1649596499336" MODIFIED="1649596499336" LINK="../../M:/gardening/shops/shops.mm"/>
-<node TEXT="crop_result.mm" ID="ID_1706408965" CREATED="1646969390594" MODIFIED="1646969390594" LINK="../../M:/gardening/crop_results/crop_result.mm"/>
-<node TEXT="crop_rotation.mm" ID="ID_1086408366" CREATED="1651322093089" MODIFIED="1651322093103" LINK="../../M:/gardening/crop_rotation/crop_rotation.mm"/>
-<node TEXT="gardening.mm" ID="ID_693942180" CREATED="1651371441103" MODIFIED="1651371441147" LINK="../../M:/gardening/gardening.mm"/>
 </node>
 </node>
 <node TEXT="talk" POSITION="right" ID="ID_1523271788" CREATED="1633368448993" MODIFIED="1636490920215" LINK="talk/" COLOR="#7f7f7f">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma" BOLD="true"/>
 <node TEXT="talk_eman.mm" ID="ID_165480055" CREATED="1633368599745" MODIFIED="1648506228178" LINK="talk/talk_eman.mm">
 <font NAME="Tahoma"/>
@@ -253,7 +254,7 @@
 <node TEXT="talk_morality" ID="ID_1655141557" CREATED="1636491026136" MODIFIED="1648506217528" LINK="talk/talk_morality.mm"/>
 <node TEXT="talk_wafa" ID="ID_722166673" CREATED="1637038930217" MODIFIED="1637038945074" LINK="talk/talk_wafa.mm"/>
 <node TEXT="debate" ID="ID_1388544124" CREATED="1633374985794" MODIFIED="1635773283873">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <font NAME="Tahoma"/>
 <node TEXT="social impact of religion" FOLDED="true" ID="ID_1181291235" CREATED="1633368726273" MODIFIED="1635773283873" LINK="///D:/archive/cloud_storages/google/religion/social%20impact%20of%20religion%20test.mm"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -271,7 +272,7 @@
 </node>
 </node>
 <node TEXT="notes" POSITION="right" ID="ID_1038715512" CREATED="1638113784765" MODIFIED="1638113797000" LINK="notes/">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <node TEXT="debt" ID="ID_1242890115" CREATED="1638113809236" MODIFIED="1638113812799" LINK="notes/debt.mm"/>
 <node TEXT="drill noise" ID="ID_810419896" CREATED="1642250603994" MODIFIED="1642250625281" LINK="file:/C:/knowledge/notes/drill%20noise.mm"/>
 <node TEXT="banking business" ID="ID_496917618" CREATED="1643303826925" MODIFIED="1643685291505" LINK="notes/banking%20business.mm"/>
@@ -279,13 +280,22 @@
 <node TEXT="lawsuits" ID="ID_1543778548" CREATED="1646786662552" MODIFIED="1646786700909" LINK="notes/lawsuits/">
 <node TEXT="demonstration" ID="ID_1873930037" CREATED="1646786703357" MODIFIED="1646786709096" LINK="file:/C:/knowledge/notes/lawsuits/demonstration.mm"/>
 </node>
+<node TEXT="gardening" ID="ID_1720914206" CREATED="1646929190818" MODIFIED="1655860865218" LINK="../../C:/gardening/">
+<node TEXT="crop_result.mm" ID="ID_1706408965" CREATED="1646969390594" MODIFIED="1655860862050" LINK="../../C:/gardening/crop_results/crop_result.mm"/>
+<node TEXT="shops.mm" ID="ID_1305970483" CREATED="1655863124640" MODIFIED="1655863124640" LINK="../../D:/gardening/shops/shops.mm"/>
+</node>
 <node TEXT="demonstrations" ID="ID_56337084" CREATED="1647079189531" MODIFIED="1647079206205" LINK="notes/demonstrations/">
 <node TEXT="antiwar" ID="ID_373804382" CREATED="1647079208591" MODIFIED="1647079215097" LINK="file:/C:/knowledge/notes/demonstrations/antiwar.mm"/>
 </node>
 <node TEXT="music" ID="ID_1224476505" CREATED="1650208364642" MODIFIED="1650208369315" LINK="notes/music/">
 <node TEXT="shops" ID="ID_1781800957" CREATED="1650208370574" MODIFIED="1650208376880" LINK="file:/C:/knowledge/notes/music/shops.mm"/>
 </node>
-<node TEXT="cottage infrastructure" ID="ID_1124395572" CREATED="1651758466706" MODIFIED="1651758477968" LINK="file:/C:/knowledge/notes/cottage%20infrastructure.mm"/>
+<node TEXT="shopping" ID="ID_1352705775" CREATED="1654334360600" MODIFIED="1654334370783" LINK="notes/shopping/">
+<node TEXT="shops" ID="ID_1221892413" CREATED="1654334371498" MODIFIED="1654334380829" LINK="file:/C:/knowledge/notes/shopping/shops.mm"/>
+</node>
+<node TEXT="people" ID="ID_374183941" CREATED="1656402234854" MODIFIED="1656402240841" LINK="notes/people/">
+<node TEXT="people" ID="ID_1685326148" CREATED="1656402241754" MODIFIED="1656402250116" LINK="file:/C:/knowledge/notes/people/people.mm"/>
+</node>
 </node>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
@@ -295,7 +305,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -319,7 +329,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -327,12 +337,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -348,7 +358,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -386,11 +396,11 @@
 <node TEXT="an event, showing that" ID="ID_1789105104" CREATED="1633380465596" MODIFIED="1635773283885" BACKGROUND_COLOR="#e5e5e5">
 <font NAME="Tahoma"/>
 <node TEXT="time of the event" ID="ID_1250174700" CREATED="1633380715870" MODIFIED="1635773283886">
-<icon BUILTIN="clock@b"/>
+<icon BUILTIN="clock"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="time of the event" ID="ID_401561160" CREATED="1633380715870" MODIFIED="1635773283886">
-<icon BUILTIN="calendar@b"/>
+<icon BUILTIN="calendar"/>
 <font NAME="Tahoma"/>
 </node>
 </node>
@@ -428,14 +438,14 @@
 <node TEXT="a discussed thing" LOCALIZED_STYLE_REF="default" ID="ID_1969747749" CREATED="1633371517717" MODIFIED="1635773283890" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <font NAME="Tahoma"/>
 <node TEXT="argument against it" ID="ID_1480475957" CREATED="1633371595889" MODIFIED="1635773283890">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <font NAME="Tahoma"/>
 <node TEXT="argument against previous argument" ID="ID_1724256398" CREATED="1633371609364" MODIFIED="1635773283891">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <font NAME="Tahoma"/>
 </node>
 <node ID="ID_1950005134" CREATED="1633371699989" MODIFIED="1635773283892">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -455,7 +465,7 @@
 </node>
 </node>
 <node TEXT="a controversial topic" LOCALIZED_STYLE_REF="default" ID="ID_1850924524" CREATED="1633371160955" MODIFIED="1635773283894" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 <node TEXT="nodes are refutable arguments" ID="ID_259362757" CREATED="1633371222456" MODIFIED="1635773283895">
 <font NAME="Tahoma"/>
@@ -467,7 +477,7 @@
 </node>
 </node>
 <node TEXT="question to them" ID="ID_77176876" CREATED="1633811328288" MODIFIED="1635773283896" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 </node>

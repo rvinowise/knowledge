@@ -151,9 +151,9 @@
 <node TEXT="most important tafsir" ID="ID_942179163" CREATED="1634014495666" MODIFIED="1634014501698">
 <node TEXT="Tafsir al-Tabari" ID="ID_431340642" CREATED="1634014511716" MODIFIED="1634014529632" LINK="https://en.wikipedia.org/wiki/Tafsir_al-Tabari">
 <node TEXT="quran has borrowed words" ID="ID_1834802915" CREATED="1634015858104" MODIFIED="1634015912276">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="they were borrowed before the revelation of quran" ID="ID_1080290956" CREATED="1634015880289" MODIFIED="1634015940036" LINK="https://en.wikipedia.org/wiki/Tafsir_al-Tabari">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
@@ -163,7 +163,7 @@
 <node TEXT="muhammad" POSITION="right" ID="ID_1249107973" CREATED="1637250744237" MODIFIED="1637250748686">
 <node TEXT="born out of wedlock" ID="ID_1262214271" CREATED="1637250775695" MODIFIED="1637250834708" LINK="https://www.quora.com/Is-it-true-that-the-prophet-Mohammed-was-born-4-years-after-his-father%E2%80%99s-demise">
 <node TEXT="his father died 4 years before he was born" ID="ID_1509866047" CREATED="1637250760191" MODIFIED="1637250773847">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="his official father died too early to conceive him" ID="ID_1382650017" CREATED="1637250939234" MODIFIED="1637250962176">

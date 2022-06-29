@@ -144,11 +144,11 @@
 </node>
 </node>
 <node TEXT="No soul can believe, except by the Will of Allah" ID="ID_386426581" CREATED="1635277850639" MODIFIED="1636335438341" LINK="https://quranx.com/10.99-100">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node TEXT="But you cannot will it unless God wills" ID="ID_631714215" CREATED="1635280699521" MODIFIED="1636335438342" LINK="https://quranx.com/76.29-30">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node TEXT="while you&apos;re in the womb" ID="ID_1040208532" CREATED="1640539533676" MODIFIED="1640539545877" LINK="https://sunnah.com/bukhari:318"/>
@@ -163,11 +163,11 @@
 <node TEXT="god&apos;s predestination" ID="ID_1157166782" CREATED="1636176583331" MODIFIED="1636335438344">
 <font NAME="Tahoma"/>
 <node TEXT="qadar" ID="ID_287194334" CREATED="1636176760899" MODIFIED="1636335438344">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="sixth article of faith" ID="ID_850852209" CREATED="1636176568379" MODIFIED="1636335438345">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 </node>
@@ -186,13 +186,13 @@
 <node TEXT="scriptures are reinterpreted" ID="ID_633602929" CREATED="1635277486528" MODIFIED="1636335438346">
 <font NAME="Tahoma"/>
 <node TEXT="&quot;written&quot; doesn&apos;t mean &quot;predestined&quot;" ID="ID_251197874" CREATED="1635276659000" MODIFIED="1636335438333">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font NAME="Tahoma" ITALIC="true"/>
 <node TEXT="like a movie that you know, but can&apos;t control" ID="ID_544033302" CREATED="1635276679410" MODIFIED="1636335438346">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font NAME="Tahoma" ITALIC="true"/>
 <node ID="ID_27006087" CREATED="1635277525828" MODIFIED="1636335438347">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>

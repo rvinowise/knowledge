@@ -216,13 +216,13 @@
 </node>
 <node TEXT="gender" ID="ID_650438198" CREATED="1637390925689" MODIFIED="1637390928752">
 <node TEXT="feminine" ID="ID_868510717" CREATED="1637388922565" MODIFIED="1637388934991">
-<icon BUILTIN="gender/feminine@b"/>
+<icon BUILTIN="gender/feminine"/>
 </node>
 <node TEXT="masculine" LOCALIZED_STYLE_REF="default" ID="ID_934015785" CREATED="1637388938455" MODIFIED="1637390900561" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="gender/masculine@b"/>
+<icon BUILTIN="gender/masculine"/>
 </node>
 <node TEXT="common" ID="ID_1100081725" CREATED="1637390908100" MODIFIED="1637390920750">
-<icon BUILTIN="gender/both_genders@b"/>
+<icon BUILTIN="gender/both_genders"/>
 </node>
 </node>
 </node>

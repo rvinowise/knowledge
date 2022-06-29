@@ -141,7 +141,7 @@
 <node TEXT="seeking for truth" LOCALIZED_STYLE_REF="default" ID="ID_1023514923" CREATED="1631873610170" MODIFIED="1634204074081" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
 <node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_669301550" CREATED="1631872305651" MODIFIED="1634630057281" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
@@ -198,7 +198,7 @@
 </richcontent>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_139639911" CREATED="1631887576127" MODIFIED="1634891851764" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -215,7 +215,7 @@
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1435893486" CREATED="1631899931509" MODIFIED="1632840227894" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -232,31 +232,31 @@
 </node>
 </node>
 <node TEXT="talking about islam with non-muslims is prohibited" ID="ID_1824588473" CREATED="1634892057207" MODIFIED="1634892086546">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="their misconceptions can lead you astray" ID="ID_813453227" CREATED="1634892098905" MODIFIED="1634895580095">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="" ID="ID_709506012" CREATED="1634931117182" MODIFIED="1634931117182">
 <node TEXT="even if they are very knowledgeable" ID="ID_493969485" CREATED="1634928341387" MODIFIED="1634931268198">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="fatwa about Ismael Abu Adam" ID="ID_1912536491" CREATED="1634928359949" MODIFIED="1634928498813" LINK="https://www.islamweb.net/en/fatwa/340435/reacting-to-youtube-channel-that-attacks-islam">
 <icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 <node TEXT="it&apos;s not about lack of knowledge, it&apos;s about their being non-muslims" LOCALIZED_STYLE_REF="default" ID="ID_1672164009" CREATED="1634928369890" MODIFIED="1634928465805" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="they will call an apostate scholar &quot;misguided&quot; as well" ID="ID_1954890896" CREATED="1634928394843" MODIFIED="1634928422171">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="muslims need to talk to only shaikhs about islam" LOCALIZED_STYLE_REF="default" ID="ID_559021238" CREATED="1634892005434" MODIFIED="1634892239645" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="it&apos;s double standards" LOCALIZED_STYLE_REF="default" ID="ID_541944529" CREATED="1634892262523" MODIFIED="1634892976554" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="if a shaikh tells you something about Hinduism (e.g. that it&apos;s wrong)" ID="ID_929477497" CREATED="1634892277725" MODIFIED="1634892319038">
 <node TEXT="you will not ask him to not talk about hinduism" ID="ID_1705066915" CREATED="1634892986190" MODIFIED="1634893030249">
 <node TEXT="because his misconceptions about hinduism might affect you, and give you a Wrong impression of hinduism" ID="ID_736449953" CREATED="1634893030824" MODIFIED="1634902180160"/>
@@ -277,7 +277,7 @@
 </node>
 <node TEXT="now i tell you that islam is wrong" ID="ID_1132936984" CREATED="1634981441670" MODIFIED="1634981572258">
 <node TEXT="and you say my opinion is not important because i haven&apos;t studied islam. what&apos;s the difference?" ID="ID_1833351776" CREATED="1634981582515" MODIFIED="1634982184648" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 </node>
@@ -285,7 +285,7 @@
 </node>
 </node>
 <node TEXT="you can question islam" ID="ID_1084096476" CREATED="1634928175360" MODIFIED="1634928185593">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="did you mean &quot;you can ask questions about islam&quot;?" ID="ID_1637759676" CREATED="1634928191277" MODIFIED="1634928204655">
 <node TEXT="but &quot;questioning islam&quot; means doubting it&apos;s validity" ID="ID_127789967" CREATED="1634928212832" MODIFIED="1635039277737"/>
@@ -383,7 +383,7 @@
 </html>
 </richcontent>
 <node ID="ID_629632512" CREATED="1634929007679" MODIFIED="1634929114851" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -405,16 +405,16 @@
 <node TEXT="you avoid talking to &quot;stronger&quot; speakers from atheists" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_171880035" CREATED="1648859195765" MODIFIED="1649579804496" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-2B1B"/>
 <node TEXT="why i want to talk to you (instead of professional muslims)?" LOCALIZED_STYLE_REF="default" ID="ID_1992018992" CREATED="1649139467546" MODIFIED="1649164299257" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="because i want to mislead you out of islam (looking for easy targets)" ID="ID_630016474" CREATED="1649139865448" MODIFIED="1649164304652">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="this is true partially: i don&apos;t believe that i&apos;m &quot;misleading&quot; you out of islam, in contrary, i think i&apos;m trying to &quot;lead&quot; you towards the truth (as i undertand it)" ID="ID_1571214935" CREATED="1649140063531" MODIFIED="1649140147025">
 <node TEXT="do you believe the classical islamic narrative that i (a kafir) know that islam is true, but try to mislead you out of it, because i&apos;m evil? knowing that we both will go to hell if i succeed?" ID="ID_1306845448" CREATED="1649140712551" MODIFIED="1649140798256" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="do you believe that anybody in this chain (people from whom i took the information) know that islam is true, but want to mislead us all?" ID="ID_1868587282" CREATED="1649141089872" MODIFIED="1649141125126" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="i don&apos;t believe that such people exist anywhere, apart from nonsensical islamic doctrine, designed to isolate your mind; by suggesting to you that there are evil enemies all around" ID="ID_1779786974" CREATED="1649141125678" MODIFIED="1649141276280">
 <node TEXT="the closest equivalent is satanists" ID="ID_271027853" CREATED="1649144580937" MODIFIED="1649144609023">
 <node TEXT="but even they think it will be better for us to go to hell, and they want to go to hell (e.g. because there&apos;s more freedom)" ID="ID_85771039" CREATED="1649144609191" MODIFIED="1649144757422"/>
@@ -426,7 +426,7 @@
 </node>
 </node>
 <node TEXT="why don&apos;t you go to &lt;a strong apologist&gt;?" ID="ID_734482121" CREATED="1649140235717" MODIFIED="1649140240195">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node ID="ID_1976089828" CREATED="1649236581323" MODIFIED="1649236638297"><richcontent TYPE="NODE">
 
@@ -458,16 +458,16 @@
 <node TEXT="even if there are &quot;crazy&quot; stubborn people from both sides, which won&apos;t change their mind;" ID="ID_947658876" CREATED="1649144324979" MODIFIED="1649164440344"/>
 </node>
 <node TEXT="i&apos;m afraid of" LOCALIZED_STYLE_REF="default" ID="ID_1265172857" CREATED="1636442356221" MODIFIED="1636442567377" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="appearing a looser to the public" LOCALIZED_STYLE_REF="default" ID="ID_220456582" CREATED="1636442397955" MODIFIED="1636442541119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="not being a skilfull debater" ID="ID_176940428" CREATED="1636442377025" MODIFIED="1636442387828"/>
 <node TEXT="if it&apos;s a private talk - i&apos;m ok" ID="ID_1765087906" CREATED="1636442603532" MODIFIED="1636442634889">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 </node>
 <node TEXT="bullying by the cult members" LOCALIZED_STYLE_REF="default" ID="ID_1059064421" CREATED="1636442402780" MODIFIED="1636442541675" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="if it&apos;s a civilised apologist - i&apos;m ok" ID="ID_1394342526" CREATED="1636442621369" MODIFIED="1636442634135">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="hamza tzortzis" ID="ID_1301128729" CREATED="1636442649911" MODIFIED="1636442657221"/>
 <node TEXT="nadir ahmed" ID="ID_967951020" CREATED="1636442657592" MODIFIED="1636442674747"/>
 </node>
@@ -476,12 +476,12 @@
 </node>
 </node>
 <node TEXT="i&apos;m NOT afraid of" ID="ID_1225773236" CREATED="1636442427745" MODIFIED="1636442568689">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="losing my &quot;faith&quot; in atheism" LOCALIZED_STYLE_REF="default" ID="ID_261594289" CREATED="1636442436100" MODIFIED="1649164477089" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="i&apos;m sure i&apos;ll stay an atheist" ID="ID_1158752583" CREATED="1636442456462" MODIFIED="1636442502274"/>
 <node TEXT="if i change my mind - it&apos;s Good for me" ID="ID_1162971417" CREATED="1636442480544" MODIFIED="1636442494621"/>
 <node TEXT="mulims are afraid of Losing faith" ID="ID_1255916789" CREATED="1636442504845" MODIFIED="1649164486889">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="this is the key difference" ID="ID_583720432" CREATED="1636442590370" MODIFIED="1636442594980"/>
 </node>
 </node>
@@ -532,7 +532,7 @@
 <node TEXT="it doesn&apos;t matter, it&apos;s irrelevant" ID="ID_1515463968" CREATED="1649266905049" MODIFIED="1649266936404">
 <node TEXT="i don&apos;t do anything to you that i wouldn&apos;t do to myself" ID="ID_1387314541" CREATED="1649272498157" MODIFIED="1649272525033">
 <node TEXT="what do you think i will do, if a strongest islamic apologist (e.g. mo hijab) contacts me, and seeks a dialogue, being respectful and friendly (maybe because he&apos;s interested in my perspective, or wants to convert me personally)" ID="ID_848563096" CREATED="1649266936650" MODIFIED="1649273162049" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="do you think i&apos;ll reprimand him for seeking &quot;easy targets&quot; for conversion into islam? you&apos;re the first person who gave me such an idea, it was unthinkable for me before" ID="ID_1627559616" CREATED="1649273352717" MODIFIED="1649273750586">
 <node TEXT="the biggest abuse of &quot;easy targets&quot; is done by religious indoctrination of children; but i never thought about that regarging adults who can search for information from the best speakers from all sides" ID="ID_991447639" CREATED="1649273382208" MODIFIED="1649273889924"/>
 </node>
@@ -659,7 +659,7 @@
 </node>
 </node>
 <node TEXT="if you truly searched for the truth" ID="ID_1078212936" CREATED="1649427657242" MODIFIED="1649427673634">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node ID="ID_303849143" CREATED="1649427674569" MODIFIED="1649427790891"><richcontent TYPE="NODE">
 
@@ -723,7 +723,7 @@
 </html>
 </richcontent>
 <node ID="ID_575584141" CREATED="1648865503921" MODIFIED="1649253954980" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -741,7 +741,7 @@
 </node>
 </node>
 <node ID="ID_1453642575" CREATED="1648508246012" MODIFIED="1649138203204" VGAP_QUANTITY="2 pt">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -775,14 +775,14 @@
 </node>
 <node TEXT="ISIS leaders think they are right, just like my leaders are sure they are right" ID="ID_1804757053" CREATED="1648508277244" MODIFIED="1649138306951">
 <node TEXT="so, from the perspective of my child, how do they find out the truth?" ID="ID_1519475459" CREATED="1648508722102" MODIFIED="1649138517297" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="you&apos;re fine with my children not talking to ISIS, but what about me prohibiting them from talking to your correct sunni inviters into islam?" ID="ID_411256886" CREATED="1648512086986" MODIFIED="1648512160607">
 <node TEXT="are you saying that i shouldn&apos;t let my children talk to ISIS, but i should let them talk to your dawa-people?" ID="ID_107190292" CREATED="1648512161650" MODIFIED="1648512201792"/>
 </node>
 <node TEXT="simply belive to your father?" LOCALIZED_STYLE_REF="default" ID="ID_1306679379" CREATED="1649138635601" MODIFIED="1649138902701" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="logic/branching"/>
 <node TEXT="but what if it&apos;s an ISIS child?" ID="ID_1849616070" CREATED="1649138906144" MODIFIED="1649139053703" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 </node>
@@ -831,7 +831,7 @@
 </html>
 </richcontent>
 <node ID="ID_160439095" CREATED="1648508870506" MODIFIED="1649272734931" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -888,7 +888,7 @@
 </richcontent>
 </node>
 <node ID="ID_1796917422" CREATED="1648509414525" MODIFIED="1648511735913">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -903,17 +903,17 @@
 </html>
 </richcontent>
 <node TEXT="and ISIS parents will feel the same disturbance" ID="ID_833264366" CREATED="1648509475500" MODIFIED="1648511745076">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 </node>
 <node TEXT="and it&apos;s not only about children: if an ISIS speaker joins this group, he will be the most interesting interlocutor for me." ID="ID_118350158" CREATED="1648510199107" MODIFIED="1648510426432"/>
 </node>
 <node TEXT="when you talk to an ISIS child, and she has trouble defending ISIS against you; she will reply to you: &quot;you&apos;re too high level for me&quot; - she will reprimand you for looking for &quot;easy targets&quot;" ID="ID_268433692" CREATED="1649311827390" MODIFIED="1649312814280">
 <node TEXT="what will you respond to such an ISIS child?" ID="ID_1973504067" CREATED="1649325106294" MODIFIED="1649325118303" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="do you think the responce of that ISIS child makes sense? what is the difference between that ISIS child and you?" ID="ID_1087164735" CREATED="1649320994721" MODIFIED="1649321049453" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="I: dear ISIS child, if you consider everybody who is arguing successfully against ISIS as &quot;a too high level for you&quot; - and if you only consider opponents who are arguing badly as appropriate opponents - you will never learn that ISIS is false (even if it is false)" ID="ID_388475486" CREATED="1649312814590" MODIFIED="1649325332611"/>
 </node>
@@ -951,7 +951,7 @@
 </html>
 </richcontent>
 <node TEXT="first you need to believe, and then you will see that it&apos;s true" ID="ID_405350922" CREATED="1649587248122" MODIFIED="1649587271720">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="quran" ID="ID_1174102119" CREATED="1649587258107" MODIFIED="1649587824768">
 <icon BUILTIN="emoji-26F2"/>
@@ -972,7 +972,7 @@
 </html>
 </richcontent>
 <node TEXT="i&apos;m a muslim, this is who i am" LOCALIZED_STYLE_REF="default" ID="ID_203134494" CREATED="1649587807659" MODIFIED="1649587818250" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="apostates from simone" ID="ID_248754372" CREATED="1649587819051" MODIFIED="1649591108091">
 <icon BUILTIN="emoji-26F2"/>
@@ -983,7 +983,7 @@
 </node>
 </node>
 <node TEXT="and I have found the truth by reasoning..." ID="ID_1962113946" CREATED="1649779409721" MODIFIED="1649852430028" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <icon BUILTIN="emoji-2B1B"/>
 <font ITALIC="true"/>
 <node TEXT="what is the difference between:" ID="ID_755798210" CREATED="1649779418176" MODIFIED="1649779508103">
@@ -996,7 +996,7 @@
 <node TEXT="doubts" LOCALIZED_STYLE_REF="default" ID="ID_1510954548" CREATED="1631873561500" MODIFIED="1634986253203" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
 <node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_591913749" CREATED="1631867497190" MODIFIED="1634630057283" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
@@ -1012,11 +1012,11 @@
 </html>
 </richcontent>
 <node TEXT="what do you mean?" LOCALIZED_STYLE_REF="default" ID="ID_1900099586" CREATED="1631869453229" MODIFIED="1634891887323" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font STRIKETHROUGH="false"/>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1652254793" CREATED="1631899948664" MODIFIED="1634891887323" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1032,7 +1032,7 @@
 </richcontent>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1883855070" CREATED="1631870964045" MODIFIED="1634891887320" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1108,14 +1108,14 @@
 </node>
 </node>
 <node TEXT="why is it different with islam?" ID="ID_1556764352" CREATED="1634201577326" MODIFIED="1634201593355" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 </node>
 <node TEXT="conversion" LOCALIZED_STYLE_REF="default" ID="ID_985939597" CREATED="1631987100924" MODIFIED="1634204074077" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1337076553" CREATED="1632234672620" MODIFIED="1632840403248">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1134,7 +1134,7 @@
 <node TEXT="who we are" ID="ID_835707450" CREATED="1634921479905" MODIFIED="1634921488139" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="you&apos;re looking for easy targets, shaitan" ID="ID_765248634" CREATED="1634921489544" MODIFIED="1634921514914">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="timurid wasn&apos;t an easy target" STYLE_REF="list item" ID="ID_49358850" CREATED="1634921553625" MODIFIED="1634922218890">
 <node TEXT="he eagerly advertised scientific miracles of the quran, i replied to him, and we debated" ID="ID_1917271778" CREATED="1634921654915" MODIFIED="1634921723043">
@@ -1142,7 +1142,7 @@
 </node>
 </node>
 <node TEXT="double standards" ID="ID_1071690949" CREATED="1634921740219" MODIFIED="1634921751094">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="if a muslim enters the english classroom, mentiones muhammad, and says &quot;peace-and-blessings be upon him&quot;" ID="ID_400671080" CREATED="1634921752086" MODIFIED="1636065130878">
 <node ID="ID_1376980018" CREATED="1634921900892" MODIFIED="1634927626393"><richcontent TYPE="NODE">
 
@@ -1255,7 +1255,7 @@
 </node>
 </node>
 <node TEXT="you refuting islam reflects a very small part in you that believes in it" ID="ID_947803225" CREATED="1649855300098" MODIFIED="1649859978780">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -1263,7 +1263,7 @@
 <node TEXT="slavery" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_165825678" CREATED="1631874408321" MODIFIED="1634921235616" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
 <node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_11148817" CREATED="1631874421877" MODIFIED="1632839360234">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1281,7 +1281,7 @@
 <node TEXT="old" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1046938386" CREATED="1631972126193" MODIFIED="1634891831450" COLOR="#7f7f7f" BACKGROUND_COLOR="#ffffff">
 <font BOLD="true"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1505095351" CREATED="1631941828754" MODIFIED="1632838069580" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1296,7 +1296,7 @@
 </html>
 </richcontent>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1085816639" CREATED="1631941793207" MODIFIED="1632840227901" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1354,7 +1354,7 @@
 </richcontent>
 </node>
 <node TEXT="do you know about such a list of possible orders?" LOCALIZED_STYLE_REF="default" ID="ID_339575892" CREATED="1631887540901" MODIFIED="1632840227903" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_694827383" CREATED="1631876975169" MODIFIED="1633907710487"><richcontent TYPE="NODE">
@@ -1415,7 +1415,7 @@
 </node>
 </node>
 <node ID="ID_1703731574" CREATED="1631972138735" MODIFIED="1634921403149" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="thumbs_up@b"/>
+<icon BUILTIN="thumbs_up"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1477,7 +1477,7 @@
 </richcontent>
 <font BOLD="false"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_206603232" CREATED="1632471609245" MODIFIED="1634921280219" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1573,11 +1573,11 @@
 </html>
 </richcontent>
 <node TEXT="unfortunately, now this example is not real, because countries with high level of life don&apos;t attack anybody.&#xa;only less developped countries" LOCALIZED_STYLE_REF="default" ID="ID_1108158209" CREATED="1632472512492" MODIFIED="1632840298672" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="~ you referred to me as if i&apos;m a murderer and rapist myself" LOCALIZED_STYLE_REF="default" ID="ID_142712931" CREATED="1632472716179" MODIFIED="1632839246185">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1101201452" CREATED="1632472478150" MODIFIED="1632473171923"><richcontent TYPE="NODE">
@@ -1596,7 +1596,7 @@
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_924648779" CREATED="1632472124988" MODIFIED="1632840403249">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1660,7 +1660,7 @@
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_734656815" CREATED="1631978469356" MODIFIED="1632840310201" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1693,7 +1693,7 @@
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_976850010" CREATED="1632061723902" MODIFIED="1634891578673" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
@@ -1709,7 +1709,7 @@
 </html>
 </richcontent>
 <node LOCALIZED_STYLE_REF="default" ID="ID_220279540" CREATED="1632137110387" MODIFIED="1634643294671" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
@@ -1738,21 +1738,21 @@
 </html>
 </richcontent>
 <node TEXT="she will not achieve a high status" ID="ID_1417014340" CREATED="1634634010984" MODIFIED="1634634033034">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="what will she NOT be able to do, that she CAN do in saudi arabia?" ID="ID_1224938974" CREATED="1634634034834" MODIFIED="1634634892927" LINK="#ID_1138720043" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 <node TEXT="she can not appear in certain places" ID="ID_1015997983" CREATED="1634433937825" MODIFIED="1634635772053">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="france is the strictest" ID="ID_260731939" CREATED="1634433960633" MODIFIED="1634639173542">
 <node TEXT="all visible religious symbols are banned in schools" ID="ID_103547295" CREATED="1634636195644" MODIFIED="1634636210699">
 <node TEXT="but it affects mostly Islamic women and Jewish men" ID="ID_332886448" CREATED="1634636213557" MODIFIED="1634636363514" LINK="https://en.wikipedia.org/wiki/Hijab_by_country#France">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="so what? it&apos;s because they show off their religiosity, which is prohibited" ID="ID_792523646" CREATED="1634636335243" MODIFIED="1634636410193">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 <node ID="ID_634506490" CREATED="1634637712815" MODIFIED="1634637774747"><richcontent TYPE="NODE">
@@ -1791,17 +1791,17 @@
 </node>
 <node TEXT="all masks are banned in public spaces" ID="ID_848085009" CREATED="1634636678810" MODIFIED="1634636691096">
 <node TEXT="few exceptions" ID="ID_1563478510" CREATED="1634645881801" MODIFIED="1634646429710">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="private car" ID="ID_169673485" CREATED="1634645901605" MODIFIED="1634645930190"/>
 <node TEXT="place of worship" ID="ID_1556002023" CREATED="1634645906369" MODIFIED="1634645933362"/>
 </node>
 </node>
 <node TEXT="controversial reason why" LOCALIZED_STYLE_REF="default" ID="ID_622893195" CREATED="1634642738885" MODIFIED="1634643047282" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="islam:" ID="ID_646495463" CREATED="1634642788926" MODIFIED="1634643010252">
 <node TEXT="to enjoy female beauty" ID="ID_305979166" CREATED="1634642743901" MODIFIED="1634642831094">
 <node TEXT="what&apos;s the problem in enjoying female beauty?" ID="ID_971532411" CREATED="1634644545882" MODIFIED="1634644560930" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="just a cultural conflict" ID="ID_746506405" CREATED="1634644729219" MODIFIED="1634644735994"/>
 </node>
 </node>
@@ -1814,10 +1814,10 @@
 </node>
 <node TEXT="to fight oppression of women by hijab" ID="ID_1988080967" CREATED="1634642838381" MODIFIED="1634642864506">
 <node TEXT="but only not very religious muslim women" LOCALIZED_STYLE_REF="default" ID="ID_226095182" CREATED="1634642866641" MODIFIED="1634645958571" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="fine for forcing a veil is much higher than for wearing it" ID="ID_857701945" CREATED="1634645958966" MODIFIED="1634645981387">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node ID="ID_543342489" CREATED="1634646007110" MODIFIED="1634646149166"><richcontent TYPE="NODE">
 
 <html>
@@ -1832,14 +1832,14 @@
 </node>
 </node>
 <node TEXT="religious women are oppressed by this law" ID="ID_586104830" CREATED="1634642886532" MODIFIED="1634642913720">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="do restricted hijabi in the west have Less possibilities than non-restricted hijabi in saudi arabia?" ID="ID_1138720043" CREATED="1634633678477" MODIFIED="1634634892930" LINK="#ID_1224938974" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="Hijab is not banned, but only Burqa or Niqab, covering the whole face" ID="ID_1148536071" CREATED="1634635949683" MODIFIED="1634639105617" LINK="https://en.wikipedia.org/wiki/Anti-mask_law">
 <node TEXT="all types of masks are banned" ID="ID_291260442" CREATED="1634635985844" MODIFIED="1634636008808"/>
@@ -1860,18 +1860,18 @@
 </html>
 </richcontent>
 <node TEXT="she will not be allowed to use her look, right? why not?" ID="ID_1527642648" CREATED="1634646653909" MODIFIED="1634646701967" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 <node TEXT="it&apos;s a rebellion in both cases" ID="ID_1621655715" CREATED="1634634337631" MODIFIED="1634634346333">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="i thought you considered hijab as a Care provided to a woman, to respect her intelligence, instead of only using her beauty" LOCALIZED_STYLE_REF="default" ID="ID_24916944" CREATED="1632474940376" MODIFIED="1634637130044" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="it&apos;s not care, it&apos;s denying to use her beauty to achieve a high status" LOCALIZED_STYLE_REF="default" ID="ID_1466419900" CREATED="1634634584052" MODIFIED="1634634626659" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node ID="ID_1898643336" CREATED="1634646755303" MODIFIED="1634646827110"><richcontent TYPE="NODE">
 
@@ -1903,18 +1903,18 @@
 </html>
 </richcontent>
 <node TEXT="the effect of beauty for men is Higher than for women" ID="ID_1332905808" CREATED="1634647811454" MODIFIED="1634647964765">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT=" This argument is supported by empirical studies from different countries and using different data" ID="ID_1570995290" CREATED="1634647834900" MODIFIED="1634647931875" LINK="https://wol.iza.org/articles/does-it-pay-to-be-beautiful/long">
 <icon BUILTIN="emoji-26F2"/>
 <font ITALIC="true"/>
 <node TEXT="this is a metaanalysis, it includes many specific studies in the &quot;evidence map&quot;" ID="ID_769554621" CREATED="1634648379474" MODIFIED="1634648417020"/>
 <node TEXT="men receive higher premiums or penalties (because of their looks) than women." ID="ID_702590837" CREATED="1648507678381" MODIFIED="1648686345936">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="maybe it&apos;s because ugly women don&apos;t go to work at all" ID="ID_905110057" CREATED="1648507689417" MODIFIED="1648507715810">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 </node>
@@ -1962,8 +1962,8 @@
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1636797054" CREATED="1632137742125" MODIFIED="1633291491626" COLOR="#000000">
-<icon BUILTIN="quote@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="quote"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1979,7 +1979,7 @@
 </richcontent>
 <font ITALIC="false"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1446696988" CREATED="1632138215348" MODIFIED="1632840227908" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -1995,7 +1995,7 @@
 </richcontent>
 </node>
 <node TEXT="...or it&apos;s good even on earth (for prosperity and happiness)?" LOCALIZED_STYLE_REF="default" ID="ID_1980553031" CREATED="1632138229301" MODIFIED="1632840227912" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 </node>
@@ -2004,7 +2004,7 @@
 <font BOLD="true"/>
 <node TEXT="apologists" STYLE_REF="topic" ID="ID_1910763882" CREATED="1631893871797" MODIFIED="1631893877006">
 <node LOCALIZED_STYLE_REF="default" ID="ID_1037477142" CREATED="1631903485920" MODIFIED="1632840227920" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2020,7 +2020,7 @@
 </richcontent>
 <node TEXT="yasir qadi" STYLE_REF="list item" ID="ID_1331531215" CREATED="1631903705564" MODIFIED="1632141283025" LINK="#ID_1771339082">
 <node LOCALIZED_STYLE_REF="default" ID="ID_1333330144" CREATED="1631903718825" MODIFIED="1632840403249">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2036,7 +2036,7 @@
 </richcontent>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_303531254" CREATED="1631903761493" MODIFIED="1632840417444">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2122,7 +2122,7 @@
 <node TEXT="he lost a lot of his authority after that" LOCALIZED_STYLE_REF="default" ID="ID_853952752" CREATED="1631894313683" MODIFIED="1632839975885"/>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_32806084" CREATED="1631895144635" MODIFIED="1632840227916" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2184,7 +2184,7 @@
 <node TEXT="no" LOCALIZED_STYLE_REF="default" ID="ID_104794631" CREATED="1631896370592" MODIFIED="1631897731729">
 <icon BUILTIN="emoji-1F500"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1945210963" CREATED="1631894647560" MODIFIED="1632840227918" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2206,7 +2206,7 @@
 </node>
 <node TEXT="nadir akhmed" STYLE_REF="list item" ID="ID_618672913" CREATED="1631904073299" MODIFIED="1632141283030">
 <node LOCALIZED_STYLE_REF="default" ID="ID_760125589" CREATED="1631904143891" MODIFIED="1632840403250">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2222,7 +2222,7 @@
 </richcontent>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_456325047" CREATED="1631904162927" MODIFIED="1632840403250">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2240,13 +2240,13 @@
 </node>
 <node TEXT="zakir naik" STYLE_REF="list item" ID="ID_1835047811" CREATED="1631903607952" MODIFIED="1632141283031">
 <node TEXT="his accent is weird" LOCALIZED_STYLE_REF="default" ID="ID_1590632786" CREATED="1631903660192" MODIFIED="1632840417445">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 <node TEXT="effective at dawa" LOCALIZED_STYLE_REF="default" ID="ID_1634729261" CREATED="1631903897311" MODIFIED="1632840403250">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="uses dishonest tricks" LOCALIZED_STYLE_REF="default" ID="ID_1952296591" CREATED="1632027262783" MODIFIED="1632840417445">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node ID="ID_1592051024" CREATED="1632027275430" MODIFIED="1632027324050"><richcontent TYPE="NODE">
 
 <html>
@@ -2307,7 +2307,7 @@
 </node>
 <node TEXT="daniel haqiqatju" STYLE_REF="list item" ID="ID_830320647" CREATED="1631903520030" MODIFIED="1632141283032">
 <node LOCALIZED_STYLE_REF="default" ID="ID_719480172" CREATED="1631903676814" MODIFIED="1632840417445">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2323,7 +2323,7 @@
 </richcontent>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1560851642" CREATED="1631903793634" MODIFIED="1632840403250">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2342,9 +2342,9 @@
 </node>
 <node TEXT="mohammed hijab" LOCALIZED_STYLE_REF="default" ID="ID_612131910" CREATED="1631904004793" MODIFIED="1634631477285" BACKGROUND_COLOR="#ffffff">
 <node TEXT="subtle bullying" LOCALIZED_STYLE_REF="default" ID="ID_1882647122" CREATED="1631904015003" MODIFIED="1634631658430">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="of which he can&apos;t be accused" ID="ID_437526358" CREATED="1634631514101" MODIFIED="1634633254497">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <node TEXT="but the effect is the same" ID="ID_507164490" CREATED="1634631676382" MODIFIED="1634631681406"/>
 </node>
 <node ID="ID_1201933572" CREATED="1634631684302" MODIFIED="1634631841270"><richcontent TYPE="NODE">
@@ -2463,7 +2463,7 @@
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_1329621529" CREATED="1631904217297" MODIFIED="1634631496870" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
@@ -2485,7 +2485,7 @@
 <node TEXT="afeef" ID="ID_875986669" CREATED="1635465472403" MODIFIED="1635465475050">
 <node TEXT="mixes islam with hinduism" ID="ID_877731008" CREATED="1635465475975" MODIFIED="1635465513146">
 <node TEXT="all religions can save from hell" ID="ID_12914787" CREATED="1635465513320" MODIFIED="1635465530445">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node ID="ID_69948003" CREATED="1635465536107" MODIFIED="1635465727974"><richcontent TYPE="NODE">
 
@@ -2505,12 +2505,12 @@
 </node>
 </node>
 <node TEXT="make a surah like that is not about beauty" ID="ID_609981548" CREATED="1635465572245" MODIFIED="1635465589010">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="why is he saying this to me and not to 99% of muslims?" ID="ID_1560437408" CREATED="1635465589612" MODIFIED="1635465607473"/>
 </node>
 <node ID="ID_545752328" CREATED="1635465618134" MODIFIED="1635465716071">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2562,17 +2562,17 @@
 </node>
 <node TEXT="he doesn&apos;t define &quot;special&quot;" ID="ID_877617372" CREATED="1635477470399" MODIFIED="1635477486300">
 <node TEXT="could it be &quot;special&quot; and yet, more believable than a prophet?" ID="ID_1894075492" CREATED="1635477501117" MODIFIED="1635477538172" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="what does &quot;special&quot; mean, if not &quot;unbelievable&quot;, &quot;dubious&quot;, &quot;untrustworthy&quot;?" ID="ID_1912720404" CREATED="1635477547170" MODIFIED="1635477594717" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="circular reasoning" ID="ID_1348235313" CREATED="1635477792245" MODIFIED="1635477811107">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="it is &quot;special&quot;, because this is how &quot;god decided to contact us&quot;" ID="ID_950744453" CREATED="1635477813646" MODIFIED="1635477831238"/>
 </node>
 </node>
 <node TEXT="the prophet is the least special way" ID="ID_1810901297" CREATED="1635478136003" MODIFIED="1635478156114">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="there were thouthands of prophets" LOCALIZED_STYLE_REF="default" ID="ID_599832232" CREATED="1635477843972" MODIFIED="1635478157764" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="buddha, joseph smith, zoroaster" ID="ID_361561518" CREATED="1635477855066" MODIFIED="1635477874067"/>
 <node TEXT="how is a prophet (one of thousands) more special than a message in the sky?" ID="ID_1576304282" CREATED="1635477879956" MODIFIED="1635477907194"/>
@@ -2584,7 +2584,7 @@
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_822891950" CREATED="1631941022366" MODIFIED="1632840227922" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2600,10 +2600,10 @@
 </richcontent>
 <node TEXT="richard dawkins" ID="ID_1490602708" CREATED="1631941070691" MODIFIED="1631941077508">
 <node TEXT="profoundly intelligent" LOCALIZED_STYLE_REF="default" ID="ID_1346374662" CREATED="1632141024131" MODIFIED="1632840403250">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_115468215" CREATED="1632141050929" MODIFIED="1632840403250">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2635,7 +2635,7 @@
 </node>
 <node TEXT="sam harris" ID="ID_1832637594" CREATED="1632140981996" MODIFIED="1632140985994">
 <node LOCALIZED_STYLE_REF="default" ID="ID_84002918" CREATED="1632140987391" MODIFIED="1632840403250">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2654,7 +2654,7 @@
 <node TEXT="david rajulkahf" ID="ID_1908246868" CREATED="1648684849663" MODIFIED="1648684860331">
 <node TEXT="he described his story in his poignant suicide note" ID="ID_1051483962" CREATED="1648684904572" MODIFIED="1648684921495">
 <node TEXT="a blind person running in the streets searching for light will only hurt himself" ID="ID_1529976745" CREATED="1648685019898" MODIFIED="1648685039912">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="he had depression, his life was miserable" ID="ID_21064938" CREATED="1648684865229" MODIFIED="1648684884659">
@@ -2662,32 +2662,32 @@
 </node>
 </node>
 <node TEXT="what ideas or videos of his do you like most?" ID="ID_1176167747" CREATED="1648685044708" MODIFIED="1648685293175" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="you said you liked him" ID="ID_1858904349" CREATED="1648685304700" MODIFIED="1648685316585"/>
 </node>
 </node>
 <node TEXT="specific to islam" STYLE_REF="topic" ID="ID_1324133297" CREATED="1632026602394" MODIFIED="1632026611733">
 <node TEXT="apostate prophet" ID="ID_1208764884" CREATED="1631941078380" MODIFIED="1631941099216">
 <node TEXT="slightly toxic" LOCALIZED_STYLE_REF="default" ID="ID_1309663910" CREATED="1632141336906" MODIFIED="1632840417446">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 <node TEXT="abdullah sameer" ID="ID_1480159285" CREATED="1631941099621" MODIFIED="1631941103507">
 <node TEXT="nice tone" LOCALIZED_STYLE_REF="default" ID="ID_1415112668" CREATED="1632593210279" MODIFIED="1632840403250">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 </node>
 <node TEXT="david wood" ID="ID_171849029" CREATED="1632593148625" MODIFIED="1632593159267">
 <node TEXT="deep knowledge of islamic scriptures" LOCALIZED_STYLE_REF="default" ID="ID_840572302" CREATED="1632593174169" MODIFIED="1632840403251">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 </node>
 <node TEXT="CIRA international" ID="ID_465250840" CREATED="1632593161670" MODIFIED="1632593166024">
 <node TEXT="the deepest insight" ID="ID_584184325" CREATED="1634633165440" MODIFIED="1634633174292">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="level higher than average public" ID="ID_1067346651" CREATED="1634633174697" MODIFIED="1634633212660">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 </node>
 </node>
 </node>
@@ -2734,7 +2734,7 @@
 </richcontent>
 <node TEXT="jainism" ID="ID_56339052" CREATED="1632650489290" MODIFIED="1632650494115">
 <node TEXT="insight in botany" LOCALIZED_STYLE_REF="default" ID="ID_680394754" CREATED="1632650672931" MODIFIED="1632840403251">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node ID="ID_1564546519" CREATED="1632650496174" MODIFIED="1632650535211"><richcontent TYPE="NODE">
 
 <html>
@@ -2753,7 +2753,7 @@
 </node>
 <node TEXT="hinduism" ID="ID_896028627" CREATED="1632650538011" MODIFIED="1632650540834">
 <node LOCALIZED_STYLE_REF="default" ID="ID_305524849" CREATED="1632650541882" MODIFIED="1632840403251">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2772,10 +2772,10 @@
 </node>
 <node TEXT="buddhism" ID="ID_520230621" CREATED="1632650591935" MODIFIED="1632650594767">
 <node TEXT="pleasure and suffering are inseparable" LOCALIZED_STYLE_REF="default" ID="ID_1916027225" CREATED="1632650595737" MODIFIED="1632840403251">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 <node TEXT="discovered meditation which has medicinal qualities" ID="ID_1141912325" CREATED="1648619395190" MODIFIED="1648619429187">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 </node>
 </node>
 </node>
@@ -2797,7 +2797,7 @@
 </node>
 <node TEXT="natural feeling" STYLE_REF="topic" POSITION="right" ID="ID_1993725955" CREATED="1631900124954" MODIFIED="1631900136871">
 <node LOCALIZED_STYLE_REF="default" ID="ID_1552114808" CREATED="1631900138982" MODIFIED="1632839493573">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2813,7 +2813,7 @@
 </richcontent>
 <font ITALIC="true"/>
 <node TEXT="do you still believe it&apos;s evidence for islamic teaching?" LOCALIZED_STYLE_REF="default" ID="ID_1439807893" CREATED="1632027561800" MODIFIED="1632840227923" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node ID="ID_1365721836" CREATED="1631908662260" MODIFIED="1631908785940"><richcontent TYPE="NODE">
 
@@ -2831,7 +2831,7 @@
 <node TEXT="injections are good" ID="ID_1267955666" CREATED="1631908681646" MODIFIED="1631908722046"/>
 <node TEXT="sugar is bad" ID="ID_589375094" CREATED="1631908713913" MODIFIED="1631908717383"/>
 <node LOCALIZED_STYLE_REF="default" ID="ID_1316060486" CREATED="1631908794365" MODIFIED="1632840367746">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2850,12 +2850,12 @@
 <node TEXT="i feel pork is attractive" ID="ID_1145930778" CREATED="1631909179430" MODIFIED="1631909196227"/>
 <node TEXT="you feel wearing hijab in midsummer is aversive" ID="ID_256232378" CREATED="1631909196617" MODIFIED="1631909214714"/>
 <node TEXT="feel not like obligatory praying" LOCALIZED_STYLE_REF="default" ID="ID_1185034469" CREATED="1631909277359" MODIFIED="1632839493577">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="how do you distinguish between the right feeling and the bad feeling?" LOCALIZED_STYLE_REF="default" ID="ID_1427709885" CREATED="1631909063874" MODIFIED="1632840227929" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 <node TEXT="quran itself says what you feel as bad, might be good for you." ID="ID_799258650" CREATED="1631900447623" MODIFIED="1631900681831">
@@ -2874,13 +2874,13 @@
 </richcontent>
 </node>
 <node TEXT="Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know." LOCALIZED_STYLE_REF="default" ID="ID_1399866207" CREATED="1631900862020" MODIFIED="1632839493574">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="quran 2(bakkara):216" STYLE_REF="source node" ID="ID_1695833546" CREATED="1631900638974" MODIFIED="1631900793230" LINK="https://quran.com/2/216"/>
 </node>
 </node>
 <node LOCALIZED_STYLE_REF="default" ID="ID_74146412" CREATED="1631908607884" MODIFIED="1632840227927" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -2945,7 +2945,7 @@
 </node>
 <node TEXT="no matter what you do, god will be sorry and embarrassed for what he did with this world (maybe a failed experiment)" STYLE_REF="list item" ID="ID_350620281" CREATED="1635184538050" MODIFIED="1635184573809"/>
 <node TEXT="unitarian universalist" ID="ID_219747736" CREATED="1635288856495" MODIFIED="1635288888958">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <node TEXT="god will save everybody" LOCALIZED_STYLE_REF="default" ID="ID_444544971" CREATED="1635288911407" MODIFIED="1635288931435" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
 </node>
@@ -3153,7 +3153,7 @@
 </node>
 </node>
 <node POSITION="right" ID="ID_1852458143" CREATED="1633021053613" MODIFIED="1635112812090">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
@@ -3212,14 +3212,14 @@
 </richcontent>
 </node>
 <node TEXT="don&apos;t you think it&apos;s ridiculous?" ID="ID_1488280405" CREATED="1633021296470" MODIFIED="1635118952245" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 <node TEXT="it&apos;s a test" LOCALIZED_STYLE_REF="default" ID="ID_1126174628" CREATED="1633222638114" MODIFIED="1635112855419" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="a test of what?" ID="ID_961785252" CREATED="1633224526544" MODIFIED="1634891497176" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node ID="ID_781041491" CREATED="1633224538183" MODIFIED="1634566775710"><richcontent TYPE="NODE">
 
 <html>
@@ -3249,7 +3249,7 @@
 </html>
 </richcontent>
 <node LOCALIZED_STYLE_REF="default" ID="ID_720910984" CREATED="1635958822749" MODIFIED="1635958882894" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="punctuation/three_dots@b"/>
+<icon BUILTIN="punctuation/three_dots"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3282,7 +3282,7 @@
 <node TEXT="and i could Fail the test of willpower by eating pork" ID="ID_35604984" CREATED="1633224768798" MODIFIED="1633224783201"/>
 </node>
 <node ID="ID_258579049" CREATED="1633224634590" MODIFIED="1635958731157" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
@@ -3313,17 +3313,17 @@
 </node>
 </node>
 <node TEXT="you still wouldn&apos;t believe" ID="ID_929986580" CREATED="1635008814844" MODIFIED="1635008951369">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="it&apos;s a hallucination etc." ID="ID_1261799158" CREATED="1635008829847" MODIFIED="1635011443294">
-<icon BUILTIN="quote@b"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="did you mean:" ID="ID_1847923924" CREATED="1635008886054" MODIFIED="1635194582335" LINK="#ID_149695316" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node ID="ID_120320059" CREATED="1635008896072" MODIFIED="1635011502200">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3339,7 +3339,7 @@
 </richcontent>
 </node>
 <node ID="ID_1398569184" CREATED="1635008908932" MODIFIED="1635011499226">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3358,14 +3358,14 @@
 <node TEXT="but i do believe in your existence, and the existence of Arabia" ID="ID_1123702474" CREATED="1635012132132" MODIFIED="1635012153297">
 <node TEXT="god could make himself and hell as obvious as you and arabia (whatever that means)" ID="ID_540417882" CREATED="1635012154544" MODIFIED="1635012203221">
 <node TEXT="what&apos;s the difference between Hell and Australia;&#xa;what&apos;s the difference between you and god?" ID="ID_462101767" CREATED="1635012245415" MODIFIED="1635012328336" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 </node>
 </node>
 </node>
 </node>
 <node ID="ID_1534335483" CREATED="1635008976716" MODIFIED="1635168982203">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3381,8 +3381,8 @@
 </richcontent>
 <font ITALIC="true"/>
 <node ID="ID_1337631471" CREATED="1635118712028" MODIFIED="1635336936030" LINK="#ID_1610762700">
-<icon BUILTIN="quote@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="quote"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3399,7 +3399,7 @@
 <font ITALIC="true"/>
 </node>
 <node ID="ID_89899336" CREATED="1635118792283" MODIFIED="1635183598737" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3416,7 +3416,7 @@
 <node TEXT="there are many people claiming to be a prophet" ID="ID_801685589" CREATED="1635183599002" MODIFIED="1635183610625"/>
 </node>
 <node ID="ID_1791255799" CREATED="1635183456068" MODIFIED="1635183485522" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3432,12 +3432,12 @@
 </richcontent>
 </node>
 <node TEXT="what exactly this connection is?" ID="ID_1082604742" CREATED="1635183496283" MODIFIED="1635185707224" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="explain it in more specific psychological terms" ID="ID_469387714" CREATED="1635183508356" MODIFIED="1635183538036"/>
 </node>
 </node>
 <node ID="ID_397595279" CREATED="1635011715664" MODIFIED="1635011772060" COLOR="#000000" BACKGROUND_COLOR="#ffffec">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3452,7 +3452,7 @@
 </html>
 </richcontent>
 <node TEXT="this is the whole idea of islam - submission" ID="ID_343143520" CREATED="1635011733635" MODIFIED="1635035597998">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="the best test of pride:" ID="ID_849569682" CREATED="1635011843427" MODIFIED="1635011958257">
 <node ID="ID_1289215536" CREATED="1635011747418" MODIFIED="1635011939614"><richcontent TYPE="NODE">
@@ -3531,10 +3531,10 @@
 </node>
 </node>
 <node TEXT="there wouldn&apos;t be free will" ID="ID_264290396" CREATED="1635186568368" MODIFIED="1635282842426">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node ID="ID_149695316" CREATED="1635191348338" MODIFIED="1635243658079" LINK="#ID_1847923924">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3550,7 +3550,7 @@
 </richcontent>
 <font ITALIC="true"/>
 <node ID="ID_1478300604" CREATED="1635194615001" MODIFIED="1635194756091">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3613,7 +3613,7 @@
 </node>
 </node>
 <node ID="ID_1701387582" CREATED="1635194631474" MODIFIED="1635284212407" LINK="#ID_849569682">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -3638,7 +3638,7 @@
 </node>
 <node TEXT="bias" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_592138119" CREATED="1633398691790" MODIFIED="1648690305673" BACKGROUND_COLOR="#ffffff">
 <node FOLDED="true" ID="ID_1435355774" CREATED="1633398703484" MODIFIED="1648690415790" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <icon BUILTIN="emoji-2B1B"/>
 <richcontent TYPE="NODE">
 
@@ -3655,7 +3655,7 @@
 </richcontent>
 <font ITALIC="true"/>
 <node ID="ID_1380339105" CREATED="1633398724439" MODIFIED="1633399534366">
-<icon BUILTIN="clock@b"/>
+<icon BUILTIN="clock"/>
 <richcontent TYPE="NODE">
 
 <html>

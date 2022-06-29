@@ -124,7 +124,7 @@
 </hook>
 <node TEXT="type: study" POSITION="left" ID="ID_863300215" CREATED="1635544431906" MODIFIED="1635544431907"/>
 <node TEXT="two gods" POSITION="right" ID="ID_1030508187" CREATED="1635544431908" MODIFIED="1635544708687">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="ahUra mAzda" ID="ID_515602419" CREATED="1635544611123" MODIFIED="1637116046846">
 <node TEXT="like a monotheistic god" ID="ID_170982909" CREATED="1635544770851" MODIFIED="1635544784483"/>
@@ -133,7 +133,7 @@
 <node TEXT="like satan" ID="ID_916610106" CREATED="1635544764354" MODIFIED="1635544769961"/>
 </node>
 <node TEXT="confusing terminology" ID="ID_390383916" CREATED="1635544822260" MODIFIED="1635544842246">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="zoroastrians are Against the bad god" ID="ID_1819608631" CREATED="1635544712085" MODIFIED="1635544846090">
 <node TEXT="it&apos;s the same as islam and christianity" ID="ID_1011375945" CREATED="1635544793091" MODIFIED="1635544803428">
 <node TEXT="but satan is not called a &quot;god&quot;" ID="ID_1473637235" CREATED="1635544803594" MODIFIED="1635544813035"/>
@@ -165,11 +165,11 @@
 </html>
 </richcontent>
 <node TEXT="buddhism" ID="ID_1488174065" CREATED="1635614255805" MODIFIED="1637116221833">
-<icon BUILTIN="libra@b"/>
+<icon BUILTIN="libra"/>
 <node TEXT="thoughts don&apos;t matter" ID="ID_493057420" CREATED="1635614261820" MODIFIED="1635614267988"/>
 </node>
 <node TEXT="islam" ID="ID_1388606980" CREATED="1635614270147" MODIFIED="1637116224326">
-<icon BUILTIN="libra@b"/>
+<icon BUILTIN="libra"/>
 <node TEXT="bad thoughts are implanted by satan" ID="ID_149899077" CREATED="1635614272856" MODIFIED="1635614289074"/>
 </node>
 </node>

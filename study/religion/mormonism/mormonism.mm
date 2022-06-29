@@ -125,16 +125,16 @@
 <font NAME="Tahoma" BOLD="false"/>
 <node TEXT="type: " POSITION="left" ID="ID_1185487886" CREATED="1635785067195" MODIFIED="1635785067200"/>
 <node TEXT="good builders" POSITION="right" ID="ID_1163603269" CREATED="1635785067203" MODIFIED="1635785163543">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="created sault_lake_sity" ID="ID_1206966217" CREATED="1635785086623" MODIFIED="1635785156714">
 <node TEXT="led by brigham_young" ID="ID_106880322" CREATED="1635785099191" MODIFIED="1635785146393"/>
 </node>
 </node>
 <node TEXT="very big families" POSITION="right" ID="ID_1445331587" CREATED="1635785533209" MODIFIED="1635785543355">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="growth by conversion is fast" POSITION="right" ID="ID_1680358426" CREATED="1635785556948" MODIFIED="1635785568918">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="faster than by birthrate since 1980" ID="ID_38946153" CREATED="1635785569533" MODIFIED="1635785584895"/>
 <node TEXT="success in" ID="ID_717513622" CREATED="1635785616993" MODIFIED="1635785638488">
 <node ID="ID_868186508" CREATED="1635785639898" MODIFIED="1635785639898"><richcontent TYPE="NODE">
@@ -155,7 +155,7 @@
 </node>
 </node>
 <node TEXT="difficult to formally leave" POSITION="right" ID="ID_930699296" CREATED="1635785444070" MODIFIED="1635785520145">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="they count apostates as members still" ID="ID_323447549" CREATED="1635785459860" MODIFIED="1635785492403"/>
 </node>
 <node TEXT="racist history" POSITION="right" ID="ID_1875583791" CREATED="1635785650818" MODIFIED="1635785899735">
@@ -197,10 +197,10 @@
 <node TEXT="sacred" POSITION="right" ID="ID_1584594071" CREATED="1636179272090" MODIFIED="1636179274862" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="" ID="ID_411666600" CREATED="1636179275247" MODIFIED="1636179285593">
-<icon BUILTIN="books@b"/>
+<icon BUILTIN="books"/>
 <node TEXT="the book of mormon" ID="ID_349174220" CREATED="1636179286835" MODIFIED="1636179291971">
 <node TEXT="deep insight into ancient culture" ID="ID_792189288" CREATED="1636179311519" MODIFIED="1636179338622">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="quranic literary miracle" LOCALIZED_STYLE_REF="default" ID="ID_1319821013" CREATED="1641895121854" MODIFIED="1641895355653" LINK="../islam/quranic%20challenge.mm#ID_696401721" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="connection/conferatur"/>
 </node>

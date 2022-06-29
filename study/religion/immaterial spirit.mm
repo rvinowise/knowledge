@@ -162,7 +162,7 @@
 <node TEXT="breath" ID="ID_1496364536" CREATED="1641237475374" MODIFIED="1641237479884"/>
 <node TEXT="e.g.:" ID="ID_1015112430" CREATED="1641237500469" MODIFIED="1641237508185">
 <node TEXT="dum spiro spero" ID="ID_1147244909" CREATED="1634890727302" MODIFIED="1641237518409">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="while i breath i hope" ID="ID_1118538492" CREATED="1634890733196" MODIFIED="1641237530607"/>
 </node>
@@ -187,13 +187,13 @@
 <font BOLD="true"/>
 <node TEXT="english" ID="ID_48708908" CREATED="1634890809573" MODIFIED="1634890811314">
 <node TEXT="soul may be related to &quot;sea&quot;" ID="ID_76645394" CREATED="1634890819209" MODIFIED="1634890911845">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 </node>
 <node TEXT="etymology uncertain" ID="ID_1384002967" CREATED="1634890836442" MODIFIED="1634890842148"/>
 </node>
 <node TEXT="japanese" ID="ID_1880472934" CREATED="1634890852326" MODIFIED="1634890853911">
 <node TEXT="soul related to &quot;gem&quot;" ID="ID_1033950339" CREATED="1634890884449" MODIFIED="1634890896210" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -202,7 +202,7 @@
 <node TEXT="Plato popularised heaven" POSITION="right" ID="ID_1912846052" CREATED="1634890421216" MODIFIED="1634890595402" BACKGROUND_COLOR="#ffcccc">
 <node TEXT="trying to explain how we learn things" ID="ID_558997681" CREATED="1634890439963" MODIFIED="1634890448419">
 <node TEXT="our soul remembers things from heaven" ID="ID_942300353" CREATED="1634890448993" MODIFIED="1634890499067">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="aka &quot;world of ideas&quot;" ID="ID_90207454" CREATED="1634890499344" MODIFIED="1634890519438"/>
 </node>

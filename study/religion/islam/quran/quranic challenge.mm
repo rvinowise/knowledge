@@ -147,7 +147,7 @@
 
 </richcontent>
 <node TEXT="يَأْتُوا" ID="ID_1927358596" CREATED="1638383751902" MODIFIED="1638383786206">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 <node TEXT="quran 2:23" ID="ID_515588104" CREATED="1638382964765" MODIFIED="1638382979625" LINK="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D2%3Averse%3D23"/>
 <node TEXT="quran 10:38" ID="ID_90787731" CREATED="1638382993195" MODIFIED="1638383000123" LINK="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0004%3Asura%3D10%3Averse%3D38"/>
@@ -193,7 +193,7 @@
 <node TEXT="several surahs on akh rashid&apos;s channel" ID="ID_1186766326" CREATED="1638416009576" MODIFIED="1638416024373"/>
 <node TEXT="there are many written surahs" ID="ID_1091142895" CREATED="1638416051359" MODIFIED="1638416227795">
 <node ID="ID_327703288" CREATED="1638416229267" MODIFIED="1638416231461">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <richcontent TYPE="NODE">
 
 <html>

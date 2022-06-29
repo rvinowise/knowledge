@@ -126,14 +126,14 @@
 <node TEXT="legend" POSITION="left" ID="ID_1689244377" CREATED="1634205230614" MODIFIED="1634205234911" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="islamic (arabic) term" ID="ID_396640454" CREATED="1634205236710" MODIFIED="1634205417255">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 </node>
 <node TEXT="two types" POSITION="right" ID="ID_12274285" CREATED="1635006261554" MODIFIED="1635006272282">
 <node TEXT="waswas" LOCALIZED_STYLE_REF="default" ID="ID_322350937" CREATED="1634204351202" MODIFIED="1635006452833" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="control/type_of_parent"/>
 <node ID="ID_1984140173" CREATED="1634208563775" MODIFIED="1635248698735">
-<icon BUILTIN="punctuation/three_dots@b"/>
+<icon BUILTIN="punctuation/three_dots"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -156,7 +156,7 @@
 <icon BUILTIN="emoji-26F2"/>
 </node>
 <node TEXT="satanic whispers, misgivings" ID="ID_1357540928" CREATED="1635006322943" MODIFIED="1635006394015">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 <node ID="ID_923503907" CREATED="1635118149884" MODIFIED="1635118173069"><richcontent TYPE="NODE">
 
@@ -191,20 +191,20 @@
 </node>
 </node>
 <node TEXT="it&apos;s OK to have waswas" ID="ID_576704953" CREATED="1634975471449" MODIFIED="1635006426030">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="good sign" ID="ID_1953144902" CREATED="1634204780799" MODIFIED="1634930998443">
-<icon BUILTIN="good@bleak"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="good"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="having a big Faith" ID="ID_76879475" CREATED="1634205985435" MODIFIED="1634206318505">
 <node TEXT="which shaitan wants to steal" ID="ID_351218948" CREATED="1634206048596" MODIFIED="1634206060190"/>
 <node TEXT="ImAn" ID="ID_668331899" CREATED="1634206064459" MODIFIED="1634206266223">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 </node>
 </node>
 <node TEXT="not a sin" ID="ID_856391700" CREATED="1634208538775" MODIFIED="1634930998446">
-<icon BUILTIN="good@bleak"/>
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="good"/>
+<icon BUILTIN="box_inscribed"/>
 <node TEXT="because you can&apos;t control your thoughts" ID="ID_1633221642" CREATED="1634208552344" MODIFIED="1634208560284"/>
 <node TEXT="you&apos;re still a muslim" ID="ID_1523327383" CREATED="1634208581543" MODIFIED="1634208619279"/>
 </node>
@@ -244,33 +244,33 @@
 </html>
 </richcontent>
 <node TEXT="it may become more annoying" ID="ID_1785298560" CREATED="1634234822154" MODIFIED="1634978999567">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="it&apos;s like ignoring an itch" ID="ID_1590482357" CREATED="1634234865101" MODIFIED="1634234879339"/>
 </node>
 <node TEXT="then he should repel them and not pay any attention to them" ID="ID_1334483427" CREATED="1635001133191" MODIFIED="1635039181733" LINK="https://www.islamweb.net/en/fatwa/376606/doubting-matters-in-islam">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="doubts about islam in particular" ID="ID_1495790869" CREATED="1650582923276" MODIFIED="1650582949839">
 <node TEXT="and avoid these doubts, ignore them, repel them, and not pay any attention to them." ID="ID_920056254" CREATED="1635007008972" MODIFIED="1635039170833" LINK="https://www.islamweb.net/en/fatwa/356170/having-doubts-about-islam">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="seek refuge in Allaah and totally ignore them." ID="ID_135866866" CREATED="1635025061983" MODIFIED="1635039194070" LINK="https://www.islamweb.net/en/fatwa/260875/how-to-discard-satanic-whisperings-associated-with-ones-faith">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="if one continuous to think about them, they never end" ID="ID_692754953" CREATED="1635030063661" MODIFIED="1635030104863" LINK="https://www.islamweb.net/en/fatwa/18353/whispers-regarding-creed">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="he should not ... discuss according to them" ID="ID_1268296372" CREATED="1635039096620" MODIFIED="1635039146371" LINK="https://www.islamweb.net/en/fatwa/87166/evil-thoughts-in-the-mind">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="You need to ignore these doubts and illusions" ID="ID_1760136450" CREATED="1650580490702" MODIFIED="1650580523354" LINK="#ID_1776013735">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -289,7 +289,7 @@
 </richcontent>
 <node TEXT="Neglecting them and becoming busy in useful matters till they vanish without having any effect." ID="ID_795560444" CREATED="1634930094197" MODIFIED="1635249543996" LINK="https://www.islamweb.net/en/fatwa/85823/complex-thoughts-about-the-existence-of-allah">
 <icon BUILTIN="emoji-26F2"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -343,14 +343,14 @@
 </richcontent>
 <node TEXT="Keeping the company of righteous people, attending Islamic lessons and gatherings, and avoiding the company of bad friends or isolating oneself from people." ID="ID_1209981099" CREATED="1635025792465" MODIFIED="1635025838437" LINK="https://www.islamweb.net/en/fatwa/260875/how-to-discard-satanic-whisperings-associated-with-ones-faith" TEXT_SHORTENED="true">
 <icon BUILTIN="emoji-26F2"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="controversy in rituals" ID="ID_841821030" CREATED="1634233930682" MODIFIED="1634261735841">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node ID="ID_65096418" CREATED="1634233955405" MODIFIED="1634234141343">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -365,22 +365,22 @@
 </html>
 </richcontent>
 <node TEXT="confirmation biass" ID="ID_122887261" CREATED="1634234174656" MODIFIED="1635820290088" LINK="commonalities/my%20narration%20of%20the%20evolution%20of%20religions.mm#ID_1712827070">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="hazing effect" ID="ID_1887723504" CREATED="1634234363754" MODIFIED="1635820290091" LINK="commonalities/my%20narration%20of%20the%20evolution%20of%20religions.mm#ID_210944234">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="doubts are more noticeable and important" ID="ID_1159590679" CREATED="1634234497134" MODIFIED="1634234549565">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="if you spend so much on the religion" ID="ID_567718321" CREATED="1634234551791" MODIFIED="1634234577417"/>
 </node>
 <node TEXT="let prayers be your precious gem" LOCALIZED_STYLE_REF="default" ID="ID_745320349" CREATED="1630348230491" MODIFIED="1633042088604" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node ID="ID_459478073" CREATED="1634233979402" MODIFIED="1635097805832">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -395,12 +395,12 @@
 </html>
 </richcontent>
 <node TEXT="strong faith is more important then rituals" ID="ID_1877117493" CREATED="1634233991990" MODIFIED="1635097800027" LINK="https://seekersguidance.org/answers/general-counsel/doubts-about-islam-i-dont-find-any-observable-effect-or-peace-in-my-worship/">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <icon BUILTIN="emoji-26F2"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="doubts will not be that annoying" ID="ID_1484349239" CREATED="1634234016593" MODIFIED="1634234164490">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="if you don&apos;t spend much on the religion" ID="ID_1635500592" CREATED="1634234065422" MODIFIED="1634234095297"/>
 </node>
 </node>
@@ -410,7 +410,7 @@
 <node TEXT="if you dwell on them and don&apos;t ignore them" ID="ID_1259537555" CREATED="1650583390177" MODIFIED="1650583400905">
 <node TEXT="then you will become a disbeliever" ID="ID_1319074792" CREATED="1650583423378" MODIFIED="1650583430828">
 <node TEXT="Satanic whispers may develop into doubts if they take root in the heart and the person dwells on them, accepts them, and becomes content with them" ID="ID_901311013" CREATED="1650583435955" MODIFIED="1650583439562">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -420,21 +420,21 @@
 <node TEXT="real_doubts" ID="ID_840631438" CREATED="1635006274346" MODIFIED="1635006513126">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="if you don&apos;t hate them" ID="ID_818088755" CREATED="1635030651538" MODIFIED="1635248702914">
-<icon BUILTIN="punctuation/three_dots@b"/>
+<icon BUILTIN="punctuation/three_dots"/>
 </node>
 <node TEXT="make a person non-muslim" ID="ID_264035044" CREATED="1635006280972" MODIFIED="1635006619592">
 <node TEXT="need to say shahada again" ID="ID_1269729255" CREATED="1635006625292" MODIFIED="1635006632918"/>
 <node TEXT="if this doubt is real and does not just consist of whispers, then he is not a Muslim until he becomes certain of the existence of Allah" ID="ID_1881678149" CREATED="1635091733484" MODIFIED="1635091777425" LINK="https://www.islamweb.net/en/fatwa/356170/having-doubts-about-islam">
 <icon BUILTIN="emoji-26F2"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="mukAffir" LOCALIZED_STYLE_REF="default" ID="ID_1606146356" CREATED="1636001559449" MODIFIED="1636001723867" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 <node TEXT="act that makes you a non-muslim" ID="ID_574502665" CREATED="1636001573794" MODIFIED="1636001581701"/>
 </node>
 <node TEXT="takfIr" LOCALIZED_STYLE_REF="default" ID="ID_376061736" CREATED="1636001586277" MODIFIED="1636001844922" LINK="https://en.wikipedia.org/wiki/Takfir" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 <node TEXT="excommunication from islam" ID="ID_1616029676" CREATED="1636001593594" MODIFIED="1636001616082"/>
 <node TEXT="takfIrIy" ID="ID_113180117" CREATED="1636001620196" MODIFIED="1636001667361">
 <node TEXT="person excommunicating $b from islam" ID="ID_681968216" CREATED="1636001624498" MODIFIED="1636001697162"/>
@@ -444,7 +444,7 @@
 </node>
 </node>
 <node TEXT="cause suffering" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_975870080" CREATED="1634204511074" MODIFIED="1634930976834" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="guilt" ID="ID_915738163" CREATED="1634204838593" MODIFIED="1634930754616">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="about not being a good muslim" ID="ID_315955742" CREATED="1634205629334" MODIFIED="1634205646058">
@@ -456,20 +456,20 @@
 <node TEXT="anxiety" ID="ID_694159162" CREATED="1634204928221" MODIFIED="1634204931096">
 <node TEXT="at the possibility of becoming an Apostate" LOCALIZED_STYLE_REF="default" ID="ID_1851286979" CREATED="1634204936831" MODIFIED="1634208217971" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="murtad" ID="ID_265080757" CREATED="1634205200827" MODIFIED="1634206276981">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 <node TEXT="or kAfir (slur)" ID="ID_1485789104" CREATED="1634205200827" MODIFIED="1634206359312">
 <node TEXT="infidel" ID="ID_713970425" CREATED="1634206372627" MODIFIED="1634206383426">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="i&apos;m not sure if i&apos;m a believer" ID="ID_845971213" CREATED="1634208250286" MODIFIED="1634208274907">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="a person is only a muslim if he does rituals without doubts" ID="ID_1167134077" CREATED="1634208039901" MODIFIED="1634208228539">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -477,7 +477,7 @@
 </node>
 <node TEXT="questioning existence of god" POSITION="right" ID="ID_226581645" CREATED="1635007650269" MODIFIED="1635007661655">
 <node TEXT="controversy" ID="ID_446339157" CREATED="1635007662897" MODIFIED="1635007684291">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <node TEXT="imam says &quot;don&apos;t&quot;, fatwa says &quot;it&apos;s ok&quot;" ID="ID_1094493515" CREATED="1635007675734" MODIFIED="1635007720890" LINK="https://www.islamweb.net/en/fatwa/81529/asking-about-the-existence-of-allah">
 <icon BUILTIN="emoji-26F2"/>
 <node ID="ID_288148880" CREATED="1635089563392" MODIFIED="1635089633650"><richcontent TYPE="NODE">

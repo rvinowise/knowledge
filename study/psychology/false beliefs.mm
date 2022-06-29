@@ -142,43 +142,43 @@
 <font BOLD="true"/>
 <node TEXT="aikido" ID="ID_1763973745" CREATED="1636701750856" MODIFIED="1636701765454">
 <node TEXT="no test" ID="ID_1054664722" CREATED="1636702810268" MODIFIED="1636703168895">
-<icon BUILTIN="libra@b"/>
+<icon BUILTIN="libra"/>
 <node TEXT="pressure testing" ID="ID_1649492183" CREATED="1636702830712" MODIFIED="1636702838046">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 <node TEXT="too deadly for pressure testing" ID="ID_483184583" CREATED="1636702242779" MODIFIED="1636702273708">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="peaceful philosophy doesn&apos;t allow pressure testing" ID="ID_699027027" CREATED="1636702279999" MODIFIED="1636702487706">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="tested only against compliant partners" ID="ID_1749185328" CREATED="1636702382379" MODIFIED="1636702422488">
 <node TEXT="ukke" ID="ID_1492724584" CREATED="1636702397853" MODIFIED="1636702412530">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 <node TEXT="drilling" ID="ID_455903194" CREATED="1636703335540" MODIFIED="1636703341646">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 <node TEXT="sparring" ID="ID_1787309421" CREATED="1636703342394" MODIFIED="1636703347002">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 </node>
 <node TEXT="tournaments" ID="ID_342992822" CREATED="1636703362112" MODIFIED="1636703368213">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
 <node TEXT="join before getting evidence" ID="ID_1744643166" CREATED="1636704280409" MODIFIED="1636704728972">
 <node TEXT="just try it yourself and you&apos;ll see" ID="ID_1222947296" CREATED="1636704171588" MODIFIED="1636704369842">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 </node>
 <node TEXT="chinese traditional MA" ID="ID_1172406901" CREATED="1636701918013" MODIFIED="1636701930853">
 <node TEXT="kung-fu" LOCALIZED_STYLE_REF="default" ID="ID_444856037" CREATED="1636701954626" MODIFIED="1636701979760" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 </node>
 </node>
@@ -186,9 +186,9 @@
 <font BOLD="true"/>
 <node TEXT="homeopathy" ID="ID_1187684873" CREATED="1636701771973" MODIFIED="1636701780165">
 <node TEXT="no test" ID="ID_1936992520" CREATED="1636702810268" MODIFIED="1636703168895">
-<icon BUILTIN="libra@b"/>
+<icon BUILTIN="libra"/>
 <node TEXT="attention of the homeopath is part of healing" ID="ID_729743599" CREATED="1636702603168" MODIFIED="1636702689509">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="which is not tested in clinical trials" ID="ID_146355251" CREATED="1636702654183" MODIFIED="1636702669573"/>
 </node>
@@ -209,13 +209,13 @@
 <node TEXT="religion" POSITION="right" ID="ID_1236401970" CREATED="1636701765898" MODIFIED="1636701770860">
 <node TEXT="get involved, then have a proof" ID="ID_686499957" CREATED="1636704280409" MODIFIED="1636704335485">
 <node TEXT="just read our holy book" ID="ID_167638798" CREATED="1636704171588" MODIFIED="1636704385555">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="confirmation bias abuss" ID="ID_1075291640" CREATED="1636704409302" MODIFIED="1636704422239">
 <node TEXT="approach it with correct (open) mindset" ID="ID_273430146" CREATED="1636704422433" MODIFIED="1636704481472">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -224,13 +224,13 @@
 <font BOLD="true"/>
 <node TEXT="join before getting evidence" ID="ID_498316018" CREATED="1636704510859" MODIFIED="1636704728972">
 <node TEXT="get involved, then have a proof" ID="ID_248159147" CREATED="1636704280409" MODIFIED="1636704510116">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="confirmation bias abuss" ID="ID_1644279282" CREATED="1636704409302" MODIFIED="1636704422239">
 <node TEXT="believe it works first, then test" ID="ID_1500966300" CREATED="1636704422433" MODIFIED="1636704437950">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

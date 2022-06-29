@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,7 +170,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -178,12 +178,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
@@ -199,7 +199,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -231,22 +231,22 @@
 <node TEXT="2nd entrance" ID="ID_392357115" CREATED="1642250747504" MODIFIED="1642250754998">
 <node TEXT="11th floor" ID="ID_1427965904" CREATED="1642250779589" MODIFIED="1642250788631">
 <node TEXT="92" ID="ID_55518741" CREATED="1642250669557" MODIFIED="1642250845345">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="goodleak"/>
 <node TEXT="the grumpy sleeping man" ID="ID_1973562253" CREATED="1642250672552" MODIFIED="1642250679767">
 <node TEXT="maybe the drilling is from the 3rd entrance" ID="ID_1665178017" CREATED="1642250679924" MODIFIED="1642250855712">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
 <node TEXT="his pair" ID="ID_1593852322" CREATED="1642250714494" MODIFIED="1642251108662">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="no response" ID="ID_1860342519" CREATED="1642250724395" MODIFIED="1642250733432"/>
 </node>
 </node>
 </node>
 <node TEXT="10th floor" ID="ID_1221858452" CREATED="1642250770196" MODIFIED="1642250791787">
 <node TEXT="87" ID="ID_559705722" CREATED="1642250792090" MODIFIED="1642250946518">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="no response" ID="ID_1648664314" CREATED="1642250796779" MODIFIED="1642250807037"/>
 </node>
 <node TEXT="88" ID="ID_219941987" CREATED="1642250822432" MODIFIED="1642250823992">
@@ -257,10 +257,10 @@
 <node TEXT="3rd entrance" ID="ID_288525160" CREATED="1642250745428" MODIFIED="1642250763320">
 <node TEXT="9th floor" ID="ID_850564581" CREATED="1642250765362" MODIFIED="1642250932252">
 <node TEXT="128" ID="ID_1409296855" CREATED="1642250932717" MODIFIED="1642250942995">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="no responce" ID="ID_1671531634" CREATED="1642250938404" MODIFIED="1642250941006"/>
 <node TEXT="his pair" ID="ID_1634444670" CREATED="1642250957536" MODIFIED="1642250968242">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="no responce" ID="ID_902936301" CREATED="1642250938404" MODIFIED="1642250941006"/>
 </node>
 </node>
@@ -269,13 +269,13 @@
 <node TEXT="132" ID="ID_1135388966" CREATED="1642250988330" MODIFIED="1642250991117"/>
 <node TEXT="133" ID="ID_425608737" CREATED="1642250991460" MODIFIED="1642250992458"/>
 <node TEXT="in some of these appartments there was a man" ID="ID_1586846017" CREATED="1642251019797" MODIFIED="1642251167236">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="badleak"/>
 <node TEXT="it&apos;s definitely not me" ID="ID_1416426267" CREATED="1642251056791" MODIFIED="1642251095719">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="maybe it&apos;s from the bottom" ID="ID_1124518092" CREATED="1642251065052" MODIFIED="1642251074807">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

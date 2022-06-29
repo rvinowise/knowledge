@@ -140,13 +140,13 @@
 
 </richcontent>
 <node TEXT="to not kill the plant" ID="ID_1181485469" CREATED="1635552171396" MODIFIED="1635613936703">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 <node TEXT="to not disturb toe soil" ID="ID_36962898" CREATED="1635613362023" MODIFIED="1635613937654">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -185,7 +185,7 @@
 <node TEXT="to not step on insects" ID="ID_1863570320" CREATED="1635552199050" MODIFIED="1635552204482"/>
 </node>
 <node TEXT="naked branch" LOCALIZED_STYLE_REF="default" ID="ID_328642660" CREATED="1635552104941" MODIFIED="1635552138771" COLOR="#666666" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 <node TEXT="naked" ID="ID_871489231" CREATED="1635552124740" MODIFIED="1635552128439"/>
 </node>
@@ -236,7 +236,7 @@
 <node TEXT="most militant religion" ID="ID_1742655087" CREATED="1635552319083" MODIFIED="1635552329701"/>
 <node TEXT="peaceful words" ID="ID_921567005" CREATED="1635552331901" MODIFIED="1635552335993">
 <node TEXT="peace be upon you" ID="ID_713347197" CREATED="1635552336451" MODIFIED="1635552359611">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="shibboleth to recognise muslims" ID="ID_1857325729" CREATED="1635552341842" MODIFIED="1635552353847"/>
 </node>
@@ -244,7 +244,7 @@
 <node TEXT="related to &quot;salam&quot; (peace)" ID="ID_544034736" CREATED="1635552374308" MODIFIED="1635552393807"/>
 </node>
 <node TEXT="the religion of peace" ID="ID_1501905307" CREATED="1635552407508" MODIFIED="1635552416092">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

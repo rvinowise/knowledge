@@ -146,7 +146,7 @@
 <font NAME="Tahoma" BOLD="true"/>
 </node>
 <node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma" ITALIC="true"/>
 </node>
 <node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
@@ -170,7 +170,7 @@
 <node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
 <font NAME="Tahoma"/>
 <node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
@@ -178,12 +178,12 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
+<icon BUILTIN="box_inscribed"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="" ID="ID_85762982" CREATED="1633811933391" MODIFIED="1635773283879" BACKGROUND_COLOR="#e5e5e5">
@@ -202,7 +202,7 @@
 </node>
 </node>
 <node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font NAME="Tahoma"/>
 <node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
 
@@ -242,36 +242,36 @@
 <node TEXT="alcalinity" ID="ID_736723779" CREATED="1641658572481" MODIFIED="1641658584678">
 <node TEXT="not equal to being an alkali" ID="ID_897750683" CREATED="1641658586129" MODIFIED="1641658600416"/>
 <node TEXT="shows how much the chemical reduces acidity" ID="ID_314578992" CREATED="1641658602461" MODIFIED="1641658660862" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 <node TEXT="may not be very alkaline itself" ID="ID_1298247186" CREATED="1641658621291" MODIFIED="1641658628634">
 <node TEXT="starch" ID="ID_1559456266" CREATED="1641658687643" MODIFIED="1641658710338">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="oxidising agent" LOCALIZED_STYLE_REF="default" ID="ID_1716063827" CREATED="1641515059414" MODIFIED="1641515289086" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="most acids" ID="ID_1035032542" CREATED="1641515244036" MODIFIED="1641515262475" COLOR="#666666">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 <node TEXT="H2SO4" ID="ID_1667185346" CREATED="1641515425368" MODIFIED="1641660281861">
-<icon BUILTIN="present@b"/>
+<icon BUILTIN="present"/>
 </node>
 <node TEXT="oxidising acid" ID="ID_1640988145" CREATED="1641515914174" MODIFIED="1641515925866" LINK="https://en.wikipedia.org/wiki/Oxidizing_acid">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 </node>
 </node>
 <node TEXT="most Brønsted acids" ID="ID_544734206" CREATED="1641515967565" MODIFIED="1641515979216"/>
 </node>
 <node TEXT="reducing agent" LOCALIZED_STYLE_REF="default" ID="ID_1938301282" CREATED="1641515063470" MODIFIED="1641515289074" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="most alkali" LOCALIZED_STYLE_REF="default" ID="ID_1148381526" CREATED="1641515249193" MODIFIED="1641515259276" COLOR="#666666" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
+<icon BUILTIN="question"/>
 <font ITALIC="true"/>
 <node TEXT="earth metals" ID="ID_546009856" CREATED="1641515276850" MODIFIED="1641515281214"/>
 <node TEXT="an acid can be a reducing agent" ID="ID_1788310250" CREATED="1641515228400" MODIFIED="1641515636705" LINK="https://chemistry.stackexchange.com/questions/63153/how-does-a-lewis-acid-differ-from-an-oxidizing-agent-lewis-bases-from-reducing">
-<icon BUILTIN="info_circle@b"/>
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="info_circle"/>
+<icon BUILTIN="bad"/>
 <node TEXT="HI" ID="ID_1177092783" CREATED="1641515316153" MODIFIED="1641515467076"/>
 </node>
 </node>

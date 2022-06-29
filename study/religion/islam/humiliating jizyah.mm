@@ -134,7 +134,7 @@
 </node>
 <node TEXT="humiliating" POSITION="right" ID="ID_844265924" CREATED="1637890355608" MODIFIED="1637890358756">
 <node TEXT="صاغرين" ID="ID_1126707036" CREATED="1637890379996" MODIFIED="1637890436913">
-<icon BUILTIN="connection/term"/>
+<icon BUILTIN="chain"/>
 <node TEXT="meaning of this word" ID="ID_1249369900" CREATED="1637891319459" MODIFIED="1637891335000" LINK="https://www.quran-words.com/%D9%83%D9%84%D9%85%D8%A9/%D8%B5%D8%A7%D8%BA%D8%B1%D9%88%D9%86/48872"/>
 <node TEXT="other occurances of this word" ID="ID_495380197" CREATED="1637891468609" MODIFIED="1637891483966">
 <node TEXT="occurences in a corpus" ID="ID_1089704497" CREATED="1637892187862" MODIFIED="1637892204352" LINK="https://corpus.quran.com/search.jsp?q=%D8%B5%D8%A7%D8%BA%D8%B1%D9%8A%D9%86"/>
@@ -142,7 +142,7 @@
 <node TEXT="27:37" ID="ID_804360282" CREATED="1637891554811" MODIFIED="1637891572985" LINK="https://quran.com/27"/>
 <node TEXT="7:13" ID="ID_285090824" CREATED="1637891661870" MODIFIED="1637891668531" LINK="https://quran.com/7:13">
 <node TEXT="(sagharin) is the idea of contentment with one&apos;s disgrace and indignity, for saghir is he who invites disgrace and indignity, upon himself" ID="ID_2896939" CREATED="1637891925832" MODIFIED="1637891970853">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="footnote Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1937342125" CREATED="1637891889821" MODIFIED="1637891924931">
 <icon BUILTIN="emoji-26F2"/>
@@ -153,7 +153,7 @@
 </node>
 <node TEXT="hadith" ID="ID_66199037" CREATED="1637890447418" MODIFIED="1637890449783">
 <node ID="ID_1202430191" CREATED="1637891054001" MODIFIED="1637891098357">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -176,7 +176,7 @@
 </node>
 <node TEXT="quran" ID="ID_287440983" CREATED="1637890602141" MODIFIED="1637890772287">
 <node ID="ID_1019881582" CREATED="1637890813358" MODIFIED="1637891110180">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <richcontent TYPE="NODE">
 
 <html>
@@ -201,12 +201,12 @@
 </node>
 <node TEXT="tafsir" ID="ID_1372807290" CREATED="1637891152187" MODIFIED="1637891154768">
 <node TEXT="(and feel themselves subdued.), disgraced, humiliated and belittled. Therefore, Muslims are not allowed to honor the people of Dhimmah or elevate them above Muslims, for they are miserable, disgraced and humiliated." ID="ID_1536546050" CREATED="1637891215173" MODIFIED="1637891262177">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 <node TEXT="Tafsir Ibn Kathir" ID="ID_18443786" CREATED="1637891168113" MODIFIED="1637891210016" LINK="http://m.qtafsir.com/Surah-At-Taubah/Paying-Jizyah-is-a-Sign-of-Kuf---">
 <icon BUILTIN="emoji-26F2"/>
 <node TEXT="Paying Jizyah is a Sign of Kufr and Disgrace" ID="ID_647202325" CREATED="1637923414607" MODIFIED="1637923426168">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

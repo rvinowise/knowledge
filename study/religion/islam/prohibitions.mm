@@ -139,7 +139,7 @@
 <node TEXT="musical instruments" ID="ID_973038374" CREATED="1642831776658" MODIFIED="1642831784999">
 <node TEXT="including drums" ID="ID_494940976" CREATED="1642831785773" MODIFIED="1642831799814" LINK="https://www.islamweb.net/en/fatwa/85181/using-silver-utensils-of-any-kind">
 <node TEXT="like a drum (a musical instrument)" ID="ID_48393752" CREATED="1642831800233" MODIFIED="1642831816358">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
@@ -148,7 +148,7 @@
 <node TEXT="purity" POSITION="right" ID="ID_857868517" CREATED="1649893620236" MODIFIED="1649893624272">
 <node TEXT="droplet of wine drains a well" ID="ID_528828962" CREATED="1649893597100" MODIFIED="1649893649796" LINK="https://www.al-islam.org/greater-sins-volume-1-sayyid-abdul-husayn-dastghaib-shirazi/thirteenth-greater-sin-drinking-liquor">
 <node TEXT="Even if a drop of wine falls into a well full of water it does not become Halal. Rather the whole well has to be emptied" ID="ID_1855768319" CREATED="1649893664100" MODIFIED="1649893667795">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>

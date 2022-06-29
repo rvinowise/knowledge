@@ -123,19 +123,19 @@
 </map_styles>
 </hook>
 <node TEXT="ancient greece is a region, not a state" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1700188696" CREATED="1630350193434" MODIFIED="1633374607601" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="constantly fighting" POSITION="right" ID="ID_993211544" CREATED="1630415887394" MODIFIED="1630415897932">
 <node TEXT="hoplite" ID="ID_382028779" CREATED="1630362988606" MODIFIED="1630415849176">
 <node TEXT="main soldier" LOCALIZED_STYLE_REF="default" ID="ID_1119301727" CREATED="1630415858660" MODIFIED="1633374607602" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="heavy infantryman" ID="ID_1878650845" CREATED="1630363108258" MODIFIED="1630363403351">
 <node TEXT="long spear" ID="ID_1420632686" CREATED="1630363241990" MODIFIED="1630363444944"/>
 <node TEXT="big round shield" ID="ID_1066137173" CREATED="1630363250537" MODIFIED="1630363438131">
 <node TEXT="from wood" ID="ID_1832509643" CREATED="1630363259773" MODIFIED="1630363271282">
 <node TEXT="stronger than persian wicker shields" ID="ID_1923907607" CREATED="1630363275030" MODIFIED="1633374070004">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 </node>
@@ -148,19 +148,19 @@
 <node TEXT="relied on peers to avoid side attacks" ID="ID_220587823" CREATED="1630363492218" MODIFIED="1630363532400"/>
 <node TEXT="the shield protected the wearer and the guy on the left" ID="ID_342134882" CREATED="1630363547955" MODIFIED="1630363601736">
 <node TEXT="the rightmost hoplite was exposed" ID="ID_59037241" CREATED="1630363571816" MODIFIED="1633374066952">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 <node TEXT="formation in a wide row" LOCALIZED_STYLE_REF="default" ID="ID_1836266389" CREATED="1630363801933" MODIFIED="1633374607602" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 <node TEXT="less mobile than roman legions" ID="ID_1145431708" CREATED="1630363860019" MODIFIED="1633374089103">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 </node>
 </node>
 </node>
 <node TEXT="during peace worked as a farmer" ID="ID_322139741" CREATED="1630363667859" MODIFIED="1630363704614">
 <node TEXT="slaves worked together with masters" ID="ID_847487296" CREATED="1630424124845" MODIFIED="1633374135751">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="from rich families" ID="ID_30654520" CREATED="1630363719673" MODIFIED="1630363739298">
@@ -172,7 +172,7 @@
 </node>
 <node TEXT="against external invaders" ID="ID_582929775" CREATED="1630415939902" MODIFIED="1630416022094">
 <node TEXT="united together" LOCALIZED_STYLE_REF="default" ID="ID_278351976" CREATED="1630416032144" MODIFIED="1633374607602" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="info_circle@b"/>
+<icon BUILTIN="info_circle"/>
 </node>
 <node TEXT="persians" ID="ID_1690091336" CREATED="1630415968440" MODIFIED="1630415971388"/>
 <node TEXT="romans" ID="ID_1727077197" CREATED="1630415972245" MODIFIED="1630415975803"/>
@@ -182,7 +182,7 @@
 <node TEXT="athens" ID="ID_7290574" CREATED="1630350277850" MODIFIED="1630350290092">
 <node TEXT="origin of democracy" ID="ID_4606634" CREATED="1630350383392" MODIFIED="1630350393690"/>
 <node TEXT="strong fleet" ID="ID_850477266" CREATED="1630350637600" MODIFIED="1633374257041">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="sparta" ID="ID_98450098" CREATED="1630350283035" MODIFIED="1630350287027">
@@ -201,7 +201,7 @@
 <node TEXT="farming" LOCALIZED_STYLE_REF="default" ID="ID_1427817521" CREATED="1630350854908" MODIFIED="1630351357669"/>
 </node>
 <node TEXT="fear of rebellion" ID="ID_1172363530" CREATED="1630351406766" MODIFIED="1633374369788">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="spartans could not travel outside" ID="ID_1639443377" CREATED="1630351209448" MODIFIED="1630351239906"/>
 <node TEXT="the army didn&apos;t wage wars far away" ID="ID_26686658" CREATED="1630351443575" MODIFIED="1630351466169"/>
 </node>
@@ -213,7 +213,7 @@
 </node>
 </node>
 <node TEXT="the strongest army" ID="ID_753477165" CREATED="1630351563443" MODIFIED="1633374389568">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 <node TEXT="never had walls" ID="ID_1420363417" CREATED="1630350354683" MODIFIED="1630350375493">
 <node TEXT="regretted that when thebans entered sparta" STYLE_REF="history event" ID="ID_1218383522" CREATED="1630425536364" MODIFIED="1630429528321"/>
 </node>
@@ -274,7 +274,7 @@
 </node>
 <node TEXT="thebes" ID="ID_445454517" CREATED="1630350398753" MODIFIED="1630350456302">
 <node TEXT="good cavalry, due to geography" ID="ID_19660392" CREATED="1630350460496" MODIFIED="1633374578993">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 </node>

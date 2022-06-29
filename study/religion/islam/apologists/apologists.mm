@@ -77,7 +77,7 @@
 <node TEXT="doesn&apos;t like stage (moderated) debates" ID="ID_1353669697" CREATED="1645084441573" MODIFIED="1645089788773">
 <node TEXT="nonsense reason" ID="ID_1174673539" CREATED="1645084448104" MODIFIED="1645084456890">
 <node TEXT="i don&apos;t want them to be able to cut me off" ID="ID_88368462" CREATED="1645084457106" MODIFIED="1645089776331" LINK="https://youtu.be/SyVAEaFdzO8?t=52">
-<icon BUILTIN="quote@b"/>
+<icon BUILTIN="quote"/>
 <font ITALIC="true"/>
 </node>
 </node>
