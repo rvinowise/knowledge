@@ -259,7 +259,7 @@
 <icon BUILTIN="present@b"/>
 </node>
 <node TEXT="oxidising acid" ID="ID_1640988145" CREATED="1641515914174" MODIFIED="1641515925866" LINK="https://en.wikipedia.org/wiki/Oxidizing_acid">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 <node TEXT="most Brønsted acids" ID="ID_544734206" CREATED="1641515967565" MODIFIED="1641515979216"/>

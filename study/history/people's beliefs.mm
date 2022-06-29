@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="people&apos;s beliefs" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1653942763965"><hook NAME="MapStyle" zoom="1.2">
     <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_305989472" CREATED="1649580569127" MODIFIED="1649580569130"/>
+<node TEXT="type: history" POSITION="left" ID="ID_1418188576" CREATED="1653942764012" MODIFIED="1653942764050"/>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
@@ -222,19 +222,16 @@
 </node>
 </node>
 </node>
-<node TEXT="materialistic theories" POSITION="right" ID="ID_1723224585" CREATED="1649580569131" MODIFIED="1649580578911">
-<node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1649580634832" LINK="attention%20schema%20theory.mm"/>
-<node TEXT="integrated information theory (IIT)" ID="ID_1698692448" CREATED="1649580629112" MODIFIED="1651914314444" LINK="integrated%20information%20theory.mm"/>
-<node TEXT="information closure theory (ICT)" ID="ID_1763659129" CREATED="1651914298506" MODIFIED="1651914329234" LINK="file:/C:/knowledge/study/psychology/consciousness/information%20closure%20theory%20(ICT).mm"/>
-<node TEXT="geometric theory of consciousness" ID="ID_1549272598" CREATED="1651917078920" MODIFIED="1651917088207"/>
+<node TEXT="suicide" POSITION="right" ID="ID_1124000714" CREATED="1653942764072" MODIFIED="1653942771279">
+<node TEXT="inacceptable" ID="ID_428176741" CREATED="1653942847499" MODIFIED="1653942852148">
+<node TEXT="Immanuel Kant" ID="ID_642754415" CREATED="1653942852404" MODIFIED="1653942856802"/>
+<node TEXT="Thomas Aquinus" ID="ID_311976705" CREATED="1653942857157" MODIFIED="1653942863288"/>
 </node>
-<node TEXT="quantify consciousness" POSITION="right" ID="ID_1948336920" CREATED="1651916983852" MODIFIED="1651916998659">
-<node TEXT="IIT" ID="ID_499777095" CREATED="1651916999629" MODIFIED="1651917016565" LINK="#ID_1698692448">
-<node TEXT="Phî" ID="ID_1899545725" CREATED="1651917140457" MODIFIED="1651917213882"/>
+<node TEXT="acceptable" ID="ID_475337313" CREATED="1653942772041" MODIFIED="1653942791968">
+<node TEXT="in all cases" ID="ID_1955789336" CREATED="1653942792208" MODIFIED="1653942799390">
+<node TEXT="David Hume" ID="ID_178737493" CREATED="1653942800193" MODIFIED="1653942819406" LINK="http://medbox.iiab.me/kiwix/wikipedia_en_medicine_2019-12/A/Suicide#Legislation"/>
+<node TEXT="Jacob Appel" ID="ID_1424511639" CREATED="1653942819827" MODIFIED="1653942824139"/>
 </node>
-<node TEXT="geometric theory of consciousness" ID="ID_705156233" CREATED="1651917093417" MODIFIED="1651917131561" LINK="#ID_1549272598"/>
-<node TEXT="" ID="ID_95912139" CREATED="1651917000679" MODIFIED="1651917003296" LINK="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01504/full#:~:text=Information%20Closure%20Theory%20of%20Consciousness%20(ICT)%20proposes%20new%20quantitative%20definitions,various%20phenomena%20associated%20with%20consciousness.">
-<icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 </node>

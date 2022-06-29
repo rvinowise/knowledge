@@ -11,7 +11,7 @@
 <node TEXT="religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635796957772" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.2">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -90,6 +90,7 @@
 <node TEXT="islam" ID="ID_232435923" CREATED="1634263754471" MODIFIED="1635831178852" LINK="islam/" COLOR="#000000">
 <icon BUILTIN="present@b"/>
 <font NAME="Tahoma" BOLD="false"/>
+<node TEXT="sociology" ID="ID_1627247844" CREATED="1652335843934" MODIFIED="1652335846338">
 <node TEXT="social impact of religion" ID="ID_877134100" CREATED="1634834704204" MODIFIED="1635831185783" LINK="islam/social%20impact%20of%20religion.mm#ID_111853252" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
@@ -97,9 +98,6 @@
 <node TEXT="The Apostates When Muslims Leave Islam by Simon Cottee" LOCALIZED_STYLE_REF="default" ID="ID_733590497" CREATED="1633369199905" MODIFIED="1641968451827" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-26F2"/>
 </node>
-</node>
-<node TEXT="islamic_history.mm" ID="ID_1656115996" CREATED="1633368741811" MODIFIED="1635831197512" LINK="islam/islamic_history.mm" COLOR="#000000">
-<font NAME="Tahoma"/>
 </node>
 <node TEXT="islamic violence" ID="ID_12722665" CREATED="1633568936959" MODIFIED="1635831204208" LINK="islam/islamic%20violence.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
@@ -113,6 +111,14 @@
 <node TEXT="islamic family" ID="ID_226197633" CREATED="1638746705801" MODIFIED="1641760877566" LINK="islam/islamic%20family.mm">
 <font NAME="Tahoma"/>
 </node>
+<node TEXT="humiliating jizyah" ID="ID_1164451940" CREATED="1637890291821" MODIFIED="1641760877570" LINK="islam/humiliating%20jizyah.mm">
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="prohibitions" ID="ID_346116388" CREATED="1642831713520" MODIFIED="1649893568890" LINK="islam/prohibitions.mm"/>
+</node>
+<node TEXT="islamic_history.mm" ID="ID_1656115996" CREATED="1633368741811" MODIFIED="1635831197512" LINK="islam/islamic_history.mm" COLOR="#000000">
+<font NAME="Tahoma"/>
+</node>
 <node TEXT="quran" ID="ID_1011707650" CREATED="1643134331153" MODIFIED="1643134331154" LINK="islam/quran/">
 <node TEXT="general data.mm" ID="ID_142591087" CREATED="1643134376339" MODIFIED="1643134376339" LINK="islam/quran/general%20data.mm"/>
 <node TEXT="history of quranic text.mm" ID="ID_1822565590" CREATED="1643134376343" MODIFIED="1643134376343" LINK="islam/quran/history%20of%20quranic%20text.mm"/>
@@ -124,24 +130,30 @@
 <node TEXT="nisA2" ID="ID_907269167" CREATED="1649980090295" MODIFIED="1649980126851" LINK="file:/C:/knowledge/study/religion/islam/quran/content/nisA2.mm"/>
 <node TEXT="quranic style" ID="ID_693315472" CREATED="1644485868771" MODIFIED="1644485879015" LINK="file:/C:/knowledge/study/religion/islam/quran/content/quranic%20style.mm"/>
 </node>
+<node TEXT="plagiarism" ID="ID_1727587611" CREATED="1633688116295" MODIFIED="1635882575100" LINK="islam/plagiarism.mm" COLOR="#000000">
+<font NAME="Tahoma"/>
 </node>
+</node>
+<node TEXT="teachings" ID="ID_301798959" CREATED="1652335908106" MODIFIED="1652335910469">
 <node TEXT="satan" ID="ID_1911431146" CREATED="1633686322952" MODIFIED="1635882571903" LINK="islam/satan.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="religion vs life" ID="ID_1933365008" CREATED="1633687688204" MODIFIED="1635882572886" LINK="islam/religion%20vs%20life.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="scientific errors" ID="ID_104323585" CREATED="1633687941965" MODIFIED="1635882574106" LINK="islam/scientific%20errors.mm" COLOR="#000000">
+<node TEXT="anthropomorphic god" ID="ID_319822104" CREATED="1635986781641" MODIFIED="1641760877568" LINK="islam/anthropomorphic%20god.mm">
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="plagiarism" ID="ID_1727587611" CREATED="1633688116295" MODIFIED="1635882575100" LINK="islam/plagiarism.mm" COLOR="#000000">
-<font NAME="Tahoma"/>
+<node TEXT="amusing" ID="ID_923920362" CREATED="1648883925075" MODIFIED="1648883943517" LINK="file:/C:/knowledge/study/religion/islam/amusing.mm"/>
 </node>
+<node TEXT="psychology" ID="ID_623591997" CREATED="1652335862849" MODIFIED="1652335866725">
 <node TEXT="doubts.mm" ID="ID_340156445" CREATED="1634891001179" MODIFIED="1635882576027" LINK="islam/doubts.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="free will" ID="ID_1473337528" CREATED="1635275854774" MODIFIED="1643194067801" LINK="islam/free%20will.mm"/>
-<node TEXT="anthropomorphic god" ID="ID_319822104" CREATED="1635986781641" MODIFIED="1641760877568" LINK="islam/anthropomorphic%20god.mm">
+</node>
+<node TEXT="science" ID="ID_1944403612" CREATED="1652335877539" MODIFIED="1652335880046">
+<node TEXT="scientific errors" ID="ID_104323585" CREATED="1633687941965" MODIFIED="1635882574106" LINK="islam/scientific%20errors.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="scientific miracles" ID="ID_1986926372" CREATED="1636419391064" MODIFIED="1641760877568" LINK="islam/scientific%20miracles.mm">
@@ -151,15 +163,13 @@
 <icon BUILTIN="book_open@b"/>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="humiliating jizyah" ID="ID_1164451940" CREATED="1637890291821" MODIFIED="1641760877570" LINK="islam/humiliating%20jizyah.mm">
-<font NAME="Tahoma"/>
 </node>
-<node TEXT="prohibitions" ID="ID_346116388" CREATED="1642831713520" MODIFIED="1649893568890" LINK="islam/prohibitions.mm"/>
-<node TEXT="amusing" ID="ID_923920362" CREATED="1648883925075" MODIFIED="1648883943517" LINK="file:/C:/knowledge/study/religion/islam/amusing.mm"/>
 </node>
+<node TEXT="christianity" ID="ID_265481960" CREATED="1652301892546" MODIFIED="1652301893102" LINK="christianity/">
 <node TEXT="christianity" ID="ID_840596349" CREATED="1634263757943" MODIFIED="1636643399547" LINK="christianity/christianity.mm" COLOR="#000000">
 <icon BUILTIN="present@b"/>
 <font NAME="Tahoma" BOLD="false"/>
+</node>
 </node>
 <node TEXT="judaism" ID="ID_677523575" CREATED="1635360269109" MODIFIED="1638679179021" LINK="./judaism" COLOR="#000000">
 <font NAME="Tahoma"/>
@@ -184,6 +194,7 @@
 </node>
 <node TEXT="hinduism" ID="ID_375826909" CREATED="1634896332243" MODIFIED="1638679187361" LINK="hinduism" COLOR="#000000">
 <font NAME="Tahoma"/>
+<node TEXT="hinduism" ID="ID_511374243" CREATED="1652335684203" MODIFIED="1652335692079" LINK="file:/C:/knowledge/study/religion/hinduism/hinduism.mm"/>
 <node TEXT="hierarchy of gods" ID="ID_1756108495" CREATED="1634896335277" MODIFIED="1635882602107" LINK="hinduism/hierarchy%20of%20gods.mm" COLOR="#000000">
 <font NAME="Tahoma"/>
 </node>
@@ -308,6 +319,7 @@
 <node TEXT="slipping into natural paganism" ID="ID_870299605" CREATED="1641758273958" MODIFIED="1641760877572" LINK="file:/C:/knowledge/study/religion/commonalities/slipping%20into%20natural%20paganism.mm">
 <font NAME="Tahoma"/>
 </node>
+<node TEXT="celebrations" ID="ID_785023325" CREATED="1651391195596" MODIFIED="1651391203303" LINK="file:/C:/knowledge/study/religion/commonalities/celebrations.mm"/>
 </node>
 <node TEXT="comparative religion" POSITION="right" ID="ID_1569280921" CREATED="1634642289333" MODIFIED="1635791415628" COLOR="#000000">
 <font NAME="Tahoma"/>

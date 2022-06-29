@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="abyss_defence" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1638461509574"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -174,7 +174,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_744911697" CREATED="1638461848361" MODIFIED="1638463092756">
 <icon BUILTIN="need@b"/>
@@ -317,7 +316,7 @@
 <icon BUILTIN="present@b"/>
 </node>
 </node>
-<node TEXT="determine anglge reaching point" LOCALIZED_STYLE_REF="default" ID="ID_1674834967" CREATED="1638769393635" MODIFIED="1638814309621" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="determine angle reaching point" LOCALIZED_STYLE_REF="default" ID="ID_1674834967" CREATED="1638769393635" MODIFIED="1652303266345" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="present@b"/>
 <node TEXT="Limb2" ID="ID_948940843" CREATED="1638769509135" MODIFIED="1638769515698">
 <icon BUILTIN="place@b"/>
@@ -392,10 +391,6 @@
 </node>
 </node>
 </node>
-</node>
-<node TEXT="styles" POSITION="right" ID="ID_724634909" CREATED="1639544392113" MODIFIED="1639544392120">
-<node TEXT="1" ID="ID_416530968" CREATED="1639544392120" MODIFIED="1639544392122"/>
-<node TEXT="2" ID="ID_362122822" CREATED="1639544394594" MODIFIED="1639544394597"/>
 </node>
 </node>
 </map>

@@ -156,7 +156,7 @@
 <node TEXT="reincarnation prolongates suffering" ID="ID_340152482" CREATED="1635284466494" MODIFIED="1635284478447">
 <node TEXT="reincarnation is bad in all religions of dharma" ID="ID_1725105131" CREATED="1635284478638" MODIFIED="1635284497637"/>
 <node TEXT="sansara, samsara" ID="ID_1446951601" CREATED="1635284534767" MODIFIED="1635285365110">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 <node TEXT="caused by desires" ID="ID_833689678" CREATED="1635284601725" MODIFIED="1635284605968"/>
@@ -195,7 +195,7 @@
 <font BOLD="true"/>
 <node TEXT="liberation" ID="ID_549346436" CREATED="1635285284431" MODIFIED="1635285290826">
 <node TEXT="nirvana" ID="ID_1150582606" CREATED="1635285290993" MODIFIED="1635542889427">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <node TEXT="moksha (hinduism&amp;jainism)" ID="ID_1951766658" CREATED="1635285290993" MODIFIED="1635543191621">
 <icon BUILTIN="bad@bleak"/>
 </node>
@@ -232,7 +232,7 @@
 </node>
 <node TEXT="can pray to next buddha" ID="ID_586234047" CREATED="1635543365936" MODIFIED="1635543379681">
 <node TEXT="bodhisattva" ID="ID_853701377" CREATED="1635614909631" MODIFIED="1635614926054">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 <node TEXT="offers paradise" ID="ID_30184997" CREATED="1635695374032" MODIFIED="1635695381429"/>
@@ -240,7 +240,7 @@
 <node TEXT="for everybody" ID="ID_1006980070" CREATED="1635542969818" MODIFIED="1635542974311">
 <node TEXT="no need to be a monk" ID="ID_1170245126" CREATED="1635543002356" MODIFIED="1635543009454">
 <node TEXT="denier" ID="ID_737589547" CREATED="1635543025062" MODIFIED="1635543056956">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 </node>
@@ -269,11 +269,11 @@
 <node TEXT="western buddhism" ID="ID_242987271" CREATED="1635543116306" MODIFIED="1635543152673">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="caffeteria buddhism" ID="ID_1207487283" CREATED="1635543123708" MODIFIED="1635543135992">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="choose what you want" ID="ID_1848714317" CREATED="1635543241827" MODIFIED="1635543251524">
 <node TEXT="eclectic" ID="ID_905394966" CREATED="1635543225209" MODIFIED="1635543240182">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 </node>
@@ -299,7 +299,7 @@
 <node TEXT="next buddha" ID="ID_44785438" CREATED="1635543446748" MODIFIED="1635543452243">
 <node TEXT="to whom you can pray" ID="ID_1644294676" CREATED="1635543452353" MODIFIED="1635543459821"/>
 <node TEXT="maitrEya" ID="ID_1213909090" CREATED="1635614739177" MODIFIED="1635614869713">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="budai" ID="ID_255328270" CREATED="1635630445898" MODIFIED="1635630448785">
 <node TEXT="monk lived in the past" ID="ID_946752797" CREATED="1635630462510" MODIFIED="1635630485462"/>

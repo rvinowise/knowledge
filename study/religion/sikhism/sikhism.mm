@@ -151,7 +151,7 @@
 <node TEXT="karma" ID="ID_1958101820" CREATED="1635543988938" MODIFIED="1635543991000"/>
 </node>
 <node TEXT="sincretism" ID="ID_1045291147" CREATED="1635614117888" MODIFIED="1635614128516">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 </node>

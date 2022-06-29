@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="amusing" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1648883943775" COLOR="#ffffff">
+<node TEXT="hinduism" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1652335694111" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" associatedTemplateLocation="file:/D:/archive/cloud_storages/knowledge/index.mm"/>
@@ -67,23 +67,16 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="type: " POSITION="left" ID="ID_378280603" CREATED="1648883943791" MODIFIED="1648883943793"/>
+<node TEXT="type: " POSITION="left" ID="ID_639061189" CREATED="1652335694153" MODIFIED="1652335694242"/>
 <node TEXT="" POSITION="left" ID="ID_205331815" CREATED="1635513370800" MODIFIED="1635791415593" COLOR="#000000">
 <icon BUILTIN="emoji-26F2"/>
 <font NAME="Tahoma"/>
 </node>
-<node TEXT="scientific miracles" POSITION="right" ID="ID_655673158" CREATED="1648883953651" MODIFIED="1648883957691">
-<node TEXT="talking ants" ID="ID_1259766885" CREATED="1648883943794" MODIFIED="1648883948422">
-<node TEXT="Colobopsis explodens" ID="ID_1653943312" CREATED="1648883958585" MODIFIED="1648883983222" LINK="https://en.wikipedia.org/wiki/Colobopsis_explodens">
-<node TEXT="they say &quot;allahu-akbar!&quot;" ID="ID_106113506" CREATED="1648883962378" MODIFIED="1648883975598"/>
+<node TEXT="all-accepting religion" POSITION="right" ID="ID_147429275" CREATED="1652335694244" MODIFIED="1652335704558">
+<node TEXT="opposite to judaism and islam" ID="ID_149209491" CREATED="1652335704973" MODIFIED="1652335740228">
+<icon BUILTIN="connection/conferatur"/>
 </node>
-</node>
-</node>
-<node TEXT="verbal insults" POSITION="right" ID="ID_1886016970" CREATED="1650947945416" MODIFIED="1650947970290">
-<node TEXT="believers are like camels" ID="ID_1463537394" CREATED="1650947963311" MODIFIED="1650947982333" LINK="https://sunnah.com/ibnmajah:43"/>
-</node>
-<node TEXT="appearance" POSITION="right" ID="ID_110482966" CREATED="1653902687990" MODIFIED="1653903625827">
-<node TEXT="mark on the forehead" ID="ID_1215206514" CREATED="1653903626567" MODIFIED="1653903648016" LINK="http://medbox.iiab.me/kiwix/wikipedia_en_medicine_2019-12/A/Prayer_bump#:~:text=A%20zebibah%20(Arabic%3A%20%D8%B2%D8%A8%D9%8A%D8%A8%D8%A9%E2%80%8E,prayer%20mat%20during%20daily%20prayers."/>
+<node TEXT="hindu asks a muslim to not lose faith" ID="ID_1003960905" CREATED="1652335742464" MODIFIED="1652335773612" LINK="https://www.quora.com/My-faith-in-Islam-is-disappearing-and-I-feel-like-what-if-Islam-was-completely-made-up-by-people-What-if-there-was-no-God-What-should-I-do-to-restore-it-back"/>
 </node>
 </node>
 </map>

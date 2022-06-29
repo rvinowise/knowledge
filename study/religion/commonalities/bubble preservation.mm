@@ -11,7 +11,7 @@
 <node TEXT="bubble preservation" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1640520737070" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -273,6 +273,12 @@
 <node TEXT="doubting god is prohibited" ID="ID_1557356095" CREATED="1650455892637" MODIFIED="1650455935773">
 <node TEXT="it&apos;s a dicease" ID="ID_1931381271" CREATED="1650455911688" MODIFIED="1650455917605" LINK="https://www.islamweb.net/en/fatwa/85823/"/>
 </node>
+</node>
+</node>
+<node TEXT="general" ID="ID_1078466869" CREATED="1653872742845" MODIFIED="1653872808266">
+<node TEXT="" ID="ID_1434594826" CREATED="1653872815741" MODIFIED="1653872817805">
+<icon BUILTIN="emoji-26F2"/>
+<node TEXT="american psychological association" ID="ID_867298456" CREATED="1653872819107" MODIFIED="1653872876593" LINK="https://www.apa.org/monitor/nov02/cults.html"/>
 </node>
 </node>
 </node>

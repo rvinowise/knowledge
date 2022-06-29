@@ -173,7 +173,7 @@
 </richcontent>
 <node TEXT="next buddha" ID="ID_1055543722" CREATED="1635624346871" MODIFIED="1635624349936">
 <node TEXT="maitreya" LOCALIZED_STYLE_REF="default" ID="ID_149173753" CREATED="1635624337310" MODIFIED="1635624428704" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 </node>

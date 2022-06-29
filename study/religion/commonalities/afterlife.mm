@@ -144,13 +144,13 @@
 <node TEXT="in cold climates" ID="ID_1139856052" CREATED="1641415797389" MODIFIED="1641415800914">
 <node TEXT="e.g. scandinavian paganism" ID="ID_148571176" CREATED="1641415801147" MODIFIED="1641415809592">
 <node TEXT="niflheim" ID="ID_1793167902" CREATED="1641415821301" MODIFIED="1641415854035">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <node TEXT="britannica" ID="ID_1171330905" CREATED="1641415829309" MODIFIED="1641415839689" LINK="https://www.britannica.com/topic/Niflheim">
 <icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 <node TEXT="hel" LOCALIZED_STYLE_REF="default" ID="ID_1297122618" CREATED="1641415864414" MODIFIED="1641415876186" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 </node>

@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637160483756"><hook NAME="MapStyle" zoom="1.32">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -147,9 +147,11 @@
 <node TEXT="exchanging information" ID="ID_454811070" CREATED="1637130958457" MODIFIED="1640899053478" LINK="compare_collocations/exchanging%20information.mm"/>
 <node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="compare_collocations/using.mm"/>
 <node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="compare_collocations/possibility.mm"/>
+<node TEXT="giving" ID="ID_830015847" CREATED="1654177011130" MODIFIED="1654177030803" LINK="file:/C:/knowledge/languages/compare_collocations/giving.mm"/>
 <node TEXT="human body" ID="ID_735615301" CREATED="1637166164110" MODIFIED="1637166186899" LINK="compare_collocations/human%20body/">
 <node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="compare_collocations/human%20body/eating.mm"/>
 <node TEXT="body positions" ID="ID_370119368" CREATED="1643205247255" MODIFIED="1643205253124" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/human%20body/body%20positions.mm"/>
+<node TEXT="illness.mm" ID="ID_225767443" CREATED="1652791392527" MODIFIED="1652791392531" LINK="compare_collocations/human%20body/illness.mm"/>
 </node>
 <node TEXT="feelings" ID="ID_1080055901" CREATED="1637167076054" MODIFIED="1637167086394" LINK="compare_collocations/feelings/">
 <node TEXT="sadness" ID="ID_811330063" CREATED="1637167087534" MODIFIED="1637167104062" LINK="compare_collocations/feelings/sadness.mm"/>

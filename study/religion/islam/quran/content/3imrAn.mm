@@ -145,7 +145,7 @@
 <node TEXT="god talks directly to muhammad" ID="ID_661895154" CREATED="1645473453041" MODIFIED="1645473463752">
 <node TEXT="god ensures muhammad that he&apos;s receiving secred data from god" ID="ID_901882786" CREATED="1645473464277" MODIFIED="1647905563364" LINK="https://quran.com/3:44?font=v1&amp;translations=149%2C131%2C95%2C20">
 <node TEXT="" ID="ID_1991257467" CREATED="1645474921675" MODIFIED="1645474948361" LINK="#ID_866717018">
-<icon BUILTIN="chain2@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 <node TEXT="god reminds muhammad what he said before" ID="ID_1765249959" CREATED="1647990252217" MODIFIED="1647990282359" LINK="https://quran.com/3?startingVerse=124"/>
@@ -1216,7 +1216,7 @@
 <node TEXT="the best of deceivers" ID="ID_1351820815" CREATED="1645476943206" MODIFIED="1645476949103">
 <node TEXT="when disbelievers schemed against jesus god over-schemed them" ID="ID_36381940" CREATED="1645476953613" MODIFIED="1645476979164"/>
 <node TEXT="Makr" ID="ID_257293601" CREATED="1645476982110" MODIFIED="1645476997491">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <node TEXT="translated as planner, schemer" ID="ID_1328198326" CREATED="1645476998516" MODIFIED="1645477009931"/>
 </node>
 </node>

@@ -134,7 +134,7 @@
 </node>
 <node TEXT="humiliating" POSITION="right" ID="ID_844265924" CREATED="1637890355608" MODIFIED="1637890358756">
 <node TEXT="صاغرين" ID="ID_1126707036" CREATED="1637890379996" MODIFIED="1637890436913">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <node TEXT="meaning of this word" ID="ID_1249369900" CREATED="1637891319459" MODIFIED="1637891335000" LINK="https://www.quran-words.com/%D9%83%D9%84%D9%85%D8%A9/%D8%B5%D8%A7%D8%BA%D8%B1%D9%88%D9%86/48872"/>
 <node TEXT="other occurances of this word" ID="ID_495380197" CREATED="1637891468609" MODIFIED="1637891483966">
 <node TEXT="occurences in a corpus" ID="ID_1089704497" CREATED="1637892187862" MODIFIED="1637892204352" LINK="https://corpus.quran.com/search.jsp?q=%D8%B5%D8%A7%D8%BA%D8%B1%D9%8A%D9%86"/>

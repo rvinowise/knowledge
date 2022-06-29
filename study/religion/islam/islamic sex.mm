@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="islamic sex" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1633647392932"><hook NAME="MapStyle">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -252,6 +252,19 @@
 <node TEXT="" ID="ID_368857800" CREATED="1633689126171" MODIFIED="1633689141158" LINK="https://sunnah.com/bukhari:5030"/>
 </node>
 </node>
+</node>
+<node TEXT="modern news" ID="ID_1197831572" CREATED="1654236467060" MODIFIED="1654236477410">
+<node TEXT="three muhammads rape a girl, as if one wasn&apos;t enough" ID="ID_1738343801" CREATED="1654236477590" MODIFIED="1654236560351" LINK="https://swarajyamag.com/news-brief/kaushambi-gangrape-video-case-five-months-later-all-three-accused-sentenced-to-life-imprisonment">
+<node TEXT="was recorded on camera by them" ID="ID_554297979" CREATED="1654236597208" MODIFIED="1654236604735">
+<node TEXT="stupid" ID="ID_1949371235" CREATED="1654236604950" MODIFIED="1654236610575">
+<icon BUILTIN="control/hashtag"/>
+</node>
+</node>
+<node TEXT="Funny" ID="ID_1614282937" CREATED="1654236618001" MODIFIED="1654236619353">
+<icon BUILTIN="control/hashtag"/>
+</node>
+</node>
+<node TEXT="immoral porn literature by muslims against hindus" ID="ID_1005863115" CREATED="1654236518409" MODIFIED="1654236552350" LINK="https://swarajyamag.com/politics/amazon-kindle-love-jihad-pornography-rape-fantasy-books-hinduwomen-muslimmen"/>
 </node>
 </node>
 <node TEXT="sex out of marriage" POSITION="right" ID="ID_259529047" CREATED="1636173630719" MODIFIED="1636173650088">

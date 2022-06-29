@@ -303,7 +303,7 @@
 <icon BUILTIN="place@b"/>
 </node>
 <node TEXT="Maitreya" ID="ID_247217085" CREATED="1641769366171" MODIFIED="1641769372586">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node ID="ID_583031446" CREATED="1641768858891" MODIFIED="1641768906763">
 <icon BUILTIN="box_inscribed@b"/>

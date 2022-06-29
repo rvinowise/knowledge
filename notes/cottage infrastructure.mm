@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="cottage infrastructure" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1651758478467"><hook NAME="MapStyle" zoom="1.2">
     <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_305989472" CREATED="1649580569127" MODIFIED="1649580569130"/>
+<node TEXT="type: notes" POSITION="left" ID="ID_1900800161" CREATED="1651758478734" MODIFIED="1651758478751"/>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
@@ -222,19 +222,21 @@
 </node>
 </node>
 </node>
-<node TEXT="materialistic theories" POSITION="right" ID="ID_1723224585" CREATED="1649580569131" MODIFIED="1649580578911">
-<node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1649580634832" LINK="attention%20schema%20theory.mm"/>
-<node TEXT="integrated information theory (IIT)" ID="ID_1698692448" CREATED="1649580629112" MODIFIED="1651914314444" LINK="integrated%20information%20theory.mm"/>
-<node TEXT="information closure theory (ICT)" ID="ID_1763659129" CREATED="1651914298506" MODIFIED="1651914329234" LINK="file:/C:/knowledge/study/psychology/consciousness/information%20closure%20theory%20(ICT).mm"/>
-<node TEXT="geometric theory of consciousness" ID="ID_1549272598" CREATED="1651917078920" MODIFIED="1651917088207"/>
+<node TEXT="shops" POSITION="right" ID="ID_744681550" CREATED="1651758478751" MODIFIED="1651758481374">
+<node TEXT="in talezh" ID="ID_1531506187" CREATED="1651758481753" MODIFIED="1651758517237">
+<icon BUILTIN="place@b"/>
+<node TEXT="starting from may" ID="ID_421442881" CREATED="1651914371439" MODIFIED="1651914381318">
+<node TEXT="09-20" ID="ID_1315084298" CREATED="1651914348878" MODIFIED="1651914399844"/>
 </node>
-<node TEXT="quantify consciousness" POSITION="right" ID="ID_1948336920" CREATED="1651916983852" MODIFIED="1651916998659">
-<node TEXT="IIT" ID="ID_499777095" CREATED="1651916999629" MODIFIED="1651917016565" LINK="#ID_1698692448">
-<node TEXT="Phî" ID="ID_1899545725" CREATED="1651917140457" MODIFIED="1651917213882"/>
+<node TEXT="before may" ID="ID_1555227600" CREATED="1651914382756" MODIFIED="1651914386238">
+<node TEXT="09-19" ID="ID_1570902783" CREATED="1651914386472" MODIFIED="1651914389800"/>
 </node>
-<node TEXT="geometric theory of consciousness" ID="ID_705156233" CREATED="1651917093417" MODIFIED="1651917131561" LINK="#ID_1549272598"/>
-<node TEXT="" ID="ID_95912139" CREATED="1651917000679" MODIFIED="1651917003296" LINK="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01504/full#:~:text=Information%20Closure%20Theory%20of%20Consciousness%20(ICT)%20proposes%20new%20quantitative%20definitions,various%20phenomena%20associated%20with%20consciousness.">
-<icon BUILTIN="emoji-26F2"/>
+</node>
+<node TEXT="at nerastannoye" ID="ID_1348389428" CREATED="1651758486788" MODIFIED="1651758516929">
+<icon BUILTIN="place@b"/>
+</node>
+<node TEXT="farther from nerastannoye" ID="ID_367861154" CREATED="1651758497563" MODIFIED="1651758516453">
+<icon BUILTIN="place@b"/>
 </node>
 </node>
 </node>

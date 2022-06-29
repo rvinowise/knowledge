@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.2">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+<node TEXT="defects" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1653884537264"><hook NAME="MapStyle" zoom="1.2">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_305989472" CREATED="1649580569127" MODIFIED="1649580569130"/>
+<node TEXT="type: study" POSITION="left" ID="ID_1836882968" CREATED="1653884537411" MODIFIED="1653884537986"/>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
@@ -222,19 +222,58 @@
 </node>
 </node>
 </node>
-<node TEXT="materialistic theories" POSITION="right" ID="ID_1723224585" CREATED="1649580569131" MODIFIED="1649580578911">
-<node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1649580634832" LINK="attention%20schema%20theory.mm"/>
-<node TEXT="integrated information theory (IIT)" ID="ID_1698692448" CREATED="1649580629112" MODIFIED="1651914314444" LINK="integrated%20information%20theory.mm"/>
-<node TEXT="information closure theory (ICT)" ID="ID_1763659129" CREATED="1651914298506" MODIFIED="1651914329234" LINK="file:/C:/knowledge/study/psychology/consciousness/information%20closure%20theory%20(ICT).mm"/>
-<node TEXT="geometric theory of consciousness" ID="ID_1549272598" CREATED="1651917078920" MODIFIED="1651917088207"/>
+<node TEXT="exceptions" POSITION="right" ID="ID_1210697801" CREATED="1653884537989" MODIFIED="1653884569471">
+<node TEXT="indigenous?" ID="ID_1182512425" CREATED="1653884569779" MODIFIED="1653884594246">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="boneheaded" ID="ID_1521599904" CREATED="1653884640893" MODIFIED="1653884645339">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="result of a programmer&apos;s error" ID="ID_596252960" CREATED="1653884651902" MODIFIED="1653885203078">
+<icon BUILTIN="box_inscribed@b"/>
+<node TEXT="index out of range" ID="ID_844296875" CREATED="1653884847584" MODIFIED="1653884861577">
+<icon BUILTIN="present@b"/>
 </node>
-<node TEXT="quantify consciousness" POSITION="right" ID="ID_1948336920" CREATED="1651916983852" MODIFIED="1651916998659">
-<node TEXT="IIT" ID="ID_499777095" CREATED="1651916999629" MODIFIED="1651917016565" LINK="#ID_1698692448">
-<node TEXT="Phî" ID="ID_1899545725" CREATED="1651917140457" MODIFIED="1651917213882"/>
 </node>
-<node TEXT="geometric theory of consciousness" ID="ID_705156233" CREATED="1651917093417" MODIFIED="1651917131561" LINK="#ID_1549272598"/>
-<node TEXT="" ID="ID_95912139" CREATED="1651917000679" MODIFIED="1651917003296" LINK="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01504/full#:~:text=Information%20Closure%20Theory%20of%20Consciousness%20(ICT)%20proposes%20new%20quantitative%20definitions,various%20phenomena%20associated%20with%20consciousness.">
-<icon BUILTIN="emoji-26F2"/>
+<node TEXT="should be only thrown but not caught" ID="ID_105339296" CREATED="1653885358451" MODIFIED="1653885384819">
+<node TEXT="fix the error instead" ID="ID_234291917" CREATED="1653885020979" MODIFIED="1653885055273">
+<icon BUILTIN="good@bleak"/>
+</node>
+</node>
+</node>
+<node TEXT="vexing" ID="ID_684475690" CREATED="1653884645686" MODIFIED="1653884647821">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="thrown in not exceptional situations" ID="ID_1620987147" CREATED="1653884661238" MODIFIED="1653885204909">
+<icon BUILTIN="box_inscribed@b"/>
+<node TEXT="parsing error" ID="ID_1168062992" CREATED="1653884676978" MODIFIED="1653884849713">
+<icon BUILTIN="present@b"/>
+</node>
+<node TEXT="bad design" ID="ID_1735952236" CREATED="1653884983040" MODIFIED="1653884991059"/>
+</node>
+<node TEXT="avoid them if possible" ID="ID_1968804011" CREATED="1653884993930" MODIFIED="1653885056288">
+<icon BUILTIN="good@bleak"/>
+</node>
+</node>
+</node>
+<node TEXT="exogenous" ID="ID_908267041" CREATED="1653884581738" MODIFIED="1653884584862">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="force major in the external code" LOCALIZED_STYLE_REF="default" ID="ID_1313614886" CREATED="1653884866518" MODIFIED="1653885218804" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="control/type_of_parent"/>
+<icon BUILTIN="box_inscribed@b"/>
+<node TEXT="file is destroyed in the middle" ID="ID_526676840" CREATED="1653884897488" MODIFIED="1653884913936">
+<icon BUILTIN="present@b"/>
+</node>
+<node TEXT="only they should be caught" ID="ID_924012284" CREATED="1653884708751" MODIFIED="1653885061810" LINK="https://ericlippert.com/2008/09/10/vexing-exceptions/">
+<icon BUILTIN="good@bleak"/>
+</node>
+</node>
+<node TEXT="fatal" ID="ID_40614774" CREATED="1653884925994" MODIFIED="1653884946586">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="out of memory" ID="ID_1737563726" CREATED="1653884946990" MODIFIED="1653884953136">
+<icon BUILTIN="present@b"/>
+</node>
+<node TEXT="ignore them - they are uncontrollable" ID="ID_151091772" CREATED="1653885066380" MODIFIED="1653893173798">
+<icon BUILTIN="good@bleak"/>
+</node>
+</node>
 </node>
 </node>
 </node>

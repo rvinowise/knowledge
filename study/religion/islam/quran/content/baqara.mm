@@ -1494,7 +1494,7 @@
 </node>
 <node TEXT="kafara" ID="ID_1860631796" CREATED="1643661935996" MODIFIED="1643661962608">
 <icon BUILTIN="control/comment"/>
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <node TEXT="is translated either as &quot;deny&quot; or &quot;disbelieve&quot; by different translators" ID="ID_1330934663" CREATED="1643661963811" MODIFIED="1643662017317" LINK="https://quran.com/2:161?font=v1&amp;translations=149%2C171%2C167%2C95%2C20"/>
 </node>
 <node TEXT="concealing the scriptures from laymen" ID="ID_990064516" CREATED="1643673059684" MODIFIED="1643937462597">

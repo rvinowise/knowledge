@@ -147,7 +147,7 @@
 
 </richcontent>
 <node TEXT="يَأْتُوا" ID="ID_1927358596" CREATED="1638383751902" MODIFIED="1638383786206">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="quran 2:23" ID="ID_515588104" CREATED="1638382964765" MODIFIED="1638382979625" LINK="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D2%3Averse%3D23"/>
 <node TEXT="quran 10:38" ID="ID_90787731" CREATED="1638382993195" MODIFIED="1638383000123" LINK="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0004%3Asura%3D10%3Averse%3D38"/>

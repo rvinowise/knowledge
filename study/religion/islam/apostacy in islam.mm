@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="apostacy in islam" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1630084103645"><hook NAME="MapStyle" zoom="1.1">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -124,7 +124,8 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="causing events" STYLE_REF="list item" ID="ID_1264174804" CREATED="1633949066604" MODIFIED="1633949101640">
+<node TEXT="by simon cottee" ID="ID_659403148" CREATED="1653901566853" MODIFIED="1653901599489">
+<node TEXT="causing events" STYLE_REF="list item" FOLDED="true" ID="ID_1264174804" CREATED="1633949066604" MODIFIED="1633949101640">
 <node TEXT="significant personal experiences" STYLE_REF="list item" ID="ID_1943233073" CREATED="1633949146789" MODIFIED="1633949245338">
 <node TEXT="death of a loved one" ID="ID_1558304941" CREATED="1633950153067" MODIFIED="1633950153067"/>
 <node TEXT="souring or severing of a life-long friendship" ID="ID_146447309" CREATED="1633950153067" MODIFIED="1633950153067"/>
@@ -147,7 +148,7 @@
 <node TEXT="spiritual alienation" STYLE_REF="list item" ID="ID_1494643204" CREATED="1633949196275" MODIFIED="1633949267458"/>
 <node TEXT="political events" STYLE_REF="list item" ID="ID_1730399203" CREATED="1633949204471" MODIFIED="1633949245340"/>
 </node>
-<node TEXT="doubt" STYLE_REF="list item" ID="ID_1953985907" CREATED="1633947426460" MODIFIED="1635478548624" LINK="doubts.mm#ID_696401721" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="doubt" STYLE_REF="list item" FOLDED="true" ID="ID_1953985907" CREATED="1633947426460" MODIFIED="1635478548624" LINK="doubts.mm#ID_696401721" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="nagging whisper in the mind (waswas)" STYLE_REF="list item" ID="ID_1674407662" CREATED="1630145448782" MODIFIED="1632139730306">
 <node TEXT="many muslims have waswas, but willingly avoid thinking about it, knowing that apostacy will destroy their life" ID="ID_1492114136" CREATED="1630280372154" MODIFIED="1633041349253"/>
 </node>
@@ -230,13 +231,13 @@
 <icon BUILTIN="bad@bleak"/>
 </node>
 </node>
-<node TEXT="fear of hell postpones apostasy" STYLE_REF="list item" ID="ID_150785069" CREATED="1641968529996" MODIFIED="1641968566631">
+<node TEXT="fear of hell postpones apostasy" STYLE_REF="list item" FOLDED="true" ID="ID_150785069" CREATED="1641968529996" MODIFIED="1641968566631">
 <node TEXT="reddit exmuslim stories" ID="ID_1796463786" CREATED="1641968603388" MODIFIED="1641968607360">
 <icon BUILTIN="emoji-26F2"/>
 <node TEXT="" LOCALIZED_STYLE_REF="default" ID="ID_1367974788" CREATED="1641968572074" MODIFIED="1641968609289" LINK="https://www.reddit.com/r/exmuslim/comments/4lmqge/doubting_islam_paranoia_what_made_you_leave_islam/" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
 </node>
-<node TEXT="deciding that one is not a muslim" STYLE_REF="list item" ID="ID_173898060" CREATED="1630280796395" MODIFIED="1632139730309">
+<node TEXT="deciding that one is not a muslim" STYLE_REF="list item" FOLDED="true" ID="ID_173898060" CREATED="1630280796395" MODIFIED="1632139730309">
 <node TEXT="often when the religious experience should be the strongest" ID="ID_1792285876" CREATED="1630283554112" MODIFIED="1630283941230">
 <node TEXT="during hajj" ID="ID_404929542" CREATED="1630283575458" MODIFIED="1630283585094"/>
 <node TEXT="during ramadan" ID="ID_705237778" CREATED="1630283600866" MODIFIED="1630283604734"/>
@@ -259,20 +260,20 @@
 </node>
 </node>
 <node TEXT="disavowal" ID="ID_1548712109" CREATED="1635532952189" MODIFIED="1635532976818">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <node TEXT="disavowing Islam" ID="ID_546363365" CREATED="1635647272243" MODIFIED="1635647272243"/>
 </node>
 </node>
-<node TEXT="feeling euphoria" STYLE_REF="list item" ID="ID_1173332463" CREATED="1635996643244" MODIFIED="1635996651972">
+<node TEXT="feeling euphoria" STYLE_REF="list item" FOLDED="true" ID="ID_1173332463" CREATED="1635996643244" MODIFIED="1635996651972">
 <icon BUILTIN="good@bleak"/>
 <node TEXT="freedom" ID="ID_885930274" CREATED="1635996618036" MODIFIED="1635996716532"/>
 </node>
-<node TEXT="depression" STYLE_REF="list item" ID="ID_1263800087" CREATED="1635996606767" MODIFIED="1635996616791">
+<node TEXT="depression" STYLE_REF="list item" FOLDED="true" ID="ID_1263800087" CREATED="1635996606767" MODIFIED="1635996616791">
 <icon BUILTIN="bad@bleak"/>
 <node TEXT="lack of meaning" ID="ID_1872069361" CREATED="1635996676596" MODIFIED="1635996701503"/>
 <node TEXT="fear of death" ID="ID_82231346" CREATED="1635996691862" MODIFIED="1635996695035"/>
 </node>
-<node TEXT="disclosing the apostacy" STYLE_REF="list item" ID="ID_643561276" CREATED="1630280887855" MODIFIED="1632139730311">
+<node TEXT="disclosing the apostacy" STYLE_REF="list item" FOLDED="true" ID="ID_643561276" CREATED="1630280887855" MODIFIED="1632139730311">
 <node TEXT="priority" STYLE_REF="structuring hub" ID="ID_791984819" CREATED="1630285882920" MODIFIED="1630287322741" STYLE="fork">
 <node TEXT="to the friends" STYLE_REF="list item" ID="ID_291141903" CREATED="1630280929360" MODIFIED="1632139774374">
 <node TEXT="muslim best friends often become enemies" ID="ID_547142376" CREATED="1630283844912" MODIFIED="1630283896703"/>
@@ -291,11 +292,15 @@
 <node TEXT="loudly" ID="ID_1749893892" CREATED="1630060641032" MODIFIED="1630060645029"/>
 </node>
 </node>
-<node TEXT="hatred, decrying islam" STYLE_REF="list item" ID="ID_1508977383" CREATED="1630147082687" MODIFIED="1632139730312">
+<node TEXT="hatred, decrying islam" STYLE_REF="list item" FOLDED="true" ID="ID_1508977383" CREATED="1630147082687" MODIFIED="1632139730312">
 <node TEXT="revelling in the anonymity of online forums" ID="ID_1920797760" CREATED="1630279777062" MODIFIED="1630279870127"/>
 </node>
 <node TEXT="shame for decrying islam, cooling down" STYLE_REF="list item" ID="ID_1933979691" CREATED="1630279513642" MODIFIED="1632139730275"/>
 <node TEXT="takes months or years overall" ID="ID_293402126" CREATED="1633948859131" MODIFIED="1633948918653"/>
+</node>
+<node TEXT="by Sheraz Malik from Ibn Warraq" ID="ID_982390634" CREATED="1653901600409" MODIFIED="1653901635886">
+<node TEXT="" ID="ID_1256415959" CREATED="1653901637320" MODIFIED="1653901637320"/>
+</node>
 </node>
 <node TEXT="reasons" STYLE_REF="topic" POSITION="right" ID="ID_240288381" CREATED="1630060381910" MODIFIED="1635997786692" BACKGROUND_COLOR="#ffffff">
 <edge COLOR="#000000"/>
@@ -383,9 +388,11 @@
 <node TEXT="" STYLE_REF="topic" POSITION="left" ID="ID_333829316" CREATED="1630069644337" MODIFIED="1633370418999">
 <icon BUILTIN="emoji-26F2"/>
 <edge COLOR="#000000"/>
-<node TEXT="The Apostates When Muslims Leave Islam, Simon Cottee" ID="ID_1702352580" CREATED="1630069651095" MODIFIED="1634413707693" LINK="../../../../../M:/books/religion/The%20Apostates%20When%20Muslims%20Leave%20Islam%20by%20Simon%20Cottee%20%5BCottee,%20Simon%5D.pdf">
+<node TEXT="The Apostates When Muslims Leave Islam, by Simon Cottee" ID="ID_1702352580" CREATED="1630069651095" MODIFIED="1653893588582" LINK="../../../../../M:/books/religion/The%20Apostates%20When%20Muslims%20Leave%20Islam%20by%20Simon%20Cottee%20%5BCottee,%20Simon%5D.pdf">
 <edge COLOR="#000000"/>
 </node>
+<node TEXT="Conversion Out of Islam:&#xa;A Study of Conversion&#xa;Narratives of Former&#xa;Muslims by Mohammad Hassan Khalil and Mucahit Bilici" ID="ID_1408224936" CREATED="1653373494196" MODIFIED="1653373539795" LINK="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/72141/j.1478-1913.2007.00161.x.pdf"/>
+<node TEXT="Leaving Islam Apostates Speak Out, by Ibn Warraq.epub" ID="ID_396420083" CREATED="1653893548745" MODIFIED="1653893579047" LINK="../../../../../M:/books/religion/Leaving%20Islam%20Apostates%20Speak%20Out%20(Ibn%20Warraq).epub"/>
 </node>
 <node TEXT="type: study" POSITION="left" ID="ID_823880055" CREATED="1631768184742" MODIFIED="1631769816807"/>
 </node>

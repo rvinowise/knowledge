@@ -292,7 +292,7 @@
 <node TEXT="(is) mihi dixit" ID="ID_121872238" CREATED="1637131598600" MODIFIED="1637318983504" LINK="https://en.wikipedia.org/wiki/Sequence_of_tenses#Latin" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="accusativus cum infinitivo" ID="ID_866702822" CREATED="1637299459730" MODIFIED="1637300677613">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <node TEXT="praesens" ID="ID_348168143" CREATED="1637301387039" MODIFIED="1637301396674">
 <node TEXT="the reported action at the time of the report" ID="ID_753223580" CREATED="1637302052986" MODIFIED="1637318378959">
 <icon BUILTIN="box_inscribed@b"/>
@@ -396,7 +396,7 @@
 <node TEXT="ut" ID="ID_1959563415" CREATED="1637295973809" MODIFIED="1637295977365" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="ut clause" ID="ID_858232908" CREATED="1637299730876" MODIFIED="1637300832397">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="coniunctivus" ID="ID_640005736" CREATED="1637296019018" MODIFIED="1637299842123">
 <node TEXT="imperfectum" ID="ID_880548504" CREATED="1637296322659" MODIFIED="1637296348610">
@@ -460,7 +460,7 @@
 <node TEXT="ut" ID="ID_638713888" CREATED="1637295973809" MODIFIED="1637295977365" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="ut clause" ID="ID_964632720" CREATED="1637299730876" MODIFIED="1637300832397">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="coniunctivus" ID="ID_1931534732" CREATED="1637296019018" MODIFIED="1637299842123">
 <node TEXT="imperfectum" ID="ID_674532908" CREATED="1637296322659" MODIFIED="1637296348610">

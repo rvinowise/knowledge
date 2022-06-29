@@ -126,7 +126,7 @@
 <node TEXT="legend" POSITION="left" ID="ID_1689244377" CREATED="1634205230614" MODIFIED="1634205234911" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="islamic (arabic) term" ID="ID_396640454" CREATED="1634205236710" MODIFIED="1634205417255">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 <node TEXT="two types" POSITION="right" ID="ID_12274285" CREATED="1635006261554" MODIFIED="1635006272282">
@@ -156,7 +156,7 @@
 <icon BUILTIN="emoji-26F2"/>
 </node>
 <node TEXT="satanic whispers, misgivings" ID="ID_1357540928" CREATED="1635006322943" MODIFIED="1635006394015">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node ID="ID_923503907" CREATED="1635118149884" MODIFIED="1635118173069"><richcontent TYPE="NODE">
 
@@ -198,7 +198,7 @@
 <node TEXT="having a big Faith" ID="ID_76879475" CREATED="1634205985435" MODIFIED="1634206318505">
 <node TEXT="which shaitan wants to steal" ID="ID_351218948" CREATED="1634206048596" MODIFIED="1634206060190"/>
 <node TEXT="ImAn" ID="ID_668331899" CREATED="1634206064459" MODIFIED="1634206266223">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 </node>
@@ -430,11 +430,11 @@
 <font ITALIC="true"/>
 </node>
 <node TEXT="mukAffir" LOCALIZED_STYLE_REF="default" ID="ID_1606146356" CREATED="1636001559449" MODIFIED="1636001723867" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <node TEXT="act that makes you a non-muslim" ID="ID_574502665" CREATED="1636001573794" MODIFIED="1636001581701"/>
 </node>
 <node TEXT="takfIr" LOCALIZED_STYLE_REF="default" ID="ID_376061736" CREATED="1636001586277" MODIFIED="1636001844922" LINK="https://en.wikipedia.org/wiki/Takfir" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <node TEXT="excommunication from islam" ID="ID_1616029676" CREATED="1636001593594" MODIFIED="1636001616082"/>
 <node TEXT="takfIrIy" ID="ID_113180117" CREATED="1636001620196" MODIFIED="1636001667361">
 <node TEXT="person excommunicating $b from islam" ID="ID_681968216" CREATED="1636001624498" MODIFIED="1636001697162"/>
@@ -456,11 +456,11 @@
 <node TEXT="anxiety" ID="ID_694159162" CREATED="1634204928221" MODIFIED="1634204931096">
 <node TEXT="at the possibility of becoming an Apostate" LOCALIZED_STYLE_REF="default" ID="ID_1851286979" CREATED="1634204936831" MODIFIED="1634208217971" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="murtad" ID="ID_265080757" CREATED="1634205200827" MODIFIED="1634206276981">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="or kAfir (slur)" ID="ID_1485789104" CREATED="1634205200827" MODIFIED="1634206359312">
 <node TEXT="infidel" ID="ID_713970425" CREATED="1634206372627" MODIFIED="1634206383426">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 </node>

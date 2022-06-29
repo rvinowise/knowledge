@@ -179,7 +179,7 @@
 <node TEXT="mashiah" ID="ID_1232978262" CREATED="1635624741176" MODIFIED="1635710405105">
 <icon BUILTIN="man_bust@b"/>
 <node TEXT="messÎah" ID="ID_281456483" CREATED="1635624902536" MODIFIED="1635625808464">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="yeshua of nazareth" ID="ID_878737024" CREATED="1635624750883" MODIFIED="1635723593779">
 <icon BUILTIN="raised_hand@w"/>
@@ -267,7 +267,7 @@
 <node TEXT="imam mahdi" LOCALIZED_STYLE_REF="default" ID="ID_151797709" CREATED="1635627792505" MODIFIED="1635710406056">
 <icon BUILTIN="man_bust@b"/>
 <node TEXT="twelfth imam" ID="ID_322117385" CREATED="1635627801867" MODIFIED="1635640678549">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="mahdi&apos;ism" LOCALIZED_STYLE_REF="default" ID="ID_184539318" CREATED="1635639417198" MODIFIED="1642494765099" LINK="https://en.wikipedia.org/wiki/List_of_Mahdi_claimants" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="raised_hand@w"/>
@@ -276,10 +276,10 @@
 <node TEXT="ahmadiyya" ID="ID_792966799" CREATED="1635638894966" MODIFIED="1635640775837">
 <icon BUILTIN="outcome"/>
 <node TEXT="qadiAni (slur)" ID="ID_1489370740" CREATED="1635638910817" MODIFIED="1635638941985">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="ahmadi muslims" ID="ID_490604726" CREATED="1635640767051" MODIFIED="1635640770325">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="lahore ahmadiyya" ID="ID_101125776" CREATED="1635722677013" MODIFIED="1635722705967">
 <icon BUILTIN="control/type_of_parent"/>

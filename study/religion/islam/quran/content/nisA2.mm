@@ -310,9 +310,9 @@
 </node>
 <node TEXT="if you don&apos;t like your wife - maybe allah has hidden in her something good for you" ID="ID_1217020595" CREATED="1650235513127" MODIFIED="1650235618176" LINK="https://quran.com/4?startingVerse=19"/>
 <node TEXT="if you want to replace one wife with another" ID="ID_737476131" CREATED="1650235898274" MODIFIED="1650235940149">
-<icon BUILTIN="programming/input@b"/>
+<icon BUILTIN="programming/input"/>
 <node TEXT="if you have given the divorced woman gifts" ID="ID_644376090" CREATED="1650235911258" MODIFIED="1650236375922">
-<icon BUILTIN="programming/input@b"/>
+<icon BUILTIN="programming/input"/>
 <node TEXT="don&apos;t take those gifts back" ID="ID_31201767" CREATED="1650235930172" MODIFIED="1650236752810" LINK="https://quran.com/4?startingVerse=21">
 <icon BUILTIN="good@bleak"/>
 <node TEXT="because you were intimate and pledged to each other" ID="ID_187511637" CREATED="1650236723680" MODIFIED="1650236739698" LINK="#ID_1557863180"/>
@@ -387,7 +387,7 @@
 </node>
 </node>
 <node TEXT="if spouses have an argument" ID="ID_389480556" CREATED="1650945568677" MODIFIED="1650945588583">
-<icon BUILTIN="programming/input@b"/>
+<icon BUILTIN="programming/input"/>
 <node TEXT="assign two arbitrators (judges) from both sides" ID="ID_903922196" CREATED="1650945591233" MODIFIED="1650945628881">
 <node TEXT="to settle the dispute" ID="ID_585915399" CREATED="1650945631682" MODIFIED="1650945636175"/>
 <node TEXT="controversy" ID="ID_1432990579" CREATED="1650945638262" MODIFIED="1650945645631">
@@ -449,7 +449,7 @@
 </node>
 </node>
 <node TEXT="if a woman has illegal sex" LOCALIZED_STYLE_REF="default" ID="ID_1266070674" CREATED="1650230242114" MODIFIED="1650592948398" LINK="https://quran.com/4?startingVerse=15" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="programming/input@b"/>
+<icon BUILTIN="programming/input"/>
 <icon BUILTIN="useless"/>
 <node TEXT="call 4 witnesses to prove that" ID="ID_865287800" CREATED="1650230224320" MODIFIED="1650230436010"/>
 <node TEXT="restrain her in the house" ID="ID_1596095248" CREATED="1650230295636" MODIFIED="1650230671000">
@@ -467,7 +467,7 @@
 </node>
 </node>
 <node TEXT="if two lovers have illegal sex" LOCALIZED_STYLE_REF="default" ID="ID_997635729" CREATED="1650230522377" MODIFIED="1650592942551" LINK="https://quran.com/4?startingVerse=16" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="programming/input@b"/>
+<icon BUILTIN="programming/input"/>
 <icon BUILTIN="useless"/>
 <node TEXT="torture both" ID="ID_1261965053" CREATED="1650230551235" MODIFIED="1650230672150">
 <icon BUILTIN="good@bleak"/>
@@ -548,7 +548,7 @@
 <icon BUILTIN="emoji-26F2"/>
 </node>
 <node TEXT="kalAla - person without descendents and ascendents" LOCALIZED_STYLE_REF="default" ID="ID_1984777700" CREATED="1650227869765" MODIFIED="1650228048185" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 </node>
@@ -658,7 +658,7 @@
 </node>
 <node TEXT="allah set up bounds in quran" ID="ID_548912656" CREATED="1650229338938" MODIFIED="1650229358314" LINK="https://quran.com/4?startingVerse=13">
 <node TEXT="hudUd" ID="ID_478379900" CREATED="1650229377625" MODIFIED="1650229383833">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="for overstepping these bounds people will go to hell" ID="ID_245720098" CREATED="1650229644156" MODIFIED="1650229660340" LINK="https://quran.com/4?startingVerse=14"/>
 </node>
@@ -675,9 +675,9 @@
 <node TEXT="" ID="ID_1532177202" CREATED="1650971454205" MODIFIED="1650971454205"/>
 </node>
 <node TEXT="if you &quot;touched a woman&quot;" LOCALIZED_STYLE_REF="default" ID="ID_4729019" CREATED="1650971481820" MODIFIED="1650972965237" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="programming/input@b"/>
+<icon BUILTIN="programming/input"/>
 <node TEXT="if you&apos;re travelling or sick" ID="ID_385023936" CREATED="1650971518118" MODIFIED="1650971587823">
-<icon BUILTIN="programming/input@b"/>
+<icon BUILTIN="programming/input"/>
 <node TEXT="" ID="ID_210059270" CREATED="1650971626808" MODIFIED="1650971626808"/>
 <node TEXT="else" ID="ID_993292188" CREATED="1650971615419" MODIFIED="1650971620052">
 <node TEXT="" ID="ID_1908006846" CREATED="1650971629081" MODIFIED="1650971629081"/>
@@ -693,7 +693,7 @@
 </node>
 </node>
 <node TEXT="if you&apos;re drunk" ID="ID_1701257024" CREATED="1650971667020" MODIFIED="1650971684227">
-<icon BUILTIN="programming/input@b"/>
+<icon BUILTIN="programming/input"/>
 <node TEXT="wait till you know what you&apos;re saying and then pray" ID="ID_1512908684" CREATED="1650971684478" MODIFIED="1650971706846">
 <icon BUILTIN="good@bleak"/>
 </node>

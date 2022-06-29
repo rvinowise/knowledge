@@ -143,7 +143,7 @@
 </node>
 <node TEXT="" ID="ID_1190359188" CREATED="1636768676923" MODIFIED="1636769085274">
 <node TEXT="ad hominem" ID="ID_258119347" CREATED="1636768684355" MODIFIED="1636768701182">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="you have little knowledge" ID="ID_370888129" CREATED="1636768952052" MODIFIED="1636769041904">
 <icon BUILTIN="quote@b"/>
@@ -166,7 +166,7 @@
 <node TEXT="assuming the conclusion" ID="ID_788443853" CREATED="1636768479324" MODIFIED="1636768595498">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="begging the question" ID="ID_587968010" CREATED="1636768501703" MODIFIED="1636768517727">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="circular reasoning" ID="ID_422677558" CREATED="1636768494163" MODIFIED="1636768595034">
 <icon BUILTIN="control/type_of_parent"/>

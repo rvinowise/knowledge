@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="integrated information theory (IIT)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649591920324"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -236,7 +236,8 @@
 <node TEXT="jake hanson" ID="ID_339461726" CREATED="1649581208040" MODIFIED="1649581231971" LINK="https://www.youtube.com/watch?v=oPg09MfQEMI&amp;t=1392s&amp;ab_channel=JakeHanson"/>
 <node TEXT="a fly should have lower level of Phi (consciousness) after anesthesia" ID="ID_1667573437" CREATED="1649581322686" MODIFIED="1649581360321"/>
 </node>
-<node TEXT="philosophical zombies are possible" POSITION="right" ID="ID_1763301991" CREATED="1649581941565" MODIFIED="1649581953258">
+<node TEXT="predictions" POSITION="right" ID="ID_1846642772" CREATED="1651914757296" MODIFIED="1651914775224">
+<node TEXT="philosophical zombies are possible" ID="ID_1763301991" CREATED="1649581941565" MODIFIED="1649581953258">
 <node TEXT="because Feedback is needed for consciousness" ID="ID_810497754" CREATED="1649581953394" MODIFIED="1649592036014">
 <node TEXT="any system can be rewired to not have the feedback, while still doing the same work" ID="ID_472664310" CREATED="1649581973097" MODIFIED="1649582046880">
 <node TEXT="krohn-rhodes theorem" ID="ID_851712614" CREATED="1649582957843" MODIFIED="1649582972228">
@@ -262,9 +263,37 @@
 <node TEXT="it&apos;s impossible to test" ID="ID_1858020670" CREATED="1649591923214" MODIFIED="1649591929062"/>
 <node TEXT="it&apos;s not a scientific theory" ID="ID_1783754767" CREATED="1649592260429" MODIFIED="1649592267399"/>
 </node>
+<node TEXT="if i simulate water on my PC - it&apos;s now wet inside. same with consciousness." ID="ID_286862374" CREATED="1651915144703" MODIFIED="1651915176661"/>
+</node>
+<node TEXT="split-brain pacients have two consciousness" ID="ID_378176449" CREATED="1651914799822" MODIFIED="1651914811203">
+<node TEXT="their hemispheres are connected, yet the maximum integrated information (Phi) of the whole brain is smaller than for each hemisphere" ID="ID_1564470861" CREATED="1651914813218" MODIFIED="1651915016086"/>
+</node>
+<node TEXT="my left hemisphere is not conscious right now" ID="ID_496843988" CREATED="1651915058633" MODIFIED="1651915079089"/>
 </node>
 <node TEXT="it makes the transition from pre-theoretic definitions of &quot;consciousness&quot; to a well-defined one (Phi)" POSITION="right" ID="ID_718608171" CREATED="1649593154929" MODIFIED="1649593312068">
 <icon BUILTIN="good@bleak"/>
+</node>
+<node TEXT="doesn&apos;t address the metaquestion of consciousness" POSITION="right" ID="ID_417792410" CREATED="1651924962475" MODIFIED="1651924996932">
+<icon BUILTIN="bad@bleak"/>
+<node TEXT="chalmers at HBP" ID="ID_917408526" CREATED="1651925007577" MODIFIED="1651925032351" LINK="https://www.youtube.com/watch?v=LGZiF7f83Rs">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+<node TEXT="starts from the experience" POSITION="right" ID="ID_1025003048" CREATED="1651914438082" MODIFIED="1651914450307">
+<node TEXT="the only thing we&apos;re certain about" ID="ID_336273837" CREATED="1651914450421" MODIFIED="1651914463785"/>
+<node TEXT="based on axioms about consciousness feelings" ID="ID_168534793" CREATED="1651914466579" MODIFIED="1651914654617">
+<node TEXT="it&apos;s unified and not composed of many feelings" ID="ID_1649307951" CREATED="1651914489829" MODIFIED="1651914568231"/>
+<node TEXT="it&apos;s specific and not anything else" ID="ID_1757323713" CREATED="1651914529377" MODIFIED="1651914548608"/>
+<node TEXT="it&apos;s private and only accessible to me" ID="ID_1230660113" CREATED="1651914505890" MODIFIED="1651914529196"/>
+<node TEXT="" ID="ID_15616094" CREATED="1651914576140" MODIFIED="1651914576140"/>
+</node>
+</node>
+<node TEXT="people" POSITION="right" ID="ID_199603214" CREATED="1652004764535" MODIFIED="1652004768482">
+<node TEXT="giulio tononi" ID="ID_260737897" CREATED="1652004797180" MODIFIED="1652005907508">
+<node TEXT="creator" ID="ID_1568770674" CREATED="1652004808482" MODIFIED="1652004811745"/>
+</node>
+<node TEXT="larissa albantakis" ID="ID_30740893" CREATED="1652004768612" MODIFIED="1652005921798"/>
+<node TEXT="koch" ID="ID_75611568" CREATED="1652004818971" MODIFIED="1652004829821"/>
 </node>
 <node TEXT="" POSITION="right" ID="ID_1106772369" CREATED="1650122345583" MODIFIED="1650122349617">
 <icon BUILTIN="emoji-26F2"/>

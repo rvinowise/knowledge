@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="overview" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649580569109"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="eating" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637166190929"><hook NAME="MapStyle" zoom="3.113">
     <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
@@ -38,7 +38,7 @@
 <edge STYLE="hide_edge" COLOR="#000000"/>
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.selection"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffffff" BACKGROUND_ALPHA="0" BORDER_WIDTH="3 px" BORDER_COLOR="#ff8080" BORDER_DASH="SOLID"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
@@ -137,104 +137,94 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: study" POSITION="left" ID="ID_305989472" CREATED="1649580569127" MODIFIED="1649580569130"/>
-<node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
-<font NAME="Tahoma"/>
-<node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
-<font NAME="Tahoma" BOLD="true"/>
-<node TEXT="topic" ID="ID_1565487616" CREATED="1633811189288" MODIFIED="1635773283874" COLOR="#7f7f7f">
-<font NAME="Tahoma" BOLD="true"/>
-</node>
-<node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
-<icon BUILTIN="question@b"/>
-<font NAME="Tahoma" ITALIC="true"/>
-</node>
-<node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
-<icon BUILTIN="emoji-26F2"/>
-<richcontent TYPE="NODE">
-
+<node TEXT="type: compare_colocations" POSITION="left" ID="ID_1299220531" CREATED="1637166190937" MODIFIED="1637166190939"/>
+<node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="amerian english" ID="ID_682913888" CREATED="1637117102145" MODIFIED="1637128718255"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      name of a source <i>a phrase in a source to find it</i>
+      AME
     </p>
   </body>
-</html>
-</richcontent>
-<font NAME="Tahoma" ITALIC="false"/>
+</html></richcontent>
 </node>
 </node>
-<node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
-<font NAME="Tahoma"/>
-<node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
-<icon BUILTIN="present@b"/>
-<font NAME="Tahoma"/>
+<node TEXT="2" ID="ID_1773790543" CREATED="1637117154806" MODIFIED="1637131455805">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="spanish" ID="ID_1958522291" CREATED="1637117154806" MODIFIED="1637128709006"/>
 </node>
-<node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
-<icon BUILTIN="control/type_of_parent"/>
-<font NAME="Tahoma"/>
+<node TEXT="3" ID="ID_1473592466" CREATED="1637125216163" MODIFIED="1637131457083">
+<icon BUILTIN="emoji-1F1EB-1F1F7"/>
+<node TEXT="french" ID="ID_434342138" CREATED="1637117151189" MODIFIED="1637128583329" BACKGROUND_COLOR="#ffffff"/>
 </node>
-<node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="question@b"/>
-<icon BUILTIN="question@b"/>
-<font NAME="Tahoma"/>
+<node TEXT="4" ID="ID_403235329" CREATED="1637126462159" MODIFIED="1637131457796">
+<icon BUILTIN="emoji-1F1EC-1F1F7"/>
+<node TEXT="greek" ID="ID_1698930108" CREATED="1637117158741" MODIFIED="1637128583329"/>
 </node>
-<node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
-<icon BUILTIN="box_inscribed@b"/>
-<font NAME="Tahoma"/>
+<node TEXT="5" ID="ID_632092175" CREATED="1637126465234" MODIFIED="1637131458352">
+<icon BUILTIN="heraldics/roman_empire"/>
+<node TEXT="latin" ID="ID_1156533169" CREATED="1637117168846" MODIFIED="1637128583330"/>
 </node>
-<node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
-<font NAME="Tahoma"/>
-<node TEXT="100 bc - 50bc" ID="ID_1628273348" CREATED="1633812654399" MODIFIED="1635773283879">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="100 CE" ID="ID_1944988493" CREATED="1633812721835" MODIFIED="1635773283880">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="100AD" ID="ID_1020979489" CREATED="1633812760263" MODIFIED="1635773283881">
-<font NAME="Tahoma"/>
-</node>
-</node>
-<node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
-<icon BUILTIN="question@b"/>
-<font NAME="Tahoma"/>
-<node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
-
+<node TEXT="6" ID="ID_93050694" CREATED="1637126468425" MODIFIED="1637131459075">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="standard arabic" ID="ID_749941288" CREATED="1637117160288" MODIFIED="1637128673461"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      questionable node
+      MSA
     </p>
   </body>
-</html>
-</richcontent>
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="question for sb" ID="ID_1568891880" CREATED="1633811581054" MODIFIED="1635773283883">
-<font NAME="Tahoma"/>
+</html></richcontent>
 </node>
 </node>
+<node TEXT="7" ID="ID_49222917" CREATED="1637128504162" MODIFIED="1637131459846">
+<icon BUILTIN="emoji-1F1EC-1F1E7"/>
+<node TEXT="british english" ID="ID_1532772911" CREATED="1637128525577" MODIFIED="1637128747347"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      BRE
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
-<node TEXT="materialistic theories" POSITION="right" ID="ID_1723224585" CREATED="1649580569131" MODIFIED="1649580578911">
-<node TEXT="attention schema theory" ID="ID_784820462" CREATED="1649580626470" MODIFIED="1649580634832" LINK="attention%20schema%20theory.mm"/>
-<node TEXT="integrated information theory (IIT)" ID="ID_1698692448" CREATED="1649580629112" MODIFIED="1651914314444" LINK="integrated%20information%20theory.mm"/>
-<node TEXT="information closure theory (ICT)" ID="ID_1763659129" CREATED="1651914298506" MODIFIED="1651914329234" LINK="file:/C:/knowledge/study/psychology/consciousness/information%20closure%20theory%20(ICT).mm"/>
-<node TEXT="geometric theory of consciousness" ID="ID_1549272598" CREATED="1651917078920" MODIFIED="1651917088207"/>
 </node>
-<node TEXT="quantify consciousness" POSITION="right" ID="ID_1948336920" CREATED="1651916983852" MODIFIED="1651916998659">
-<node TEXT="IIT" ID="ID_499777095" CREATED="1651916999629" MODIFIED="1651917016565" LINK="#ID_1698692448">
-<node TEXT="Phî" ID="ID_1899545725" CREATED="1651917140457" MODIFIED="1651917213882"/>
+<node TEXT="infected" POSITION="right" ID="ID_44751780" CREATED="1652791601905" MODIFIED="1652791609030">
+<node TEXT="infected" ID="ID_1170128977" CREATED="1652791609220" MODIFIED="1652822637283" COLOR="#000000" BACKGROUND_COLOR="#ffcccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="with" ID="ID_1132932448" CREATED="1652791631366" MODIFIED="1652822598566" COLOR="#000000" BACKGROUND_COLOR="#ffffcc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="syphilis" ID="ID_967723246" CREATED="1652791632955" MODIFIED="1652791651904" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
 </node>
-<node TEXT="geometric theory of consciousness" ID="ID_705156233" CREATED="1651917093417" MODIFIED="1651917131561" LINK="#ID_1549272598"/>
-<node TEXT="" ID="ID_95912139" CREATED="1651917000679" MODIFIED="1651917003296" LINK="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01504/full#:~:text=Information%20Closure%20Theory%20of%20Consciousness%20(ICT)%20proposes%20new%20quantitative%20definitions,various%20phenomena%20associated%20with%20consciousness.">
-<icon BUILTIN="emoji-26F2"/>
+</node>
+<node TEXT="become" ID="ID_108700869" CREATED="1652791679843" MODIFIED="1652822637284" COLOR="#000000" BACKGROUND_COLOR="#ffcccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+</node>
+</node>
+<node TEXT="أَصَابَ" ID="ID_1870565590" CREATED="1652822401923" MODIFIED="1652822637279" COLOR="#000000" BACKGROUND_COLOR="#ffcccc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="يُصِيبُ‎‎" ID="ID_255249981" CREATED="1652822517019" MODIFIED="1652822536890" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="punctuation/equal@b"/>
+</node>
+<node TEXT="بِ" ID="ID_1967414217" CREATED="1652822555077" MODIFIED="1652822598562" COLOR="#000000" BACKGROUND_COLOR="#ffffcc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
 </node>
 </node>
 </node>

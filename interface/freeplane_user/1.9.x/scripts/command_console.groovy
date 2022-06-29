@@ -27,8 +27,10 @@ def c
 def node
 def user_dir
 def styler //Text_styler
-def renamer
+def renamer //Renamer
 File_system file_system
+def database;
+
 
 Commander(_node, _c) {
     c = _c
@@ -36,7 +38,8 @@ Commander(_node, _c) {
 	styler = new Text_styler(c, node)
 	renamer = new Renamer(c, node)
 	file_system = new File_system(c, node);
-	
+	database = new Database_integrator(c,node);
+
     user_dir = c.getUserDirectory()
     FileHandler handler = new FileHandler("$user_dir/logs/Commander.log", true);
 	handler.setFormatter(new SimpleFormatter())
@@ -45,24 +48,6 @@ Commander(_node, _c) {
 
 
 def run_on_node(main_node) {
-	// def file_path = main_node.link.file.toURI()
-	// def base_path = main_node.map.file.parentFile.toURI()
-	// def rel_path = base_path.relativize(file_path)
-	// c.statusInfo = rel_path
-	
-	// def uri = rel_path.toString() + "#ID_111853252"
-	// main_node.link.text = uri
-	
-	// def basedir = main_node.map.file.parentFile.toPath()
-	// log.info("basedir=$basedir")
-	// log.info(new File("D:/test.txt").name)
-	// def test = basedir.toFile()
-	// basedir.toFile().traverse(type: groovy.io.FileType.FILES) { file ->
-		// if (FilenameUtils.getExtension(file.name) == 'mm') { 
-			// log.info(file.name)
-		// }
-	// }
-	// return
 
     def commands;
     def text;
@@ -72,55 +57,21 @@ def run_on_node(main_node) {
 	c.getSelecteds().each{node -> 
 		commands.each{command->
 			if (command == "folder"){
-				renamer.create_folder_for_branch(main_node) 
-				//change_path(main_node)
-			} else
-			if (command == "name"){
-				//test
-				//renamer.reroute_paths_for_branch(main_node)
-				// def old_path = Paths.get("D:\\archive\\cloud_storages\\google\\study\\religion\\immaterial spirit.mm")
-				// def new_path = new File(
-				// "D:\\archive\\cloud_storages\\google\\study\\religion\\commonalities\\immaterial spirit.mm"
-				// ).toPath().toAbsolutePath().normalize()
+				renamer.create_folder_for_branch(node) 
+			} else if (command == "name"){
 				
-				// c.statusInfo = Files.move(old_path, new_path)
-				
-			} else
-			if (styler.is_styling_command(command)) {
+			} else if (command == "read"){
+				database.read_subtrees(node);
+			} else if (command == "write"){
+				database.write_subtree(node);
+			} else if (styler.is_styling_command(command)) {
 				styler.node = node
 				styler.apply_command(command)
 			} 
 		}
 	}
-	// if (renamer.wrong_link_name(main_node)) {
-		// renamer.reroute_paths(main_node)
-	// } 
+
 }
-
-/* test */
- // def change_path(folder_node) {
-	// def folder = file_system.obtain_folders(folder_node)
-	// log.info("beginning of change_path, folder= "+folder.toString())
-	// folder_node.findAllDepthFirst().each() {_node ->
-		// log.info("checking a node for changing path: "+_node.toString())
-		 // if (node.link.file) {
-			// def new_file = java.nio.file.Paths.get(
-				// folder.toString(), 
-				// FilenameUtils.getName(node.link.file.name)
-			// ).toFile()
-			// log.info("renaming "+node.link.file.toString()+" into "+new_file)
-			// rename_with_references(
-				// folder_node.root.map.file.parentFile,
-				// node.link.file,
-				// new_file
-			// )
-		// } 
-	// }
-	// file_system.reference_file(folder_node, folder)
-// } 
-/* end test */
-
-
 
 
 

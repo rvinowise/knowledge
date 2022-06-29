@@ -144,7 +144,7 @@
 <node TEXT="no test" ID="ID_1054664722" CREATED="1636702810268" MODIFIED="1636703168895">
 <icon BUILTIN="libra@b"/>
 <node TEXT="pressure testing" ID="ID_1649492183" CREATED="1636702830712" MODIFIED="1636702838046">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="too deadly for pressure testing" ID="ID_483184583" CREATED="1636702242779" MODIFIED="1636702273708">
 <icon BUILTIN="quote@b"/>
@@ -156,7 +156,7 @@
 </node>
 <node TEXT="tested only against compliant partners" ID="ID_1749185328" CREATED="1636702382379" MODIFIED="1636702422488">
 <node TEXT="ukke" ID="ID_1492724584" CREATED="1636702397853" MODIFIED="1636702412530">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 <node TEXT="drilling" ID="ID_455903194" CREATED="1636703335540" MODIFIED="1636703341646">
 <icon BUILTIN="good@bleak"/>
@@ -178,7 +178,7 @@
 </node>
 <node TEXT="chinese traditional MA" ID="ID_1172406901" CREATED="1636701918013" MODIFIED="1636701930853">
 <node TEXT="kung-fu" LOCALIZED_STYLE_REF="default" ID="ID_444856037" CREATED="1636701954626" MODIFIED="1636701979760" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 </node>

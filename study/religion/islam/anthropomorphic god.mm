@@ -147,7 +147,7 @@
 </richcontent>
 </node>
 <node TEXT="c.f. water above the sky" ID="ID_770958340" CREATED="1635987092079" MODIFIED="1635987221053">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 </node>
 </node>
 <node ID="ID_580434938" CREATED="1635987433587" MODIFIED="1635987455835" LINK="https://quran.com/40:7">

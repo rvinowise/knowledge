@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="time" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637491531175"><hook NAME="MapStyle" zoom="0.99">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
+<node TEXT="time" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637491531175"><hook NAME="MapStyle" zoom="1.653">
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -186,7 +186,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="7" ID="ID_49222917" CREATED="1637128504162" MODIFIED="1637131459846">
+<node TEXT="7" OBJECT="java.lang.Long|7" ID="ID_49222917" CREATED="1637128504162" MODIFIED="1652917118810">
 <icon BUILTIN="emoji-1F1EC-1F1E7"/>
 <node TEXT="british english" ID="ID_1532772911" CREATED="1637128525577" MODIFIED="1637128747347"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -289,10 +289,10 @@
 </node>
 <node TEXT="le, la" ID="ID_65223992" CREATED="1637498866714" MODIFIED="1637736659174" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<node TEXT="le matin m" ID="ID_690231466" CREATED="1637498858526" MODIFIED="1637668770048" COLOR="#000000">
+<node TEXT="(le) matin m" ID="ID_690231466" CREATED="1637498858526" MODIFIED="1652916652403" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
-<node TEXT="la nuit f" ID="ID_1485395641" CREATED="1637499088662" MODIFIED="1637668767519" COLOR="#000000">
+<node TEXT="(la) nuit f" ID="ID_1485395641" CREATED="1637499088662" MODIFIED="1652916655704" COLOR="#000000">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
 </node>
 </node>
@@ -491,7 +491,13 @@
 <node TEXT="summer" ID="ID_107490512" CREATED="1639903798056" MODIFIED="1639903799413" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 </node>
-<node TEXT="autumn" ID="ID_1101949966" CREATED="1639903799678" MODIFIED="1639903802620"/>
+<node TEXT="fall" ID="ID_1818352409" CREATED="1652917253311" MODIFIED="1652917255918" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="autumn" ID="ID_1101949966" CREATED="1639903799678" MODIFIED="1652917259145">
+<icon BUILTIN="emoji-1F1EC-1F1E7"/>
+<icon BUILTIN="punctuation/equal@b"/>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -790,45 +796,76 @@
 </node>
 </node>
 <node TEXT="one period" ID="ID_366925326" CREATED="1637762073612" MODIFIED="1637762100727">
-<node TEXT="last" ID="ID_972623830" CREATED="1637489703280" MODIFIED="1637489716293" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="last" ID="ID_972623830" CREATED="1637489703280" MODIFIED="1652752199573" COLOR="#000000" BACKGROUND_COLOR="#ccffcc">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
-<node TEXT="week" LOCALIZED_STYLE_REF="default" ID="ID_773930681" CREATED="1637489776344" MODIFIED="1639810121451" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="week" LOCALIZED_STYLE_REF="default" ID="ID_773930681" CREATED="1637489776344" MODIFIED="1652751852804" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 </node>
-<node TEXT="pasado -a" ID="ID_1593579825" CREATED="1637489720522" MODIFIED="1637489768934" COLOR="#000000">
+<node TEXT="la semana JJ" ID="ID_1695581794" CREATED="1637489956402" MODIFIED="1652913189147" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<node TEXT="la semana JJ" ID="ID_1695581794" CREATED="1637489956402" MODIFIED="1637666850056" COLOR="#000000">
+<node TEXT="pasado -a" ID="ID_1593579825" CREATED="1637489720522" MODIFIED="1652915172625" COLOR="#000000" BACKGROUND_COLOR="#ccffcc">
 <icon BUILTIN="emoji-1F1EA-1F1F8"/>
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
 </node>
 </node>
-<node TEXT="dernière" ID="ID_98757526" CREATED="1637666822294" MODIFIED="1637666834932" COLOR="#000000">
+<node TEXT="la semaine" ID="ID_386452503" CREATED="1637666841633" MODIFIED="1652913189152" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<node TEXT="la semaine" ID="ID_386452503" CREATED="1637666841633" MODIFIED="1637666849274" COLOR="#000000">
+<node TEXT="dernière" ID="ID_98757526" CREATED="1637666822294" MODIFIED="1652915172633" COLOR="#000000" BACKGROUND_COLOR="#ccffcc">
 <icon BUILTIN="emoji-1F1EB-1F1F7"/>
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
 </node>
 </node>
 <node TEXT="في" ID="ID_1384250511" CREATED="1637759476435" MODIFIED="1637759582058" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <icon BUILTIN="size_optimisation/unnecessary_node@b"/>
-<node TEXT="الماضي" ID="ID_730762754" CREATED="1637490580935" MODIFIED="1637490592612" COLOR="#000000">
+<node TEXT="العَام" ID="ID_1036222448" CREATED="1637490596318" MODIFIED="1652915396059" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<node TEXT="العام" ID="ID_1036222448" CREATED="1637490596318" MODIFIED="1637678328658" COLOR="#000000">
+<node TEXT="المَاضِي" ID="ID_730762754" CREATED="1637490580935" MODIFIED="1652915401696" COLOR="#000000" BACKGROUND_COLOR="#ccffcc">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
-<icon BUILTIN="grammar/syntax/precedes_previous@b"/>
+</node>
+</node>
+</node>
+<node TEXT="مِن" ID="ID_1193906006" CREATED="1652751800489" MODIFIED="1652751809189" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="اُسبُوع" ID="ID_1483329949" CREATED="1652751722667" MODIFIED="1652915433715" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="مَضَى" ID="ID_1639352781" CREATED="1652751720085" MODIFIED="1652915172660" COLOR="#000000" BACKGROUND_COLOR="#ccffcc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
 </node>
 </node>
 </node>
 </node>
 <node TEXT="several periods" ID="ID_1881831452" CREATED="1637762154433" MODIFIED="1637762169435">
-<node TEXT="any period" ID="ID_434987163" CREATED="1637762181935" MODIFIED="1637762238918" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="three days" ID="ID_434987163" CREATED="1637762181935" MODIFIED="1652913095287" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
-<node TEXT="ago" ID="ID_1805773360" CREATED="1637762169696" MODIFIED="1637762172753" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="ago" ID="ID_1805773360" CREATED="1637762169696" MODIFIED="1652915138112" COLOR="#000000" BACKGROUND_COLOR="#ccffcc">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+</node>
+<node TEXT="مُنْذُ" ID="ID_424967754" CREATED="1652915794374" MODIFIED="1652915967846" COLOR="#000000" BACKGROUND_COLOR="#ccffcc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="ثَلاثَ أيَام" ID="ID_1413489257" CREATED="1652915829320" MODIFIED="1652916218472" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
+<richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &lt;&lt;
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="مَضَت" ID="ID_257942780" CREATED="1652915834130" MODIFIED="1652916264102" COLOR="#000000" BACKGROUND_COLOR="#ccffcc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
+<node TEXT=" 150 عامًا" ID="ID_108555480" CREATED="1654176222078" MODIFIED="1654176256935" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation@b"/>
 </node>
 </node>
 </node>

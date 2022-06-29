@@ -130,8 +130,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="family is inferior to islam" POSITION="right" ID="ID_542390437" CREATED="1635035155204" MODIFIED="1638746724474">
-<node TEXT="marriage must be nullified" ID="ID_833565818" CREATED="1635034992931" MODIFIED="1635035312234">
-<icon BUILTIN="question@b"/>
+<node TEXT="marriage must be nullified" LOCALIZED_STYLE_REF="default" ID="ID_833565818" CREATED="1635034992931" MODIFIED="1651743168469" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="if a spouse disbelieves in islam" ID="ID_116507256" CREATED="1635034954465" MODIFIED="1635035017239"/>
 </node>
 <node TEXT="children are often banished" ID="ID_977559560" CREATED="1635035183359" MODIFIED="1635035304416">
@@ -144,12 +143,35 @@
 <node TEXT="husbands kill their wives" ID="ID_369749115" CREATED="1638747791448" MODIFIED="1638747804944">
 <node TEXT="for disrespecting muhammad" ID="ID_1373321210" CREATED="1638747806110" MODIFIED="1638747849791" LINK="islamic%20violence.mm#ID_510698484"/>
 </node>
+<node TEXT="forums advising to destroy the family" ID="ID_1495124355" CREATED="1651743156858" MODIFIED="1651743231984">
+<node TEXT="husband doesn&apos;t believe enough" ID="ID_912029487" CREATED="1651743233513" MODIFIED="1651743244080" LINK="https://www.zawaj.com/askbilqis/my-husband-does-not-believe-in-islam-completely/?unapproved=2014507&amp;moderation-hash=50497c3aec0b5a2e2b145fe8ca10ef59#comment-2014507"/>
+</node>
 </node>
 <node TEXT="inferiority of women" POSITION="right" ID="ID_1773185742" CREATED="1647698259406" MODIFIED="1647698276108">
 <node TEXT="women don&apos;t choose the partner" ID="ID_722695662" CREATED="1638746711970" MODIFIED="1638746789357">
 <node TEXT="woman was &quot;married&quot; to a random man" ID="ID_1524559577" CREATED="1633688749300" MODIFIED="1638747748886" LINK="islamic%20sex.mm#ID_1524559577"/>
+<node TEXT="Go, I marry her to you for that much of the Quran which you have." ID="ID_910463226" CREATED="1653998678367" MODIFIED="1653998705420">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
 </node>
 <node TEXT="followers of dajjal will be mostly women" ID="ID_839389231" CREATED="1647698280289" MODIFIED="1647698301412" LINK="https://www.youtube.com/watch?v=66kT9MHxK8Y&amp;ab_channel=iLovUAllah%E2%84%A2"/>
+<node TEXT="personality of women is disregarded" ID="ID_57510491" CREATED="1653998824232" MODIFIED="1653998853826">
+<node TEXT="A woman is married for four things, i.e., her wealth, her family status, her beauty and her religion." ID="ID_1309575065" CREATED="1653998855112" MODIFIED="1654047168463" LINK="https://sunnah.com/bukhari:5090">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+</node>
+<node TEXT="women are inherently bad" ID="ID_1839995859" CREATED="1653998908939" MODIFIED="1653998919384">
+<node TEXT="Evil omen is&#xa;in the women, the house and the horse" ID="ID_1626170745" CREATED="1653998920301" MODIFIED="1653998925783">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="not left any affliction more harmful to men than women." ID="ID_924449874" CREATED="1653998942639" MODIFIED="1653998957912">
+<icon BUILTIN="quote@b"/>
+<font ITALIC="true"/>
+</node>
+</node>
 </node>
 <node TEXT="words in islamic propaganda don&apos;t mean what they seem to mean" POSITION="right" ID="ID_1249143274" CREATED="1650327654523" MODIFIED="1650327684394">
 <node TEXT="rape" ID="ID_1551735079" CREATED="1650327684960" MODIFIED="1650327687097">
@@ -158,7 +180,8 @@
 <node TEXT="it means having sex with somebody who is not allowed, even if both consent" ID="ID_1327466253" CREATED="1650328574784" MODIFIED="1650328597127"/>
 </node>
 </node>
-<node TEXT="protection" ID="ID_959489570" CREATED="1650327687548" MODIFIED="1650327691223">
+<node TEXT="protection" ID="ID_959489570" CREATED="1650327687548" MODIFIED="1654065251863">
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="&quot;protected&quot; woman is not benefitting from that protection" ID="ID_1684841130" CREATED="1650327691868" MODIFIED="1650327720394">
 <node TEXT="just like my protected jewel (an object)" ID="ID_1796951450" CREATED="1650327720646" MODIFIED="1650327751359"/>
 <node ID="ID_1732120561" CREATED="1650328449871" MODIFIED="1650328656848" LINK="https://quran.com/4?startingVerse=25"><richcontent TYPE="NODE">
@@ -173,7 +196,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1761623260" CREATED="1650328496935" MODIFIED="1650328515077">
 <icon BUILTIN="emoji-26F2"/>
@@ -181,6 +203,17 @@
 </node>
 </node>
 </node>
+</node>
+<node TEXT="muhammads immorality" POSITION="right" ID="ID_1554288439" CREATED="1653969196476" MODIFIED="1653969204597">
+<node TEXT="he prohibited his wives to remarry after his death" ID="ID_799809056" CREATED="1653969204834" MODIFIED="1653969223361">
+<node TEXT="muhammad&apos;s youngest wife aisha was 18 when hied" ID="ID_1765302495" CREATED="1653969223511" MODIFIED="1653969257049">
+<node TEXT="her whole private life was spoiled" ID="ID_1517073076" CREATED="1653969257285" MODIFIED="1653969274446"/>
+</node>
+</node>
+</node>
+<node TEXT="forced sex" POSITION="right" ID="ID_1181518753" CREATED="1654049880618" MODIFIED="1654162416125">
+<node TEXT="it doesn&apos;t mean &quot;forced sex&quot;" ID="ID_1509715670" CREATED="1654162416397" MODIFIED="1654162416407"/>
+<node TEXT="because forced sex with a wife is not &quot;rape&quot;" ID="ID_1198562178" CREATED="1654162416443" MODIFIED="1654162416445"/>
 </node>
 </node>
 </map>

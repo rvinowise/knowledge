@@ -163,7 +163,7 @@
 <node TEXT="god&apos;s predestination" ID="ID_1157166782" CREATED="1636176583331" MODIFIED="1636335438344">
 <font NAME="Tahoma"/>
 <node TEXT="qadar" ID="ID_287194334" CREATED="1636176760899" MODIFIED="1636335438344">
-<icon BUILTIN="chain@b"/>
+<icon BUILTIN="connection/term"/>
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="sixth article of faith" ID="ID_850852209" CREATED="1636176568379" MODIFIED="1636335438345">
