@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -522,6 +522,37 @@
 <icon BUILTIN="punctuation/period"/>
 </node>
 </node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="strong desire" POSITION="right" ID="ID_1530224236" CREATED="1657228352738" MODIFIED="1657228360179">
+<node TEXT="a" ID="ID_631445131" CREATED="1657228360392" MODIFIED="1657228391879" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="desire" ID="ID_219757954" CREATED="1657228372054" MODIFIED="1657228391920" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="for" ID="ID_889378234" CREATED="1657228374209" MODIFIED="1657228917409" COLOR="#000000" BACKGROUND_COLOR="#ffffcc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="more cows" ID="ID_1637712434" CREATED="1657228375274" MODIFIED="1657228536949" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="box_inscribed"/>
+</node>
+</node>
+<node TEXT="to" ID="ID_189568845" CREATED="1657228501893" MODIFIED="1657228602597" COLOR="#000000" BACKGROUND_COLOR="#ffcccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="rule" ID="ID_1284360186" CREATED="1657228513258" MODIFIED="1657228602598" COLOR="#000000" BACKGROUND_COLOR="#ffcccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="box_inscribed"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="رَغْبَةٌ" ID="ID_1465123810" CREATED="1657228396482" MODIFIED="1657228439927" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="في" ID="ID_304504570" CREATED="1657228440362" MODIFIED="1657228917405" COLOR="#000000" BACKGROUND_COLOR="#ffffcc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="الحُكْمِ" ID="ID_1413162983" CREATED="1657228480848" MODIFIED="1657228602594" COLOR="#000000" BACKGROUND_COLOR="#ffcccc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
 </node>
 </node>
 </node>

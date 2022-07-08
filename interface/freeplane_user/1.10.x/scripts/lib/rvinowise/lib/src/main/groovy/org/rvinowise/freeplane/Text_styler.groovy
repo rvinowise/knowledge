@@ -1,4 +1,4 @@
-package com.rvinowise.freeplane
+package org.rvinowise.freeplane
 
 import groovy.util.logging.Log
 import java.util.logging.FileHandler

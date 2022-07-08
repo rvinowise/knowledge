@@ -7,7 +7,7 @@ import java.nio.file.Files
 import groovy.time.TimeCategory 
 import groovy.time.TimeDuration
 
-import com.rvinowise.freeplane.*
+//import org.rvinowise.freeplane.*
 
 Mindmap_creator creator = new Mindmap_creator(node, c)
 

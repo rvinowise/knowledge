@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637160483756"><hook NAME="MapStyle" zoom="1.32">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -148,6 +148,7 @@
 <node TEXT="using" ID="ID_1171763968" CREATED="1637161410776" MODIFIED="1637161415075" LINK="compare_collocations/using.mm"/>
 <node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="compare_collocations/possibility.mm"/>
 <node TEXT="giving" ID="ID_830015847" CREATED="1654177011130" MODIFIED="1654177030803" LINK="file:/C:/knowledge/languages/compare_collocations/giving.mm"/>
+<node TEXT="failing" ID="ID_620875468" CREATED="1657229652809" MODIFIED="1657232355534" LINK="compare_collocations/failing.mm"/>
 <node TEXT="human body" ID="ID_735615301" CREATED="1637166164110" MODIFIED="1637166186899" LINK="compare_collocations/human%20body/">
 <node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="compare_collocations/human%20body/eating.mm"/>
 <node TEXT="body positions" ID="ID_370119368" CREATED="1643205247255" MODIFIED="1643205253124" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/human%20body/body%20positions.mm"/>
@@ -164,11 +165,13 @@
 <node TEXT="thinking" ID="ID_219942153" CREATED="1637425246287" MODIFIED="1637425256325" LINK="compare_collocations/mind/thinking.mm"/>
 <node TEXT="preferences" ID="ID_1120180814" CREATED="1639809351536" MODIFIED="1639809357802" LINK="compare_collocations/mind/preferences.mm"/>
 <node TEXT="changing religion" ID="ID_552941956" CREATED="1641181012714" MODIFIED="1641181034789" LINK="file:/C:/knowledge/languages/compare_collocations/mind/changing%20religion.mm"/>
+<node TEXT="neglecting" ID="ID_278725600" CREATED="1656652552771" MODIFIED="1656652557021" LINK="file:/C:/knowledge/languages/compare_collocations/mind/neglecting.mm"/>
 </node>
 <node TEXT="talking" ID="ID_49288193" CREATED="1637216129933" MODIFIED="1637216139511" LINK="compare_collocations/talking/">
 <node TEXT="blaming" ID="ID_1296721790" CREATED="1637324827784" MODIFIED="1637324841522" LINK="compare_collocations/talking/blaming.mm"/>
 <node TEXT="terms denoting speech" ID="ID_802619694" CREATED="1642924436293" MODIFIED="1642924499879" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/terms%20denoting%20speech.mm"/>
 <node TEXT="secret" ID="ID_845439539" CREATED="1643011561367" MODIFIED="1643011566296" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/secret.mm"/>
+<node TEXT="naming.mm" ID="ID_797332367" CREATED="1657232427582" MODIFIED="1657232427583" LINK="compare_collocations/talking/naming.mm"/>
 </node>
 <node TEXT="time" ID="ID_749047726" CREATED="1637326274490" MODIFIED="1637491530964" LINK="compare_collocations/time/time.mm">
 <node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="compare_collocations/time/past.mm"/>

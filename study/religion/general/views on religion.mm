@@ -85,7 +85,7 @@
 </node>
 <node TEXT="ignostics call themselves atheists often" ID="ID_1971620631" CREATED="1655085732409" MODIFIED="1655085749918">
 <node TEXT="bill kooke" LOCALIZED_STYLE_REF="default" ID="ID_506625291" CREATED="1655085654230" MODIFIED="1655085760846" LINK="https://www.youtube.com/watch?v=UbClnWrUF2Q&amp;ab_channel=NZARH" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 </node>
 </node>

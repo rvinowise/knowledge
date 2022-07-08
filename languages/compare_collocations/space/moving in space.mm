@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -324,6 +324,44 @@
 <icon BUILTIN="heraldics/roman_empire"/>
 <node TEXT="timaeus by cicero" ID="ID_1152951052" CREATED="1639470692930" MODIFIED="1639470811084" LINK="https://la.wikisource.org/wiki/Timaeus_(Cicero)">
 <icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+<node TEXT="arriving at a destination" POSITION="right" ID="ID_1213350610" CREATED="1657233125798" MODIFIED="1657233136593">
+<node TEXT="they" ID="ID_1168648534" CREATED="1657233137252" MODIFIED="1657233166661" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="arrived" ID="ID_774439744" CREATED="1657233159708" MODIFIED="1657233166670" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="at" ID="ID_131292589" CREATED="1657233142267" MODIFIED="1657233230967" COLOR="#000000" BACKGROUND_COLOR="#ffffcc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="our school" ID="ID_847312056" CREATED="1657233149176" MODIFIED="1657233341453" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="box_inscribed"/>
+</node>
+</node>
+<node TEXT="there" ID="ID_1732955844" CREATED="1657233289118" MODIFIED="1657233357468" COLOR="#000000" BACKGROUND_COLOR="#ffff99">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+</node>
+</node>
+<node TEXT="وَصَلُوا" ID="ID_229716049" CREATED="1657233187288" MODIFIED="1657233423179" COLOR="#000000" VGAP_QUANTITY="2 pt">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="لِ" ID="ID_986143197" CREATED="1657233202944" MODIFIED="1657233230963" COLOR="#000000" BACKGROUND_COLOR="#ffffcc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT=" مدرستنا" ID="ID_538251342" CREATED="1657233182396" MODIFIED="1657233341452" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="box_inscribed"/>
+</node>
+</node>
+<node TEXT="إلى" ID="ID_170587698" CREATED="1657233255777" MODIFIED="1657233444608" COLOR="#000000" BACKGROUND_COLOR="#ffffcc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+<node TEXT="لِ" ID="ID_745108626" CREATED="1657233202944" MODIFIED="1657233433763" COLOR="#000000" BACKGROUND_COLOR="#ffffcc">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/unnecessary_node"/>
+<node TEXT="هنا" ID="ID_1423985117" CREATED="1657233327157" MODIFIED="1657233357471" COLOR="#000000" BACKGROUND_COLOR="#ffff99">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
 </node>
 </node>
 </node>

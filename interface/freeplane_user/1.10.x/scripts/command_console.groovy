@@ -16,9 +16,9 @@ import java.nio.file.Paths
 import java.nio.file.Path
 import java.nio.file.Files
 
-Commander com = new Commander(node, c)
+Commander commander = new Commander(node, c)
 
-com.run_on_node(node)
+commander.run_on_node(node)
 
 @Log
 class Commander {
@@ -38,7 +38,7 @@ Commander(_node, _c) {
 	styler = new Text_styler(c, node)
 	renamer = new Renamer(c, node)
 	file_system = new File_system(c, node);
-	database = new Database_integrator(c,node);
+	database = new Database_integrator(c, node);
 
     user_dir = c.getUserDirectory()
     FileHandler handler = new FileHandler("$user_dir/logs/Commander.log", true);
@@ -60,10 +60,10 @@ def run_on_node(main_node) {
 				renamer.create_folder_for_branch(node) 
 			} else if (command == "name"){
 				
-			} else if (command == "read"){
-				database.read_subtrees(node);
-			} else if (command == "write"){
-				database.write_subtree(node);
+			} else if (command == "load"){
+				database.load_subtrees(node);
+			} else if (command == "save"){
+				database.save_subtree(node);
 			} else if (styler.is_styling_command(command)) {
 				styler.node = node
 				styler.apply_command(command)

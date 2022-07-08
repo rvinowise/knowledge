@@ -1,5 +1,5 @@
-<map version="freeplane 1.9.8">
-<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<map version="freeplane 1.9.13">
+<!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
         <attribute_value VALUE=""/>
@@ -139,7 +139,7 @@
 <font NAME="Tahoma"/>
 <node TEXT="type: history" POSITION="left" ID="ID_1741613068" CREATED="1636681813729" MODIFIED="1636681813729"/>
 <node TEXT="ænaxÆgɒras" POSITION="right" ID="ID_1955266929" CREATED="1636681813731" MODIFIED="1636682276366">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="the moon is earthy" ID="ID_1339711058" CREATED="1636681834647" MODIFIED="1636681868711">
 <icon BUILTIN="good"/>
 <node TEXT="not emitting light" ID="ID_1038329030" CREATED="1636681843250" MODIFIED="1636681848371"/>
@@ -161,7 +161,7 @@
 </node>
 </node>
 <node TEXT="erɒtⱰsthenês" POSITION="right" ID="ID_1318841529" CREATED="1636681879525" MODIFIED="1636682255497">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="circumference of (round) earth" ID="ID_1818370673" CREATED="1636681882923" MODIFIED="1636681899108">
 <icon BUILTIN="good"/>
 </node>
@@ -172,6 +172,75 @@
 <icon BUILTIN="place"/>
 </node>
 <node TEXT="276bc - 194bc" ID="ID_171586578" CREATED="1636682463870" MODIFIED="1636682481718">
+<icon BUILTIN="calendar"/>
+</node>
+</node>
+<node TEXT="jⱰhn dⱰllărd" POSITION="right" ID="ID_386710445" CREATED="1656576211833" MODIFIED="1656576601547" LINK="https://en.wikipedia.org/wiki/John_Dollard" COLOR="#000000">
+<icon BUILTIN="person"/>
+<node TEXT="culture into which a person was born defines his personality" ID="ID_1867729912" CREATED="1656576376606" MODIFIED="1656576447637">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="1900-1980" ID="ID_764594480" CREATED="1656576676775" MODIFIED="1656576951888">
+<icon BUILTIN="calendar"/>
+</node>
+<node TEXT="USA" ID="ID_667228646" CREATED="1656577218040" MODIFIED="1656577225519">
+<icon BUILTIN="place"/>
+</node>
+</node>
+<node TEXT="ernst alexanderson" POSITION="right" ID="ID_33257782" CREATED="1656577030887" MODIFIED="1656577812773" LINK="https://en.wikipedia.org/wiki/Ernst_Alexanderson">
+<icon BUILTIN="person"/>
+<node TEXT="made a radio before vacuum tubes" ID="ID_603906152" CREATED="1656577044336" MODIFIED="1656577074389">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="participated in the creation of television" ID="ID_235856891" CREATED="1656577078097" MODIFIED="1656577090292">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="swedish-american" ID="ID_1492251439" CREATED="1656577176539" MODIFIED="1656577192970">
+<icon BUILTIN="place"/>
+</node>
+</node>
+<node TEXT="charles proteus steinmetz" POSITION="right" ID="ID_1920021619" CREATED="1656577447620" MODIFIED="1656577803622" LINK="https://en.wikipedia.org/wiki/Charles_Proteus_Steinmetz">
+<icon BUILTIN="person"/>
+<node TEXT="improvements in electricity" ID="ID_7324426" CREATED="1656577483648" MODIFIED="1656577502684">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="hўstĕrÊsĭs in electronics" ID="ID_925598130" CREATED="1656577504414" MODIFIED="1656577790797" COLOR="#000000">
+<icon BUILTIN="good"/>
+</node>
+</node>
+<node TEXT="zigmund freud [eu=oi]" POSITION="right" ID="ID_256544907" CREATED="1656678296201" MODIFIED="1656678361893">
+<icon BUILTIN="person"/>
+<node TEXT="dreams are short and appear just before waking up" ID="ID_1219436149" CREATED="1656678362478" MODIFIED="1656678380749">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="karl jung [j=ў]" POSITION="right" ID="ID_39909102" CREATED="1656678384507" MODIFIED="1656678465276">
+<icon BUILTIN="person"/>
+<node TEXT="student of zigmund freud" ID="ID_1935631587" CREATED="1656678467226" MODIFIED="1656678494365">
+<icon BUILTIN="box_inscribed"/>
+</node>
+<node TEXT="beleived in psychic powers" ID="ID_1055672185" CREATED="1657139687355" MODIFIED="1657139698680">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="marvin minsky" POSITION="right" ID="ID_482383991" CREATED="1657139726623" MODIFIED="1657139742217">
+<icon BUILTIN="person"/>
+<node TEXT="didn&apos;t like contemporary neuroscience" ID="ID_1975325425" CREATED="1657139743455" MODIFIED="1657204635467">
+<icon BUILTIN="thinking_cloud"/>
+<node TEXT="they aren&apos;t interested in the overarching theory of mind" ID="ID_1164189581" CREATED="1657139787376" MODIFIED="1657139818606">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="didn&apos;t like the subject of history" ID="ID_772977948" CREATED="1657204638690" MODIFIED="1657204662940">
+<icon BUILTIN="thinking_cloud"/>
+<node TEXT="it&apos;s incomprehensible, no cause-effect connection" ID="ID_1927162794" CREATED="1657204666222" MODIFIED="1657204721547">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="theory of intelligence &quot;the society of mind&quot;" ID="ID_1228054723" CREATED="1657139838843" MODIFIED="1657139865376">
+<icon BUILTIN="book_open"/>
+</node>
+<node TEXT="-2016" ID="ID_1632311688" CREATED="1657139905254" MODIFIED="1657139919232">
 <icon BUILTIN="calendar"/>
 </node>
 </node>

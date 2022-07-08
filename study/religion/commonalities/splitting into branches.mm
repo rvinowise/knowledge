@@ -155,7 +155,7 @@
 <node TEXT="initial religion" ID="ID_494509381" CREATED="1635626305292" MODIFIED="1635627320946" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="outcome"/>
 <node TEXT="awaited person" ID="ID_604970351" CREATED="1635626312870" MODIFIED="1635710404943" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="claimer" ID="ID_317856260" CREATED="1635626320219" MODIFIED="1635710629994" BACKGROUND_COLOR="#cccccc">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="created sub-religions" ID="ID_1117923049" CREATED="1635626340770" MODIFIED="1635627321019" BACKGROUND_COLOR="#cccccc">
@@ -177,7 +177,7 @@
 <node TEXT="judaism" POSITION="right" ID="ID_1526197524" CREATED="1635624725437" MODIFIED="1635627127973">
 <icon BUILTIN="outcome"/>
 <node TEXT="mashiah" ID="ID_1232978262" CREATED="1635624741176" MODIFIED="1635710405105">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="messÎah" ID="ID_281456483" CREATED="1635624902536" MODIFIED="1635625808464">
 <icon BUILTIN="chain"/>
 </node>
@@ -200,30 +200,30 @@
 <node TEXT="christianity" ID="ID_1743871124" CREATED="1635624764704" MODIFIED="1635627273488">
 <icon BUILTIN="outcome"/>
 <node TEXT="jesus&apos;s second coming" ID="ID_910611675" CREATED="1635626793049" MODIFIED="1635710405291">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="many small sects" ID="ID_1019552817" CREATED="1635626866844" MODIFIED="1635627273629">
 <icon BUILTIN="outcome"/>
 </node>
 </node>
 <node TEXT="next prophets" ID="ID_105488016" CREATED="1635632356871" MODIFIED="1635710405466">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="muhammad" ID="ID_1876965907" CREATED="1635632365773" MODIFIED="1635710629212">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="islam" ID="ID_1875818374" CREATED="1635627783422" MODIFIED="1635627792179">
 <icon BUILTIN="outcome"/>
 <node TEXT="jesus&apos;s second coming" LOCALIZED_STYLE_REF="default" ID="ID_18784805" CREATED="1635632729726" MODIFIED="1635710405687">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 <node TEXT="shia" ID="ID_1708989370" CREATED="1635634883745" MODIFIED="1635635112682">
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="next imam" ID="ID_171530125" CREATED="1635729263709" MODIFIED="1635729270178">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="musa bin jafar" ID="ID_11765574" CREATED="1635729284890" MODIFIED="1635729298586">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="twelvers shia" LOCALIZED_STYLE_REF="default" ID="ID_1876241845" CREATED="1635634883745" MODIFIED="1635729163710" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="outcome"/>
 <node TEXT="third imam" ID="ID_277323629" CREATED="1635629763605" MODIFIED="1635729180435" COLOR="#666666">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <icon BUILTIN="question"/>
 <font ITALIC="true"/>
 <node TEXT="baha&apos;u&apos;llah" ID="ID_1972339749" CREATED="1635626663249" MODIFIED="1636177825035" LINK="#ID_1363630174">
@@ -231,7 +231,7 @@
 </node>
 </node>
 <node TEXT="imam mahdi" ID="ID_1101999655" CREATED="1636177764062" MODIFIED="1636177774747">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="bAb" ID="ID_591616467" CREATED="1636177776231" MODIFIED="1636177791223" LINK="#ID_1771756617">
 <icon BUILTIN="raised_hand@w"/>
 </node>
@@ -265,7 +265,7 @@
 <icon BUILTIN="control/type_of_parent"/>
 </node>
 <node TEXT="imam mahdi" LOCALIZED_STYLE_REF="default" ID="ID_151797709" CREATED="1635627792505" MODIFIED="1635710406056">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="twelfth imam" ID="ID_322117385" CREATED="1635627801867" MODIFIED="1635640678549">
 <icon BUILTIN="chain"/>
 </node>
@@ -319,7 +319,7 @@
 <node TEXT="babism" ID="ID_1738762350" CREATED="1635633176832" MODIFIED="1635633186518">
 <icon BUILTIN="outcome"/>
 <node TEXT="he whom god shall make manifest" ID="ID_866138925" CREATED="1635633216653" MODIFIED="1635710406269">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="baha&apos;u&apos;llah" ID="ID_1363630174" CREATED="1635626663249" MODIFIED="1635710630092">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="baha&apos;i faith" ID="ID_1213499683" CREATED="1635626680865" MODIFIED="1635627273410">
@@ -345,7 +345,7 @@
 <node TEXT="most important in shi&apos;ism" ID="ID_632642746" CREATED="1635708692510" MODIFIED="1635708766565"/>
 </node>
 <node TEXT="al-Yamani" ID="ID_1271900224" CREATED="1643198676742" MODIFIED="1643198693017">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="predecessor of mahdi" ID="ID_1624325281" CREATED="1643198694303" MODIFIED="1643198701769">
 <icon BUILTIN="box_inscribed"/>
 </node>
@@ -398,7 +398,7 @@
 </node>
 </node>
 <node TEXT="next president-prophet" ID="ID_764605532" CREATED="1635730791576" MODIFIED="1635730851753">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="joseph smith III" ID="ID_1094253177" CREATED="1635730802496" MODIFIED="1635730812735">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="community of christ" ID="ID_445564158" CREATED="1635730813855" MODIFIED="1635730821303">
@@ -442,7 +442,7 @@
 <node TEXT="buddhism" POSITION="right" ID="ID_558247058" CREATED="1635626647027" MODIFIED="1635627273324">
 <icon BUILTIN="outcome"/>
 <node TEXT="maitreya" ID="ID_1380648643" CREATED="1635626650642" MODIFIED="1635710406435">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="next buddha" LOCALIZED_STYLE_REF="default" ID="ID_1408384951" CREATED="1635626656383" MODIFIED="1638763761979" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="box_inscribed"/>
 </node>
@@ -460,13 +460,13 @@
 <node TEXT="hinduism" POSITION="right" ID="ID_600477488" CREATED="1635630962358" MODIFIED="1635630973619">
 <icon BUILTIN="outcome"/>
 <node TEXT="kalkin avatar" ID="ID_82911275" CREATED="1635630975115" MODIFIED="1635710406551">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 <node TEXT="krishna" ID="ID_714651303" CREATED="1635630994821" MODIFIED="1635710406673">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 <node TEXT="random guru" ID="ID_1259992902" CREATED="1635733471885" MODIFIED="1635733484078">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <node TEXT="guru nanak" ID="ID_127285794" CREATED="1635733484980" MODIFIED="1635733491237">
 <icon BUILTIN="raised_hand@w"/>
 <node TEXT="sikhism" ID="ID_989266661" CREATED="1635733529643" MODIFIED="1635733547672">
@@ -478,13 +478,13 @@
 <node TEXT="zoroastrianism" POSITION="right" ID="ID_633770624" CREATED="1635632158250" MODIFIED="1635632167508">
 <icon BUILTIN="outcome"/>
 <node TEXT="saoshiyant" ID="ID_1661519228" CREATED="1635632192660" MODIFIED="1635710406805">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 </node>
 <node TEXT="taoism" POSITION="right" ID="ID_1611030465" CREATED="1635632201535" MODIFIED="1635632212370">
 <icon BUILTIN="outcome"/>
 <node TEXT="li long" ID="ID_1350124729" CREATED="1635632212430" MODIFIED="1635710406938">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 </node>
 <node TEXT="messianism" POSITION="left" ID="ID_1299834384" CREATED="1635632106471" MODIFIED="1635632115965" LINK="https://en.wikipedia.org/wiki/Messianism">

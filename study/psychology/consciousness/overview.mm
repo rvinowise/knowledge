@@ -241,6 +241,12 @@
 </node>
 </node>
 </node>
+<node TEXT="global workspace theory (GWT)" ID="ID_1259721325" CREATED="1656495321745" MODIFIED="1656499783224" LINK="file:/C:/knowledge/study/psychology/consciousness/global%20workspace%20theory%20(GWT).mm">
+<icon BUILTIN="present"/>
+<node TEXT="bernard baars" ID="ID_705967531" CREATED="1656495416720" MODIFIED="1656499767525">
+<icon BUILTIN="person"/>
+</node>
+</node>
 </node>
 <node TEXT="some theories don&apos;t claim to be materialistic" POSITION="right" ID="ID_223284476" CREATED="1656229228076" MODIFIED="1656229301626">
 <node TEXT="orchestrated objective reduction (Orch OR)" ID="ID_95132925" CREATED="1656229262373" MODIFIED="1656229682888" LINK="file:/C:/knowledge/study/psychology/consciousness/orchestrated%20objective%20reduction%20(Orch%20OR).mm">
@@ -260,6 +266,67 @@
 </node>
 </node>
 <node TEXT="richard dennet" ID="ID_1913205298" CREATED="1655611931978" MODIFIED="1655611942684"/>
+</node>
+<node TEXT="solutions to the hard problem of C" POSITION="right" ID="ID_1560691510" CREATED="1656821700375" MODIFIED="1656822072939">
+<node TEXT="panpsychism" ID="ID_598720397" CREATED="1656821719282" MODIFIED="1656821724286">
+<node TEXT="ambiguous" ID="ID_532406606" CREATED="1656821755337" MODIFIED="1656821767963">
+<node TEXT="every atom is conscious" ID="ID_1704068084" CREATED="1656821772970" MODIFIED="1656822051692">
+<icon BUILTIN="control/type_of_parent"/>
+</node>
+<node TEXT="consciousness arises from specific combinations of atoms" ID="ID_1133559524" CREATED="1656821781013" MODIFIED="1656822051687">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="every materialistic theory of C falls there" ID="ID_126659089" CREATED="1656821829311" MODIFIED="1656821881650"/>
+<node TEXT="IIT" ID="ID_747348601" CREATED="1656822151399" MODIFIED="1656822177801">
+<icon BUILTIN="present"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="illusionism" ID="ID_1113984815" CREATED="1656821724717" MODIFIED="1656821731843">
+<node TEXT="there&apos;s no hard problem" LOCALIZED_STYLE_REF="default" ID="ID_911004391" CREATED="1656821731977" MODIFIED="1656822433939" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="denn dennett" ID="ID_1320312337" CREATED="1656822112903" MODIFIED="1656822131479">
+<icon BUILTIN="person"/>
+</node>
+</node>
+<node TEXT="mysterians" ID="ID_37164851" CREATED="1656822287976" MODIFIED="1656822300218">
+<node TEXT="C is incomprehensible" LOCALIZED_STYLE_REF="default" ID="ID_78308541" CREATED="1656822320206" MODIFIED="1656822433936" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="steven pinkler" ID="ID_314562604" CREATED="1656822303245" MODIFIED="1656822315447">
+<icon BUILTIN="person"/>
+</node>
+</node>
+<node TEXT="idealism" ID="ID_656482513" CREATED="1656822316986" MODIFIED="1656822339116">
+<node TEXT="everything is C, reality is an illusion" LOCALIZED_STYLE_REF="default" ID="ID_1828855708" CREATED="1656822377025" MODIFIED="1656822433928" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="quote"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="deepak chopra" ID="ID_1305056847" CREATED="1656822363093" MODIFIED="1656822369870">
+<icon BUILTIN="person"/>
+</node>
+</node>
+<node TEXT="dualism" ID="ID_1698144558" CREATED="1656822340146" MODIFIED="1656822343660">
+<node TEXT="C exists in a parallel world, together with the material world" ID="ID_271437878" CREATED="1656822452517" MODIFIED="1656822512033">
+<icon BUILTIN="quote"/>
+<font ITALIC="true"/>
+</node>
+<node TEXT="chalmers" ID="ID_1741578806" CREATED="1656822351707" MODIFIED="1656822358778">
+<icon BUILTIN="person"/>
+</node>
+</node>
+<node TEXT="stephen e. robbins at 32:17" ID="ID_815229280" CREATED="1656822516762" MODIFIED="1656822609296" LINK="https://www.youtube.com/watch?v=r6H3XFF8_uM">
+<icon BUILTIN="emoji-26F2"/>
+</node>
+</node>
+<node TEXT="variables" POSITION="left" ID="ID_1036127986" CREATED="1656821895855" MODIFIED="1656821924621">
+<icon BUILTIN="control/comment"/>
+<node TEXT="C" ID="ID_1861592715" CREATED="1656821900781" MODIFIED="1656821908127">
+<node TEXT="consciousness" ID="ID_1811485721" CREATED="1656821908214" MODIFIED="1656821911911"/>
+</node>
 </node>
 </node>
 </map>

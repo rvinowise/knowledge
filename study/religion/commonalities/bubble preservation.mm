@@ -217,7 +217,7 @@
 <font ITALIC="true"/>
 </node>
 <node TEXT="rvi" ID="ID_747053280" CREATED="1641758137098" MODIFIED="1641758172448">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 <icon BUILTIN="punctuation/colon"/>
 <node TEXT="i&apos;m afraid of" LOCALIZED_STYLE_REF="default" ID="ID_1265172857" CREATED="1636442356221" MODIFIED="1636442567377" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="bad"/>

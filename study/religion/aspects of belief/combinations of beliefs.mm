@@ -131,30 +131,30 @@
 </node>
 <node TEXT="materialism" POSITION="right" ID="ID_734900193" CREATED="1642303676855" MODIFIED="1642303716639">
 <node TEXT="epicurus" ID="ID_1840828060" CREATED="1642303731504" MODIFIED="1642303880190">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 <node TEXT="democritus" ID="ID_1347921122" CREATED="1642303754308" MODIFIED="1642303770645">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 </node>
 <node TEXT="no arterlife" POSITION="right" ID="ID_1836878582" CREATED="1642303824109" MODIFIED="1642303828516">
 <node TEXT="epicurus" ID="ID_1614585367" CREATED="1642303731504" MODIFIED="1642303884078" LINK="https://plato.stanford.edu/entries/epicurus/">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 </node>
 <node TEXT="gods exist" POSITION="right" ID="ID_771046293" CREATED="1642303717009" MODIFIED="1642303735957">
 <node TEXT="epicurus" ID="ID_92338960" CREATED="1642303731504" MODIFIED="1642303770509">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 <node TEXT="democritus" ID="ID_28411306" CREATED="1642303754308" MODIFIED="1642303770645">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 <node TEXT="gods don&apos;t interfere" ID="ID_909036855" CREATED="1642303788543" MODIFIED="1642303793868">
 <node TEXT="gautama buddha" ID="ID_1616133610" CREATED="1642303794680" MODIFIED="1642303813344">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 <node TEXT="epicurus" ID="ID_487102750" CREATED="1642303808636" MODIFIED="1642303813159">
-<icon BUILTIN="man_bust"/>
+<icon BUILTIN="person"/>
 </node>
 </node>
 </node>

@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -224,15 +224,55 @@
 </node>
 <node TEXT="people and organisation working in transhumanism" POSITION="right" ID="ID_1597169735" CREATED="1648792098843" MODIFIED="1648792118862">
 <node TEXT="nick bostom" ID="ID_780504592" CREATED="1648792306524" MODIFIED="1648792329861">
-<icon BUILTIN="man_bust"/>
-<node TEXT="futue of humanity institute" ID="ID_783948309" CREATED="1648792454213" MODIFIED="1648792631696" LINK="https://en.wikipedia.org/wiki/Future_of_Humanity_Institute">
+<icon BUILTIN="person"/>
+<node TEXT="futue of humanity institute" ID="ID_783948309" CREATED="1648792454213" MODIFIED="1657108825290" LINK="https://en.wikipedia.org/wiki/Future_of_Humanity_Institute">
+<icon BUILTIN="grammar/syntax/follows_next"/>
 <icon BUILTIN="place"/>
 </node>
 </node>
 <node TEXT="noah harari" ID="ID_1432241252" CREATED="1648792311649" MODIFIED="1648792329624">
-<icon BUILTIN="man_bust"/>
-<node TEXT="homo deus" LOCALIZED_STYLE_REF="default" ID="ID_625043573" CREATED="1648792335887" MODIFIED="1648792449565" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="person"/>
+<node TEXT="homo deus" LOCALIZED_STYLE_REF="default" ID="ID_625043573" CREATED="1648792335887" MODIFIED="1657108825300" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="grammar/syntax/follows_next"/>
 <icon BUILTIN="book_open"/>
+</node>
+</node>
+<node TEXT="jeffery epstein" ID="ID_1483638035" CREATED="1657108302286" MODIFIED="1657108356920" LINK="https://www.nytimes.com/2019/07/31/business/jeffrey-epstein-eugenics.html">
+<icon BUILTIN="person"/>
+<node TEXT="pedophile" ID="ID_409316022" CREATED="1657108317327" MODIFIED="1657108322169">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="humanity plus" ID="ID_1887116851" CREATED="1657108325039" MODIFIED="1657108825359">
+<icon BUILTIN="grammar/syntax/follows_next"/>
+<icon BUILTIN="place"/>
+</node>
+</node>
+<node TEXT="cryonics" ID="ID_653947355" CREATED="1657107599062" MODIFIED="1657107602676">
+<node TEXT="alcor" LOCALIZED_STYLE_REF="default" ID="ID_607274810" CREATED="1657105837293" MODIFIED="1657108081909" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="place"/>
+<node TEXT="shady activity" ID="ID_283947090" CREATED="1657107619153" MODIFIED="1657108065636">
+<icon BUILTIN="bad"/>
+<node TEXT="larry johnsson" ID="ID_445826193" CREATED="1657107640241" MODIFIED="1657108200866" LINK="https://www.amazon.com/gp/product/B002XWUQ4I/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=sl1&amp;tag=biohackinfo0b-20&amp;linkId=b1bb2549f9a0e1f10f1e987024c9c69c&amp;language=en_US">
+<icon BUILTIN="emoji-26F2"/>
+<icon BUILTIN="book_open"/>
+</node>
+</node>
+</node>
+<node TEXT="criorus" LOCALIZED_STYLE_REF="default" ID="ID_1998152349" CREATED="1657105845487" MODIFIED="1657108083877" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="place"/>
+<node TEXT="is torn apart after the divorce of its directors" ID="ID_71840394" CREATED="1657107996249" MODIFIED="1657108063418">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="allied with italian mafia" ID="ID_986632579" CREATED="1657108027978" MODIFIED="1657108062053">
+<icon BUILTIN="bad"/>
+<node TEXT="" ID="ID_1534609149" CREATED="1657108054943" MODIFIED="1657108054943"/>
+</node>
+</node>
+<node TEXT="dishonesty" ID="ID_249496922" CREATED="1657107538727" MODIFIED="1657107610379">
+<icon BUILTIN="bad"/>
+<node TEXT="biohackinginfo" ID="ID_1383259199" CREATED="1657107559607" MODIFIED="1657107585637" LINK="https://biohackinfo.com/news-kriorus-cryonics-russia-transhumanism-ndrangheta/">
+<icon BUILTIN="emoji-26F2"/>
+</node>
 </node>
 </node>
 </node>

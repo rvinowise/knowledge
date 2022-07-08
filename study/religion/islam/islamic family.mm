@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -11,7 +11,7 @@
 <node TEXT="islamic family" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1638746711956" COLOR="#ffffff">
 <font NAME="Tahoma" BOLD="false"/>
 <hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -150,6 +150,7 @@
 <node TEXT="woman was &quot;married&quot; to a random man" ID="ID_1524559577" CREATED="1633688749300" MODIFIED="1638747748886" LINK="islamic%20sex.mm#ID_1524559577"/>
 </node>
 <node TEXT="followers of dajjal will be mostly women" ID="ID_839389231" CREATED="1647698280289" MODIFIED="1647698301412" LINK="https://www.youtube.com/watch?v=66kT9MHxK8Y&amp;ab_channel=iLovUAllah%E2%84%A2"/>
+<node TEXT="a man can divorce his wife by simply saying &quot;divorce&quot;" ID="ID_1317653602" CREATED="1656673533339" MODIFIED="1656673566423"/>
 </node>
 <node TEXT="words in islamic propaganda don&apos;t mean what they seem to mean" POSITION="right" ID="ID_1249143274" CREATED="1650327654523" MODIFIED="1650327684394">
 <node TEXT="rape" ID="ID_1551735079" CREATED="1650327684960" MODIFIED="1650327687097">
@@ -173,13 +174,26 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="Tafheem-ul-Quran - Abul Ala Maududi" ID="ID_1761623260" CREATED="1650328496935" MODIFIED="1650328515077">
 <icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="men are allowed promiscuity" POSITION="right" ID="ID_700721285" CREATED="1656673482611" MODIFIED="1656673504974">
+<node TEXT="muhammad was promiscuous" ID="ID_1160410966" CREATED="1656651917436" MODIFIED="1656651981804">
+<node TEXT="the amount of his wives is controversial" ID="ID_40890597" CREATED="1656651928052" MODIFIED="1656651959707">
+<node TEXT="from 11 to 15" ID="ID_531125995" CREATED="1656651959900" MODIFIED="1656651963510">
+<node TEXT="generally said 11" ID="ID_929320877" CREATED="1656652099004" MODIFIED="1656652104948"/>
+<node TEXT="wikipedia says 13" ID="ID_950043475" CREATED="1656652105197" MODIFIED="1656652109681"/>
+<node TEXT="leaving islam by ibn warraqs says 15" ID="ID_1279679750" CREATED="1656652109900" MODIFIED="1656652134515"/>
+</node>
+</node>
+</node>
+<node TEXT="a man can marry another wife without his other wives knowing it" ID="ID_1457034108" CREATED="1656673509381" MODIFIED="1656673528952">
+<node TEXT="abdullah sameer reviews assim al hakeem" ID="ID_1179274608" CREATED="1656673582485" MODIFIED="1656673640518" LINK="https://www.youtube.com/watch?v=tmadpZ3jGM8"/>
 </node>
 </node>
 </node>

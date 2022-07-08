@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="integrated information theory (IIT)" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1649591920324"><hook NAME="MapStyle" zoom="1.2">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -224,7 +224,7 @@
 </node>
 <node TEXT="tries to quantify consciousness" POSITION="right" ID="ID_774662700" CREATED="1649580560916" MODIFIED="1649581129944">
 <icon BUILTIN="good"/>
-<node TEXT="the variable Phî" ID="ID_1181012864" CREATED="1649581032792" MODIFIED="1649581102537" COLOR="#000000">
+<node TEXT="it makes the transition from pre-theoretic definitions of &quot;consciousness&quot; to a well-defined one (Phi)" LOCALIZED_STYLE_REF="default" ID="ID_718608171" CREATED="1649593154929" MODIFIED="1656500773905" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="not defined precisely" ID="ID_1854273201" CREATED="1649581110620" MODIFIED="1649581130902">
 <icon BUILTIN="bad"/>
 <node TEXT="can give different values of consciousness of the same systems" ID="ID_1956486716" CREATED="1649581131519" MODIFIED="1649581164078"/>
@@ -236,7 +236,7 @@
 <node TEXT="jake hanson" ID="ID_339461726" CREATED="1649581208040" MODIFIED="1649581231971" LINK="https://www.youtube.com/watch?v=oPg09MfQEMI&amp;t=1392s&amp;ab_channel=JakeHanson"/>
 <node TEXT="a fly should have lower level of Phi (consciousness) after anesthesia" ID="ID_1667573437" CREATED="1649581322686" MODIFIED="1649581360321"/>
 </node>
-<node TEXT="predictions" POSITION="right" ID="ID_1846642772" CREATED="1651914757296" MODIFIED="1651914775224">
+<node TEXT="makes predictions" POSITION="right" ID="ID_1846642772" CREATED="1651914757296" MODIFIED="1656500736264">
 <node TEXT="philosophical zombies are possible" ID="ID_1763301991" CREATED="1649581941565" MODIFIED="1649581953258">
 <node TEXT="because Feedback is needed for consciousness" ID="ID_810497754" CREATED="1649581953394" MODIFIED="1649592036014">
 <node TEXT="any system can be rewired to not have the feedback, while still doing the same work" ID="ID_472664310" CREATED="1649581973097" MODIFIED="1649582046880">
@@ -270,11 +270,8 @@
 </node>
 <node TEXT="my left hemisphere is not conscious right now" ID="ID_496843988" CREATED="1651915058633" MODIFIED="1651915079089"/>
 </node>
-<node TEXT="it makes the transition from pre-theoretic definitions of &quot;consciousness&quot; to a well-defined one (Phi)" POSITION="right" ID="ID_718608171" CREATED="1649593154929" MODIFIED="1649593312068">
-<icon BUILTIN="good"/>
-</node>
 <node TEXT="doesn&apos;t address the metaquestion of consciousness" POSITION="right" ID="ID_417792410" CREATED="1651924962475" MODIFIED="1651924996932">
-<icon BUILTIN="bad@bleak"/>
+<icon BUILTIN="bad"/>
 <node TEXT="chalmers at HBP" ID="ID_917408526" CREATED="1651925007577" MODIFIED="1651925032351" LINK="https://www.youtube.com/watch?v=LGZiF7f83Rs">
 <icon BUILTIN="emoji-26F2"/>
 </node>
@@ -293,16 +290,13 @@
 <node TEXT="creator" ID="ID_1568770674" CREATED="1652004808482" MODIFIED="1652004811745"/>
 </node>
 <node TEXT="larissa albantakis" ID="ID_30740893" CREATED="1652004768612" MODIFIED="1652005921798"/>
-<node TEXT="koch" ID="ID_75611568" CREATED="1652004818971" MODIFIED="1652004829821"/>
+<node TEXT="christof koch" ID="ID_75611568" CREATED="1652004818971" MODIFIED="1656500703853"/>
 </node>
 <node TEXT="" POSITION="right" ID="ID_1106772369" CREATED="1650122345583" MODIFIED="1650122349617">
 <icon BUILTIN="emoji-26F2"/>
 <node TEXT="a compilation of different mentions of IIT" ID="ID_328670960" CREATED="1650122313059" MODIFIED="1650122328568">
 <node TEXT="Julius Kratzer" LOCALIZED_STYLE_REF="default" ID="ID_207606664" CREATED="1650121778739" MODIFIED="1650122353865" LINK="https://www.youtube.com/playlist?list=PL3n8ok42MpXiRhgWQxvVQZ8IjCDjIGylg" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 </node>
-</node>
-<node TEXT="notes" POSITION="right" ID="ID_251399275" CREATED="1650122253965" MODIFIED="1650122302724" BACKGROUND_COLOR="#cccccc">
-<node TEXT="" ID="ID_907879466" CREATED="1650122307688" MODIFIED="1650122307688"/>
 </node>
 </node>
 </map>

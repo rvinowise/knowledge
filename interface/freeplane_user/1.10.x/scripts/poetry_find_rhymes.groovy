@@ -6,7 +6,7 @@ import groovy.time.TimeCategory
 import groovy.time.TimeDuration
 
 import java.nio.charset.Charset;
-import com.rvinowise.freeplane.NodeManipulator
+import org.rvinowise.freeplane.NodeManipulator
 
 
 Rhyme_finder rhyme_finder = new Rhyme_finder(c, node)

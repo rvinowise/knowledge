@@ -235,7 +235,7 @@
 </node>
 <node TEXT="should be only thrown but not caught" ID="ID_105339296" CREATED="1653885358451" MODIFIED="1653885384819">
 <node TEXT="fix the error instead" ID="ID_234291917" CREATED="1653885020979" MODIFIED="1653885055273">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 </node>
@@ -249,7 +249,7 @@
 <node TEXT="bad design" ID="ID_1735952236" CREATED="1653884983040" MODIFIED="1653884991059"/>
 </node>
 <node TEXT="avoid them if possible" ID="ID_1968804011" CREATED="1653884993930" MODIFIED="1653885056288">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 </node>
@@ -262,7 +262,7 @@
 <icon BUILTIN="present@b"/>
 </node>
 <node TEXT="only they should be caught" ID="ID_924012284" CREATED="1653884708751" MODIFIED="1653885061810" LINK="https://ericlippert.com/2008/09/10/vexing-exceptions/">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 <node TEXT="fatal" ID="ID_40614774" CREATED="1653884925994" MODIFIED="1653884946586">
@@ -271,7 +271,7 @@
 <icon BUILTIN="present@b"/>
 </node>
 <node TEXT="ignore them - they are uncontrollable" ID="ID_151091772" CREATED="1653885066380" MODIFIED="1653893173798">
-<icon BUILTIN="good@bleak"/>
+<icon BUILTIN="good"/>
 </node>
 </node>
 </node>

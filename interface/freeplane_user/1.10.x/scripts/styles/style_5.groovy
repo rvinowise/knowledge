@@ -1,4 +1,4 @@
-import com.rvinowise.freeplane.NodeManipulator
+import org.rvinowise.freeplane.NodeManipulator
 
 
 

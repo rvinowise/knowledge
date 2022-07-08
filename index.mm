@@ -143,7 +143,7 @@
 <node TEXT="history" ID="ID_1641012873" CREATED="1633368871369" MODIFIED="1635882091274" LINK="study/history/">
 <icon BUILTIN="info_circle"/>
 <font NAME="Tahoma"/>
-<node TEXT="history of greece.mm" ID="ID_933115436" CREATED="1633368764712" MODIFIED="1635773283864" LINK="history/history%20of%20greece.mm">
+<node TEXT="history of greece.mm" ID="ID_933115436" CREATED="1633368764712" MODIFIED="1656584639205" LINK="study/history/history%20of%20greece.mm">
 <icon BUILTIN="present"/>
 <font NAME="Tahoma"/>
 <node TEXT="yale course on youtube" ID="ID_396954466" CREATED="1633369558184" MODIFIED="1635773283865">
@@ -183,6 +183,9 @@
 <node TEXT="chemistry" ID="ID_1170336021" CREATED="1641514141193" MODIFIED="1641514147519" LINK="study/chemistry/">
 <node TEXT="types of agents" ID="ID_573074678" CREATED="1641514148754" MODIFIED="1641658032392" LINK="study/chemistry/types%20of%20agents.mm"/>
 </node>
+<node TEXT="geography" ID="ID_1247276070" CREATED="1657082049481" MODIFIED="1657082070516" LINK="study/geography/">
+<node TEXT="geography.mm" ID="ID_1208191739" CREATED="1657083422436" MODIFIED="1657083428537" LINK="study/geography/geography.mm"/>
+</node>
 </node>
 <node TEXT="religion" ID="ID_1519172584" CREATED="1635882388290" MODIFIED="1635882395282" LINK="study/religion/">
 <node TEXT="religion" ID="ID_780886805" CREATED="1633368851477" MODIFIED="1635882395641" LINK="study/religion/religion.mm">
@@ -198,6 +201,12 @@
 <node TEXT="attention schema theory.mm" ID="ID_961341553" CREATED="1649580538101" MODIFIED="1649580538102" LINK="study/psychology/consciousness/attention%20schema%20theory.mm"/>
 <node TEXT="integrated information theory" ID="ID_564923483" CREATED="1649580548611" MODIFIED="1649580560332" LINK="file:/C:/knowledge/study/psychology/consciousness/integrated%20information%20theory.mm"/>
 </node>
+<node TEXT="intelligence" ID="ID_1869424451" CREATED="1656795975614" MODIFIED="1656795995842" LINK="study/psychology/intelligence/">
+<node TEXT="overview" ID="ID_1254723164" CREATED="1656795998112" MODIFIED="1656796334680" LINK="file:/C:/knowledge/study/psychology/intelligence/overview.mm"/>
+</node>
+<node TEXT="teaching" ID="ID_1498618956" CREATED="1656617372037" MODIFIED="1656617384289" LINK="study/psychology/teaching/">
+<node TEXT="dealing with difficult students" ID="ID_789318972" CREATED="1656617385658" MODIFIED="1656617414582" LINK="file:/C:/knowledge/study/psychology/teaching/dealing%20with%20difficult%20students.mm"/>
+</node>
 </node>
 <node TEXT="health" ID="ID_1563290764" CREATED="1638643041408" MODIFIED="1638643058757" LINK="study/health/">
 <node TEXT="glycation end products" ID="ID_226375567" CREATED="1638643060165" MODIFIED="1638643090310" LINK="study/health/glycation%20end%20products.mm"/>
@@ -209,8 +218,10 @@
 </node>
 </node>
 <node TEXT="programming" ID="ID_1478726703" CREATED="1642145814824" MODIFIED="1642145831998" LINK="study/programming/">
-<node TEXT="search" ID="ID_758762981" CREATED="1642145833400" MODIFIED="1642145961821" LINK="file:/D:/archive/cloud_storages/knowledge/study/programming/search.mm"/>
-<node TEXT="unty unit testing" LOCALIZED_STYLE_REF="default" ID="ID_1822815891" CREATED="1645620134738" MODIFIED="1645623220336" LINK="file:/C:/knowledge/study/programming/unty%20unit%20testing.mm" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+<node TEXT="search" ID="ID_758762981" CREATED="1642145833400" MODIFIED="1657135851013" LINK="study/programming/search.mm"/>
+<node TEXT="unty unit testing" LOCALIZED_STYLE_REF="default" ID="ID_1822815891" CREATED="1645620134738" MODIFIED="1657135843502" LINK="study/programming/unty%20unit%20testing.mm" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
+<node TEXT="compare_languages" ID="ID_698680216" CREATED="1656835888940" MODIFIED="1657135827823" LINK="study/programming/compare_languages.mm"/>
+<node TEXT="programming" ID="ID_1216439957" CREATED="1657135951352" MODIFIED="1657135957892" LINK="study/programming/programming.mm"/>
 </node>
 <node TEXT="meta science" ID="ID_14757307" CREATED="1646396179556" MODIFIED="1646396213626" LINK="study/meta%20science/">
 <node TEXT="scientific studies" ID="ID_652375220" CREATED="1646396214688" MODIFIED="1646396221619" LINK="file:/C:/knowledge/study/meta%20science/scientific%20studies.mm"/>
@@ -292,6 +303,7 @@
 </node>
 <node TEXT="shopping" ID="ID_1352705775" CREATED="1654334360600" MODIFIED="1654334370783" LINK="notes/shopping/">
 <node TEXT="shops" ID="ID_1221892413" CREATED="1654334371498" MODIFIED="1654334380829" LINK="file:/C:/knowledge/notes/shopping/shops.mm"/>
+<node TEXT="shopping list" ID="ID_1267583097" CREATED="1656582904440" MODIFIED="1656582913683" LINK="file:/C:/knowledge/notes/shopping/shopping%20list.mm"/>
 </node>
 <node TEXT="people" ID="ID_374183941" CREATED="1656402234854" MODIFIED="1656402240841" LINK="notes/people/">
 <node TEXT="people" ID="ID_1685326148" CREATED="1656402241754" MODIFIED="1656402250116" LINK="file:/C:/knowledge/notes/people/people.mm"/>
