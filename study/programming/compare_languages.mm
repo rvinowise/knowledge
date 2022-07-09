@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="compare_languages" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1656835963214"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="compare_programming_tools" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1657340015129"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -138,7 +138,22 @@
 </hook>
 <font NAME="Tahoma"/>
 <node TEXT="type: " POSITION="left" ID="ID_1234978731" CREATED="1656835963271" MODIFIED="1656835963426"/>
-<node TEXT="JVM" POSITION="right" ID="ID_681387040" CREATED="1656836355953" MODIFIED="1656836362645">
+<node POSITION="right" ID="ID_1022756175" CREATED="1657339689210" MODIFIED="1657342602134"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ls share a common <b>framework</b>&nbsp;
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="JVM" ID="ID_681387040" CREATED="1656836355953" MODIFIED="1657339722697">
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="" ID="ID_468438184" CREATED="1656835963427" MODIFIED="1656835969163">
 <icon BUILTIN="emoji-26F2"/>
 <node TEXT="comparison of java machine Ls" ID="ID_552748073" CREATED="1656835969442" MODIFIED="1656836276866" LINK="https://itsallbinary.com/java-vs-groovy-scala-kotlin-code-comparison-of-jvm-languages/"/>
@@ -159,6 +174,7 @@
 <icon BUILTIN="emoji-26F2"/>
 <icon BUILTIN="book_open"/>
 </node>
+<node TEXT="slightly less performant than java" ID="ID_1112601641" CREATED="1657334463844" MODIFIED="1657334481103" LINK="https://www.reddit.com/r/Kotlin/comments/ubseb8/kotlin_vs_java_performance/"/>
 </node>
 <node TEXT="scala" ID="ID_973097272" CREATED="1656836392318" MODIFIED="1656931969737">
 <icon BUILTIN="control/type_of_parent"/>
@@ -182,11 +198,25 @@
 <node TEXT="clojure" ID="ID_223515246" CREATED="1656836432444" MODIFIED="1656931969731">
 <icon BUILTIN="control/type_of_parent"/>
 </node>
-<node TEXT="as a project building DSL" ID="ID_273891521" CREATED="1656931899616" MODIFIED="1656931930934">
+<node TEXT="Ls as project building DSLs" ID="ID_273891521" CREATED="1656931899616" MODIFIED="1657339890945">
 <node TEXT="groovy vs kotlin comparison" ID="ID_552517326" CREATED="1656931933701" MODIFIED="1656931943567" LINK="https://tomgregory.com/5-reasons-to-switch-to-the-gradle-kotlin-dsl/"/>
 </node>
 </node>
-<node TEXT="controvercies" POSITION="right" ID="ID_1304683830" CREATED="1656933061996" MODIFIED="1656933068057">
+</node>
+<node POSITION="right" ID="ID_1304683830" CREATED="1656933061996" MODIFIED="1657342598750"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      they differ in <b>controversial</b>&nbsp;characteristics
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="typing" ID="ID_827497977" CREATED="1656933068194" MODIFIED="1656933071288">
 <node TEXT="static" ID="ID_321100709" CREATED="1656933071429" MODIFIED="1656933215463">
 <icon BUILTIN="control/type_of_parent"/>
@@ -204,6 +234,27 @@
 </node>
 <node TEXT="stable code" ID="ID_1979903453" CREATED="1656933158089" MODIFIED="1656933209216">
 <icon BUILTIN="good"/>
+</node>
+<node TEXT="new types can be added" ID="ID_401705288" CREATED="1657340098961" MODIFIED="1657340173418">
+<node TEXT="c++" ID="ID_270649715" CREATED="1657340086141" MODIFIED="1657340181051">
+<icon BUILTIN="present"/>
+</node>
+<node TEXT="go" ID="ID_891740480" CREATED="1657340088805" MODIFIED="1657340181056">
+<icon BUILTIN="present"/>
+</node>
+</node>
+<node TEXT="generics, aka writing for all types at once" ID="ID_1469089477" CREATED="1657340218784" MODIFIED="1657340309271">
+<node TEXT="exist" ID="ID_543677542" CREATED="1657340229982" MODIFIED="1657340231800">
+<node TEXT="c#" ID="ID_1387225374" CREATED="1657340231990" MODIFIED="1657340233708"/>
+<node TEXT="c++" ID="ID_919283595" CREATED="1657340235055" MODIFIED="1657340236053">
+<node TEXT="templates" ID="ID_1795620801" CREATED="1657340335885" MODIFIED="1657340340888">
+<icon BUILTIN="chain"/>
+</node>
+</node>
+</node>
+<node TEXT="don&apos;t exist" ID="ID_117503038" CREATED="1657340223480" MODIFIED="1657340228959">
+<node TEXT="go" ID="ID_332751040" CREATED="1657340237036" MODIFIED="1657340238065"/>
+</node>
 </node>
 </node>
 <node TEXT="dynamic" ID="ID_1511436099" CREATED="1656933073447" MODIFIED="1656933215455">
@@ -242,12 +293,18 @@
 <icon BUILTIN="control/type_of_parent"/>
 <node TEXT="cpp" ID="ID_1533148753" CREATED="1656933342179" MODIFIED="1657059365698">
 <icon BUILTIN="present"/>
+<node TEXT="uses RAII instead" ID="ID_220727961" CREATED="1657340664755" MODIFIED="1657340671826"/>
 </node>
 <node TEXT="all resources are managed, not only memory" ID="ID_751292316" CREATED="1656933383841" MODIFIED="1656933398312">
 <icon BUILTIN="good"/>
 </node>
 <node TEXT="error prone" ID="ID_1075157358" CREATED="1656933452050" MODIFIED="1656933462521">
 <icon BUILTIN="bad"/>
+</node>
+<node TEXT="automatic memory management without GC" ID="ID_826626479" CREATED="1657340604944" MODIFIED="1657340616198">
+<node TEXT="rust" ID="ID_1416482937" CREATED="1657340616395" MODIFIED="1657340619273">
+<icon BUILTIN="present"/>
+</node>
 </node>
 </node>
 </node>
@@ -270,7 +327,6 @@
 <node TEXT="use for operations apart from &quot;read&quot; (update,insert,delete)" ID="ID_1751908405" CREATED="1657143397961" MODIFIED="1657143455797" LINK="https://stackoverflow.com/a/494871/7513754">
 <icon BUILTIN="good"/>
 </node>
-<node TEXT="" ID="ID_900513049" CREATED="1657143860729" MODIFIED="1657143860729"/>
 </node>
 <node TEXT="DAL" ID="ID_381129938" CREATED="1657142087735" MODIFIED="1657142091333">
 <icon BUILTIN="control/type_of_parent"/>
@@ -306,6 +362,75 @@
 </node>
 </node>
 </node>
+<node POSITION="right" ID="ID_1919522178" CREATED="1657342570924" MODIFIED="1657342592285"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ls differ in their <b>paradigm</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="procedural Pming" ID="ID_1628630215" CREATED="1657342809075" MODIFIED="1657342864870">
+<icon BUILTIN="control/type_of_parent"/>
+</node>
+<node TEXT="OOP" ID="ID_1333097420" CREATED="1657342606889" MODIFIED="1657342629244">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="object initialization" ID="ID_240343201" CREATED="1657342136262" MODIFIED="1657342144002">
+<node TEXT="no constructors" ID="ID_248292055" CREATED="1657342144311" MODIFIED="1657342153967">
+<node TEXT="golang" ID="ID_1953983032" CREATED="1657342154165" MODIFIED="1657342169205">
+<icon BUILTIN="present"/>
+<node TEXT="&quot;zero value&quot; should be useful" ID="ID_1468856348" CREATED="1657342172474" MODIFIED="1657350157944" LINK="https://go.dev/doc/effective_go">
+<node TEXT="how to make zero value useful?" ID="ID_830312833" CREATED="1657342262631" MODIFIED="1657342276176" LINK="https://www.reddit.com/r/golang/comments/rdf7c2/strategies_for_making_the_zero_value_useful/"/>
+<node TEXT="zero values are allowed, but are useless and error prone" ID="ID_457173196" CREATED="1657342286610" MODIFIED="1657342306213" LINK="https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#language-defined-source-code-format">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="golang" ID="ID_155070810" CREATED="1657342739395" MODIFIED="1657342745138">
+<icon BUILTIN="present"/>
+<node TEXT="objects should be data containers" ID="ID_1655121697" CREATED="1657342750066" MODIFIED="1657342761932">
+<node TEXT="like &quot;structures&quot; in other Ls" ID="ID_1575529595" CREATED="1657342763362" MODIFIED="1657342782481"/>
+<node TEXT="in between OOP and procedural Pming `que" ID="ID_1683229514" CREATED="1657342825181" MODIFIED="1657342844391"/>
+</node>
+</node>
+</node>
+<node TEXT="functional Pming" ID="ID_233943941" CREATED="1657342631512" MODIFIED="1657342677108">
+<icon BUILTIN="control/type_of_parent"/>
+</node>
+</node>
+<node POSITION="right" ID="ID_737332518" CREATED="1657338741096" MODIFIED="1657342594345"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ls form <b>families</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="algol" ID="ID_648459287" CREATED="1657338757836" MODIFIED="1657338812219">
+<icon BUILTIN="grammar/syntax/follows_next"/>
+<node TEXT="c" ID="ID_1536236428" CREATED="1657338763990" MODIFIED="1657338765374">
+<node TEXT="c++" ID="ID_1522283383" CREATED="1657338766504" MODIFIED="1657338768031"/>
+</node>
+<node TEXT="java" ID="ID_132470896" CREATED="1657338770008" MODIFIED="1657338771159"/>
+<node TEXT="dart" ID="ID_1725292690" CREATED="1657338772113" MODIFIED="1657338799983" LINK="https://en.wikipedia.org/wiki/Dart_(programming_language)"/>
+<node TEXT="c#" ID="ID_305201171" CREATED="1657338786989" MODIFIED="1657338788946"/>
+<node TEXT="javascript" ID="ID_760573848" CREATED="1657338789375" MODIFIED="1657338796001"/>
+</node>
+</node>
 <node TEXT="variables" POSITION="left" ID="ID_1297806066" CREATED="1656835993741" MODIFIED="1656835998685">
 <node TEXT="L" ID="ID_1910314962" CREATED="1656835999839" MODIFIED="1656836002474">
 <node TEXT="language" ID="ID_1604329720" CREATED="1656836002665" MODIFIED="1656836004967"/>
@@ -326,6 +451,15 @@
 </node>
 <node TEXT="DAL" ID="ID_1245372359" CREATED="1657142072550" MODIFIED="1657142074304">
 <node TEXT="data access language" ID="ID_440331541" CREATED="1657142074918" MODIFIED="1657142079425"/>
+</node>
+<node TEXT="RAII" ID="ID_1441970765" CREATED="1657340675958" MODIFIED="1657340677175">
+<node TEXT="&quot;resource acquisition is initialisation&quot;" ID="ID_1628400750" CREATED="1657340680937" MODIFIED="1657340703398"/>
+</node>
+<node TEXT="OOP" ID="ID_494400682" CREATED="1657342613518" MODIFIED="1657342614493">
+<node TEXT="object-oriented programming" ID="ID_792287732" CREATED="1657342615922" MODIFIED="1657342622888"/>
+</node>
+<node TEXT="P" ID="ID_59247125" CREATED="1657342639302" MODIFIED="1657342640262">
+<node TEXT="program" ID="ID_508500931" CREATED="1657342640588" MODIFIED="1657342649286"/>
 </node>
 </node>
 </node>

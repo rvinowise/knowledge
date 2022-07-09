@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="good practice" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1657335695922"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="people" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1656402250466"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -137,56 +137,103 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: " POSITION="left" ID="ID_1234978731" CREATED="1656835963271" MODIFIED="1656835963426"/>
-<node TEXT="variables" POSITION="left" ID="ID_1297806066" CREATED="1656835993741" MODIFIED="1656835998685">
-<node TEXT="L" ID="ID_1910314962" CREATED="1656835999839" MODIFIED="1656836002474">
-<node TEXT="language" ID="ID_1604329720" CREATED="1656836002665" MODIFIED="1656836004967"/>
+<node TEXT="type: " POSITION="left" ID="ID_831085371" CREATED="1656402250488" MODIFIED="1656402250494"/>
+<node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
+<font NAME="Tahoma"/>
+<node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
+<font NAME="Tahoma" BOLD="true"/>
+<node TEXT="topic" ID="ID_1565487616" CREATED="1633811189288" MODIFIED="1635773283874" COLOR="#7f7f7f">
+<font NAME="Tahoma" BOLD="true"/>
 </node>
-<node TEXT="JVM" ID="ID_1423293958" CREATED="1656836368083" MODIFIED="1656836371229">
-<node TEXT="Java virtual machine" ID="ID_132489908" CREATED="1656836371471" MODIFIED="1657059532346"/>
+<node TEXT="lacking info" ID="ID_933032118" CREATED="1633811364519" MODIFIED="1635773283874" COLOR="#666666">
+<icon BUILTIN="question"/>
+<font NAME="Tahoma" ITALIC="true"/>
 </node>
-<node TEXT="DSL" ID="ID_81658466" CREATED="1656931953732" MODIFIED="1656931955013">
-<node TEXT="domain specific languagw" ID="ID_1014317715" CREATED="1656931955317" MODIFIED="1656931960373"/>
-</node>
-<node TEXT="GC" ID="ID_1380618294" CREATED="1656933306876" MODIFIED="1656933308179">
-<node TEXT="garbage collector" ID="ID_1561144717" CREATED="1656933308794" MODIFIED="1656933313139"/>
-</node>
-<node TEXT="ORM" ID="ID_1067734108" CREATED="1657129666297" MODIFIED="1657129668038">
-<node TEXT="object relation model" ID="ID_1997276782" CREATED="1657129668821" MODIFIED="1657129677907">
-<node TEXT="the layer linking a database to the user application" ID="ID_189641628" CREATED="1657129678315" MODIFIED="1657129740232"/>
-</node>
-</node>
-<node TEXT="OOP" ID="ID_350736679" CREATED="1657135984294" MODIFIED="1657135986792">
-<node TEXT="object-oriented programming" ID="ID_643259053" CREATED="1657135986944" MODIFIED="1657135994862"/>
-</node>
-<node TEXT="yegor" ID="ID_631296111" CREATED="1657140602467" MODIFIED="1657140604418">
-<node TEXT="yegor bugayenko" ID="ID_690353803" CREATED="1657140605391" MODIFIED="1657140624950"/>
-</node>
-</node>
-<node TEXT="OOP" POSITION="right" ID="ID_1321569141" CREATED="1657135973034" MODIFIED="1657135981817">
-<node TEXT="objects should be immutable" ID="ID_244499175" CREATED="1657135997863" MODIFIED="1657140579824">
-<icon BUILTIN="good"/>
-<node TEXT="yegor" ID="ID_834441673" CREATED="1657136012706" MODIFIED="1657136028579" LINK="https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html">
+<node ID="ID_1089180230" CREATED="1633811372794" MODIFIED="1635773283874" LINK="url%20to%20the%20source">
 <icon BUILTIN="emoji-26F2"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      name of a source <i>a phrase in a source to find it</i>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Tahoma" ITALIC="false"/>
 </node>
 </node>
-<node TEXT="OBJs should represent an entity existing when the programm is not running" ID="ID_864929739" CREATED="1657140669748" MODIFIED="1657140708625">
-<icon BUILTIN="good"/>
-<node TEXT="yegor" ID="ID_1286906829" CREATED="1657140723096" MODIFIED="1657140725914">
-<icon BUILTIN="emoji-26F2"/>
+<node TEXT="icons" ID="ID_442822915" CREATED="1633369686027" MODIFIED="1635773283875">
+<font NAME="Tahoma"/>
+<node TEXT="(there is an) existing well-defined product being studied" ID="ID_1095053747" CREATED="1633369690333" MODIFIED="1635773283876">
+<icon BUILTIN="present"/>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="a type of the parent" ID="ID_1303352234" CREATED="1633811794257" MODIFIED="1635773283877">
+<icon BUILTIN="control/type_of_parent"/>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="all children get this icon" LOCALIZED_STYLE_REF="default" ID="ID_1346309535" CREATED="1633811816628" MODIFIED="1635773283878" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="question"/>
+<icon BUILTIN="question"/>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="what the parent is" ID="ID_1935772914" CREATED="1633811882040" MODIFIED="1635773283878">
+<icon BUILTIN="box_inscribed"/>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="event occured at [child] time" ID="ID_1262969398" CREATED="1633812677198" MODIFIED="1635773283879">
+<font NAME="Tahoma"/>
+<node TEXT="100 bc - 50bc" ID="ID_1628273348" CREATED="1633812654399" MODIFIED="1635773283879">
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="100 CE" ID="ID_1944988493" CREATED="1633812721835" MODIFIED="1635773283880">
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="100AD" ID="ID_1020979489" CREATED="1633812760263" MODIFIED="1635773283881">
+<font NAME="Tahoma"/>
 </node>
 </node>
-<node TEXT="avoid objects named &quot;manager&quot; or &quot;controller&quot;" ID="ID_430211836" CREATED="1657324192513" MODIFIED="1657324246960">
-<icon BUILTIN="bad"/>
-<node TEXT="avoid objects ending with -er" ID="ID_585414461" CREATED="1657140562859" MODIFIED="1657324242635">
-<icon BUILTIN="bad"/>
-<node TEXT="" ID="ID_231535011" CREATED="1657323838377" MODIFIED="1657323839346">
-<icon BUILTIN="emoji-26F2"/>
-<node TEXT="yegor" LOCALIZED_STYLE_REF="default" ID="ID_79488162" CREATED="1657140586153" MODIFIED="1657323841105" LINK="https://www.yegor256.com/2016/02/03/design-patterns-and-anti-patterns.html" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
-<node TEXT="reddit" ID="ID_1735257991" CREATED="1657323830228" MODIFIED="1657323836682" LINK="https://www.reddit.com/r/learnprogramming/comments/2y7o8r/what_to_have_instead_of_classes_w_names_ending_in/"/>
+<node TEXT="" ID="ID_763680385" CREATED="1633811473231" MODIFIED="1635773283881">
+<icon BUILTIN="question"/>
+<font NAME="Tahoma"/>
+<node ID="ID_323374090" CREATED="1633811578229" MODIFIED="1635773283882"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      questionable node
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="Tahoma"/>
+</node>
+<node TEXT="question for sb" ID="ID_1568891880" CREATED="1633811581054" MODIFIED="1635773283883">
+<font NAME="Tahoma"/>
 </node>
 </node>
-<node TEXT="they are too vague" ID="ID_1546575040" CREATED="1657324207002" MODIFIED="1657324257302"/>
+</node>
+</node>
+<node TEXT="english classroom" POSITION="right" ID="ID_664660520" CREATED="1656402250495" MODIFIED="1656402258300">
+<node TEXT="@hdyrc" ID="ID_1496339916" CREATED="1656402258582" MODIFIED="1656402374702">
+<icon BUILTIN="person"/>
+<node TEXT="Oxygen" ID="ID_875582581" CREATED="1656402279210" MODIFIED="1656402294226">
+<icon BUILTIN="punctuation/equal"/>
+</node>
+<node TEXT="Marwa" ID="ID_1548458391" CREATED="1656402295625" MODIFIED="1656402305328">
+<icon BUILTIN="punctuation/equal"/>
+</node>
+<node TEXT="saudi" ID="ID_77737984" CREATED="1656402355644" MODIFIED="1656402365018">
+<icon BUILTIN="place"/>
+</node>
 </node>
 </node>
 </node>

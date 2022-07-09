@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="good practice" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1657335695922"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="good_practice" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1657335720043"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
