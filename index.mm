@@ -222,7 +222,7 @@
 <node TEXT="unty unit testing" LOCALIZED_STYLE_REF="default" ID="ID_1822815891" CREATED="1645620134738" MODIFIED="1657135843502" LINK="study/programming/unty%20unit%20testing.mm" COLOR="#000000" BACKGROUND_COLOR="#ffffff"/>
 <node TEXT="compare_languages" ID="ID_698680216" CREATED="1656835888940" MODIFIED="1657135827823" LINK="study/programming/compare_languages.mm"/>
 <node TEXT="good_practice" ID="ID_1216439957" CREATED="1657135951352" MODIFIED="1657335743846" LINK="study/programming/good_practice.mm"/>
-<node TEXT="data structures" ID="ID_1243416898" CREATED="1657335753390" MODIFIED="1657335760235"/>
+<node TEXT="data structures" ID="ID_1243416898" CREATED="1657335753390" MODIFIED="1657422497567" LINK="file:/C:/prj/knowledge/study/programming/data%20structures.mm"/>
 </node>
 <node TEXT="meta science" ID="ID_14757307" CREATED="1646396179556" MODIFIED="1646396213626" LINK="study/meta%20science/">
 <node TEXT="scientific studies" ID="ID_652375220" CREATED="1646396214688" MODIFIED="1646396221619" LINK="file:/C:/knowledge/study/meta%20science/scientific%20studies.mm"/>

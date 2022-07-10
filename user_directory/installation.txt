@@ -1,0 +1,4 @@
+https://sourceforge.net/p/freeplane/discussion/758437/thread/6dc0596987/?limit=25
+
+in freeplane.l4j.ini and freeplaneConsole.l4j.ini add:
+-Dorg.freeplane.userfpdir="C:\prj\knowledge\user_directory"

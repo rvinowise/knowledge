@@ -150,7 +150,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="JVM" ID="ID_681387040" CREATED="1656836355953" MODIFIED="1657339722697">
 <icon BUILTIN="control/type_of_parent"/>
@@ -215,7 +214,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="typing" ID="ID_827497977" CREATED="1656933068194" MODIFIED="1656933071288">
 <node TEXT="static" ID="ID_321100709" CREATED="1656933071429" MODIFIED="1656933215463">
@@ -362,7 +360,7 @@
 </node>
 </node>
 </node>
-<node POSITION="right" ID="ID_1919522178" CREATED="1657342570924" MODIFIED="1657342592285"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_1919522178" CREATED="1657342570924" MODIFIED="1657431543812"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -418,7 +416,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="algol" ID="ID_648459287" CREATED="1657338757836" MODIFIED="1657338812219">
 <icon BUILTIN="grammar/syntax/follows_next"/>
@@ -429,6 +426,54 @@
 <node TEXT="dart" ID="ID_1725292690" CREATED="1657338772113" MODIFIED="1657338799983" LINK="https://en.wikipedia.org/wiki/Dart_(programming_language)"/>
 <node TEXT="c#" ID="ID_305201171" CREATED="1657338786989" MODIFIED="1657338788946"/>
 <node TEXT="javascript" ID="ID_760573848" CREATED="1657338789375" MODIFIED="1657338796001"/>
+</node>
+<node TEXT="ml" ID="ID_742539502" CREATED="1657433023235" MODIFIED="1657433028299">
+<icon BUILTIN="grammar/syntax/follows_next"/>
+<node TEXT="ocaml" ID="ID_13542989" CREATED="1657433053802" MODIFIED="1657433059037">
+<icon BUILTIN="grammar/syntax/follows_next"/>
+<node TEXT="f#" ID="ID_743310075" CREATED="1657433029749" MODIFIED="1657433032290"/>
+</node>
+</node>
+</node>
+<node POSITION="right" ID="ID_1755321972" CREATED="1657429487626" MODIFIED="1657429532983"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ls differ by the <b>tools </b>available for them
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="testing frameworks" ID="ID_891766457" CREATED="1657429534088" MODIFIED="1657429539258">
+<node TEXT="c#" ID="ID_1379045186" CREATED="1657429541803" MODIFIED="1657429564672">
+<node TEXT="NUnit" ID="ID_435582522" CREATED="1657429595108" MODIFIED="1657429694194">
+<icon BUILTIN="present"/>
+<node TEXT="most popular" ID="ID_755615584" CREATED="1657429697313" MODIFIED="1657429703023">
+<icon BUILTIN="good"/>
+</node>
+</node>
+</node>
+<node TEXT="JVM" ID="ID_1232865461" CREATED="1657429587487" MODIFIED="1657432204976">
+<node TEXT="spock" ID="ID_1126199603" CREATED="1657430701457" MODIFIED="1657430706863">
+<icon BUILTIN="present"/>
+<node TEXT="beautiful names of functions as text" ID="ID_46872539" CREATED="1657430715193" MODIFIED="1657430746503">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="tests are in groovy" ID="ID_861559750" CREATED="1657431801365" MODIFIED="1657431833392">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="you write &quot;specifications&quot;" ID="ID_122127253" CREATED="1657431267274" MODIFIED="1657431318550" LINK="https://spockframework.org/spock/docs/2.1/spock_primer.html"/>
+<node TEXT="behaviour driven developement (BDD)" ID="ID_358889978" CREATED="1657432237230" MODIFIED="1657432294393"/>
+</node>
+<node TEXT="tests can be written in high-level groovy, while the app itself is in lower-level java" ID="ID_832863783" CREATED="1657432530993" MODIFIED="1657432599118">
+<icon BUILTIN="good"/>
+</node>
+</node>
 </node>
 </node>
 <node TEXT="variables" POSITION="left" ID="ID_1297806066" CREATED="1656835993741" MODIFIED="1656835998685">
