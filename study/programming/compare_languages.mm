@@ -372,7 +372,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="procedural Pming" ID="ID_1628630215" CREATED="1657342809075" MODIFIED="1657342864870">
 <icon BUILTIN="control/type_of_parent"/>
@@ -447,7 +446,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="testing frameworks" ID="ID_891766457" CREATED="1657429534088" MODIFIED="1657429539258">
 <node TEXT="c#" ID="ID_1379045186" CREATED="1657429541803" MODIFIED="1657429564672">
@@ -473,6 +471,16 @@
 <node TEXT="tests can be written in high-level groovy, while the app itself is in lower-level java" ID="ID_832863783" CREATED="1657432530993" MODIFIED="1657432599118">
 <icon BUILTIN="good"/>
 </node>
+</node>
+</node>
+</node>
+<node TEXT="same Ls are implemented in different frameworks" POSITION="right" ID="ID_982195244" CREATED="1657439359341" MODIFIED="1657439384753">
+<node TEXT="python" ID="ID_1208592445" CREATED="1657439384893" MODIFIED="1657439387092">
+<node TEXT=".net" ID="ID_1945219891" CREATED="1657439387248" MODIFIED="1657439391174">
+<node TEXT="" ID="ID_1102407754" CREATED="1657439391398" MODIFIED="1657439391398"/>
+</node>
+<node TEXT="standalone" ID="ID_1659856149" CREATED="1657439394749" MODIFIED="1657439407413">
+<node TEXT="cpython" ID="ID_995441436" CREATED="1657439409019" MODIFIED="1657439412041"/>
 </node>
 </node>
 </node>
