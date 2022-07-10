@@ -201,6 +201,14 @@
 <node TEXT="groovy vs kotlin comparison" ID="ID_552517326" CREATED="1656931933701" MODIFIED="1656931943567" LINK="https://tomgregory.com/5-reasons-to-switch-to-the-gradle-kotlin-dsl/"/>
 </node>
 </node>
+<node TEXT=".net" ID="ID_1930520107" CREATED="1657474252870" MODIFIED="1657474257723">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="there are many languages, but they are unsupported pet-projects" ID="ID_1372824903" CREATED="1657474258146" MODIFIED="1657474286277">
+<node TEXT="you&apos;re stuck with c# practically" ID="ID_649801015" CREATED="1657474289334" MODIFIED="1657474326351"/>
+</node>
+<node TEXT="c#" ID="ID_792850758" CREATED="1657474314821" MODIFIED="1657474321437"/>
+<node TEXT="f#" ID="ID_333203114" CREATED="1657474322233" MODIFIED="1657474323040"/>
+</node>
 </node>
 <node POSITION="right" ID="ID_1304683830" CREATED="1656933061996" MODIFIED="1657342598750"><richcontent TYPE="NODE">
 
@@ -474,11 +482,43 @@
 </node>
 </node>
 </node>
-<node TEXT="same Ls are implemented in different frameworks" POSITION="right" ID="ID_982195244" CREATED="1657439359341" MODIFIED="1657439384753">
+<node POSITION="right" ID="ID_982195244" CREATED="1657439359341" MODIFIED="1657474359300"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      same Ls are implemented in <b>different frameworks</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="python" ID="ID_1208592445" CREATED="1657439384893" MODIFIED="1657439387092">
 <node TEXT=".net" ID="ID_1945219891" CREATED="1657439387248" MODIFIED="1657439391174">
 <node TEXT="iron python" ID="ID_1102407754" CREATED="1657439391398" MODIFIED="1657439824153">
 <icon BUILTIN="present"/>
+<node TEXT="doesn&apos;t have important python libraries" ID="ID_1944914237" CREATED="1657448048723" MODIFIED="1657448077453">
+<icon BUILTIN="bad"/>
+<node TEXT="numpy" ID="ID_1572966141" CREATED="1657448077802" MODIFIED="1657448080556"/>
+</node>
+<node TEXT="python3 is in beta stage" ID="ID_1604391249" CREATED="1657448594808" MODIFIED="1657448614553" LINK="https://ironpython.net/">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="python .net" ID="ID_47440533" CREATED="1657448087287" MODIFIED="1657448092871">
+<icon BUILTIN="present"/>
+<node TEXT="can&apos;t be called from .net" ID="ID_524602050" CREATED="1657448095076" MODIFIED="1657448106747">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="only partial integration" ID="ID_1666429908" CREATED="1657448116701" MODIFIED="1657448132450">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="a library for cpython" ID="ID_818885985" CREATED="1657448171087" MODIFIED="1657448180467">
+<icon BUILTIN="box_inscribed"/>
+</node>
 </node>
 </node>
 <node TEXT="standalone" ID="ID_1659856149" CREATED="1657439394749" MODIFIED="1657439407413">

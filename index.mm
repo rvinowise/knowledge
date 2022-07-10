@@ -294,7 +294,7 @@
 </node>
 <node TEXT="gardening" ID="ID_1720914206" CREATED="1646929190818" MODIFIED="1655860865218" LINK="../../C:/gardening/">
 <node TEXT="crop_result.mm" ID="ID_1706408965" CREATED="1646969390594" MODIFIED="1655860862050" LINK="../../C:/gardening/crop_results/crop_result.mm"/>
-<node TEXT="shops.mm" ID="ID_1305970483" CREATED="1655863124640" MODIFIED="1655863124640" LINK="../../D:/gardening/shops/shops.mm"/>
+<node TEXT="shops.mm" ID="ID_1305970483" CREATED="1655863124640" MODIFIED="1657440546753" LINK="../../../D:/gardening/shops/shops.mm"/>
 </node>
 <node TEXT="demonstrations" ID="ID_56337084" CREATED="1647079189531" MODIFIED="1647079206205" LINK="notes/demonstrations/">
 <node TEXT="antiwar" ID="ID_373804382" CREATED="1647079208591" MODIFIED="1647079215097" LINK="file:/C:/knowledge/notes/demonstrations/antiwar.mm"/>
