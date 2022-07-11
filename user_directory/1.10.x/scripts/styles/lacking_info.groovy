@@ -1,6 +1,6 @@
 
 def icons = node.getIcons()
-icons.add('question@b')
+icons.add('question')
 def style = node.getStyle()
-style.font.italic = 1
-style.textColorCode = '#666666FF'
+//style.textColorCode = '#666666FF'
+style.backgroundColorCode = '#FFEEDDFF'

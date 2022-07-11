@@ -201,6 +201,15 @@
 <node TEXT="groovy vs kotlin comparison" ID="ID_552517326" CREATED="1656931933701" MODIFIED="1656931943567" LINK="https://tomgregory.com/5-reasons-to-switch-to-the-gradle-kotlin-dsl/"/>
 </node>
 </node>
+<node TEXT=".net" ID="ID_1827007635" CREATED="1657577955521" MODIFIED="1657577963186">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="c#" ID="ID_957976330" CREATED="1657577966739" MODIFIED="1657577971476"/>
+<node TEXT="f#" ID="ID_1362730034" CREATED="1657577971746" MODIFIED="1657577973222">
+<node TEXT="slower than c#" ID="ID_385006881" CREATED="1657577974598" MODIFIED="1657577983603">
+<node TEXT="old post on stackoverflow" ID="ID_1535531645" CREATED="1657577985935" MODIFIED="1657577998195" LINK="https://stackoverflow.com/questions/144227/c-sharp-f-performance-comparison"/>
+</node>
+</node>
+</node>
 </node>
 <node POSITION="right" ID="ID_1304683830" CREATED="1656933061996" MODIFIED="1657342598750"><richcontent TYPE="NODE">
 
@@ -352,8 +361,9 @@
 </node>
 </node>
 </node>
-<node TEXT="esoteric solutions" ID="ID_1669909597" CREATED="1657191309051" MODIFIED="1657191453812">
+<node TEXT="esoteric solutions" ID="ID_1669909597" CREATED="1657191309051" MODIFIED="1657574735447" BACKGROUND_COLOR="#ffeedd">
 <icon BUILTIN="control/type_of_parent"/>
+<icon BUILTIN="question"/>
 <node TEXT="edgedb" ID="ID_1716934141" CREATED="1657191397322" MODIFIED="1657191410894">
 <node TEXT="analysis of drawback of ORMs and plain SQL" ID="ID_1108504705" CREATED="1657191411271" MODIFIED="1657191428354" LINK="https://www.edgedb.com/blog/a-solution-to-the-sql-vs-orm-dilemma"/>
 </node>
@@ -372,10 +382,12 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="procedural Pming" ID="ID_1628630215" CREATED="1657342809075" MODIFIED="1657342864870">
 <icon BUILTIN="control/type_of_parent"/>
+<node TEXT="c" ID="ID_928618600" CREATED="1657574278620" MODIFIED="1657574289277">
+<icon BUILTIN="present"/>
+</node>
 </node>
 <node TEXT="OOP" ID="ID_1333097420" CREATED="1657342606889" MODIFIED="1657342629244">
 <icon BUILTIN="control/type_of_parent"/>
@@ -399,9 +411,16 @@
 <node TEXT="in between OOP and procedural Pming `que" ID="ID_1683229514" CREATED="1657342825181" MODIFIED="1657342844391"/>
 </node>
 </node>
+<node TEXT="python" ID="ID_115330159" CREATED="1657580238016" MODIFIED="1657580241804">
+<icon BUILTIN="present"/>
+<node TEXT="bad for functional Pming" ID="ID_310190600" CREATED="1657580251609" MODIFIED="1657580266590" LINK="https://stackoverflow.com/questions/1017621/why-isnt-python-very-good-for-functional-programming"/>
+</node>
 </node>
 <node TEXT="functional Pming" ID="ID_233943941" CREATED="1657342631512" MODIFIED="1657342677108">
 <icon BUILTIN="control/type_of_parent"/>
+<node TEXT="f#" ID="ID_1482392353" CREATED="1657574295927" MODIFIED="1657574766721" LINK="file:/C:/prj/knowledge/study/programming/f%23.mm">
+<icon BUILTIN="present"/>
+</node>
 </node>
 </node>
 <node POSITION="right" ID="ID_737332518" CREATED="1657338741096" MODIFIED="1657342594345"><richcontent TYPE="NODE">
@@ -432,6 +451,7 @@
 <node TEXT="ocaml" ID="ID_13542989" CREATED="1657433053802" MODIFIED="1657433059037">
 <icon BUILTIN="grammar/syntax/follows_next"/>
 <node TEXT="f#" ID="ID_743310075" CREATED="1657433029749" MODIFIED="1657433032290"/>
+<node TEXT="xavier leroy `pers" ID="ID_460477764" CREATED="1657580580988" MODIFIED="1657580591046"/>
 </node>
 </node>
 </node>
@@ -447,7 +467,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="testing frameworks" ID="ID_891766457" CREATED="1657429534088" MODIFIED="1657429539258">
 <node TEXT="c#" ID="ID_1379045186" CREATED="1657429541803" MODIFIED="1657429564672">
@@ -476,10 +495,46 @@
 </node>
 </node>
 </node>
+<node POSITION="right" ID="ID_1641141729" CREATED="1657576081771" MODIFIED="1657576099346"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ls differ in their <b>level</b>&nbsp;(of abstraction)
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="low level" ID="ID_1435872875" CREATED="1657576100352" MODIFIED="1657576125020">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="assembler" ID="ID_1897290776" CREATED="1657576108258" MODIFIED="1657576122686">
+<icon BUILTIN="present"/>
+</node>
+</node>
+<node TEXT="high level" ID="ID_1338049507" CREATED="1657576112217" MODIFIED="1657576125020">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="python" ID="ID_182554188" CREATED="1657576116021" MODIFIED="1657576122686">
+<icon BUILTIN="present"/>
+</node>
+<node TEXT="human language" ID="ID_1054751455" CREATED="1657576128141" MODIFIED="1657576138422">
+<node TEXT="literate_programming applies human language to programming" ID="ID_1861823378" CREATED="1657576142432" MODIFIED="1657576194808" LINK="https://en.wikipedia.org/wiki/Literate_programming"/>
+</node>
+</node>
+</node>
 <node TEXT="variables" POSITION="left" ID="ID_1297806066" CREATED="1656835993741" MODIFIED="1656835998685">
+<node TEXT="map-specific" ID="ID_403457369" CREATED="1657573418943" MODIFIED="1657573428564">
 <node TEXT="L" ID="ID_1910314962" CREATED="1656835999839" MODIFIED="1656836002474">
 <node TEXT="language" ID="ID_1604329720" CREATED="1656836002665" MODIFIED="1656836004967"/>
 </node>
+<node TEXT="P" ID="ID_59247125" CREATED="1657342639302" MODIFIED="1657342640262">
+<node TEXT="program" ID="ID_508500931" CREATED="1657342640588" MODIFIED="1657342649286"/>
+</node>
+</node>
+<node TEXT="domain-specific" ID="ID_933976902" CREATED="1657573435759" MODIFIED="1657573439858">
 <node TEXT="JVM" ID="ID_1423293958" CREATED="1656836368083" MODIFIED="1656836371229">
 <node TEXT="Java virtual machine" ID="ID_132489908" CREATED="1656836371471" MODIFIED="1657059532346"/>
 </node>
@@ -503,8 +558,6 @@
 <node TEXT="OOP" ID="ID_494400682" CREATED="1657342613518" MODIFIED="1657342614493">
 <node TEXT="object-oriented programming" ID="ID_792287732" CREATED="1657342615922" MODIFIED="1657342622888"/>
 </node>
-<node TEXT="P" ID="ID_59247125" CREATED="1657342639302" MODIFIED="1657342640262">
-<node TEXT="program" ID="ID_508500931" CREATED="1657342640588" MODIFIED="1657342649286"/>
 </node>
 </node>
 </node>
