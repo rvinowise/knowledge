@@ -223,6 +223,7 @@
 <node TEXT="compare_languages" ID="ID_698680216" CREATED="1656835888940" MODIFIED="1657135827823" LINK="study/programming/compare_languages.mm"/>
 <node TEXT="good_practice" ID="ID_1216439957" CREATED="1657135951352" MODIFIED="1657335743846" LINK="study/programming/good_practice.mm"/>
 <node TEXT="data structures" ID="ID_1243416898" CREATED="1657335753390" MODIFIED="1657422497567" LINK="file:/C:/prj/knowledge/study/programming/data%20structures.mm"/>
+<node TEXT="parallelism" ID="ID_205298692" CREATED="1657592973233" MODIFIED="1657593011091" LINK="file:/C:/prj/knowledge/study/programming/parallelism.mm"/>
 </node>
 <node TEXT="meta science" ID="ID_14757307" CREATED="1646396179556" MODIFIED="1646396213626" LINK="study/meta%20science/">
 <node TEXT="scientific studies" ID="ID_652375220" CREATED="1646396214688" MODIFIED="1646396221619" LINK="file:/C:/knowledge/study/meta%20science/scientific%20studies.mm"/>
@@ -294,7 +295,7 @@
 </node>
 <node TEXT="gardening" ID="ID_1720914206" CREATED="1646929190818" MODIFIED="1655860865218" LINK="../../C:/gardening/">
 <node TEXT="crop_result.mm" ID="ID_1706408965" CREATED="1646969390594" MODIFIED="1655860862050" LINK="../../C:/gardening/crop_results/crop_result.mm"/>
-<node TEXT="shops.mm" ID="ID_1305970483" CREATED="1655863124640" MODIFIED="1655863124640" LINK="../../D:/gardening/shops/shops.mm"/>
+<node TEXT="shops.mm" ID="ID_1305970483" CREATED="1655863124640" MODIFIED="1657440546753" LINK="../../../D:/gardening/shops/shops.mm"/>
 </node>
 <node TEXT="demonstrations" ID="ID_56337084" CREATED="1647079189531" MODIFIED="1647079206205" LINK="notes/demonstrations/">
 <node TEXT="antiwar" ID="ID_373804382" CREATED="1647079208591" MODIFIED="1647079215097" LINK="file:/C:/knowledge/notes/demonstrations/antiwar.mm"/>

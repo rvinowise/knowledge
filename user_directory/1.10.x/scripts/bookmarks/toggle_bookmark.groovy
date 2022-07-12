@@ -1,4 +1,4 @@
-import com.rvinowise.freeplane.*
+import org.rvinowise.freeplane.*
 
 nm = new NodeManipulator(c, node);
 //def bookmarks_root = nm.obtain_node('bookmarks: done', node.mindMap.root)

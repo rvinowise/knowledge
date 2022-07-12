@@ -201,14 +201,13 @@
 <node TEXT="groovy vs kotlin comparison" ID="ID_552517326" CREATED="1656931933701" MODIFIED="1656931943567" LINK="https://tomgregory.com/5-reasons-to-switch-to-the-gradle-kotlin-dsl/"/>
 </node>
 </node>
-<node TEXT=".net" ID="ID_1827007635" CREATED="1657577955521" MODIFIED="1657577963186">
+<node TEXT=".net" ID="ID_1930520107" CREATED="1657474252870" MODIFIED="1657474257723">
 <icon BUILTIN="control/type_of_parent"/>
-<node TEXT="c#" ID="ID_957976330" CREATED="1657577966739" MODIFIED="1657577971476"/>
-<node TEXT="f#" ID="ID_1362730034" CREATED="1657577971746" MODIFIED="1657577973222">
-<node TEXT="slower than c#" ID="ID_385006881" CREATED="1657577974598" MODIFIED="1657577983603">
-<node TEXT="old post on stackoverflow" ID="ID_1535531645" CREATED="1657577985935" MODIFIED="1657577998195" LINK="https://stackoverflow.com/questions/144227/c-sharp-f-performance-comparison"/>
+<node TEXT="there are many languages, but they are unsupported pet-projects" ID="ID_1372824903" CREATED="1657474258146" MODIFIED="1657474286277">
+<node TEXT="you&apos;re stuck with c# practically" ID="ID_649801015" CREATED="1657474289334" MODIFIED="1657474326351"/>
 </node>
-</node>
+<node TEXT="c#" ID="ID_792850758" CREATED="1657474314821" MODIFIED="1657474321437"/>
+<node TEXT="f#" ID="ID_333203114" CREATED="1657474322233" MODIFIED="1657474323040"/>
 </node>
 </node>
 <node POSITION="right" ID="ID_1304683830" CREATED="1656933061996" MODIFIED="1657342598750"><richcontent TYPE="NODE">
@@ -361,9 +360,8 @@
 </node>
 </node>
 </node>
-<node TEXT="esoteric solutions" ID="ID_1669909597" CREATED="1657191309051" MODIFIED="1657574735447" BACKGROUND_COLOR="#ffeedd">
+<node TEXT="esoteric solutions" ID="ID_1669909597" CREATED="1657191309051" MODIFIED="1657191453812">
 <icon BUILTIN="control/type_of_parent"/>
-<icon BUILTIN="question"/>
 <node TEXT="edgedb" ID="ID_1716934141" CREATED="1657191397322" MODIFIED="1657191410894">
 <node TEXT="analysis of drawback of ORMs and plain SQL" ID="ID_1108504705" CREATED="1657191411271" MODIFIED="1657191428354" LINK="https://www.edgedb.com/blog/a-solution-to-the-sql-vs-orm-dilemma"/>
 </node>
@@ -383,11 +381,10 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="imperative Pming" ID="ID_52078932" CREATED="1657601861314" MODIFIED="1657601876884">
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="procedural Pming" ID="ID_1628630215" CREATED="1657342809075" MODIFIED="1657342864870">
 <icon BUILTIN="control/type_of_parent"/>
-<node TEXT="c" ID="ID_928618600" CREATED="1657574278620" MODIFIED="1657574289277">
-<icon BUILTIN="present"/>
-</node>
 </node>
 <node TEXT="OOP" ID="ID_1333097420" CREATED="1657342606889" MODIFIED="1657342629244">
 <icon BUILTIN="control/type_of_parent"/>
@@ -411,14 +408,124 @@
 <node TEXT="in between OOP and procedural Pming `que" ID="ID_1683229514" CREATED="1657342825181" MODIFIED="1657342844391"/>
 </node>
 </node>
-<node TEXT="python" ID="ID_115330159" CREATED="1657580238016" MODIFIED="1657580241804">
+<node TEXT="python" ID="ID_255733506" CREATED="1657581051385" MODIFIED="1657581054811">
 <icon BUILTIN="present"/>
-<node TEXT="bad for functional Pming" ID="ID_310190600" CREATED="1657580251609" MODIFIED="1657580266590" LINK="https://stackoverflow.com/questions/1017621/why-isnt-python-very-good-for-functional-programming"/>
+<node TEXT="bad for functional Pming" ID="ID_1222204391" CREATED="1657581055062" MODIFIED="1657581074148" LINK="https://stackoverflow.com/questions/1017621/why-isnt-python-very-good-for-functional-programming"/>
 </node>
 </node>
+</node>
+<node TEXT="declarative Pming" ID="ID_1837150705" CREATED="1657601878451" MODIFIED="1657601884923">
+<icon BUILTIN="control/type_of_parent"/>
 <node TEXT="functional Pming" ID="ID_233943941" CREATED="1657342631512" MODIFIED="1657342677108">
 <icon BUILTIN="control/type_of_parent"/>
-<node TEXT="f#" ID="ID_1482392353" CREATED="1657574295927" MODIFIED="1657574766721" LINK="file:/C:/prj/knowledge/study/programming/f%23.mm">
+<node TEXT="f#" ID="ID_1801697462" CREATED="1657600417361" MODIFIED="1657600419576"/>
+<node TEXT="useless for HPC" ID="ID_308648575" CREATED="1657600420188" MODIFIED="1657600460317" LINK="https://www.quora.com/Is-functional-programming-much-useful-for-high-performance-computing-and-simulation-science">
+<icon BUILTIN="bad"/>
+<node TEXT="such Ls" ID="ID_858231088" CREATED="1657602187119" MODIFIED="1657602217423">
+<node TEXT="can recognize potential parallelism" ID="ID_905406283" CREATED="1657600508513" MODIFIED="1657602185678">
+<icon BUILTIN="good"/>
+<node TEXT="but it&apos;s not as important as data locality" ID="ID_1358991521" CREATED="1657601333610" MODIFIED="1657602295334"/>
+<node TEXT="but even this is only local and isn&apos;t worth starting a thread" ID="ID_1422233741" CREATED="1657604656107" MODIFIED="1657604681480" LINK="https://qr.ae/pv4Vf2"/>
+</node>
+<node TEXT="can&apos;t control data locality" ID="ID_461578896" CREATED="1657601301110" MODIFIED="1657602181053">
+<icon BUILTIN="bad"/>
+<node TEXT="which is essential for performance" ID="ID_1842502076" CREATED="1657601318799" MODIFIED="1657601330454"/>
+</node>
+<node TEXT="can&apos;t minimize passing data around" ID="ID_952980265" CREATED="1657602135631" MODIFIED="1657602253946">
+<icon BUILTIN="bad"/>
+<node TEXT="because of no global state" ID="ID_1248635136" CREATED="1657602254103" MODIFIED="1657602272122"/>
+</node>
+</node>
+<node TEXT="but apache_spark is functional" ID="ID_178971979" CREATED="1657602673406" MODIFIED="1657602694926">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node POSITION="right" ID="ID_694282033" CREATED="1657601817919" MODIFIED="1657601838219"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      different <b>domains</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="HPC" ID="ID_1435884605" CREATED="1657601832093" MODIFIED="1657601843908">
+<node LOCALIZED_STYLE_REF="default" ID="ID_1210797081" CREATED="1657601935363" MODIFIED="1657602041814" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      needs to minimize <b>passing data</b>&nbsp;around
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_505647955" CREATED="1657601958000" MODIFIED="1657602045521">
+<icon BUILTIN="good"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      uses <b>global state</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node ID="ID_347919600" CREATED="1657601997840" MODIFIED="1657602032935"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      needs to ensure <b>data locality</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node ID="ID_1304266705" CREATED="1657602010462" MODIFIED="1657602073417">
+<icon BUILTIN="good"/>
+<richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      uses explicit <b>memory </b>management
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="apache spark" ID="ID_1891933120" CREATED="1657602461750" MODIFIED="1657602465706">
+<icon BUILTIN="present"/>
+</node>
+<node TEXT="chapel" ID="ID_295368709" CREATED="1657602474440" MODIFIED="1657602476449">
 <icon BUILTIN="present"/>
 </node>
 </node>
@@ -451,7 +558,9 @@
 <node TEXT="ocaml" ID="ID_13542989" CREATED="1657433053802" MODIFIED="1657433059037">
 <icon BUILTIN="grammar/syntax/follows_next"/>
 <node TEXT="f#" ID="ID_743310075" CREATED="1657433029749" MODIFIED="1657433032290"/>
-<node TEXT="xavier leroy `pers" ID="ID_460477764" CREATED="1657580580988" MODIFIED="1657580591046"/>
+<node TEXT="xavier leroy" ID="ID_1879540365" CREATED="1657581025369" MODIFIED="1657583231794">
+<icon BUILTIN="person"/>
+</node>
 </node>
 </node>
 </node>
@@ -495,7 +604,7 @@
 </node>
 </node>
 </node>
-<node POSITION="right" ID="ID_1641141729" CREATED="1657576081771" MODIFIED="1657576099346"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_982195244" CREATED="1657439359341" MODIFIED="1657474359300"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -503,30 +612,82 @@
   </head>
   <body>
     <p>
-      Ls differ in their <b>level</b>&nbsp;(of abstraction)
+      same Ls are implemented in <b>different frameworks</b>
     </p>
   </body>
 </html>
-
 </richcontent>
-<node TEXT="low level" ID="ID_1435872875" CREATED="1657576100352" MODIFIED="1657576125020">
-<icon BUILTIN="control/type_of_parent"/>
-<node TEXT="assembler" ID="ID_1897290776" CREATED="1657576108258" MODIFIED="1657576122686">
+<node TEXT="python" ID="ID_1208592445" CREATED="1657439384893" MODIFIED="1657439387092">
+<node TEXT=".net" ID="ID_1945219891" CREATED="1657439387248" MODIFIED="1657439391174">
+<node TEXT="iron python" ID="ID_1102407754" CREATED="1657439391398" MODIFIED="1657439824153">
+<icon BUILTIN="present"/>
+<node TEXT="doesn&apos;t have important python libraries" ID="ID_1944914237" CREATED="1657448048723" MODIFIED="1657448077453">
+<icon BUILTIN="bad"/>
+<node TEXT="numpy" ID="ID_1572966141" CREATED="1657448077802" MODIFIED="1657448080556"/>
+</node>
+<node TEXT="python3 is in beta stage" ID="ID_1604391249" CREATED="1657448594808" MODIFIED="1657448614553" LINK="https://ironpython.net/">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="python .net" ID="ID_47440533" CREATED="1657448087287" MODIFIED="1657448092871">
+<icon BUILTIN="present"/>
+<node TEXT="can&apos;t be called from .net" ID="ID_524602050" CREATED="1657448095076" MODIFIED="1657448106747">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="only partial integration" ID="ID_1666429908" CREATED="1657448116701" MODIFIED="1657448132450">
+<icon BUILTIN="bad"/>
+</node>
+<node TEXT="a library for cpython" ID="ID_818885985" CREATED="1657448171087" MODIFIED="1657448180467">
+<icon BUILTIN="box_inscribed"/>
+</node>
+</node>
+</node>
+<node TEXT="standalone" ID="ID_1659856149" CREATED="1657439394749" MODIFIED="1657439407413">
+<node TEXT="cpython" ID="ID_995441436" CREATED="1657439409019" MODIFIED="1657439707426">
 <icon BUILTIN="present"/>
 </node>
 </node>
-<node TEXT="high level" ID="ID_1338049507" CREATED="1657576112217" MODIFIED="1657576125020">
-<icon BUILTIN="control/type_of_parent"/>
-<node TEXT="python" ID="ID_182554188" CREATED="1657576116021" MODIFIED="1657576122686">
+</node>
+</node>
+<node POSITION="right" ID="ID_1556375830" CREATED="1657580904983" MODIFIED="1657581019493"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      different <b>levels</b>&nbsp;(of abstraction)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="low-level" ID="ID_357820853" CREATED="1657580924126" MODIFIED="1657580927284">
+<node TEXT="assembler" ID="ID_1680808233" CREATED="1657580927441" MODIFIED="1657580938850">
 <icon BUILTIN="present"/>
 </node>
-<node TEXT="human language" ID="ID_1054751455" CREATED="1657576128141" MODIFIED="1657576138422">
-<node TEXT="literate_programming applies human language to programming" ID="ID_1861823378" CREATED="1657576142432" MODIFIED="1657576194808" LINK="https://en.wikipedia.org/wiki/Literate_programming"/>
+</node>
+<node TEXT="high-level" ID="ID_1808153646" CREATED="1657580932233" MODIFIED="1657580935046">
+<node TEXT="python" ID="ID_288673024" CREATED="1657580935345" MODIFIED="1657580938834">
+<icon BUILTIN="present"/>
+</node>
+<node TEXT="ruby" ID="ID_408505181" CREATED="1657581516374" MODIFIED="1657581519940">
+<icon BUILTIN="present"/>
+<node TEXT="(japanese) yukihiro matsumoto" ID="ID_1940803917" CREATED="1657581520050" MODIFIED="1657583255127">
+<icon BUILTIN="person"/>
+</node>
+</node>
+<node TEXT="human language" ID="ID_451629845" CREATED="1657580941836" MODIFIED="1657581012665">
+<node TEXT="literate_programming brings human language into programming" ID="ID_679935405" CREATED="1657580944900" MODIFIED="1657580983329" LINK="https://en.wikipedia.org/wiki/Literate_programming">
+<node TEXT="donald knuth" ID="ID_1002123266" CREATED="1657580983627" MODIFIED="1657583254986">
+<icon BUILTIN="person"/>
+</node>
+</node>
 </node>
 </node>
 </node>
 <node TEXT="variables" POSITION="left" ID="ID_1297806066" CREATED="1656835993741" MODIFIED="1656835998685">
-<node TEXT="map-specific" ID="ID_403457369" CREATED="1657573418943" MODIFIED="1657573428564">
+<node TEXT="file" ID="ID_1487584006" CREATED="1657600473503" MODIFIED="1657600482900">
 <node TEXT="L" ID="ID_1910314962" CREATED="1656835999839" MODIFIED="1656836002474">
 <node TEXT="language" ID="ID_1604329720" CREATED="1656836002665" MODIFIED="1656836004967"/>
 </node>
@@ -534,7 +695,7 @@
 <node TEXT="program" ID="ID_508500931" CREATED="1657342640588" MODIFIED="1657342649286"/>
 </node>
 </node>
-<node TEXT="domain-specific" ID="ID_933976902" CREATED="1657573435759" MODIFIED="1657573439858">
+<node TEXT="domain" ID="ID_1280593362" CREATED="1657600476959" MODIFIED="1657600479898">
 <node TEXT="JVM" ID="ID_1423293958" CREATED="1656836368083" MODIFIED="1656836371229">
 <node TEXT="Java virtual machine" ID="ID_132489908" CREATED="1656836371471" MODIFIED="1657059532346"/>
 </node>
@@ -557,6 +718,9 @@
 </node>
 <node TEXT="OOP" ID="ID_494400682" CREATED="1657342613518" MODIFIED="1657342614493">
 <node TEXT="object-oriented programming" ID="ID_792287732" CREATED="1657342615922" MODIFIED="1657342622888"/>
+</node>
+<node TEXT="HPC" ID="ID_1388332550" CREATED="1657600487596" MODIFIED="1657600490153">
+<node TEXT="high performance computation" ID="ID_647797663" CREATED="1657600490969" MODIFIED="1657600502778"/>
 </node>
 </node>
 </node>

@@ -5,7 +5,7 @@ import java.io.File
 
 import org.freeplane.plugin.*
 import org.freeplane.api.*
-//import com.rvinowise.freeplane.*
+//import org.rvinowise.freeplane.*
 //import org.rvinowise.freeplane.database.*
 
 class Loader_from_db 

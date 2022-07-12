@@ -7,9 +7,9 @@ import groovy.time.TimeDuration
 
 import org.apache.commons.io.FilenameUtils 
 
-import com.rvinowise.freeplane.Text_styler
-import com.rvinowise.freeplane.Renamer
-import com.rvinowise.freeplane.File_system
+import org.rvinowise.freeplane.Text_styler
+import org.rvinowise.freeplane.Renamer
+import org.rvinowise.freeplane.File_system
 
 //test
 import java.nio.file.Paths
@@ -38,7 +38,7 @@ Commander(_node, _c) {
 	styler = new Text_styler(c, node)
 	renamer = new Renamer(c, node)
 	file_system = new File_system(c, node);
-	database = new Database_integrator(c, node);
+	//database = new Database_integrator(c, node);
 
     user_dir = c.getUserDirectory()
     FileHandler handler = new FileHandler("$user_dir/logs/Commander.log", true);
