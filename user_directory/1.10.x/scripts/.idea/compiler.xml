@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="database" target="15" />
+      <module name="freeplane_database.lib" target="15" />
+      <module name="freeplane_database.lib.main" target="15" />
+      <module name="freeplane_database.lib.test" target="15" />
+      <module name="freeplane_rvinowise.database" target="15" />
+      <module name="freeplane_rvinowise.database.main" target="15" />
+      <module name="freeplane_rvinowise.database.test" target="15" />
+      <module name="freeplane_rvinowise.extensions" target="15" />
+      <module name="freeplane_rvinowise.extensions.main" target="15" />
+      <module name="freeplane_rvinowise.extensions.test" target="15" />
+      <module name="freeplane_rvinowise.lib.main" target="15" />
+      <module name="freeplane_rvinowise.lib.test" target="15" />
+      <module name="rvinowise.lib" target="15" />
+      <module name="rvinowise.lib.main" target="15" />
+      <module name="rvinowise.lib.test" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
