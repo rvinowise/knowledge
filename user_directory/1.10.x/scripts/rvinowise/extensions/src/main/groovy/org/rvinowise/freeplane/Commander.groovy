@@ -1,3 +1,5 @@
+package org.rvinowise.freeplane
+
 import groovy.util.logging.Log
 import java.util.logging.FileHandler
 import java.util.logging.SimpleFormatter
@@ -16,11 +18,8 @@ import java.nio.file.Paths
 import java.nio.file.Path
 import java.nio.file.Files
 
-Commander commander = new Commander(node, c)
 
-commander.run_on_node(node)
 
-@Log
 class Commander {
 
 def c
@@ -41,13 +40,13 @@ Commander(_node, _c) {
 	//database = new Database_integrator(c, node);
 
     user_dir = c.getUserDirectory()
-    FileHandler handler = new FileHandler("$user_dir/logs/Commander.log", true);
-	handler.setFormatter(new SimpleFormatter())
-	log.addHandler(handler)
+    // FileHandler handler = new FileHandler("$user_dir/logs/Commander.log", true);
+	// handler.setFormatter(new SimpleFormatter())
+	// log.addHandler(handler)
 }
 
 
-def run_on_node(main_node) {
+def execute_all_commands_on_all_nodes(main_node) {
 
     def commands;
     def text;
@@ -70,7 +69,29 @@ def run_on_node(main_node) {
 			} 
 		}
 	}
+}
 
+def execute_local_commands_on_their_nodes(main_node) {
+
+    def commands;
+    def text;
+
+	(commands, text) = extract_tags(main_node.text)
+	main_node.text = text;
+	commands.each{command->
+		if (command == "folder"){
+			renamer.create_folder_for_branch(node) 
+		} else if (command == "name"){
+			
+		} else if (command == "load"){
+			database.load_subtrees(node);
+		} else if (command == "save"){
+			database.save_subtree(node);
+		} else if (styler.is_styling_command(command)) {
+			styler.node = node
+			styler.apply_command(command)
+		} 
+	}
 }
 
 

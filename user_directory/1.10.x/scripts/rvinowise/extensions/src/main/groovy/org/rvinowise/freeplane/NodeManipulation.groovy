@@ -7,7 +7,6 @@ import java.util.logging.Level
 
 //import org.freeplane.features.nodestyle.NodeStyleModel
 
-@Log
 class NodeManipulator {
 
 def c = null
@@ -24,11 +23,11 @@ NodeManipulator(_c, _node) {
 def init(in_c, in_node) {
     this.c = in_c
     this.node = in_node
-    def user_dir = c.getUserDirectory()
-    FileHandler handler = new FileHandler("$user_dir/logs/node_manipulator.log", true);
-	handler.setFormatter(new SimpleFormatter())
-	log.addHandler(handler)
-	log.setLevel(Level.OFF)
+    //def user_dir = c.getUserDirectory()
+    //FileHandler handler = new FileHandler("$user_dir/logs/node_manipulator.log", true);
+	// handler.setFormatter(new SimpleFormatter())
+	// log.addHandler(handler)
+	// log.setLevel(Level.OFF)
 
 }
 

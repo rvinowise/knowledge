@@ -13,7 +13,6 @@ import org.apache.commons.io.FilenameUtils
 import java.net.URI
 import java.nio.file.Paths
 
-@Log
 class File_system {
 
 def c
@@ -27,13 +26,13 @@ File_system(_c, _node) {
 	user_dir = c.getUserDirectory()
 	nm = new NodeManipulator(c, node);
 
-    FileHandler handler = new FileHandler("$user_dir/logs/File_system.log", true);
-	handler.setFormatter(new SimpleFormatter())
-	log.addHandler(handler)
-	log.setLevel(Level.OFF)
+    // FileHandler handler = new FileHandler("$user_dir/logs/File_system.log", true);
+	// handler.setFormatter(new SimpleFormatter())
+	// log.addHandler(handler)
+	// log.setLevel(Level.OFF)
 	
-	log.info("File_system is constructed")
-	handler.flush()
+	// log.info("File_system is constructed")
+	// handler.flush()
 }
 
 public def find_folder_back_in_hierarchy(node) {
@@ -71,7 +70,6 @@ def get_folder_from(node) {
 def reference_file(node, new_file) {
 	def fragment = node.link.uri ? node.link.uri.fragment : null
 	String old_file = node.link.file ? node.link.file.toString() : "null"
-	log.info("changing referenced_file: "+node+"\n"+old_file+"\n"+new_file.toString())
 
 	def base_path = node.map.file.parentFile.toURI()
 	def new_path = new_file.toURI()
