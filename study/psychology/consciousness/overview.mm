@@ -322,6 +322,12 @@
 <icon BUILTIN="emoji-26F2"/>
 </node>
 </node>
+<node TEXT="" POSITION="right" ID="ID_1750150265" CREATED="1657854070528" MODIFIED="1657854070875">
+<icon BUILTIN="emoji-26F2"/>
+<node TEXT="observational videos by stephen e. robbins" ID="ID_817618295" CREATED="1657854071190" MODIFIED="1657854440047" LINK="https://www.youtube.com/watch?v=r6H3XFF8_uM&amp;t=79s&amp;ab_channel=StephenE.Robbins">
+<node TEXT="bergson&apos;s holographic theory" ID="ID_371088489" CREATED="1657854724967" MODIFIED="1657854732045"/>
+</node>
+</node>
 <node TEXT="variables" POSITION="left" ID="ID_1036127986" CREATED="1656821895855" MODIFIED="1656821924621">
 <icon BUILTIN="control/comment"/>
 <node TEXT="C" ID="ID_1861592715" CREATED="1656821900781" MODIFIED="1656821908127">

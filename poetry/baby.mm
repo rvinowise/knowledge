@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="baby" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1656034740377"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="baby" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1656034740377"><hook NAME="MapStyle" zoom="2.636">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -241,6 +241,11 @@
 <node TEXT="nothing smaller than a girl" ID="ID_632503189" CREATED="1656083589188" MODIFIED="1656083595781"/>
 <node TEXT="you can be an angel" ID="ID_1702011048" CREATED="1656083596035" MODIFIED="1656083602356"/>
 <node TEXT="but don&apos;t agree to be a jewel" ID="ID_657570838" CREATED="1656083602610" MODIFIED="1656083620367"/>
+</node>
+<node TEXT="clash" POSITION="right" ID="ID_1240585982" CREATED="1657850493444" MODIFIED="1657850501459">
+<icon BUILTIN="box_inscribed"/>
+<node TEXT="when civilisations clash" ID="ID_1487305571" CREATED="1657850467844" MODIFIED="1657850480674"/>
+<node TEXT="shackles crash" ID="ID_1318901726" CREATED="1657850482923" MODIFIED="1657850489141"/>
 </node>
 </node>
 </map>

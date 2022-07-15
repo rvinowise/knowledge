@@ -197,7 +197,7 @@
 <node TEXT="false beliefs" ID="ID_656203581" CREATED="1636701737235" MODIFIED="1636701750184" LINK="study/psychology/false%20beliefs.mm"/>
 <node TEXT="hypnosis" ID="ID_1124660689" CREATED="1640153283825" MODIFIED="1640153297254" LINK="study/psychology/hypnosis.mm"/>
 <node TEXT="consciousness" ID="ID_1723662688" CREATED="1649580431018" MODIFIED="1649580452444" LINK="study/psychology/consciousness/">
-<node TEXT="overview" ID="ID_1933737082" CREATED="1649580455323" MODIFIED="1649580568618" LINK="file:/C:/knowledge/study/psychology/consciousness/overview.mm"/>
+<node TEXT="overview" ID="ID_1933737082" CREATED="1649580455323" MODIFIED="1657853282065" LINK="study/psychology/consciousness/overview.mm"/>
 <node TEXT="attention schema theory.mm" ID="ID_961341553" CREATED="1649580538101" MODIFIED="1649580538102" LINK="study/psychology/consciousness/attention%20schema%20theory.mm"/>
 <node TEXT="integrated information theory" ID="ID_564923483" CREATED="1649580548611" MODIFIED="1649580560332" LINK="file:/C:/knowledge/study/psychology/consciousness/integrated%20information%20theory.mm"/>
 </node>
@@ -246,7 +246,7 @@
 <font NAME="Tahoma"/>
 </node>
 <node TEXT="poetry" ID="ID_1603019221" CREATED="1656034707411" MODIFIED="1656034729620" LINK="poetry/">
-<node TEXT="baby" ID="ID_328248514" CREATED="1656034731320" MODIFIED="1656034740031" LINK="file:/C:/knowledge/poetry/baby.mm"/>
+<node TEXT="baby" ID="ID_328248514" CREATED="1656034731320" MODIFIED="1657850458693" LINK="poetry/baby.mm"/>
 </node>
 <node TEXT="videos" ID="ID_1543987241" CREATED="1634111893558" MODIFIED="1635773283872" LINK="videos/">
 <font NAME="Tahoma"/>
