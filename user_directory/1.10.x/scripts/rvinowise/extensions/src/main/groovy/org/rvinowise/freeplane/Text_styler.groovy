@@ -43,7 +43,6 @@ class Element {
     }
 }
 
-@Log
 class Text_styler {
 
 def c
@@ -79,11 +78,10 @@ def init(in_c, in_node) {
 
     def stop = new Date()
     TimeDuration td = TimeCategory.minus( stop, start )
-	//c.statusInfo = td
 
-    FileHandler handler = new FileHandler("$user_dir/logs/Text_styler.log", true);
-	handler.setFormatter(new SimpleFormatter())
-	log.addHandler(handler)
+    // FileHandler handler = new FileHandler("$user_dir/logs/Text_styler.log", true);
+	// handler.setFormatter(new SimpleFormatter())
+	// log.addHandler(handler)
 	
 	elements = find_user_icons()
 }
@@ -101,7 +99,6 @@ def find_user_icons() {
 	
 		relative_path = relative_path.take(relative_path.lastIndexOf('.'))
 		
-		log.info("adding element icon: $relative_path")
 		elements.put(
             relative_path,
             new Element('icon', relative_path)
@@ -126,10 +123,8 @@ def apply_style_from_text(main_node) {
 //inter Commander
 def apply_command(command) {
 	if (is_rearranging_icons(command)) {
-		log.info("command=$command is rearranging")
 		rearrange_icons(node, command)
 	} else {
-		log.info("command=$command is NOT rearranging")
 		def element = find_closest_element(command)
 		if (element) {
 			element.apply(node)
@@ -153,7 +148,6 @@ def rearrange_icons(node, tag) {
     
     for (int i=0;i<tag.length();i++) {
         int digit = Integer.valueOf(new String(tag.charAt(i)))
-        log.info("digit=$digit")
         node.icons.add(icons[digit-1])
     }
 }
@@ -222,8 +216,6 @@ def find_closest_element(String tag) {
                 longest_match = substring.length()
                 closest_element = element.value
             }
-            
-            log.info("$element.value.info = $substring")
         }
     }
 
