@@ -262,6 +262,28 @@
 <node TEXT="go" ID="ID_332751040" CREATED="1657340237036" MODIFIED="1657340238065"/>
 </node>
 </node>
+<node TEXT="type conversion" ID="ID_205168075" CREATED="1658097157073" MODIFIED="1658097166081">
+<node TEXT="implicit" ID="ID_1573423586" CREATED="1658097135277" MODIFIED="1658097187805">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="restricted" ID="ID_1717816291" CREATED="1658097289178" MODIFIED="1658097385742">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="F#" ID="ID_822942997" CREATED="1658097304505" MODIFIED="1658097455872" LINK="https://docs.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-6">
+<icon BUILTIN="present"/>
+<node TEXT="in first versions (&lt; 6) it didn&apos;t exist" ID="ID_266114892" CREATED="1658097308577" MODIFIED="1658098453452"/>
+<node TEXT="was added in c#6" ID="ID_136814177" CREATED="1658101266938" MODIFIED="1658101281784" LINK="https://github.com/fsharp/fslang-design/blob/main/FSharp-6.0/FS-1093-additional-conversions.md"/>
+</node>
+</node>
+</node>
+<node TEXT="explicit" ID="ID_1407094221" CREATED="1658097167150" MODIFIED="1658097187805">
+<icon BUILTIN="control/type_of_parent"/>
+</node>
+</node>
+<node TEXT="type inference" ID="ID_237182141" CREATED="1658098458606" MODIFIED="1658098461439">
+<node TEXT="highly automatic" ID="ID_835996339" CREATED="1658098461877" MODIFIED="1658098474986">
+<icon BUILTIN="control/type_of_parent"/>
+<node TEXT="f#" ID="ID_1289055810" CREATED="1658098475699" MODIFIED="1658098480085" LINK="https://lorgonblog.wordpress.com/2009/10/25/overview-of-type-inference-in-f/"/>
+</node>
+</node>
 </node>
 <node TEXT="dynamic" ID="ID_1511436099" CREATED="1656933073447" MODIFIED="1656933215455">
 <icon BUILTIN="control/type_of_parent"/>
@@ -360,8 +382,9 @@
 </node>
 </node>
 </node>
-<node TEXT="esoteric solutions" ID="ID_1669909597" CREATED="1657191309051" MODIFIED="1657191453812">
+<node TEXT="esoteric solutions" ID="ID_1669909597" CREATED="1657191309051" MODIFIED="1658095128856" BACKGROUND_COLOR="#ffeedd">
 <icon BUILTIN="control/type_of_parent"/>
+<icon BUILTIN="question"/>
 <node TEXT="edgedb" ID="ID_1716934141" CREATED="1657191397322" MODIFIED="1657191410894">
 <node TEXT="analysis of drawback of ORMs and plain SQL" ID="ID_1108504705" CREATED="1657191411271" MODIFIED="1657191428354" LINK="https://www.edgedb.com/blog/a-solution-to-the-sql-vs-orm-dilemma"/>
 </node>
@@ -438,6 +461,9 @@
 </node>
 <node TEXT="but apache_spark is functional" ID="ID_178971979" CREATED="1657602673406" MODIFIED="1657602694926">
 <icon BUILTIN="bad"/>
+<node TEXT="it uses functional Pming only at the highest level, it could use python instead" ID="ID_935668525" CREATED="1658095703019" MODIFIED="1658095765473">
+<icon BUILTIN="thinking_cloud"/>
+</node>
 </node>
 </node>
 </node>
@@ -455,7 +481,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="HPC" ID="ID_1435884605" CREATED="1657601832093" MODIFIED="1657601843908">
 <node LOCALIZED_STYLE_REF="default" ID="ID_1210797081" CREATED="1657601935363" MODIFIED="1657602041814" COLOR="#000000" BACKGROUND_COLOR="#ffffff"><richcontent TYPE="NODE">
@@ -470,7 +495,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_505647955" CREATED="1657601958000" MODIFIED="1657602045521">
 <icon BUILTIN="good"/>
@@ -486,7 +510,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -502,7 +525,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1304266705" CREATED="1657602010462" MODIFIED="1657602073417">
 <icon BUILTIN="good"/>
@@ -518,7 +540,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -530,7 +551,10 @@
 </node>
 </node>
 </node>
-<node POSITION="right" ID="ID_737332518" CREATED="1657338741096" MODIFIED="1657342594345"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_737332518" CREATED="1657338741096" MODIFIED="1658096844985">
+<icon BUILTIN="present"/>
+<icon BUILTIN="present"/>
+<richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -538,10 +562,11 @@
   </head>
   <body>
     <p>
-      Ls form <b>families</b>
+      Ls form <b>families </b>
     </p>
   </body>
 </html>
+
 </richcontent>
 <node TEXT="algol" ID="ID_648459287" CREATED="1657338757836" MODIFIED="1657338812219">
 <icon BUILTIN="grammar/syntax/follows_next"/>
@@ -558,7 +583,8 @@
 <node TEXT="ocaml" ID="ID_13542989" CREATED="1657433053802" MODIFIED="1657433059037">
 <icon BUILTIN="grammar/syntax/follows_next"/>
 <node TEXT="f#" ID="ID_743310075" CREATED="1657433029749" MODIFIED="1657433032290"/>
-<node TEXT="xavier leroy" ID="ID_1879540365" CREATED="1657581025369" MODIFIED="1657583231794">
+<node TEXT="xavier leroy (french)" ID="ID_1879540365" CREATED="1657581025369" MODIFIED="1658097010915">
+<icon BUILTIN="control/comment"/>
 <icon BUILTIN="person"/>
 </node>
 </node>
@@ -645,6 +671,18 @@
 <node TEXT="standalone" ID="ID_1659856149" CREATED="1657439394749" MODIFIED="1657439407413">
 <node TEXT="cpython" ID="ID_995441436" CREATED="1657439409019" MODIFIED="1657439707426">
 <icon BUILTIN="present"/>
+<node TEXT="standard, most popular" ID="ID_776453001" CREATED="1658096595188" MODIFIED="1658096604872">
+<icon BUILTIN="good"/>
+</node>
+<node TEXT="slow" ID="ID_1794025223" CREATED="1658096610385" MODIFIED="1658096619026">
+<icon BUILTIN="bad"/>
+</node>
+</node>
+<node TEXT="pypy" ID="ID_827502511" CREATED="1658096621142" MODIFIED="1658096630344">
+<icon BUILTIN="present"/>
+<node TEXT="very slow" ID="ID_410659735" CREATED="1658096624371" MODIFIED="1658096628462">
+<icon BUILTIN="bad"/>
+</node>
 </node>
 </node>
 </node>

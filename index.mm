@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="2.028">
+<node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -232,21 +232,14 @@
 <node TEXT="project" POSITION="right" ID="ID_1555325911" CREATED="1633368435762" MODIFIED="1635773283871" COLOR="#7f7f7f">
 <icon BUILTIN="info_circle"/>
 <font NAME="Tahoma" BOLD="true"/>
-<node TEXT="ai_index.mm" ID="ID_1174436778" CREATED="1641516806386" MODIFIED="1641516806388" LINK="../prj/unity_ai/docs/ai_index.mm"/>
+<node TEXT="unity_ai" ID="ID_1706130125" CREATED="1658181932453" MODIFIED="1658181932453" LINK="../unity_ai/">
+<node TEXT="ai_index.mm" ID="ID_1174436778" CREATED="1641516806386" MODIFIED="1658181967899" LINK="../unity_ai/docs/ai_index.mm"/>
+</node>
 <node TEXT="programming" ID="ID_64242684" CREATED="1638461481894" MODIFIED="1638461492219" LINK="programming/">
 <node TEXT="abyss_defence" ID="ID_1914315453" CREATED="1638461487299" MODIFIED="1638461509161" LINK="programming/abyss_defence.mm"/>
 <node TEXT="unity" ID="ID_781744890" CREATED="1640791023000" MODIFIED="1640791035419" LINK="programming/unity/">
 <node TEXT="idiosyncrasy" ID="ID_929397564" CREATED="1640791036161" MODIFIED="1640791266836" LINK="programming/unity/idiosyncrasy.mm"/>
 </node>
-</node>
-<node TEXT="poetry.mm" ID="ID_1888622546" CREATED="1633368807278" MODIFIED="1635773283871" LINK="poetry.mm">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="poetry2.mm" ID="ID_156298882" CREATED="1633368815365" MODIFIED="1635773283872" LINK="poetry2.mm">
-<font NAME="Tahoma"/>
-</node>
-<node TEXT="poetry" ID="ID_1603019221" CREATED="1656034707411" MODIFIED="1656034729620" LINK="poetry/">
-<node TEXT="baby" ID="ID_328248514" CREATED="1656034731320" MODIFIED="1656034740031" LINK="file:/C:/knowledge/poetry/baby.mm"/>
 </node>
 <node TEXT="videos" ID="ID_1543987241" CREATED="1634111893558" MODIFIED="1635773283872" LINK="videos/">
 <font NAME="Tahoma"/>
@@ -257,6 +250,7 @@
 <node TEXT="gardening" ID="ID_663806832" CREATED="1649596485445" MODIFIED="1649596485449" LINK="../../M:/gardening/">
 <node TEXT="shops.mm" ID="ID_523593267" CREATED="1649596499336" MODIFIED="1649596499336" LINK="../../M:/gardening/shops/shops.mm"/>
 </node>
+<node TEXT="poetry" ID="ID_1193433693" CREATED="1658181878492" MODIFIED="1658181878492" LINK="prj/poetry/"/>
 </node>
 <node TEXT="talk" POSITION="right" ID="ID_1523271788" CREATED="1633368448993" MODIFIED="1636490920215" LINK="talk/" COLOR="#7f7f7f">
 <icon BUILTIN="info_circle"/>
@@ -290,6 +284,7 @@
 <node TEXT="drill noise" ID="ID_810419896" CREATED="1642250603994" MODIFIED="1642250625281" LINK="file:/C:/knowledge/notes/drill%20noise.mm"/>
 <node TEXT="banking business" ID="ID_496917618" CREATED="1643303826925" MODIFIED="1643685291505" LINK="notes/banking%20business.mm"/>
 <node TEXT="ip address" ID="ID_1418509451" CREATED="1643462445324" MODIFIED="1643462460849" LINK="file:/C:/knowledge/notes/ip%20address.mm"/>
+<node TEXT="things to take with me" ID="ID_1460594897" CREATED="1658043756403" MODIFIED="1658043766950" LINK="file:/C:/prj/knowledge/notes/things%20to%20take%20with%20me.mm"/>
 <node TEXT="lawsuits" ID="ID_1543778548" CREATED="1646786662552" MODIFIED="1646786700909" LINK="notes/lawsuits/">
 <node TEXT="demonstration" ID="ID_1873930037" CREATED="1646786703357" MODIFIED="1646786709096" LINK="file:/C:/knowledge/notes/lawsuits/demonstration.mm"/>
 </node>

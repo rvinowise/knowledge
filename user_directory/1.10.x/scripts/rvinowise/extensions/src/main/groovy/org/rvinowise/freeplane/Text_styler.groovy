@@ -91,8 +91,6 @@ def find_user_icons() {
 
     def icon_dir = new File("$user_dir/icons")
     icon_dir.eachFileRecurse (FileType.FILES) { file ->
-        //String filename = file.name.take(file.name.lastIndexOf('.'))
-		
 		def base_path = icon_dir.toURI()
 		def file_path = file.toURI()
 		def relative_path = base_path.relativize(file_path).toString()

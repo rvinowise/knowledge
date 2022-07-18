@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="time" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637491531175"><hook NAME="MapStyle" zoom="1.555">
+<node TEXT="time" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637491531175"><hook NAME="MapStyle" zoom="2.021">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -138,7 +138,7 @@
 </hook>
 <font NAME="Tahoma"/>
 <node TEXT="type: compare_colocations" POSITION="left" ID="ID_305786991" CREATED="1637491531179" MODIFIED="1637491531181"/>
-<node TEXT="styles" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
+<node TEXT="styles" FOLDED="true" POSITION="left" ID="ID_1391550246" CREATED="1637117096274" MODIFIED="1637125114729" COLOR="#7f7f7f">
 <font BOLD="true"/>
 <node TEXT="1" LOCALIZED_STYLE_REF="default" ID="ID_582028854" CREATED="1637126629679" MODIFIED="1637131454823" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
@@ -202,7 +202,7 @@
 </node>
 </node>
 </node>
-<node TEXT="saying when an action takes place" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_874171711" CREATED="1656573932482" MODIFIED="1656574048217" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="saying when an action takes place" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_874171711" CREATED="1656573932482" MODIFIED="1656574048217" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="do it *" LOCALIZED_STYLE_REF="default" ID="ID_27440145" CREATED="1637654586271" MODIFIED="1655345009537" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <icon BUILTIN="punctuation/colon"/>
@@ -1072,6 +1072,8 @@
 </node>
 <node TEXT="expressing a sequence of events" POSITION="right" ID="ID_1356500578" CREATED="1656972625842" MODIFIED="1656972646991">
 <node TEXT="event 2 happens later event 1" ID="ID_1017410761" CREATED="1656972765817" MODIFIED="1656972807921">
+<node TEXT="narrating a story about the past" ID="ID_703909358" CREATED="1658101805917" MODIFIED="1658101863852" BACKGROUND_COLOR="#ffeedd">
+<icon BUILTIN="question"/>
 <node TEXT="forty" ID="ID_482768035" CREATED="1656972650727" MODIFIED="1656972706671" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <icon BUILTIN="size_optimisation/variables/variable_invocation"/>
@@ -1101,8 +1103,57 @@
 <node TEXT="و" ID="ID_1116827949" CREATED="1656972894142" MODIFIED="1656972921909" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
 <icon BUILTIN="punctuation/three_dots"/>
-<node TEXT="لا يوجد اي تَقَدُّم" ID="ID_1799169540" CREATED="1656973018905" MODIFIED="1656973065437" COLOR="#000000">
+<node TEXT="لَا يُوجَد أي تَقَدُّم" ID="ID_1799169540" CREATED="1656973018905" MODIFIED="1658102311214" COLOR="#000000">
 <icon BUILTIN="emoji-1F1F8-1F1E6"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="forecasting the future" ID="ID_579933543" CREATED="1658101866428" MODIFIED="1658101878366">
+<node TEXT="after" ID="ID_454271451" CREATED="1658101879356" MODIFIED="1658102014174" COLOR="#000000" BACKGROUND_COLOR="#ccccff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="two" ID="ID_1504248358" CREATED="1658101897048" MODIFIED="1658101907887" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
+<node TEXT="hours" ID="ID_313245634" CREATED="1658101910157" MODIFIED="1658101916278" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
+<node TEXT="we" ID="ID_856329806" CREATED="1658101916482" MODIFIED="1658101936764" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
+<node TEXT="run out of" ID="ID_1209318643" CREATED="1658101925517" MODIFIED="1658101953182" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="box_inscribed"/>
+<node TEXT="oxygen" ID="ID_1035598102" CREATED="1658101954816" MODIFIED="1658101961727" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="box_inscribed"/>
+</node>
+<node TEXT="present tense" LOCALIZED_STYLE_REF="default" ID="ID_383288868" CREATED="1658101966895" MODIFIED="1658102761801" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="cog"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="بَعد" ID="ID_52165166" CREATED="1658101991586" MODIFIED="1658102705919" COLOR="#000000" BACKGROUND_COLOR="#ccccff">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="سَاعَتَينِ" ID="ID_46877895" CREATED="1658102643187" MODIFIED="1658102932401" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
+<node TEXT="سَ" ID="ID_818196474" CREATED="1658102674673" MODIFIED="1658102708400" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT=" يَنفَد" ID="ID_1359647532" CREATED="1658102657887" MODIFIED="1658102844342" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<node TEXT="الأُكسِيجِين" ID="ID_80821207" CREATED="1658102665160" MODIFIED="1658102712720" COLOR="#000000">
+<icon BUILTIN="emoji-1F1F8-1F1E6"/>
+<icon BUILTIN="box_inscribed"/>
+</node>
+</node>
+<node TEXT="future tense" ID="ID_1972741778" CREATED="1658102745449" MODIFIED="1658102757372">
+<icon BUILTIN="cog"/>
 </node>
 </node>
 </node>

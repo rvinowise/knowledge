@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="banking business" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643303849730"><hook NAME="MapStyle" zoom="0.99">
+<node TEXT="things to take with me" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1658043767435"><hook NAME="MapStyle" zoom="1.2">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -38,7 +38,7 @@
 <edge STYLE="hide_edge" COLOR="#000000"/>
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffffff" BACKGROUND_ALPHA="0" BORDER_WIDTH="3 px" BORDER_COLOR="#ff8080" BORDER_DASH="SOLID"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
 <edge COLOR="#000000"/>
@@ -137,7 +137,7 @@
 </map_styles>
 </hook>
 <font NAME="Tahoma"/>
-<node TEXT="type: notes" POSITION="left" ID="ID_1489289909" CREATED="1643303849820" MODIFIED="1643303849869"/>
+<node TEXT="type: " POSITION="left" ID="ID_1798230630" CREATED="1658043767497" MODIFIED="1658043767622"/>
 <node TEXT="universal" POSITION="left" ID="ID_1847115991" CREATED="1633811405989" MODIFIED="1635773283873">
 <font NAME="Tahoma"/>
 <node TEXT="legend" ID="ID_1017822791" CREATED="1633811165696" MODIFIED="1635773283874" COLOR="#7f7f7f">
@@ -222,109 +222,33 @@
 </node>
 </node>
 </node>
-<node TEXT="legend" POSITION="right" ID="ID_693098453" CREATED="1643656098705" MODIFIED="1643656104966" COLOR="#7f7f7f">
-<font BOLD="true"/>
-<node TEXT="bank" ID="ID_95445790" CREATED="1643656111382" MODIFIED="1643656303268" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="place"/>
-<node TEXT="company" ID="ID_1136007296" CREATED="1643656106302" MODIFIED="1643656303263" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="box_inscribed"/>
-<node TEXT="plastic card pin" ID="ID_239101429" CREATED="1643657149320" MODIFIED="1644771499778" BACKGROUND_COLOR="#cccccc">
-<icon BUILTIN="padlock_closed"/>
+<node TEXT="from the cottage to moscow" POSITION="right" ID="ID_480600849" CREATED="1658043767622" MODIFIED="1658043935712">
+<node TEXT="sunscreen" ID="ID_1649425966" CREATED="1658043783838" MODIFIED="1658043786854"/>
+<node TEXT="computer hardware" ID="ID_1401040153" CREATED="1658043791712" MODIFIED="1658043806460"/>
 </node>
-<node TEXT="login" ID="ID_106174859" CREATED="1644771502806" MODIFIED="1644771517393" BACKGROUND_COLOR="#cccccc">
-<node TEXT="password" ID="ID_1480398179" CREATED="1644771506477" MODIFIED="1644771517411" BACKGROUND_COLOR="#cccccc"/>
-</node>
-</node>
+<node TEXT="from moscow to the cottage" POSITION="right" ID="ID_374528828" CREATED="1658043775918" MODIFIED="1658043935712">
+<node TEXT="install to the computer" ID="ID_329177795" CREATED="1658043821222" MODIFIED="1658043839610">
+<node TEXT="openoffice" ID="ID_340077458" CREATED="1658043840031" MODIFIED="1658043843968"/>
+<node TEXT="unity for my game" ID="ID_366463026" CREATED="1658043844468" MODIFIED="1658043854404"/>
+<node TEXT="windows 10" ID="ID_1798017046" CREATED="1658043872418" MODIFIED="1658043876073">
+<node TEXT="can keep both on a usb stick" ID="ID_766433935" CREATED="1658043880619" MODIFIED="1658043888743">
+<icon BUILTIN="control/comment"/>
 </node>
 </node>
-<node TEXT="сбербанк" POSITION="right" ID="ID_993956904" CREATED="1643656970955" MODIFIED="1643657146150">
-<icon BUILTIN="place"/>
-<node ID="ID_583290111" CREATED="1643303931468" MODIFIED="1643656282615">
-<icon BUILTIN="box_inscribed"/>
-<richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <div class="contragent">
-      техмет
-    </div>
-  </body>
-</html>
-</richcontent>
-<node TEXT="1902" ID="ID_1912346697" CREATED="1643657195329" MODIFIED="1643657586562">
-<icon BUILTIN="padlock_closed"/>
+<node TEXT="normally functioning flash" ID="ID_239632358" CREATED="1658104741157" MODIFIED="1658104750853">
+<node TEXT="context menu doesn&apos;t work" ID="ID_1912818960" CREATED="1658104751136" MODIFIED="1658104759799">
+<icon BUILTIN="control/comment"/>
 </node>
 </node>
-<node TEXT="Промтех" ID="ID_1331281239" CREATED="1643303945930" MODIFIED="1643656282618">
-<icon BUILTIN="box_inscribed"/>
-<node TEXT="1969" ID="ID_1897885364" CREATED="1643657263304" MODIFIED="1643657586568">
-<icon BUILTIN="padlock_closed"/>
+<node TEXT="graphml" ID="ID_923888347" CREATED="1658048221692" MODIFIED="1658048224414"/>
 </node>
+<node TEXT="battery acid" ID="ID_167808989" CREATED="1658045213509" MODIFIED="1658045220399"/>
+<node TEXT="plants from the nursery" ID="ID_1979616897" CREATED="1658045223477" MODIFIED="1658045288979" LINK="../../../../D:/gardening/shops/shops.mm#ID_696401721"/>
 </node>
-<node TEXT="map" FOLDED="true" ID="ID_585378066" CREATED="1643685347889" MODIFIED="1643685354153">
-<node TEXT="" ID="ID_591714527" CREATED="1643661483052" MODIFIED="1643661573493">
-<hook URI="banking%20business_files/png_4499177379709321500.png" SIZE="0.54016334" NAME="ExternalObject"/>
-</node>
-<node TEXT="" ID="ID_1189235608" CREATED="1643661565823" MODIFIED="1643661570580">
-<hook URI="banking%20business_files/png_199551016169454052.png" SIZE="0.9075501" NAME="ExternalObject"/>
-</node>
-</node>
-</node>
-<node TEXT="точка банк" POSITION="right" ID="ID_1153345186" CREATED="1643657005447" MODIFIED="1643657146226">
-<icon BUILTIN="place"/>
-<node TEXT="меттех" ID="ID_709951051" CREATED="1643303937086" MODIFIED="1643656282617">
-<icon BUILTIN="box_inscribed"/>
-<node TEXT="9391" ID="ID_616882074" CREATED="1643657441303" MODIFIED="1643657586571">
-<icon BUILTIN="padlock_closed"/>
-</node>
-<node TEXT="965301082" ID="ID_644020310" CREATED="1644771328416" MODIFIED="1645279449258" LINK="https://z.tochka.com/login/#/?from_menu=index">
-<node TEXT="dad&apos;s" ID="ID_1591787005" CREATED="1644771463779" MODIFIED="1644771544835"/>
-</node>
-</node>
-<node TEXT="открытие" FOLDED="true" ID="ID_171381922" CREATED="1643659470910" MODIFIED="1643659482335">
-<icon BUILTIN="place"/>
-<node TEXT="" ID="ID_1510493837" CREATED="1643659493535" MODIFIED="1643659516836">
-<hook URI="banking%20business_files/png_8997090948026338741.png" SIZE="0.31715745" NAME="ExternalObject"/>
-</node>
-</node>
-<node TEXT="map" FOLDED="true" ID="ID_489819098" CREATED="1643685366077" MODIFIED="1643685367675">
-<node TEXT="may charge" ID="ID_572932352" CREATED="1643659737861" MODIFIED="1643659746683">
-<hook URI="banking%20business_files/png_9026560092691679304.png" SIZE="0.4878271" NAME="ExternalObject"/>
-</node>
-</node>
-</node>
-<node TEXT="модульбанк" POSITION="right" ID="ID_451407127" CREATED="1643656940005" MODIFIED="1650955136673" LINK="https://my.modulbank.ru/">
-<icon BUILTIN="place"/>
-<node TEXT="Экометстрой" ID="ID_1062325276" CREATED="1643304036008" MODIFIED="1643656282619">
-<icon BUILTIN="box_inscribed"/>
-<node TEXT="9141" ID="ID_470164298" CREATED="1643657312796" MODIFIED="1643657586575">
-<icon BUILTIN="padlock_closed"/>
-</node>
-<node TEXT="965-301-08-28" ID="ID_1170963115" CREATED="1645279489145" MODIFIED="1645279876908" LINK="https://my.modulbank.ru/#/finance">
-<node TEXT="dad&apos;s" ID="ID_204081835" CREATED="1645279857113" MODIFIED="1645279860464"/>
-</node>
-</node>
-<node TEXT="Промтехмет" ID="ID_1500269537" CREATED="1643303859973" MODIFIED="1643656282609">
-<icon BUILTIN="box_inscribed"/>
-<node TEXT="4382" ID="ID_1000691965" CREATED="1643657227314" MODIFIED="1643657586577">
-<icon BUILTIN="padlock_closed"/>
-</node>
-</node>
-<node TEXT="map" FOLDED="true" ID="ID_1341014500" CREATED="1643685374654" MODIFIED="1643685376126">
-<node TEXT="" ID="ID_850313804" CREATED="1643658341824" MODIFIED="1643659521319">
-<hook URI="banking%20business_files/png_5745792038375600778.png" SIZE="0.41829306" NAME="ExternalObject"/>
-</node>
-</node>
-</node>
-<node TEXT="dad&apos;s" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_456260017" CREATED="1650955189022" MODIFIED="1650955208619" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<icon BUILTIN="padlock_closed"/>
-<node TEXT="R4e3w2q1" ID="ID_1468418984" CREATED="1650955209394" MODIFIED="1650955212865"/>
-</node>
-<node TEXT="agroros" POSITION="right" ID="ID_78795914" CREATED="1658055606054" MODIFIED="1658055620934">
-<icon BUILTIN="place"/>
+<node TEXT="fix at the cottage" POSITION="right" ID="ID_213831153" CREATED="1658043965114" MODIFIED="1658043969410">
+<node TEXT="axe" ID="ID_1473878752" CREATED="1658043969816" MODIFIED="1658043971441"/>
+<node TEXT="tap" ID="ID_915696039" CREATED="1658043972316" MODIFIED="1658043974925"/>
+<node TEXT="tinnitus" ID="ID_1250590627" CREATED="1658043980846" MODIFIED="1658043985079"/>
 </node>
 </node>
 </map>
