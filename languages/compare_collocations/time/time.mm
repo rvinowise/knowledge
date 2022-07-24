@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="time" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637491531175"><hook NAME="MapStyle" zoom="2.021">
+<node TEXT="time" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1637491531175"><hook NAME="MapStyle" zoom="1.183">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -202,10 +202,11 @@
 </node>
 </node>
 </node>
-<node TEXT="saying when an action takes place" LOCALIZED_STYLE_REF="default" FOLDED="true" POSITION="right" ID="ID_874171711" CREATED="1656573932482" MODIFIED="1656574048217" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
-<node TEXT="do it *" LOCALIZED_STYLE_REF="default" ID="ID_27440145" CREATED="1637654586271" MODIFIED="1655345009537" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="saying when an action takes place" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_874171711" CREATED="1656573932482" MODIFIED="1656574048217" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="do it *" LOCALIZED_STYLE_REF="default" ID="ID_27440145" CREATED="1637654586271" MODIFIED="1658434970324" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <icon BUILTIN="emoji-1F1FA-1F1F8"/>
 <icon BUILTIN="punctuation/colon"/>
+<icon BUILTIN="size_optimisation/variables/variable_invocation"/>
 <node TEXT="in a time period" LOCALIZED_STYLE_REF="default" ID="ID_93561684" CREATED="1637659793459" MODIFIED="1656575053086" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="time of the day" LOCALIZED_STYLE_REF="default" ID="ID_1517451503" CREATED="1637492193029" MODIFIED="1637496632353" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="long part of the day" LOCALIZED_STYLE_REF="default" ID="ID_703200889" CREATED="1637499644373" MODIFIED="1656573880775" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
@@ -532,6 +533,26 @@
 <icon BUILTIN="emoji-1F1EC-1F1E7"/>
 <icon BUILTIN="grammar/syntax/precedes_previous"/>
 </node>
+</node>
+</node>
+</node>
+<node TEXT="relative days" ID="ID_453833852" CREATED="1658434740443" MODIFIED="1658434763604">
+<node TEXT="the" ID="ID_230040692" CREATED="1658434763777" MODIFIED="1658434784119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="day" ID="ID_956576464" CREATED="1658434774102" MODIFIED="1658434784119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="after" ID="ID_1302700450" CREATED="1658434775784" MODIFIED="1658434784119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="tomorrow" ID="ID_1556562406" CREATED="1658434777717" MODIFIED="1658434784119" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="pasado" ID="ID_419700343" CREATED="1658434787993" MODIFIED="1658434812029" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="mañana" ID="ID_1524520519" CREATED="1658434796067" MODIFIED="1658434812029" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
 </node>
 </node>
 </node>
@@ -1068,7 +1089,6 @@
 <node TEXT="fac hoc" ID="ID_478348033" CREATED="1655344982931" MODIFIED="1655344993045" COLOR="#000000">
 <icon BUILTIN="heraldics/roman_empire"/>
 </node>
-<node TEXT="les jours" ID="ID_468163626" CREATED="1656601990729" MODIFIED="1656972593568"/>
 </node>
 <node TEXT="expressing a sequence of events" POSITION="right" ID="ID_1356500578" CREATED="1656972625842" MODIFIED="1656972646991">
 <node TEXT="event 2 happens later event 1" ID="ID_1017410761" CREATED="1656972765817" MODIFIED="1656972807921">
@@ -1200,6 +1220,34 @@
 </node>
 </node>
 </node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="event 2 happened right now" ID="ID_472112618" CREATED="1658474917071" MODIFIED="1658474946357">
+<node TEXT="ella" ID="ID_349443325" CREATED="1658474982870" MODIFIED="1658475017322" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="acaba" ID="ID_1217498671" CREATED="1658474990584" MODIFIED="1658475017322" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="de" ID="ID_1592856689" CREATED="1658474993051" MODIFIED="1658475017322" COLOR="#000000">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<node TEXT="fallecer" ID="ID_618818342" CREATED="1658475001077" MODIFIED="1658475059347" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1EA-1F1F8"/>
+<icon BUILTIN="box_inscribed"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="she" ID="ID_1938623435" CREATED="1658475024028" MODIFIED="1658475044055" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="has" ID="ID_1156612784" CREATED="1658475025551" MODIFIED="1658475044478" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="just" ID="ID_1841817243" CREATED="1658475031613" MODIFIED="1658475044769" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<node TEXT="passed away" ID="ID_316997482" CREATED="1658475033482" MODIFIED="1658475059347" COLOR="#000000" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F1FA-1F1F8"/>
+<icon BUILTIN="box_inscribed"/>
 </node>
 </node>
 </node>

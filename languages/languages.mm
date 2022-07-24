@@ -149,6 +149,8 @@
 <node TEXT="possibility" ID="ID_276497124" CREATED="1638005616528" MODIFIED="1638005645302" LINK="compare_collocations/possibility.mm"/>
 <node TEXT="giving" ID="ID_830015847" CREATED="1654177011130" MODIFIED="1654177030803" LINK="file:/C:/knowledge/languages/compare_collocations/giving.mm"/>
 <node TEXT="failing" ID="ID_620875468" CREATED="1657229652809" MODIFIED="1657232355534" LINK="compare_collocations/failing.mm"/>
+<node TEXT="existing" ID="ID_933099955" CREATED="1658391324282" MODIFIED="1658391331028" LINK="file:/C:/prj/knowledge/languages/compare_collocations/existing.mm"/>
+<node TEXT="being in a state" ID="ID_1956099523" CREATED="1658483713459" MODIFIED="1658483718927" LINK="file:/C:/prj/knowledge/languages/compare_collocations/being%20in%20a%20state.mm"/>
 <node TEXT="human body" ID="ID_735615301" CREATED="1637166164110" MODIFIED="1637166186899" LINK="compare_collocations/human%20body/">
 <node TEXT="eating" ID="ID_669796983" CREATED="1637165989790" MODIFIED="1637166190778" LINK="compare_collocations/human%20body/eating.mm"/>
 <node TEXT="body positions" ID="ID_370119368" CREATED="1643205247255" MODIFIED="1643205253124" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/human%20body/body%20positions.mm"/>
@@ -158,6 +160,7 @@
 <node TEXT="sadness" ID="ID_811330063" CREATED="1637167087534" MODIFIED="1637167104062" LINK="compare_collocations/feelings/sadness.mm"/>
 <node TEXT="happiness" ID="ID_390070462" CREATED="1637408430479" MODIFIED="1637408439935" LINK="compare_collocations/feelings/happiness.mm"/>
 <node TEXT="sorry" ID="ID_1666152936" CREATED="1640154321783" MODIFIED="1640154327921" LINK="compare_collocations/feelings/sorry.mm"/>
+<node TEXT="fear" ID="ID_1147720088" CREATED="1658439922431" MODIFIED="1658439929054" LINK="file:/C:/prj/knowledge/languages/compare_collocations/feelings/fear.mm"/>
 </node>
 <node TEXT="mind" ID="ID_189384173" CREATED="1637212827393" MODIFIED="1637212929844" LINK="compare_collocations/mind/">
 <node TEXT="imagination" ID="ID_788257158" CREATED="1637212932002" MODIFIED="1637212941502" LINK="compare_collocations/mind/imagination.mm"/>
@@ -166,12 +169,14 @@
 <node TEXT="preferences" ID="ID_1120180814" CREATED="1639809351536" MODIFIED="1639809357802" LINK="compare_collocations/mind/preferences.mm"/>
 <node TEXT="changing religion" ID="ID_552941956" CREATED="1641181012714" MODIFIED="1641181034789" LINK="file:/C:/knowledge/languages/compare_collocations/mind/changing%20religion.mm"/>
 <node TEXT="neglecting" ID="ID_278725600" CREATED="1656652552771" MODIFIED="1656652557021" LINK="file:/C:/knowledge/languages/compare_collocations/mind/neglecting.mm"/>
+<node TEXT="manipulating" ID="ID_1562423148" CREATED="1658390982852" MODIFIED="1658390989342" LINK="file:/C:/prj/knowledge/languages/compare_collocations/mind/manipulating.mm"/>
 </node>
 <node TEXT="talking" ID="ID_49288193" CREATED="1637216129933" MODIFIED="1637216139511" LINK="compare_collocations/talking/">
 <node TEXT="blaming" ID="ID_1296721790" CREATED="1637324827784" MODIFIED="1637324841522" LINK="compare_collocations/talking/blaming.mm"/>
-<node TEXT="terms denoting speech" ID="ID_802619694" CREATED="1642924436293" MODIFIED="1642924499879" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/terms%20denoting%20speech.mm"/>
-<node TEXT="secret" ID="ID_845439539" CREATED="1643011561367" MODIFIED="1643011566296" LINK="file:/D:/archive/cloud_storages/knowledge/languages/compare_collocations/talking/secret.mm"/>
-<node TEXT="naming.mm" ID="ID_797332367" CREATED="1657232427582" MODIFIED="1657232427583" LINK="compare_collocations/talking/naming.mm"/>
+<node TEXT="terms denoting speech" ID="ID_802619694" CREATED="1642924436293" MODIFIED="1658388755064" LINK="compare_collocations/talking/terms%20denoting%20speech.mm"/>
+<node TEXT="secret" ID="ID_845439539" CREATED="1643011561367" MODIFIED="1658388769265" LINK="compare_collocations/talking/secret.mm"/>
+<node TEXT="naming" ID="ID_797332367" CREATED="1657232427582" MODIFIED="1658388774625" LINK="compare_collocations/talking/naming.mm"/>
+<node TEXT="asking" ID="ID_1025631673" CREATED="1658388775355" MODIFIED="1658388779614" LINK="file:/C:/prj/knowledge/languages/compare_collocations/talking/asking.mm"/>
 </node>
 <node TEXT="time" ID="ID_749047726" CREATED="1637326274490" MODIFIED="1637491530964" LINK="compare_collocations/time/time.mm">
 <node TEXT="past" ID="ID_495360926" CREATED="1637326283028" MODIFIED="1637326287189" LINK="compare_collocations/time/past.mm"/>

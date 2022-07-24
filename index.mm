@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.2">
+<node TEXT="index" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1635773283863"><hook NAME="MapStyle" zoom="1.5">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -240,6 +240,7 @@
 <node TEXT="unity" ID="ID_781744890" CREATED="1640791023000" MODIFIED="1640791035419" LINK="programming/unity/">
 <node TEXT="idiosyncrasy" ID="ID_929397564" CREATED="1640791036161" MODIFIED="1640791266836" LINK="programming/unity/idiosyncrasy.mm"/>
 </node>
+<node TEXT="adobe flash" ID="ID_1527553737" CREATED="1658315460958" MODIFIED="1658315510355" LINK="file:/C:/prj/knowledge/programming/adobe%20flash.mm"/>
 </node>
 <node TEXT="videos" ID="ID_1543987241" CREATED="1634111893558" MODIFIED="1635773283872" LINK="videos/">
 <font NAME="Tahoma"/>
@@ -300,7 +301,7 @@
 </node>
 <node TEXT="shopping" ID="ID_1352705775" CREATED="1654334360600" MODIFIED="1654334370783" LINK="notes/shopping/">
 <node TEXT="shops" ID="ID_1221892413" CREATED="1654334371498" MODIFIED="1654334380829" LINK="file:/C:/knowledge/notes/shopping/shops.mm"/>
-<node TEXT="shopping list" ID="ID_1267583097" CREATED="1656582904440" MODIFIED="1656582913683" LINK="file:/C:/knowledge/notes/shopping/shopping%20list.mm"/>
+<node TEXT="shopping list" ID="ID_1267583097" CREATED="1656582904440" MODIFIED="1658467806559" LINK="notes/shopping/shopping%20list.mm"/>
 </node>
 <node TEXT="people" ID="ID_374183941" CREATED="1656402234854" MODIFIED="1656402240841" LINK="notes/people/">
 <node TEXT="people" ID="ID_1685326148" CREATED="1656402241754" MODIFIED="1656402250116" LINK="file:/C:/knowledge/notes/people/people.mm"/>
