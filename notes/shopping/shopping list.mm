@@ -247,6 +247,7 @@
 <node TEXT="bus schedule checkov-cottage.jpg" ID="ID_793813715" CREATED="1656583785431" MODIFIED="1656583840415">
 <hook URI="bus%20schedule%20checkov-cottage.jpg" SIZE="0.18382353" NAME="ExternalObject"/>
 </node>
+<node TEXT="official schedule cottage-&gt;moscow" ID="ID_1883026404" CREATED="1658467842613" MODIFIED="1658467872605" LINK="https://mostransavto.ru/raspisanie/1238/"/>
 </node>
 </node>
 </node>
