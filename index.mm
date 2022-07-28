@@ -249,9 +249,11 @@
 </node>
 </node>
 <node TEXT="gardening" ID="ID_663806832" CREATED="1649596485445" MODIFIED="1649596485449" LINK="../../M:/gardening/">
-<node TEXT="shops.mm" ID="ID_523593267" CREATED="1649596499336" MODIFIED="1649596499336" LINK="../../M:/gardening/shops/shops.mm"/>
+<node TEXT="shops.mm" ID="ID_523593267" CREATED="1649596499336" MODIFIED="1659010987698" LINK="../../prj/gardening/shops/shops.mm"/>
 </node>
-<node TEXT="poetry" ID="ID_1193433693" CREATED="1658181878492" MODIFIED="1658181878492" LINK="prj/poetry/"/>
+<node TEXT="poetry" ID="ID_1193433693" CREATED="1658181878492" MODIFIED="1658181878492" LINK="prj/poetry/">
+<node TEXT="baby.mm" ID="ID_532645272" CREATED="1658998747087" MODIFIED="1658998747095" LINK="prj/poetry/baby.mm"/>
+</node>
 </node>
 <node TEXT="talk" POSITION="right" ID="ID_1523271788" CREATED="1633368448993" MODIFIED="1636490920215" LINK="talk/" COLOR="#7f7f7f">
 <icon BUILTIN="info_circle"/>

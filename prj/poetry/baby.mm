@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="baby" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1656034740377"><hook NAME="MapStyle" zoom="2.636">
+<node TEXT="baby" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1656034740377"><hook NAME="MapStyle" zoom="2.028">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -238,9 +238,16 @@
 <node TEXT="don&apos;t agree" POSITION="right" ID="ID_1621432600" CREATED="1656075500865" MODIFIED="1656075603236">
 <icon BUILTIN="box"/>
 <node TEXT="don&apos;t agree to be a pearl" ID="ID_887299244" CREATED="1656083582088" MODIFIED="1656083588951"/>
-<node TEXT="nothing smaller than a girl" ID="ID_632503189" CREATED="1656083589188" MODIFIED="1656083595781"/>
+<node TEXT="nothing less than just a girl" ID="ID_632503189" CREATED="1656083589188" MODIFIED="1659005387098"/>
 <node TEXT="you can be an angel" ID="ID_1702011048" CREATED="1656083596035" MODIFIED="1656083602356"/>
 <node TEXT="but don&apos;t agree to be a jewel" ID="ID_657570838" CREATED="1656083602610" MODIFIED="1656083620367"/>
+</node>
+<node TEXT="veil" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_482690823" CREATED="1659005389339" MODIFIED="1659005395304" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<icon BUILTIN="box_inscribed"/>
+<node TEXT="if you look through the veil at the world" ID="ID_1452388551" CREATED="1659005398747" MODIFIED="1659005412533"/>
+<node TEXT="through all the guardians" ID="ID_141465573" CREATED="1659005412764" MODIFIED="1659005421902"/>
+<node TEXT="you will see, it&apos;s not evil at all" ID="ID_816905679" CREATED="1659005422646" MODIFIED="1659005435145"/>
+<node TEXT="it has all the rivers and gardens" ID="ID_221478636" CREATED="1659005435432" MODIFIED="1659005443442"/>
 </node>
 <node TEXT="clash" POSITION="right" ID="ID_1240585982" CREATED="1657850493444" MODIFIED="1657850501459">
 <icon BUILTIN="box_inscribed"/>

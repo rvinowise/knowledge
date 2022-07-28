@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.8">
+<map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="poetry" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1632342482072"><hook NAME="MapStyle" zoom="0.908">
+<node TEXT="poetry" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1632342482072"><hook NAME="MapStyle" zoom="1.994">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -170,7 +170,7 @@
 <node TEXT="Ad" ID="ID_1695166809" CREATED="1637211591384" MODIFIED="1637211593428"/>
 </node>
 </node>
-<node TEXT="عالم" LOCALIZED_STYLE_REF="default" ID="ID_192808159" CREATED="1632149812008" MODIFIED="1636167384559"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="عَالَم" LOCALIZED_STYLE_REF="default" ID="ID_192808159" CREATED="1632149812008" MODIFIED="1658999863978"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -293,7 +293,7 @@
 <node TEXT="كائنات" STYLE_REF="lacking info" ID="ID_1265880234" CREATED="1632204717888" MODIFIED="1632214324722">
 <node TEXT="At-" LOCALIZED_STYLE_REF="default" ID="ID_127001613" CREATED="1632205068113" MODIFIED="1632420605042" LINK="#ID_1266412588"/>
 </node>
-<node TEXT="قوانين" ID="ID_1640454325" CREATED="1632205891613" MODIFIED="1636167469045"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="قَوَانِين" ID="ID_1640454325" CREATED="1632205891613" MODIFIED="1658999922640"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -306,7 +306,7 @@
 </html></richcontent>
 <node TEXT="In" ID="ID_1986315462" CREATED="1632205900609" MODIFIED="1632205912923"/>
 </node>
-<node TEXT="رياضيات" ID="ID_1842260069" CREATED="1632206145665" MODIFIED="1636167476602"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="رِيَاضِيَات" ID="ID_1842260069" CREATED="1632206145665" MODIFIED="1658999940419"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     

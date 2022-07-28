@@ -8,7 +8,7 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="banking business" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643303849730"><hook NAME="MapStyle" zoom="0.99">
+<node TEXT="banking business" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1643303849730"><hook NAME="MapStyle" zoom="1.673">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_notes_in_map="false" show_note_icons="false" fit_to_viewport="false"/>
 
 <map_styles>
@@ -257,11 +257,20 @@
 <node TEXT="1902" ID="ID_1912346697" CREATED="1643657195329" MODIFIED="1643657586562">
 <icon BUILTIN="padlock_closed"/>
 </node>
+<node TEXT="shmoaa2041" ID="ID_966607532" CREATED="1658824468409" MODIFIED="1658824903532" LINK="https://sbi.sberbank.ru:9443/ic/dcb/?#/?_k=071nwb">
+<node TEXT="dad&apos;s, lovered bottom line" ID="ID_845906140" CREATED="1658824490606" MODIFIED="1658824510538"/>
+</node>
 </node>
 <node TEXT="Промтех" ID="ID_1331281239" CREATED="1643303945930" MODIFIED="1643656282618">
 <icon BUILTIN="box_inscribed"/>
 <node TEXT="1969" ID="ID_1897885364" CREATED="1643657263304" MODIFIED="1643657586568">
 <icon BUILTIN="padlock_closed"/>
+</node>
+<node TEXT="rybiga5921" ID="ID_963061883" CREATED="1659002275646" MODIFIED="1659002286617">
+<node TEXT="dad&apos;s, lovered bottom line" ID="ID_1819911402" CREATED="1658824490606" MODIFIED="1658824510538"/>
+<node TEXT="sms code will come to galina&apos;s phone" ID="ID_1679389911" CREATED="1659002379347" MODIFIED="1659002400489">
+<icon BUILTIN="bad"/>
+</node>
 </node>
 </node>
 <node TEXT="map" FOLDED="true" ID="ID_585378066" CREATED="1643685347889" MODIFIED="1643685354153">
@@ -280,17 +289,15 @@
 <node TEXT="9391" ID="ID_616882074" CREATED="1643657441303" MODIFIED="1643657586571">
 <icon BUILTIN="padlock_closed"/>
 </node>
-<node TEXT="965301082" ID="ID_644020310" CREATED="1644771328416" MODIFIED="1645279449258" LINK="https://z.tochka.com/login/#/?from_menu=index">
+<node TEXT="9653010828" ID="ID_644020310" CREATED="1644771328416" MODIFIED="1658823911431" LINK="https://z.tochka.com/login/#/?from_menu=index">
 <node TEXT="dad&apos;s" ID="ID_1591787005" CREATED="1644771463779" MODIFIED="1644771544835"/>
 </node>
 </node>
 <node TEXT="открытие" FOLDED="true" ID="ID_171381922" CREATED="1643659470910" MODIFIED="1643659482335">
 <icon BUILTIN="place"/>
-<node TEXT="" ID="ID_1510493837" CREATED="1643659493535" MODIFIED="1643659516836">
+<node TEXT="official atm" ID="ID_1510493837" CREATED="1643659493535" MODIFIED="1658822798973">
 <hook URI="banking%20business_files/png_8997090948026338741.png" SIZE="0.31715745" NAME="ExternalObject"/>
 </node>
-</node>
-<node TEXT="map" FOLDED="true" ID="ID_489819098" CREATED="1643685366077" MODIFIED="1643685367675">
 <node TEXT="may charge" ID="ID_572932352" CREATED="1643659737861" MODIFIED="1643659746683">
 <hook URI="banking%20business_files/png_9026560092691679304.png" SIZE="0.4878271" NAME="ExternalObject"/>
 </node>
@@ -313,7 +320,7 @@
 <icon BUILTIN="padlock_closed"/>
 </node>
 </node>
-<node TEXT="map" FOLDED="true" ID="ID_1341014500" CREATED="1643685374654" MODIFIED="1643685376126">
+<node TEXT="atms on a map" FOLDED="true" ID="ID_1341014500" CREATED="1643685374654" MODIFIED="1658823692201">
 <node TEXT="" ID="ID_850313804" CREATED="1643658341824" MODIFIED="1643659521319">
 <hook URI="banking%20business_files/png_5745792038375600778.png" SIZE="0.41829306" NAME="ExternalObject"/>
 </node>
